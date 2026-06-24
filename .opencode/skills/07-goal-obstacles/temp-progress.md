@@ -48,4 +48,17 @@ Excuses, fears, internal factors. Was afraid, had excuses, mood swings, didn't f
 **The Rebel Frame:**
 "Nobody is forcing me. I chose this. The system is my tool, not my master. I can break it anytime — but I choose not to."
 
-## Next session starts at Q8
+### Q8-Q12: Skills Needed & 90-Day Learning Plan
+
+**Priority Skills:**
+1. Emotional self-regulation — keystone. Stops anger→escape cycle. Methods: daily meditation, trigger journaling, if-then fallbacks.
+2. Strategic thinking — weekly planning sessions, focus on leverage (20/80), delegation decisions.
+3. Sales & marketing — ads, content, outreach. Learn or hire.
+4. Stoic mindset/"Buddha mode" — daily meditation, reframe setbacks as training, "it's just a rabbit" inner dialogue.
+
+**90-Day Learning Plan:**
+- **Days 1-30:** Morning meditation (10min, non-negotiable). Read one book (Atomic Habits or The Happiness Trap). Implement environment/if-then system.
+- **Days 31-60:** Add weekly planning session (Sunday, 30min). Read one book on stoicism. Delegate one task per week (start with editing).
+- **Days 61-90:** Integrate all. Systems should feel automatic.
+
+## Next session starts at Q13
