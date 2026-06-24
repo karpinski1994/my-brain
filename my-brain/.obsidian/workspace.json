@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "831e4ab1c152e1d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af5d366b3a86130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e1d9376683875a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10ceb7bf11de6e43",
+    "type": "split",
+    "children": [
+      {
+        "id": "db20b0c7e70a7f85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60550848f95b6295",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00641a2e2a85fed8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db5f2ef706967aff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b342a1e84bba959",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c7674a5eeb7008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba0d5cec9eba125",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3876f71920a24be9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2241bacc4f9ffd15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee90a5ae00d49d44",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "585aa0299c49a1f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "60550848f95b6295",
+  "lastOpenFiles": [
+    "03_System/gamification/Rewards Shop.md",
+    "03_System/gamification/Game Master System.md",
+    "01_Raw/ingested/everything - my psychological portrait .txt",
+    "01_Raw/worksheet-forming-plan.md",
+    "01_Raw/worksheet-future-investigation.md",
+    "01_Raw/worksheet-past-investigation.md",
+    "01_Raw/transcript-forming-plan.md",
+    "01_Raw/transcript-future-self.md",
+    "01_Raw/transcript-investigating-past.md",
+    "01_Raw/ingested/everything - my psychological portrait.md",
+    "01_Raw/ingested/theory of boredom.md",
+    "01_Raw/ingested/rewards.md",
+    "01_Raw/ingested/rewards shop.md",
+    "01_Raw/ingested/personal gaimification system.md",
+    "01_Raw/ingested/my approach.md",
+    "01_Raw/ingested/most important concepts in gamification.md",
+    "01_Raw/ingested/how to calculate xp for personal lvl up.md",
+    "01_Raw/ingested/30 days onboarding plan.md",
+    "01_Raw/worksheet-forming-plan.md",
+    "01_Raw/worksheet-past-investigation.md",
+    "01_Raw/worksheet-future-investigation.md",
+    "01_Raw/transcript-forming-plan.md",
+    "01_Raw/transcript-future-self.md",
+    "01_Raw/transcript-investigating-past.md",
+    "01_Raw/ingested/theory of boredom.md",
+    "01_Raw/ingested/rewards.md",
+    "01_Raw/ingested/rewards shop.md",
+    "03_System/templates",
+    "03_System/gamification"
+  ]
+}
