@@ -1,35 +1,14 @@
 # 05-future-life — Progress (Saved)
 
-## Questions Answered (1-4)
-Questions remaining: 5-20
+## Questions Answered (1-6)
+Questions remaining: 7-20
 
 ## Summary of Answers
 
-### Q1: Key skills/qualities
-[Saved from previous session]
+### Q5: Morning routine
+Eat that frog (worst things first), sunlight exposure, eat something healthy (prepped in advance, no overeating), do most important things to remove stress for the rest of the day. Keep mind occupied only with important things — not touched by distractions, not bothered by emotions.
 
-### Q2: Learning/studying
-[Saved from previous session]
+### Q6: Evening routine
+Swimming pool / floating without light exposure. Prepares meals for the next day. Prepares everything to be ready for a good start without wasting time or distractions.
 
-### Q3: One skill with greatest impact
-Emotional intelligence / self-control
-
-### Q4: Daily/weekly habits
-- Thinking positively, avoiding bad/self-sabotaging thoughts
-- Consistent sleep/wake schedule
-- No stupid content before bed
-- Eating healthy, counting calories
-- Reading books, taking notes
-- Productive deep work
-- Being positive, supportive — no catastrophizing
-- Looking for positives in everything
-- Productive rest (not stupid rest)
-- Meditation, breathing exercises, physical exercise
-- Handle most important things first
-- Track progress, plan, keep the plan, reward self
-- No dopamine/quick gratification seeking
-- Filter out negative thoughts
-- Do what is right, not what is easy
-- Knows how to regulate emotions, be happy, stay calm, not triggered
-
-## Next session starts at Q5
+## Next session starts at Q7
