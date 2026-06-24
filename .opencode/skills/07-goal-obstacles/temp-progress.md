@@ -23,4 +23,29 @@ WASTING TIME (procrastination, escape cycles, distractions, fighting, editing ha
 ### Q6: Pre-mortem — why did I fail?
 Excuses, fears, internal factors. Was afraid, had excuses, mood swings, didn't follow the plan, was weak. Was weak to temptations and destructors. Didn't eliminate those destructors. Couldn't give up on certain things (video games, YouTube, sweets). Couldn't maintain discipline.
 
-## Next session starts at Q7
+### Q7: Obstacle Prevention Plan (Gamified, Rebel-Friendly)
+
+**Environment Design (no willpower needed):**
+- Second phone / old phone — only work apps. Main phone in drawer during deep work.
+- Separate macOS user account with zero games, zero YouTube bookmarks, zero distractions. Logging out/in creates a 10-second barrier that kills most impulse.
+- Website blocker (Cold Turkey or Freedom) for deep work hours.
+
+**Gamification System:**
+- Streak tracker for deep work hours — growing streak scratches "I'll show you" itch.
+- XP system: deep work = XP, delegation = XP, no games before 5PM = XP. Spend XP on guilt-free game time.
+- Boss Battle: each week's revenue target hit = unlock reward (massage, dinner, new gear).
+
+**If-Then Fallbacks:**
+- "If I feel urge to open YouTube during work → I open notes and write one sentence about what I'm avoiding."
+- "If Premiere crashes → 3 deep breaths, then restart. No rage spiral."
+- "If I start the day badly → reset at next hour. One bad hour isn't a bad day."
+- "If I want games before 5PM → 15-min timer, then back to work."
+
+**Sleep as a weapon:**
+- Same wake time daily, sunlight within 30 min. Fixes mood swings at source.
+- No phone 1 hour before bed. Physical alarm clock. Phone sleeps in another room.
+
+**The Rebel Frame:**
+"Nobody is forcing me. I chose this. The system is my tool, not my master. I can break it anytime — but I choose not to."
+
+## Next session starts at Q8
