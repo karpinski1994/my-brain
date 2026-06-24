@@ -32,10 +32,11 @@ monthly-burn: 2000
 > *"The Architect opens their eyes. The Guild exists but the path ahead is unclear."*
 
 **Objective:** Stabilize the foundation.
-- [ ] Establish daily GM check-in habit
-- [ ] Log first week of XP
-- [ ] Complete Character Sheet
-- [ ] Hit $3K/mo consistent revenue
+- [x] Establish daily GM check-in habit
+- [x] Log first week of XP
+- [x] Complete Character Sheet
+- [x] Complete all 9 awakening skills (patterns → commitment)
+- [x] Hit $3K/mo consistent revenue
 
 ### 🏁 Chapter 1: First Breath
 
@@ -43,13 +44,16 @@ monthly-burn: 2000
 
 | Target | Current | Gap |
 |--------|---------|-----|
-| **$3K/mo consistent revenue** | $2-5K fluctuating | Stabilize |
+| **$6K/mo revenue** | $3-5K fluctuating | +$3K/mo |
+| **Deadline** | **End of July 2026** | 5 weeks |
 | Reward | **Scuba certification** 🏆 | ~$400 |
 
-**Main Quest:** Stabilize monthly revenue at $3K+
-- Get the sales system working (worker sets calls, you close)
-- Publish 5 LinkedIn posts
-- Implement one pricing improvement
+**Main Quest:** Hit $6K/mo by end of July 2026
+- Finish recommendation video (Gabriel case study)
+- Finish funnel monitoring software
+- Polish Instagram automations (carousels, DMs, follows)
+- Create content plans
+- Set up weekly planning rhythm
 
 **Skill Priority:**
 - 🧘 Psychology (remove blocks → you show up)
