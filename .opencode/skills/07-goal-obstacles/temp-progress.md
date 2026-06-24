@@ -61,4 +61,38 @@ Excuses, fears, internal factors. Was afraid, had excuses, mood swings, didn't f
 - **Days 31-60:** Add weekly planning session (Sunday, 30min). Read one book on stoicism. Delegate one task per week (start with editing).
 - **Days 61-90:** Integrate all. Systems should feel automatic.
 
+### Bridge the Knowing-Doing Gap (Practical Exercises — No Theory)
+
+**Emotional Regulation (Daily):**
+- **Trigger Log:** Every anger/frustration moment — note (1) What happened? (2) Body feeling? (3) Self-talk? (4) Action taken? Builds pause between trigger and reaction.
+- **5-5-5 Reset:** When triggered — name 5 things you see, 5 you hear, 5 you feel. Forces brain out of fight-or-flight.
+- **Delayed Response Rule:** When someone disagrees, wait 5 seconds. Take 3 breaths. Then decide if you engage.
+
+**For Boring Tasks (Editing, Taxes, Forms):**
+- **5-Minute Commit:** "I'll do 5 minutes. If I still hate it, I can stop." Usually keeps going.
+- **Body Doubling:** Work alongside someone (even virtually). Presence reduces resistance.
+- **Environment Shift:** Move to a different location (balcony, cafe, poolside). Brain associates spaces with states.
+
+**Self-Confidence & Doubt Elimination:**
+- **The Evidence Log (daily, 3 min):** Write 3 things you did today that old you couldn't have done. Tiny is fine. Reprograms identity with proof.
+- **"I'll Show You" Visualization (2 min, morning):** See the face of everyone who doubted you. See them watching you succeed. Feel it. Then work. This is fuel, not toxic.
+- **Fear-Setting (weekly, 15 min):** For the thing you're avoiding — worst case? Likelihood? What would I do? Cost of inaction in 1 year, 5 years?
+
+**Self-Therapy Practices:**
+- **Inner Dialogue Switch:** Pre-write replacement scripts for key triggers. Memorize them:
+  - Premiere crashes: "FUCK this" → "Error in system. Find another way."
+  - Mistake: "You're stupid" → "Feedback. What can I learn?"
+  - Disagreement: "They're idiots" → "Interesting. What's their angle?"
+- **Parts Mapping (monthly, 20 min):** Interview your inner parts — The Fighter, The Achiever, The Rebel, The Perfectionist, The Escapist. What does each want? Fear? Need from you?
+
+**Deep Work Protocol (Real, Not Pomodoro):**
+- **90-Minute Sprint:** One task. No phone. No notifications. Wandering mind? Note thought on paper, return. After 90 min: 20 min complete break, no screens. Max 2 sprints/day.
+- **Pre-Session Anxiety Hack:** Say "I notice I'm resisting. That's fine. I'm starting anyway." Set 5-min timer. After 5 min, resistance vanishes.
+- **Weekly Integration (Sunday, 30 min):** Not a review — a strategy session. What did I learn about myself? What pattern beat me / did I beat? ONE thing to change next week. ONE thing I will absolutely NOT allow to happen again.
+
+**Knowledge Integration:**
+- **One-Thing Journal:** Each day — one thing learned, one way applied. If you didn't apply it, it doesn't count.
+- **Teach Your Assistant:** Explaining = internalizing.
+- **Monthly Knowledge Audit:** Review Anki. Delete anything unused for 3 months. Actionable knowledge only.
+
 ## Next session starts at Q13
