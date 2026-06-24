@@ -1,47 +1,16 @@
 # 06-goal-definition — Progress (Saved)
 
-## Questions Answered (1-6)
-Questions remaining: 7-13
+## Questions Answered (1-7)
+Questions remaining: 8-13
 
 ## Summary of Answers
 
-### Q6: Measurable goals by area
+### Q7: SMART goals (present tense, "I" statements)
 
-**Health & Fitness:**
-- 73kg weight, visible 6-pack
-- 20 pull-ups, 100kg bench press
-- One-arm handstand (both arms)
-- Run for 3 hours (like in the past)
-- 100 lengths in swimming pool easily
+- "I earn $17K USD per month by January 2027."
+- "I have $50K USD saved in accounts by January 2027."
+- "I weigh 73kg and I can do 15 pull-ups by January 2027."
+- "I have helped 50 additional developers from June 2026 by end of January 2026." [Note: date seems off - clarify in output]
+- "I have employed 10 people (sales, marketing, editing, programming)."
 
-**Learning & Skills:**
-- Implemented key learnings from books
-- Finished algorithms course
-- Expanded course with scaling part
-- 50 recommendations, 10+ video recommendations on YouTube
-- 10 AI courses completed
-- 10 business books read, everything in Anki
-- English C1/C2, Spanish C1, Chinese B1
-
-**Finances:**
-- $100K USD in savings, rest in investments (crypto, gold, real estate)
-
-**Environment:**
-- Own vineyard in Italy, good neighborhood
-
-**Career / Mission:**
-- Helped 500 developers
-- Sold mentoring, courses, e-books at scale
-- Employees and branches in several countries
-
-**Experiences:**
-- Hawaii, Miami (like a king), China
-- Scuba diving certificates, golf certificates
-
-**Relationships:**
-- Healthy communication — no longer triggering
-- Good communication skills
-- Children, family happy
-- Parents no longer need to work
-
-## Next session starts at Q7
+## Next session starts at Q8
