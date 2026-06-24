@@ -1,11 +1,14 @@
 # 04-future-identity — Progress (Saved)
 
-## Questions Answered (1-10)
-Questions remaining: 11, 12, 13, 14
+## Questions Answered (1-12)
+Questions remaining: 13, 14
 
 ## Summary of Answers
 
-### Q10: Inner dialogue when things get hard
-"Everything is fine. Everything is under control. Full control. Nothing happens. No need to panic. Everything is alright. Everything is in peace. Just chill. You are owning this world. Everything belongs to you. These are just your minions. This stupid rabbit made a mistake? It's just a rabbit — you can't expect rabbits to always go the way you want."
+### Q11: Fears no longer in control
+Fear of what people will say. Fear of losing jobs/opportunities. Fear of being cancelled. Fear of what parents/family will say if I fail. Fear of being seen as a failure. Fear of regret — wasted time, wasted opportunities, not pushing harder, wasting my life.
 
-## Next session starts at Q11
+### Q12: No longer afraid to say/do/ask
+Ask for help. Admit mistakes and name them concretely. Be fair and vulnerable about it. Share controversial opinions about things that are unfair that others don't talk about. Share daily things in imperfect way. Share emotions and what I really think. Stop avoiding certain emotions.
+
+## Next session starts at Q13
