@@ -5,4 +5,6 @@
 - Q2: ✅ Single-handling = close off, travel/train/plane environments
 - Q3: ✅ Accountability = small steps, remove distractions, visible progress
 - Q4: ✅ When motivation fades = 5-min rule, switch task, identity anchor
-- Q5-Q26: ⏳ Pending
+- Q5: ✅ Mental conditioning stack — sleep routine (keystone), morning meditation (10min), Evidence Log (3min EOD). Situational: cold showers, "I'll Show You" visualization, Trigger Log.
+- Q6: ✅ Identity affirmations — "I am someone who stays calm always." / "I am someone who delivers despite conditions." / "I am someone who expresses himself freely."
+- Q7-Q26: ⏳ Pending
