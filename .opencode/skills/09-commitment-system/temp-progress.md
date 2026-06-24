@@ -11,4 +11,13 @@
 - Q8: ✅ Daily discomforts — cold shower (AM) + 1 micro-post (one sentence, systematic desensitization for visibility wound).
 - Q9: ✅ Visualization — private beach residence, everything works without me, people taking care of operations, studio with everything in place, books, garden. Sound of ocean. Feeling: peace, proven myself, earned the right to do whatever I want.
 - Q10: ✅ Emotions — excitement, euphoria, pride, relief, freedom. "I want to jump, I want to scream — yeah, I finally did it."
-- Q11-Q26: ⏳ Pending
+- Q11: ✅ When — evening, during meditation + floating in the pool.
+- Q12: ✅ Trigger — finishing meditation / entering the pool to float.
+- Q13: ✅ Physical space — clean house, clean physical drive, organize notes & remove old ones, organize todos, finish this system, install blockers.
+- Q14: ✅ Digital environment — phone layout redesign, app blockers, notification cleanup, social media cleanup.
+- Q15: ✅ Remove — news, YouTube, Instagram feeds, unnecessary software, all sounds/notifications. Add — visual goal reminders.
+- Q16: ✅ #1 today — clean drives.
+- Q17: ✅ Drains — stupid videos, distractors, fighting with fiancée, arguments, things not working as expected.
+- Q18: ✅ Sources — walking, watching sunrise, thinking, taking notes.
+- Q19: ✅ Sleep — ~8h. Plan: 21-22 stop screens → pool float + meditate 1h → sleep with podcast/audiobook.
+- Q20-Q26: ⏳ Pending
