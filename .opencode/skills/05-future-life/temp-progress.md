@@ -1,11 +1,11 @@
 # 05-future-life — Progress (Saved)
 
-## Questions Answered (1-7)
-Questions remaining: 8-20
+## Questions Answered (1-8)
+Questions remaining: 9-20
 
 ## Summary of Answers
 
-### Q7: Health & fitness practices
-Counting calories, eating healthy, no sweets, exercising daily (varied), learning about exercise, tracking progress/plans, rewarding progress. Meditation, mental exercises (memorization), healthy inner dialogue. Following plans, being supportive to self and others, forgiving. Regular health checkups, investing in health (courses, visits). Not avoiding problems or pushing them under the carpet.
+### Q8: Freed from distractions
+Video games, stupid YouTube videos, eating unhealthy, unnecessary WhatsApp/communicator chat, listening to music (as distraction), watching stupid things, chess, League of Legends, other video games, watching series, gaming content, toxic news/politics content, news apps, iPhone/smartphone overuse.
 
-## Next session starts at Q8
+## Next session starts at Q9
