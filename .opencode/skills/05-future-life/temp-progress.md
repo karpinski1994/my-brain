@@ -1,11 +1,11 @@
 # 05-future-life — Progress (Saved)
 
-## Questions Answered (1-10)
-Questions remaining: 11-20
+## Questions Answered (1-11)
+Questions remaining: 12-20
 
 ## Summary of Answers
 
-### Q10: Where they live / home
-Multiple properties: Italy (vineyard, medieval architecture, cozy, high-quality furniture, big gardens, forest nearby), Montenegro, Hawaii, Miami Beach (beach access, vibe), downtown Miami high-floor apartment (entire city view, comfortable, spacious, shaded, safe ambiance). All feel cozy, comfortable, safe, well-made.
+### Q11: Ideal environment
+Big whiteboards (or interactive big iPad/multiple screens), outdoor workspace in fresh air/garden, aquarium-like space (exposed but with AC), shaded areas, lots of nature to walk around, reliable WiFi and electricity, swimming pool, water features (artificial river).
 
-## Next session starts at Q11
+## Next session starts at Q12
