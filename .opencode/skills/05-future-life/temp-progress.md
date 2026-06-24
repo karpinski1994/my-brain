@@ -1,7 +1,7 @@
 # 05-future-life — Progress (Saved)
 
-## Questions Answered (1-3)
-Questions remaining: 4-20
+## Questions Answered (1-4)
+Questions remaining: 5-20
 
 ## Summary of Answers
 
@@ -12,6 +12,24 @@ Questions remaining: 4-20
 [Saved from previous session]
 
 ### Q3: One skill with greatest impact
-Emotional intelligence / self-control — internalized to the point where you don't do stupid things, aren't tempted by distractions/sweets, follow plans like a stone, don't have mood swings, emotions don't dictate actions, you're generally happy and moving forward. If things don't go your way, it's an opportunity to learn/find a new path.
+Emotional intelligence / self-control
 
-## Next session starts at Q4
+### Q4: Daily/weekly habits
+- Thinking positively, avoiding bad/self-sabotaging thoughts
+- Consistent sleep/wake schedule
+- No stupid content before bed
+- Eating healthy, counting calories
+- Reading books, taking notes
+- Productive deep work
+- Being positive, supportive — no catastrophizing
+- Looking for positives in everything
+- Productive rest (not stupid rest)
+- Meditation, breathing exercises, physical exercise
+- Handle most important things first
+- Track progress, plan, keep the plan, reward self
+- No dopamine/quick gratification seeking
+- Filter out negative thoughts
+- Do what is right, not what is easy
+- Knows how to regulate emotions, be happy, stay calm, not triggered
+
+## Next session starts at Q5
