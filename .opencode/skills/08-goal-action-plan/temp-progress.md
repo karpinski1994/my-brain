@@ -13,6 +13,8 @@
 - Q9: This week — finish Gabriel video
 - Q11: Daily rhythm — both, eat frog in morning, stay late
 - Q13: Time blocks — 9-10 frog, 10-12 deep, 12-1 break, 1-3 shallow, 3-5 learning, 5-6 wrap; floats for client meetings
+- Q15: Tools — Google Calendar, Habitica, notepad, Freeform on iPad, handwriting
+- Q16-17: Top priorities — 1) Finish recommendation video, 2) Find mentor, 3) Fix automations, 4) Finish optimizing software, 5) Create content plan
 - Q14: Start with hardest = eat frog before 10am ✅
 - Q12: Daily non-negotiables — 1) Eat frog before 10am, 2) 1 post written, 3) Funnel check 10min, 4) US market prep 30min, 5) Plan tomorrow, 6) Clock out at fixed time + prep for next day
 - Q10: Today #1 — finish captions + hairdresser
