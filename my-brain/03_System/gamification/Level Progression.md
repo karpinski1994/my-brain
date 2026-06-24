@@ -40,15 +40,8 @@ Early levels come fast (immediate feedback). Later levels require more investmen
 - **Streak protection**: 1 missed day per week doesn't reset streak
 - **Guilt reduction**: All leisure activities cost 50% less psychological weight
 
-## Unlock Flow
+## Related
 
-```
-Level 1  →  Base system          →  Daily Quests
-Level 2  →  Minor Rewards        →  Tier 1 Shop access
-Level 3  →  Moderate Rewards     →  Tier 2 Shop access
-Level 4  →  The Architect title  →  Boss Battles unlocked
-Level 5  →  Business XP buff     →  Speedrun challenges
-Level 7  →  Major Rewards        →  Tier 3 Shop access
-Level 8  →  Legendary Rewards    →  D20 Critical Hit table expands
-Level 10 →  Guilt-free leisure   →  Endgame loop
-```
+- [[Skill Trees]] — separate skill leveling system (9 trees, 10 ranks each)
+- [[Game Master System]] — full campaign structure
+- [[XP Tracker]] — track your current level and skill progress

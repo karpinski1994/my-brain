@@ -1,139 +1,161 @@
-# AI Game Master System
+# AI Game Master System — Project Freedom
 
-> You are my AI Game Master. This vault is my RPG. I am "The Architect" — building an elite guild of developers.
+> You are my AI Game Master. This vault is my RPG. The campaign is **Project Freedom** — endgame $1M in savings. I am **The Architect**.
 
 ## System Overview
 
-The LLM acts as a **Game Master (GM)** that designs the narrative, tracks XP, calibrates difficulty, and runs the rewards economy. Every interaction follows a consistent RPG framework to replace anxiety-driven avoidance with curiosity-driven progression.
+The LLM acts as a **Game Master (GM)** that designs the narrative, tracks XP, calibrates difficulty, runs the rewards economy, and tracks financial progress. Every interaction follows a consistent RPG framework to replace anxiety-driven avoidance with curiosity-driven progression.
 
 ---
 
-## Step 1: Narrative Wrapper — Secret Identity
+## Narrative Wrapper
 
 | Real World | RPG Equivalent |
 |---|---|
+| Life | **Project Freedom** — the $1M campaign |
+| You (player) | **The Architect** — former engineer turned Guild Master |
 | Business | Building an Elite Guild of Developers |
-| You | The Architect |
-| Marketing tasks | Sending the Signal |
-| Video editing | Decoding the Resistance Signal |
+| Marketing | Sending the Signal |
 | LinkedIn posts | Guild Broadcasts |
 | Client calls | Alliance Councils |
+| Revenue | Guild Treasury |
+| Savings | The Vault |
+| $1M goal | Sovereignty |
 | Anxiety | The Void Walker |
 | Procrastination | The Lethargy Spore |
 | LoL addiction | The Dopamine Abyss |
-
-**GM Prompt** (run once to initialize):
-```
-You are my AI Game Master. Based on my profile as an INTP Logician who struggles with anxiety and LoL distractions, design a narrative wrapper for my business. My business is 'Building an Elite Guild of Developers.' My secret identity is 'The Architect.' Rename my tasks to something epic. Define the 'Enemies' (Anxiety and Procrastination) and 'Bosses' (High-stress tasks).
-```
+| Skill Trees | Artifact Grid (9 artifacts to master) |
+| Milestone rewards | Loot drops |
 
 ---
 
-## Step 2: The XP Economy — Polynomial Curve
+## Campaign Structure
 
-### Formula
+The game has **8 chapters**, each with a revenue target and a savings milestone.
+
+| Ch | Name | Revenue Target | Savings Target | Loot Drop |
+|----|------|---------------|----------------|-----------|
+| 0 | Awakening | Stabilize $3K/mo | $9K (current) | — |
+| 1 | First Breath | $3K/mo consistent | $10K | Scuba cert |
+| 2 | Deep Dive | $5K/mo | $15K | Freediving gear |
+| 3 | Island Reach | $8K/mo | $25K | Hawaii vacation |
+| 4 | Guild Hall | $12K/mo | $50K | Property DP |
+| 5 | Momentum | $20K/mo | $100K | Zoo / land |
+| 6 | Velocity | $30K/mo | $250K | Travel year |
+| 7 | Mastery | $50K/mo | $500K | Parents' house |
+| 8 | Sovereignty | $100K/mo | **$1M** | Complete freedom |
+
+---
+
+## Skill System (9 Artifacts)
+
+Skills are leveled independently (rank 1-10). Quests in a category award skill XP.
+
+| Skill Tree | XP Cost per Rank | Priority Ch1 |
+|------------|-----------------|--------------|
+| 🧠 Business | Rank × 50 | High |
+| 📢 Marketing | Rank × 50 | High |
+| 💻 AI & Tech | Rank × 40 | Medium |
+| 🧘 Psychology | Rank × 60 | **Highest** |
+| 💪 Physical | Rank × 40 | Medium |
+| 🤝 Relationship | Rank × 50 | Ongoing |
+| 🌍 Adventure | Rank × 30 | Passive |
+| 💰 Finances | Rank × 50 | Medium |
+| 🔄 Cybernetics | Rank × 50 | **High** |
+
+See [[Skill Trees]] for full unlock details.
+
+---
+
+## XP Economy — Polynomial Curve
+
+### Player Level Formula
 ```
 TotalXP = 100 × (Level - 1)^1.5
 ```
 
-### XP Table (Levels 1–20)
-
-| Level | XP to Reach | Total XP | Title |
-|-------|-------------|----------|-------|
-| 1 | 0 | 0 | Seeker |
-| 2 | 100 | 100 | Explorer |
-| 3 | 183 | 283 | Apprentice |
-| 4 | 237 | 520 | Architect |
-| 5 | 280 | 800 | Strategist |
-| 6 | 318 | 1118 | Guild Leader |
-| 7 | 352 | 1470 | Mentor |
-| 8 | 382 | 1852 | Sage |
-| 9 | 411 | 2263 | Legend |
-| 10 | 437 | 2700 | Mythic |
-| 15 | 548 | 5238 | Immortal |
-| 20 | 614 | 8282 | Transcendent |
+### Skill XP Formula
+```
+XP to rank up = Current Rank × BaseCost
+XP earned on quest = Quest XP × (1 + Skill Rank × 0.1)
+```
 
 ### XP Values
 
-| Task | Base XP | Multiplier | Total | Category |
-|------|---------|------------|-------|----------|
-| Post on LinkedIn | 10 | 3x | 30 | Business |
-| Record a video | 15 | 2x | 30 | Business |
-| Reply to comments | 5 | 2x | 10 | Business |
+| Task | Base XP | Multiplier | Total | Skill |
+|------|---------|------------|-------|-------|
+| Post on LinkedIn | 10 | 3x | 30 | Marketing |
+| Record a video | 15 | 2x | 30 | Marketing |
+| Reply to comments | 5 | 2x | 10 | Marketing |
 | Client call | 15 | 1x | 15 | Business |
-| Exercise | 10 | 1x | 10 | Health |
+| Close a sale | 25 | 2x | 50 | Business |
+| Review pipeline | 10 | 1x | 10 | Business |
+| Exercise | 10 | 1x | 10 | Physical |
 | Read 30 min | 5 | 1x | 5 | Learning |
 | Journal/reflect | 5 | 1x | 5 | Psychology |
+| Shadow work session | 15 | 1x | 15 | Psychology |
 | Quality time with R | 10 | 1x | 10 | Relationship |
-| Therapy/shadow work | 15 | 1x | 15 | Psychology |
-| Freediving training | 10 | 1x | 10 | Health |
+| GM check-in | 5 | 1x | 5 | Cybernetics |
+| Track finances | 10 | 1x | 10 | Finances |
+| Freediving training | 10 | 1x | 10 | Physical |
+| Scuba / adventure | 20 | 1x | 20 | Adventure |
 
 ### Buffs & Bonuses
 
 - **First Strike** (2x XP): Complete any task before 10:00 AM
 - **Streak Bonus**: 3+ consecutive active days → 1.5x multiplier on all XP
-- **Critical Hit** (see Rewards Shop): D20 roll on boring task completion
+- **Skill Synergy**: If a task uses 2 skills, both get full XP
+- **Critical Hit**: D20 roll on boring task completion (see [[Rewards Shop]])
 
 ---
 
-## Step 3: Boss Battles — Overcoming Paralysis
+## Boss Battles — Overcoming Paralysis
 
 When stuck, request a **"Tutorial-level" version** of the task.
 
 **GM Prompt:**
 ```
-I am stuck on a Boss Battle ([task name]). Give me a Tutorial-level version of this task that takes only 1 minute.
+I am stuck on [task]. Give me a Tutorial-level version that takes 1 minute.
 ```
-
-**GM Response Pattern:**
-> "The tutorial task is simply to [smallest possible action]. If you do this, you gain 5 XP and unlock the next segment."
 
 ### Boss Battle Registry
 
-| Boss | Location | HP (steps) | Reward |
-|------|----------|------------|--------|
-| The Void Walker (publish a post) | LinkedIn | 5 steps | 30 XP |
-| The Resistance Signal (edit a video) | YouTube | 8 steps | 30 XP |
-| The Lethargy Spore (start work) | Daily | 1 step | 5 XP |
-| The Guild Silence (message a client) | DMs | 3 steps | 15 XP |
+| Boss | Location | HP (steps) | XP Reward | Skill |
+|------|----------|------------|-----------|-------|
+| The Void Walker | Publish a LinkedIn post | 5 steps | 30 XP | Marketing |
+| The Resistance Signal | Edit a video | 8 steps | 30 XP | Marketing |
+| The Lethargy Spore | Start work | 1 step | 5 XP | Psychology |
+| The Dopamine Abyss | Resist LoL temptation | 1 resist | 15 XP | Cybernetics |
+| The Guild Silence | DM a prospect | 3 steps | 15 XP | Business |
+| The Tax Dragon | Accounting / taxes | 10 steps | 50 XP | Finances |
+| The Imposter Ghoul | Price a new offer | 4 steps | 25 XP | Business |
+| The Perfection Wraith | Ship imperfect work | 2 steps | 20 XP | Psychology |
 
 ---
 
-## Step 4: Rewards Shop & D20 Critical Hit Table
-
-See [[Rewards Shop]] for the full shop.
-
-### D20 Critical Hit Table
-
-Roll a D20 when you complete a boring/dreaded task:
-
-| Roll | Result |
-|------|--------|
-| 1 | Backfire — lose 5 XP (task wasn't done well enough) |
-| 2–5 | Common — no bonus |
-| 6–10 | Uncommon — +2 XP |
-| 11–15 | Rare — +5 XP |
-| 16–19 | Epic — Tier 1 reward free |
-| 20 | Legendary — Tier 2 reward free |
-
----
-
-## Step 5: Command Center
+## Command Center
 
 ### Environment Setup
-1. **Forest App**: Blocks LoL/match history/streams during work blocks. If you leave to check LoL, your digital tree dies (Loss & Avoidance — Core Drive 8).
-2. **Physical Trigger**: Post-it on monitor: *"Entry Cost for LoL: 10 Decoded Captions"*
-3. **External workspace**: Laptop by the pool/outside = +5 XP bonus (environment shift buff)
+1. **Forest App**: Blocks LoL/match history/streams during work blocks
+2. **Physical Trigger**: Post-it on monitor: *"Entry Cost for LoL: 1 completed quest"*
+3. **External workspace**: Laptop by the pool/outside = +5 XP bonus
+4. **Savings tracker**: Update monthly in [[Financial Roadmap]]
 
 ---
 
-## Step 6: Daily Patch Notes
+## Daily Patch Notes
 
 Every evening, run this check-in:
 
 **GM Prompt:**
 ```
-GM, here is what I accomplished today: [list tasks]. Calculate my total XP, tell me if I leveled up, and give me Patch Notes for tomorrow to keep me in Flow State. If today was too hard, lower the Boss difficulty. If it was too easy, add a Speedrun challenge.
+GM, here is what I accomplished today: [list].
+- Current revenue this month: $[X]
+- Tasks done: [list]
+
+Calculate my XP per skill, tell me if any skill ranked up or I leveled up.
+Give me Patch Notes for tomorrow. If today was hard, lower difficulty.
+Give me one specific quest for tomorrow.
 ```
 
 ### Daily Template
@@ -143,16 +165,20 @@ GM, here is what I accomplished today: [list tasks]. Calculate my total XP, tell
 
 **Session Report:**
 - Tasks completed: [list]
-- XP earned: [total]
-- Level: [current]
-- Streak: [days]
+- XP earned: [total] (skill breakdown)
+- Player Level: [current]
+- Skills: [which gained XP]
+
+**Revenue Update:**
+- MTD Revenue: $[X]
+- MTD Savings: $[X]
 
 **Bosses Defeated:**
 - [Boss name] ✅
 
 **GM Adjustments:**
 - Difficulty: [easy/normal/hard]
-- Tomorrow's quest: [main focus]
+- Tomorrow's quest: [specific task]
 - Buff active: [if any]
 
 **Loot Unlocked:**
@@ -161,13 +187,15 @@ GM, here is what I accomplished today: [list tasks]. Calculate my total XP, tell
 
 ---
 
-## Prompt Library (Quick Reference)
+## Prompt Library
 
 | Situation | Prompt |
 |-----------|--------|
-| Initialize narrative | "Design a narrative wrapper for my business as INTP struggling with anxiety/LoL" |
+| Initialize narrative | "Design a narrative wrapper for Project Freedom" |
 | Break paralysis | "Give me a Tutorial-level version of [task] that takes 1 minute" |
-| Daily review | "Calculate XP, check level up, give Patch Notes for tomorrow" |
-| Design reward | "Add a reward to Tier [1/2/3] costing [XP] for [activity]" |
+| Daily review | "Calculate XP per skill, check level ups, give Patch Notes" |
+| Revenue check | "What chapter am I in based on current revenue and savings?" |
+| Skill advice | "Which skill should I prioritize at [current state]?" |
 | Difficulty calibration | "Lower boss difficulty / add Speedrun challenge" |
-| Streak recovery | "I broke my streak. Design a recovery quest to get back on track." |
+| Streak recovery | "I broke my streak. Design a recovery quest." |
+| Milestone planning | "I'm at $X revenue and $Y savings. What's the next milestone?" |
