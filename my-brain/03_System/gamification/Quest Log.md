@@ -31,11 +31,11 @@ See [[Financial Roadmap]] for full campaign.
 - **Reward**: Scuba certification 🏆
 - **Bosses**: The Lethargy Spore, The Void Walker, The Perfection Wraith
 
-### 🎥 Side Quest: The Gabriel Case Study
+### ~~🎥 Side Quest: The Gabriel Case Study~~ ✅ Complete
 - **Objective**: Finish recommendation video for Gabriel
 - **XP**: 50
 - **Skill**: Marketing
-- **Progress**: ⏳ In progress (captions remaining)
+- **Progress**: ✅ Complete
 
 ### 📊 Side Quest: The Funnel Eye
 - **Objective**: Finish funnel monitoring software
