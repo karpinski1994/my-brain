@@ -1,20 +1,47 @@
 # 06-goal-definition — Progress (Saved)
 
-## Questions Answered (1-5)
-Questions remaining: 6-13
+## Questions Answered (1-6)
+Questions remaining: 7-13
 
 ## Summary of Answers
 
-### Q1: Idealized vision
-[Saved]
+### Q6: Measurable goals by area
 
-### Q2: Three goals (30-sec)
-Wealth, health, happiness
+**Health & Fitness:**
+- 73kg weight, visible 6-pack
+- 20 pull-ups, 100kg bench press
+- One-arm handstand (both arms)
+- Run for 3 hours (like in the past)
+- 100 lengths in swimming pool easily
 
-### Q3/4: 5-year vision
-June 2031. Wake up in waterbed at Italian vineyard house. Jacuzzi each morning. 3 children, best teachers. Morning meditation overlooking valley. Deep work on strategic decisions. Travel to Miami/Mexico. Scuba diving, golf. Document life, teach replication. Calm, happy, bulletproof. Perfect health. Several millions. Proud of scaling businesses with proud employees. Did it all on my own from nothing.
+**Learning & Skills:**
+- Implemented key learnings from books
+- Finished algorithms course
+- Expanded course with scaling part
+- 50 recommendations, 10+ video recommendations on YouTube
+- 10 AI courses completed
+- 10 business books read, everything in Anki
+- English C1/C2, Spanish C1, Chinese B1
 
-### Q5: Why this matters
-Safety — my family is safe, grandchildren will be safe. Don't have to prove anything to anyone anymore.
+**Finances:**
+- $100K USD in savings, rest in investments (crypto, gold, real estate)
 
-## Next session starts at Q6
+**Environment:**
+- Own vineyard in Italy, good neighborhood
+
+**Career / Mission:**
+- Helped 500 developers
+- Sold mentoring, courses, e-books at scale
+- Employees and branches in several countries
+
+**Experiences:**
+- Hawaii, Miami (like a king), China
+- Scuba diving certificates, golf certificates
+
+**Relationships:**
+- Healthy communication — no longer triggering
+- Good communication skills
+- Children, family happy
+- Parents no longer need to work
+
+## Next session starts at Q7
