@@ -1,11 +1,11 @@
 # 05-future-life — Progress (Saved)
 
-## Questions Answered (1-13)
-Questions remaining: 14-20
+## Questions Answered (1-15)
+Questions remaining: 16-20
 
 ## Summary of Answers
 
-### Q13: People who surround them
-Wealthy people, investors, business owners, valuable people who achieved something in life, athletes, influential people.
+### Q15: No longer giving time/energy to
+Government/CDOs, watching/playing League of Legends, people they don't need to deal with, stupid doctors, normal healthcare, normal education system.
 
-## Next session starts at Q14
+## Next session starts at Q16
