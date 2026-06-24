@@ -1,11 +1,11 @@
 # 05-future-life — Progress (Saved)
 
-## Questions Answered (1-11)
-Questions remaining: 12-20
+## Questions Answered (1-12)
+Questions remaining: 13-20
 
 ## Summary of Answers
 
-### Q11: Ideal environment
-Big whiteboards (or interactive big iPad/multiple screens), outdoor workspace in fresh air/garden, aquarium-like space (exposed but with AC), shaded areas, lots of nature to walk around, reliable WiFi and electricity, swimming pool, water features (artificial river).
+### Q12: Financial freedom
+Do whatever I want without worrying about money. Enough to never need to work. Can travel, inspire people, host events. Real estate investments managed by others (so I don't deal with boring tasks). Personal assistant, personal trainer, best healthcare, best lawyers to fight big institutions if needed. Millions of dollars/euro/pounds across several accounts and countries, several companies.
 
-## Next session starts at Q12
+## Next session starts at Q13
