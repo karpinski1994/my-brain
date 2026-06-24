@@ -26,4 +26,4 @@
 - Q23: ✅ Internal consequence — donate to charity when I skip.
 - Q24: ✅ External accountability — sticky note on fridge with today's #1. Check off or write why not at EOD.
 - Q25: ✅ Identity sentence — "I am becoming the greatest version of myself."
-- Q26: ⏳ Pending
+- Q26: ✅ Burn escape routes — charity donation ($10-20) when I skip. That stings enough.
