@@ -9,6 +9,7 @@
 ## Answers so far
 - Q1: Brain dump saved to `02_Wiki/campaign/08-brain-dump-habitica.md`
 - Q3: Top 3 most impactful — 1) Find a mentor, 2) Make/publish content plans, 3) Automate what you can to not do it yourself
+- Q7: Timeline — Jul '26 ($6K) → Dec '26 ($7-8K) → Jun '27 ($10-12K) → Dec '27 ($14-15K) → Jan '28 ($17K)
 - Q5: 80/20 priorities — 1) Enter US market, 2) Find growth mentor, 3) Content + automations + daily posting, 4) Finish funnel monitoring system
 - Q4: Sequence (tentative) — Phase 1: finish video-review, weekly planning, Instagram automations, create content plans → Phase 2: post LinkedIn/Facebook, automate → Phase 3: US market, mentor, train setters, funnel optimization
 - Q2: 10 core actions —
