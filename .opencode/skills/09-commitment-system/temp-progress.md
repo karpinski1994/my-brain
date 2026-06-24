@@ -20,4 +20,10 @@
 - Q17: ✅ Drains — stupid videos, distractors, fighting with fiancée, arguments, things not working as expected.
 - Q18: ✅ Sources — walking, watching sunrise, thinking, taking notes.
 - Q19: ✅ Sleep — ~8h. Plan: 21-22 stop screens → pool float + meditate 1h → sleep with podcast/audiobook.
-- Q20-Q26: ⏳ Pending
+- Q20: ✅ Limit — news, YouTube, Instagram, stupid videos, talking to people on communicators.
+- Q21: ✅ Automations — morning routine (wake→move→pool→meditate→first task), same breakfast/lunch, simplified clothes, auto-savings transfer, fixed check-in times, blocked deep work calendar.
+- Q22: ✅ Recovery — pool floating, sunrise walks, 8h sleep, plus trips/adventures (scuba, golf).
+- Q23: ✅ Internal consequence — donate to charity when I skip.
+- Q24: ✅ External accountability — sticky note on fridge with today's #1. Check off or write why not at EOD.
+- Q25: ✅ Identity sentence — "I am becoming the greatest version of myself."
+- Q26: ⏳ Pending
