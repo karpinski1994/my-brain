@@ -1,14 +1,11 @@
 # 05-future-life — Progress (Saved)
 
-## Questions Answered (1-6)
-Questions remaining: 7-20
+## Questions Answered (1-7)
+Questions remaining: 8-20
 
 ## Summary of Answers
 
-### Q5: Morning routine
-Eat that frog (worst things first), sunlight exposure, eat something healthy (prepped in advance, no overeating), do most important things to remove stress for the rest of the day. Keep mind occupied only with important things — not touched by distractions, not bothered by emotions.
+### Q7: Health & fitness practices
+Counting calories, eating healthy, no sweets, exercising daily (varied), learning about exercise, tracking progress/plans, rewarding progress. Meditation, mental exercises (memorization), healthy inner dialogue. Following plans, being supportive to self and others, forgiving. Regular health checkups, investing in health (courses, visits). Not avoiding problems or pushing them under the carpet.
 
-### Q6: Evening routine
-Swimming pool / floating without light exposure. Prepares meals for the next day. Prepares everything to be ready for a good start without wasting time or distractions.
-
-## Next session starts at Q7
+## Next session starts at Q8
