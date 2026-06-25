@@ -402,20 +402,38 @@ events:
 
 ### 🍽️ Calorie Logging
 
+**EXACT 3-STEP PROTOCOL — FOLLOW IN ORDER, DO NOT SKIP**
+
 **"<amount> <food>"** — log a food
-1. Extract calories if number provided, otherwise estimate reasonably
-2. Extract food name (everything after the number)
-3. Create `.md` in `data/calories/`:
-   ```yaml
-   ---
-   id: "uuid"
-   food: "Chicken breast"
-   calories: 330
-   serving: "200g"
-   logged: "<now ISO>"
-   ---
-   ```
-4. Read today's existing entries → sum calories → show daily total + remaining vs goal (2000)
+
+**Step 1 — Check previous meals:**
+- List ALL `.md` files in `data/calories/` matching today's date (`YYYY-MM-DD*.md`)
+- Read each one, sum up total calories already logged
+- If today's date is unclear, ASK the user for the date
+
+**Step 2 — Log new meal:**
+- Extract calories: if user gave a number, use it; otherwise estimate reasonably based on food + amount
+- Extract food name (everything after the number)
+- Create new `.md` file in `data/calories/`:
+  ```yaml
+  ---
+  id: "uuid"
+  food: "Chicken breast"
+  calories: 330
+  serving: "200g"
+  logged: "<now ISO>"
+  ---
+  ```
+
+**Step 3 — Sum up and report:**
+- Add new meal's calories to today's running total (from Step 1)
+- Read `daily_calorie_goal` from `dailies.md` frontmatter (or `stats.yaml`)
+- Calculate: `remaining = goal - total`
+- Report in this exact format:
+  ```
+  🍽️ Logged: <food> (<calories> kcal)
+  📊 Today: <total> / <goal> kcal · Remaining: <remaining> kcal
+  ```
 
 **"calorie summary"** — list today's entries + total + remaining
 **"weekly calories"** — past 7 days, total per day

@@ -1,11 +1,11 @@
 ---
 type: database
 name: todos
-updated: '2026-06-25T22:44:17.842Z'
+updated: '2026-06-25T22:45:38.040Z'
 total: 22
-pending: 22
-completed: 0
-total_xp_earned: 0
+pending: 20
+completed: 2
+total_xp_earned: 40
 todos:
   - id: a1b2c3d4-thumb-4000-8000-000000000001
     title: 'Testimonial: Create video thumbnail'
@@ -13,7 +13,7 @@ todos:
       Design and export a YouTube thumbnail for the Gabriel/Miguel testimonial
       video
     priority: high
-    status: pending
+    status: completed
     xp_value: 20
     tags:
       - video
@@ -22,7 +22,7 @@ todos:
     area: marketing
     parent_id: a1b2c3d4-0001-4000-8000-000000000001
     created: '2026-06-25T22:33:18.570Z'
-    completed: null
+    completed: '2026-06-25T22:45:38.040Z'
   - id: a1b2c3d4-0001-4000-8000-000000000101
     title: 'Testimonial: Go to hairdresser'
     description: Get ready before recording the intro
@@ -86,13 +86,13 @@ todos:
     title: swinia
     description: ''
     priority: high
-    status: pending
+    status: completed
     xp_value: 20
     tags: []
     area: general
     parent_id: a1b2c3d4-thumb-4000-8000-000000000001
     created: '2026-06-25T22:43:48.414Z'
-    completed: null
+    completed: '2026-06-25T22:44:48.261Z'
   - id: a1b2c3d4-0004-4000-8000-000000000004
     title: 'The Automation Polish: Instagram automations'
     description: 'Polish Instagram automations (carousels, DMs, follows)'
@@ -321,17 +321,15 @@ todos:
 
 > Last updated: 2026-06-25
 
-**Stats:** 0/22 done · 0 XP earned
+**Stats:** 2/22 done · 40 XP earned
 
 ### 🔴 High Priority
 | Status | Task | XP | Tags |
 |--------|------|----|------|
-| ⬜ | Testimonial: Create video thumbnail *(subtask)* | 20 | video, testimonial, thumbnail |
 | ⬜ | Testimonial: Go to hairdresser *(subtask)* | 5 | video, testimonial, subtask |
 | ⬜ | Testimonial: Record intro talking about Miguel *(subtask)* | 10 | video, testimonial, subtask |
 | ⬜ | Finish testimonial video (Gabriel/Miguel case study)AAA | 20 | video, marketing, client-work |
 | ⬜ | Testimonial: Write intro script with Google AI Studio *(subtask)* | 5 | video, testimonial, subtask, ai |
-| ⬜ | swinia *(subtask)* | 20 |  |
 
 ### 🟡 Medium Priority
 | Status | Task | XP | Tags |
@@ -356,3 +354,9 @@ todos:
 | ⬜ | The Mentor Session: Help a client 1-on-1 | 20 | business, mentoring |
 | ⬜ | The Price is Right: Create a new offer tier | 30 | business, pricing, offer |
 | ⬜ | The Relic: Read a psychology/business book | 30 | psychology, business, learning |
+
+### ✅ Completed
+| Task | XP | Done |
+|------|----|------|
+| ✅ Testimonial: Create video thumbnail | 20 | 2026-06-25 |
+| ✅ swinia | 20 | 2026-06-25 |
