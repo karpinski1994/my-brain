@@ -1,6 +1,6 @@
 ---
 name: mybrain
-description: MyBrain second brain — gamified productivity assistant. Manage todos, log calories, track XP/streaks, and query brain context.
+description: MyBrain second brain — gamified productivity assistant. Manage todos, log calories, track XP/streaks, query brain context, and manage Obsidian vault (diet, health, knowledge).
 ---
 
 # MyBrain Skill
@@ -90,11 +90,13 @@ The user's existing knowledge base is in markdown files across the repo. Referen
 
 | Context | Path |
 |---------|------|
-| Goals & Campaigns | `brain/campaigns/`, `brain/goals/` |
-| Psychology & Blocks | `brain/psychology/`, `brain/past/` |
-| Skill Trees | `brain/skills/` |
-| Gamification Systems | `brain/gamification/` (if exists) |
-| Action Plans | `brain/plans/` |
+| Goals & Campaigns | `02_Wiki/campaign/` |
+| Psychology & Character | `02_Wiki/psychology/`, `02_Wiki/Character Sheet.md` |
+| Skill Trees & Learning | `02_Wiki/learning/` |
+| Gamification Systems | `03_System/gamification/` |
+| Projects & Roadmaps | `02_Wiki/projects/` |
+| Health & Diet | `01_Raw/diet/` |
+| System Templates | `03_System/templates/` |
 
 For brain Q&A, search these directories for relevant content. When the user asks "what's my biggest obstacle?" or "what's my current campaign?", read the relevant files and synthesize an answer from their content.
 
@@ -237,6 +239,52 @@ Use the `glob` tool to find files by pattern (e.g., `data/calories/2026-06-24*.m
 Use the `edit` tool to update YAML frontmatter in existing files.
 
 ---
+
+## Obsidian Integration
+
+The user's Obsidian vault is at `my-brain/` in the repo root. It uses the PARA structure:
+
+| Folder | Purpose | Examples |
+|--------|---------|----------|
+| `01_Raw/diet/` | Health, diet, food logs, medical | Food logs, diet preferences, health history |
+| `01_Raw/ingested/` | Ingested/imported content | Articles, transcripts, notes from outside |
+| `01_Raw/data/` | Raw collected data | CSV exports, structured data dumps |
+| `02_Wiki/` | Permanent knowledge | Campaign chapters, psychology, learning, projects |
+| `03_System/` | System mechanics | Gamification rules, templates, quests |
+
+When the user asks to save data to Obsidian:
+1. Determine the right folder based on content type
+2. Food/health data → `01_Raw/diet/`
+3. Permanent knowledge → `02_Wiki/` (appropriate subfolder)
+4. System changes → `03_System/`
+5. Use consistent file naming: `topic-date.md` or `YYYY-MM-DD-topic.md`
+6. Use Obsidian-friendly frontmatter (tags, aliases, dates)
+7. When saving calorie logs, also save to `data/calories/` for structured access
+
+## General Commands
+
+Besides the structured commands above, handle general assistant requests:
+
+**"save this to Obsidian" / "ingest this"**
+1. Identify the content type (diet, knowledge, system, project, reference)
+2. Read the existing files in the target directory to avoid duplicates
+3. Create a new note in the appropriate Obsidian folder
+4. Format with YAML frontmatter (type, date, tags, aliases)
+5. Link to related existing notes where possible
+
+**"analyze this" / "tell me about"**
+1. Read relevant files from both skill data and Obsidian vault
+2. Synthesize insights
+3. Cross-reference between data sources
+
+**"organize X" / "clean up Y"**
+1. Read the content
+2. Suggest or apply reorganization following the existing structure
+
+**"add to [topic]"**
+1. Find the relevant Obsidian file
+2. Append or update the content
+3. Preserve existing formatting
 
 ## Important Behavioral Rules
 
