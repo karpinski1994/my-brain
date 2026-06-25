@@ -7,6 +7,14 @@ chapter: 0
 
 # Future Self: Identity & Emotions
 
+**Connected notes:**
+- [[../learning/12-Step Goal Setting Guide|12-Step Goal Setting Guide]] — goal setting as identity design (Step 1: idealize)
+- [[../learning/My Gamification Approach|My Gamification Approach]] — RPG reframing of future self
+- [[../learning/Theory of Boredom|Theory of Boredom]] — overcoming the grind to become the future self
+- [[../health/Sleep & Stress|Sleep & Stress]] — health as a barrier to future identity
+- [[../psychology/Healing Exposure|Healing Exposure]] — future identity requires visibility
+- [[../health/Blood Work 2024|Blood Work]] — health baseline for future self
+
 ## Overview
 
 The most aligned, powerful version of myself — identity, values, character traits, emotional baseline, and inner dialogue. The emotional compass for transformation.

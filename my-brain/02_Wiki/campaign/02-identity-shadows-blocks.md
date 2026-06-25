@@ -7,6 +7,14 @@ chapter: 0
 
 # Identity, Shadows & Inner Blocks
 
+**Connected notes:**
+- [[../psychology/Healing Exposure|Healing Exposure]] — fear of being seen as a shadow block
+- [[../psychology/Shadow Work|Shadow Work]] — full shadow exploration
+- [[../psychology/Core Wounds|Core Wounds]] — root causes of blocks
+- [[../learning/Theory of Boredom|Theory of Boredom]] — boredom as a block pattern
+- [[../learning/30-Day Onboarding Plan|30-Day Onboarding Plan]] — overcoming blocks through action
+- [[../learning/My Gamification Approach|My Gamification Approach]] — gamification as block removal
+
 ## Overview
 
 Deep exploration of current self-image, strengths and limitations, shadow traits, inner critic patterns, emotional baggage, and self-sabotage cycles. Picks up directly from childhood patterns identified in 01-childhood-patterns.
