@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9af5d366b3a86130",
+        "id": "c0daf71aa1576d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "17e1d9376683875a",
+            "id": "41fe336f95969b3c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "60550848f95b6295",
+  "active": "41fe336f95969b3c",
   "lastOpenFiles": [
     "01_Raw/data/learning/life gamification/my approach.md",
     "01_Raw/data/learning/life gamification",

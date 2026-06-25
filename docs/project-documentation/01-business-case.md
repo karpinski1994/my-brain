@@ -61,20 +61,24 @@ MyBrain directly supports **Project Freedom** — the $17K/mo by January 2028 go
 ### Scope & Boundaries
 
 **In Scope (MVP):**
-- Todo list with natural-language add/complete via chat interface
+- Todo list with natural-language add/complete via opencode chat
 - Gamification system: XP rewards on completion, quest tracking, streak bonuses
-- Local LLM integration (Ollama) for intent parsing and conversational responses
-- **WhatsApp/Telegram bot** — receive messages, parse intent, respond in chat
-- **Public API + webhooks** — deployed endpoint for messaging platforms to call
-- Web UI (Next.js) + API backend
-- SQLite storage (local or attached to deployment)
+- File-based markdown storage (YAML frontmatter, maps to database schema later)
+- Calorie logging with nutritional estimation
+- Brain context Q&A from existing wiki files
+- **Implemented as opencode skill** — no separate backend, no WhatsApp, no web UI
+
+All data stored in `.opencode/skills/mybrain/data/` as individual `.md` files with structured frontmatter for easy migration to a database later.
 
 **Out of Scope (MVP):**
-- Calorie tracking (Iteration 2)
-- Mobile native app (Iteration 2 — Expo already scaffolded)
+- WhatsApp/Telegram bot (Future deployment)
+- Web UI / Mobile native app (Future deployment)
+- Public API + webhooks (Future deployment)
 - Planner/milestones (Iteration 2+)
 - Multi-user/auth (Future)
 - Cloud sync (Future)
+- Database (file-based for MVP, migrates to PostgreSQL later)
+- Notification push (Future)
 
 ### Key Stakeholders
 
@@ -91,16 +95,15 @@ MyBrain directly supports **Project Freedom** — the $17K/mo by January 2028 go
 | M1 | Business Case + BRD + FRD approved | Today |
 | M2 | SRS + TRD + HLD drafted | Today |
 | M3 | LLD + RTM complete | Today |
-| M4 | MVP: Todo + Gamification + LLM + WhatsApp/Telegram bot + deployed API | First working version |
+| M4 | MVP opencode skill: Todos + Calorie + XP + Brain Q&A | This session |
+| M5 | Full deployment: FastAPI + WhatsApp + Web UI + PostgreSQL | Future |
 
 ### Budget Estimate
 
 | Resource | Cost |
 |----------|------|
-| Development tools (VS Code, Turborepo, Next.js, Expo) | $0 |
-| LLM inference (Ollama local) | $0 |
-| Hosting (Vercel free tier or localhost) | $0 |
-| Database (SQLite) | $0 |
+| Development tools (VS Code, opencode) | $0 |
+| Storage (markdown files in git repo) | $0 |
 | **Total** | **$0** |
 
 ### Risk Log
@@ -114,12 +117,12 @@ MyBrain directly supports **Project Freedom** — the $17K/mo by January 2028 go
 
 ### Success Criteria
 
-- [ ] User can type "add task: edit Gabriel video" and it appears in the todo list
-- [ ] User can type "done video" and it closes, awards XP, sends congrats
+- [ ] User can type "add task: edit Gabriel video" in opencode and it appears in the todo list
+- [ ] User can type "done video" and it closes and awards XP
 - [ ] User can type "200g chicken breast" → calories logged with nutritional info
-- [ ] Daily/weekly XP streaks visible
-- [ ] Quest log loads from the campaign structure
-- [ ] Works on web + phone (Expo)
+- [ ] User can check stats and see XP, streak, level
+- [ ] User can ask "what's my biggest obstacle?" and get answer from brain files
+- [ ] User can view weekly calorie summary
 
 ---
 

@@ -9,6 +9,8 @@ created: 2026-06-24
 
 > **Second Brain — Gamified Productivity with Local LLM Orchestration**
 
+> **ℹ️ MVP Implementation Note:** The current MVP is implemented as an opencode skill with file-based markdown storage (see `.opencode/skills/mybrain/`). This document describes the target architecture for the full production deployment. The skill's file formats are designed to map directly to the database schemas defined here.
+
 ---
 
 ## 1. Functional Overview
