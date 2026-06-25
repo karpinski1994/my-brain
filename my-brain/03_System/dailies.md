@@ -1,7 +1,7 @@
 ---
 type: database
 name: dailies
-updated: '2026-06-25T22:01:43.899Z'
+updated: '2026-06-25T22:24:21.047Z'
 current_streak: 1
 longest_streak: 1
 last_activity_date: '2026-06-25'
@@ -15,6 +15,8 @@ routines:
     xp_value: 10
     area: psychology
     history: []
+    linked_progress_id: progress-cybernetics-001
+    progress_amount: 1
   - id: a1b2c3d4-r002-4000-8000-000000000002
     title: Exercise (30 min)
     description: 'Physical activity — gym, freediving, or movement'
@@ -85,17 +87,26 @@ routines:
     xp_value: 10
     area: finances
     history: []
+  - id: r-datascience-001
+    title: Read Data Science for Business
+    description: Read at least 10 pages from the book
+    frequency: daily
+    xp_value: 10
+    area: learning
+    history: []
+    linked_progress_id: progress-datascience-001
+    progress_amount: 10
 ---
 # Dailies Database
 
 > Last updated: 2026-06-25
 
-**Streak:** 1d · **Best:** 1d · **Daily:** 0/9 · **Weekly:** 0/2
+**Streak:** 1d · **Best:** 1d · **Daily:** 0/10 · **Weekly:** 0/2
 
 ## Daily Routines
 | Status | Task | XP | Area |
 |--------|------|----|------|
-| ⬜ | Reading / Learning (30 min) | 10 | psychology |
+| ⬜ | Reading / Learning (30 min) 🔗 | 10 | psychology |
 | ⬜ | Exercise (30 min) | 10 | physical |
 | ⬜ | US Market Prep (30 min) | 10 | business |
 | ⬜ | Evidence Log (3 things) | 5 | psychology |
@@ -104,6 +115,7 @@ routines:
 | ⬜ | Funnel check (10 min) | 5 | business |
 | ⬜ | Fridge sticky note | 5 | cybernetics |
 | ⬜ | Plan tomorrow (5 min) | 5 | cybernetics |
+| ⬜ | Read Data Science for Business 🔗 | 10 | learning |
 
 ## Weekly Routines
 | Status | Task | XP | Area |

@@ -7,7 +7,7 @@ const links = [
   { href: "/tasks", label: "Tasks", icon: "☐" },
   { href: "/dailies", label: "Dailies", icon: "↻" },
   { href: "/rewards", label: "Rewards", icon: "★" },
-  { href: "/stats", label: "Stats", icon: "📊" },
+  { href: "/progress", label: "Progression", icon: "📈" },
 ]
 
 export default function Sidebar() {

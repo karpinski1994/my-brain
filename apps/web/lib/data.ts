@@ -2,7 +2,7 @@ import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
 import { parse, stringify } from "yaml"
-import type { Todo, Routine, Stats, XPEvent } from "./types"
+import type { Todo, Routine, Stats, XPEvent, ProgressItem, ProgressEntry } from "./types"
 
 const VAULT_DIR = path.resolve(process.cwd(), "../../my-brain/03_System")
 const DATA_DIR = path.resolve(process.cwd(), "../../.opencode/skills/mybrain/data")
@@ -145,15 +145,17 @@ function genDailiesMd(routines: Routine[], extras: Record<string, any>): string 
     last_activity_date: extras.last_activity_date || null,
     total_xp: extras.total_xp ?? 0,
     daily_calorie_goal: extras.daily_calorie_goal ?? 2000,
-    routines: routines.map((r) => ({
-      id: r.id,
-      title: r.title,
-      description: r.description || "",
-      frequency: r.frequency,
-      xp_value: r.xp_value,
-      area: r.area || "",
-      history: r.history || [],
-    })),
+      routines: routines.map((r) => ({
+        id: r.id,
+        title: r.title,
+        description: r.description || "",
+        frequency: r.frequency,
+        xp_value: r.xp_value,
+        area: r.area || "",
+        history: r.history || [],
+        linked_progress_id: r.linked_progress_id || null,
+        progress_amount: r.progress_amount ?? 1,
+      })),
   }
 
   return matter.stringify(body, frontmatter)
@@ -202,6 +204,102 @@ export function writeStats(stats: Stats): void {
     path.join(VAULT_DIR, "dailies.md"),
     genDailiesMd(routines, { ...stats, routines })
   )
+}
+
+// ---------------------------------------------------------------------------
+// PROGRESSION (books, courses, etc.)
+// ---------------------------------------------------------------------------
+
+function genProgressMd(items: ProgressItem[]): string {
+  const total = items.length
+  const complete = items.filter((i) => i.status === "completed").length
+
+  let body = `# Progression Database\n\n> Last updated: ${new Date().toISOString().slice(0, 10)}\n\n**Total:** ${total} · **Completed:** ${complete}\n`
+
+  for (const item of items) {
+    const pct = item.total > 0 ? Math.round((item.current / item.total) * 100) : 0
+    const statusIcon = item.status === "completed" ? "✅" : "🔄"
+    body += `\n### ${statusIcon} ${item.title}\n`
+    body += `| Category | Unit | Progress |\n|----------|------|----------|\n`
+    body += `| ${item.category} | ${item.unit} | ${item.current}/${item.total} (${pct}%) |\n`
+    if (item.entries.length > 0) {
+      body += "\n**Log:**\n| Date | Amount | Note |\n|------|--------|------|\n"
+      for (const e of item.entries) {
+        body += `| ${e.date} | +${e.amount} ${item.unit} | ${e.note || ""} |\n`
+      }
+    }
+  }
+
+  const frontmatter = {
+    type: "database",
+    name: "progression",
+    updated: new Date().toISOString(),
+    items: items.map((i) => ({
+      id: i.id,
+      title: i.title,
+      description: i.description || "",
+      category: i.category,
+      unit: i.unit,
+      total: i.total,
+      current: i.current,
+      status: i.status,
+      entries: (i.entries || []).map((e) => ({ date: e.date, amount: e.amount, note: e.note || "" })),
+      created: i.created,
+      updated: i.updated,
+    })),
+  }
+
+  return matter.stringify(body, frontmatter)
+}
+
+export function readProgress(): ProgressItem[] {
+  const file = path.join(VAULT_DIR, "progress.md")
+  if (!fs.existsSync(file)) return []
+  const raw = fs.readFileSync(file, "utf-8")
+  const { data } = matter(raw)
+  return (data.items || []) as ProgressItem[]
+}
+
+function writeProgress(items: ProgressItem[]): void {
+  fs.writeFileSync(path.join(VAULT_DIR, "progress.md"), genProgressMd(items))
+}
+
+export function createProgressItem(item: ProgressItem): void {
+  const items = readProgress()
+  items.push(item)
+  writeProgress(items)
+}
+
+export function updateProgressItem(id: string, updates: Partial<ProgressItem>): ProgressItem | null {
+  const items = readProgress()
+  const idx = items.findIndex((i) => i.id === id)
+  if (idx === -1) return null
+  items[idx] = { ...items[idx], ...updates, updated: new Date().toISOString() }
+  writeProgress(items)
+  return items[idx]
+}
+
+export function deleteProgressItem(id: string): void {
+  const items = readProgress().filter((i) => i.id !== id)
+  writeProgress(items)
+}
+
+export function logProgressEntry(id: string, amount: number, note?: string): ProgressItem | null {
+  const items = readProgress()
+  const idx = items.findIndex((i) => i.id === id)
+  if (idx === -1) return null
+  const entry = { date: new Date().toISOString().slice(0, 10), amount, note: note || "" }
+  items[idx].entries.push(entry)
+  items[idx].current = Math.max(0, items[idx].current + amount)
+  if (items[idx].current >= items[idx].total) {
+    items[idx].current = items[idx].total
+    items[idx].status = "completed"
+  } else if (items[idx].status === "completed" && items[idx].current < items[idx].total) {
+    items[idx].status = "in_progress"
+  }
+  items[idx].updated = new Date().toISOString()
+  writeProgress(items)
+  return items[idx]
 }
 
 // ---------------------------------------------------------------------------
@@ -322,6 +420,16 @@ export function completeRoutine(
   if (!routine.history.includes(today)) {
     routine.history.push(today)
   }
+
+  if (routine.linked_progress_id) {
+    const amount = routine.progress_amount ?? 1
+    try {
+      logProgressEntry(routine.linked_progress_id, amount, `via ${routine.title}`)
+    } catch {
+      // linked progress item may not exist — ignore
+    }
+  }
+
   const routines = readRoutines()
   const idx = routines.findIndex((r) => r.id === routine.id)
   if (idx !== -1) {

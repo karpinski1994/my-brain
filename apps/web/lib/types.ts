@@ -34,6 +34,8 @@ export interface Routine {
   xp_value: number
   area: string
   history: string[]
+  linked_progress_id?: string | null
+  progress_amount?: number
 }
 
 export interface Stats {
@@ -47,6 +49,26 @@ export interface Stats {
 export interface TodayFocus {
   date: string
   focus_tasks: { id: string; order: number }[]
+}
+
+export interface ProgressEntry {
+  date: string
+  amount: number
+  note?: string
+}
+
+export interface ProgressItem {
+  id: string
+  title: string
+  description?: string
+  category: string
+  unit: string
+  total: number
+  current: number
+  status: "in_progress" | "completed"
+  entries: ProgressEntry[]
+  created: string
+  updated: string
 }
 
 export interface XPEvent {

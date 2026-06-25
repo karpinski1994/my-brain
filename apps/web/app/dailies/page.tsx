@@ -1,11 +1,12 @@
 "use client"
 
 import { useState, useEffect, useMemo } from "react"
-import type { Routine } from "@/lib/types"
+import type { Routine, ProgressItem } from "@/lib/types"
 import FilterBar from "@/components/FilterBar"
 
 export default function DailiesPage() {
   const [routines, setRoutines] = useState<Routine[]>([])
+  const [progressItems, setProgressItems] = useState<ProgressItem[]>([])
   const [loading, setLoading] = useState<string | null>(null)
 
   const [search, setSearch] = useState("")
@@ -17,6 +18,7 @@ export default function DailiesPage() {
 
   useEffect(() => {
     fetch("/api/dailies").then((r) => r.json()).then(setRoutines)
+    fetch("/api/progress").then((r) => r.json()).then(setProgressItems)
   }, [])
 
   const today = new Date().toISOString().slice(0, 10)
@@ -76,7 +78,26 @@ export default function DailiesPage() {
           : x
       )
     )
+    if (r.linked_progress_id) {
+      const res = await fetch("/api/progress")
+      const items = await res.json()
+      setProgressItems(items)
+    }
     setLoading(null)
+  }
+
+  const progressMap = useMemo(() => {
+    const map = new Map<string, ProgressItem>()
+    for (const p of progressItems) map.set(p.id, p)
+    return map
+  }, [progressItems])
+
+  function linkedLabel(r: Routine): string | null {
+    if (!r.linked_progress_id) return null
+    const p = progressMap.get(r.linked_progress_id)
+    if (!p) return null
+    const amt = r.progress_amount ?? 1
+    return `→ ${p.title}: +${amt} ${p.unit}`
   }
 
   const daily = filtered.filter((r) => r.frequency === "daily")
@@ -123,6 +144,7 @@ export default function DailiesPage() {
           <div className="space-y-2 mb-8">
             {daily.map((r) => {
               const done = r.history.includes(today)
+              const link = linkedLabel(r)
               return (
                 <div
                   key={r.id}
@@ -151,7 +173,12 @@ export default function DailiesPage() {
                     >
                       {r.title}
                     </p>
-                    {r.description && (
+                    {link && (
+                      <p className="text-xs mt-0.5 truncate" style={{ color: "var(--accent)" }}>
+                        {link}
+                      </p>
+                    )}
+                    {r.description && !link && (
                       <p className="text-xs mt-0.5 truncate" style={{ color: "var(--text-dim)" }}>
                         {r.description}
                       </p>
@@ -175,6 +202,7 @@ export default function DailiesPage() {
           <div className="space-y-2">
             {weekly.map((r) => {
               const done = r.history.some((h) => h >= weekStartStr)
+              const link = linkedLabel(r)
               return (
                 <div
                   key={r.id}
@@ -203,6 +231,11 @@ export default function DailiesPage() {
                     >
                       {r.title}
                     </p>
+                    {link && (
+                      <p className="text-xs mt-0.5 truncate" style={{ color: "var(--accent)" }}>
+                        {link}
+                      </p>
+                    )}
                   </div>
                   <span className="text-xs font-mono px-2 py-0.5 rounded" style={{ background: "var(--bg)", color: "var(--text-dim)" }}>
                     +{r.xp_value} XP
