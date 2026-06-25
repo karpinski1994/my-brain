@@ -9,24 +9,24 @@ Professor Marian Mazur proposed a structured division of human cognition into th
 
 *(Note: These terms are used in their strict cybernetic definitions, not their colloquial everyday meanings.)*
 
-### 1. Art (Sztuka)
-Art is the broadest and most fundamental level of human cognition. It is based entirely on **assumptions** (założenia) and **impressions** (wrażenia). 
+### 1. **Art** (Sztuka)
+**Art** is the broadest and most fundamental level of human cognition. It is based entirely on **assumptions** (założenia) and **impressions** (wrażenia). 
 
 When a human interacts with reality, the first thing they experience is a raw impression. Art is the act of naming or capturing that impression without trying to explain or prove it. 
 
 *   **Example:** When a baby says "mama," it is not defining the biological or social role of a mother. It is simply linking a raw impression to a name. It is a primal assumption. 
 *   Art deals with beauty, love, and raw emotional resonance. It is broad because you can use an impression to describe absolutely anything, concrete or abstract.
 
-### 2. Philosophy (Filozofia)
-Philosophy takes the raw assumptions of Art and adds **theorems** (twierdzenia). 
+### 2. **Philosophy** (Filozofia)
+**Philosophy** takes the raw assumptions of Art and adds **theorems** (twierdzenia). 
 
 It attempts to organize impressions, find relations between them, and build explanatory structures. It seeks wisdom and context but does not have a strict methodological way to prove its claims.
 
 *   **Example:** Defining "mama" not just as a feeling, but as the woman who carried the child, protected it, and holds a specific social role.
 *   Philosophy is narrower than Art because it requires structured thought and logical relations, not just random impressions. However, if a claim cannot be objectively proven, it remains in the realm of philosophy. For instance, the ancient Greek belief that the world is made of four elements was philosophy—it was a structured theorem, but it lacked a proof procedure.
 
-### 3. Science (Nauka)
-Science is the narrowest, most rigorous domain of cognition. It requires assumptions, theorems, and crucially, a **proof procedure** (procedura dowodowa).
+### 3. **Science** (Nauka)
+**Science** is the narrowest, most rigorous domain of cognition. It requires assumptions, theorems, and crucially, a **proof procedure** (procedura dowodowa).
 
 For something to be science, you must present an objective method to prove that your theorem aligns with reality. This procedure must be repeatable and falsifiable (capable of being proven wrong).
 *   **Empirical Science:** Proof through observation and measurement of the physical world.
