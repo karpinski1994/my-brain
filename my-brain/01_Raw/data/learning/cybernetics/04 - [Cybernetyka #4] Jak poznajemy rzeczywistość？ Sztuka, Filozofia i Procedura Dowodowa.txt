@@ -1,0 +1,597 @@
+Witam Was wszystkich bardzo serdecznie na naszym kolejnym odcinku rozmowy o cybernetyce.
+Wydaje mi, że ktoś z Was będziemy przyjąć ten aparat pojęciowi zacząć zakońsko wykorzystywać w swoich działaniach.
+Co liczymy, że pomoże bardzo.
+I teraz dziś chcielibyśmy sobie ją wziąć na warsztat dziedziny ludzkiego poznania.
+Tak, ja to zawsze po prostu używam schematycznie, czyli mówisz tuka nauka i filozofia.
+Natomiast dzisiaj wrazbawiamy sobie o dziedzinach ludzkiego poznania i poszukamy przestrzeni tutaj w tym wszystkim cybernetyki.
+A potem może przejdziemy się przez te które nauki.
+Jak sterować firmą, karierą i życiem. By osiągać 10 razy lepsze wyniki.
+Odpowiedzią jest cybernetyka.
+Nauka o sterowaniu wszystkim.
+Od twojej firmy przez rozwój osobisty aż pomychanizmy społeczne.
+Przedwami Marcin Kapusta, praktyk transformacji cyfrowej i wdrożeń AI oraz Dominik Dudek, architekt systemów i meta cybernetyk.
+W tym podkaście przełożymy skomplikowaną teorię na konkretne narzędzia do twojej dyspozycji.
+Zaczynamy.
+To wszystko na dziś.
+Dziękujęmy za twój czas.
+Pamiętaj, wiedza o systemach i procesach, to realna przewaga w świecie, który staje się coraz bardziej złożony.
+Jeśli chcesz być okrok przed innymi wykorzystując potężne narzędzia polskiej szkoły cybernetycznej,
+by lepiej funkcjonować w biznesie i w życiu, to jesteś w idealnym miejscu.
+Ale to dopiero początek twojej drogi. Nie zatrzymuj się.
+Kliknij w następny materiał, który właśnie pojawił się na ekranie, aby kontynuować proces zdobywania wiedzy i stawać się coraz lepszym.
+Do zobaczenia w Krótce.
+Ciełabym jeszcze tylko wszystkim powiedzieć, bo może to chyba nie wspominamy tego odcinku.
+Ja swojego czasu już z 7-8 lat temu popełniłem taki zbiór podstawowej wiedzy cybernetyczny.
+Zwem to podstawy cybernetyki.
+I to jest też taka trochę kanwa, da, którą my tutaj podróżujemy i staramy się iść podstawy cybernetyki społecznej.
+Do określimy właśnie poprzez transkrypty z tego, żeby byłby takim dowytłumaczeniem.
+Więc jeżeli ktoś z was będzie potrzebował jakiś wykresu, albo o czym my w tym momencie rozmawiamy,
+albo będzie się widać, do czym będziemy rozmawiali w przyszłości,
+to gdzieś tutaj podlinkujemy i będzie można sobie to wszystko przejrzeć.
+Ja też postaram się transkrypty, to dzielnie wgłyszać, że ktoś chciałby sobie odpytywać szucznym telegęcia,
+aby odporzyć swoje preści dla siebie czy dla kogoś w oparciu o to też safędzamy do tego.
+To jeszcze takich kwestii organizacyjnych dziedziny poznania.
+Cóż to takiego domyjek?
+To wywoci się oczywiście z tego, że człowiek jest bytem, który jest w stanie nie tylko poznawać rzeczywistość,
+ale i decyduować co ma być.
+W związku z tym, gdzie on właśnie to sterowanie,
+które cały czas ze sobą połączone, to poznawanie i decydowanie naturalnej rzeczywistości konkretnych,
+która nazyptacja jest nieroździelna, ale jeżeli sobie podejdziemy do tego w smacu taki,
+żeby zrozumieć o co chodzi, porozdzielimy sobie te elementy,
+no to jeżeli o decydowanie sobie tutaj troszeczkę powiedzieliśmy,
+bo cykidentka to jest można powiedzieć tak, że trochę koledkę nie nauką o decydowanie o 3.0 celach,
+tak właśnie poznanie jest tą sposobę, w jaki sposób człowiek poznaje rzeczywistość.
+No i sobie popatrzmy na to pod kątem tego właśnie jako komplementarny system poznania utskiego,
+to w sermazer zaproponował taki podział na właśnie sztukę, filozofię i naukę.
+Przecież proszę tutaj mieć świadomość, żeby nie podkładać tych znaczyń,
+potocznych, które Państwo macie podtęsły,
+bo Wam z tego nic nie będzie, tylko jak każdy z tych słów podefinuje,
+taki sposób bardziej jakby to będzie ludzki,
+znaczy żeby nie robić tego bardzo strikte na poziomie,
+jakby powiedzieć algorytmów, czy jak matematyki, ale żeby będzie dać obraz,
+no i w ten sposób jesteśmy w stanie wyjaśnić w jaki sposób człowiek,
+jako być transcendenty podnaj rzeczywistość.
+No i pierwszym tym poziomem, którego zaczynamy w ogóle nasze poznowanie rzeczywistości jest sztuka.
+Wyobraźmy sobie takiego małego człowieka,
+który jeszcze było niematki w początek, w jaki sposób wyżtałca swoje zmysły
+i jest w stanie za pomocą recetur, odbierać rzeczywistość,
+no to jego aparat poznawczy jest tak naprawdę bardzo, bardzo ubogi.
+Dziad z kursymi nazywamy to sztuką,
+gdzie jakiś wrażenie, które przychodzi do nas z rzeczywistości,
+jest przez nas nazywamy, czyli ta nazwa, która jest przyksywana określenemu wrażeniu,
+to jest właśnie poziom sztuki, czyli łączymy coś,
+co istnieje, pozanami, daje nam jakieś wrażenie,
+w coś, co istnieje w nas i łączymy w najprostszym możliwy sposób,
+że chcemy coś poprazać, tak jak mama jest takim pierwszym słowę,
+które z reguły dzieci używają,
+to jest właśnie na poziomie sztuki, tak.
+Będziecka słowa u mama nie jest definiowane, nie jest jakąś filozofią,
+jest po prostu takim założeniem, że to jest ten bit, który jest koło niego,
+jest najbliższym mój istotą w tym momencie,
+i to mama pojawia jako pierwsze właśnie takie na poziomie sztuki,
+słowo, które wyraża dużo więcej niż jesteśmy w stanie zdefinionować,
+z pełne pieniądzi perwotne do tego dziecka.
+No i to jest właśnie sztuka, gdzie mamy założenie, założenie czegoś,
+co określa nam jakiś bit, który jest wokół nas i na tym się kończy sztuka,
+na poziomie właśnie jest piękno, jest miłość, są te wszystkie takie wielkie emocje
+w dwóch wieku, które są przez nas używane,
+ale teraz, żeby na przykład ująć to wrażenie i ten desygnat,
+to jest za tym wrażenie, czy na przykład słowo mama,
+no to już dobrze wywoło, żeby potem tę sztuki zatniwiecy się kryło,
+i w momencie kiedy opuszcz tego założenia, dajemy jeszcze jak śnieg wytłumaczenie tego,
+że mama, to jest matka człowieka, że to jest ta kobieta,
+która w swoim błonie umożliwiła precyzyjne płynne wejście w ten świat,
+że to oproniła go w tym czasie, no to już są właśnie Państwo,
+że pojawiły się jakieś próby tłumaczenia, opisania tego na poziomie takiej,
+jak literackim, na poziomie prosy, czy nawet wierszy,
+i tu już kwestia jest taka, że właśnie te twierdzenia, które ja teraz daje,
+to jest wraz z założeniem, już pewnego rodzaju filozofia, czyli szukanie mądrości,
+czyli próbuję tę mody z egretowi, jakim jest słowo mama,
+nadać pewną wartość, określić relację tego do innych ludzi,
+do funkcji społecznej, do tego jakie były te stany przeszły, etc.,
+i to jest poziom filozoficzny.
+Profesor ma zrównaszą właśnie filozofię ten poziom, gdzie mamy założenie i filozofię.
+A oprócz tego, że mamy założenie i filozofię, czyli sztuka i filozofię,
+jest jeszcze trzeci poziom tego dziedziny, od takiego poznania jaką jest nauka,
+gdzie nauce dodatkową być proceduradowo-dowa,
+czyli nie dość, że właśnie tutaj sobie coś nazwałem,
+nie dość, że to opisajem w jakichś sposób literacki,
+czy używając słów, językarkodów, które się posługuje,
+to w tym trzeciem punkcie, czyli na poziomie nauki muszę jeszcze zastować procedurę do wodą,
+która przedstawi dowód, że tak jest, że to jest skąd też rzeczywistością,
+albo jeżeli działamy na poziomie np. abstractu,
+w jakiejś abstrakcyjnych twierdnych, który na razie matematyczny,
+czy w logicie nikomu, no są do niczego potrzebne,
+ale wiadomo, że są pożdwie, no to możemy ją dowodzić za pomocą jakiś procedur i dowodowy.
+Za procedurę dowodową mogą być albo empirczne, tak jak konieczne używają,
+bo się posługiło empirio, on zebrał ze świata po prostu pewien obraz rzeczywistości,
+uporządkował go i dowódko w formie empiryczne i tymi dowodami była ta rzeczywistość.
+I tak jak to, co zwyczaj robi nauka prawda, czyli zazwyczaj my mamy takie dowodzenie empiryczne,
+tak, czyli obserwujemy pewne zjawisko,
+na debo salwie przyjmujemy pewne korcej utwierdzenie i próbujemy je udowodnić, tak jakby procedurą dowodową.
+Jeżeli nam się uda, no to faktycznie mówimy o nauce.
+Jeżeli nam się nie udało, ale dalej to utrzymujemy, że tak jest,
+mimo tego, że nie ma żadnej procedury dowodowej,
+to możemy powiedzieć, że to spewnęk rodzaju filozofia,
+czyli co co robili starożytni grecyk, którzy na przykład uważali, że istnieje np. etter,
+albo że są cztery żywioły i każdy człowiek jest zbudowany, czyterych żywiałów.
+To było nie było tutaj założenia, albo pewnego rodzaju utwierdzenie,
+nie po parte, pewnego rodzaju procedurą dowodową,
+a nawet jeżeli próbowano to jakoś za zadnić, to nie miało tutaj racjonalnego takiego odbicia,
+tak, natomiast sztuka, no to jest zupełnie inny obraz, tak,
+dlatego że zawiera tylko założenie, że jakoś jest,
+ale nie próbuję ani tego udowodnić, ani nie ma tu jakiegoś rodzaju utwierdzenie,
+to spewnego rodzaju wrażenie, tak? Dobrze to interpretuje?
+Tak, więc mogłaśmy sobie jakiśkolwiek wiesz, tak?
+który bierze jakiś przedmiot, który opisuje,
+ale robi to za pomocą skojarzeń i za pomocą wrażeń,
+które są w odniesieniu właśnie do tego,
+jest to jest to, jak jest byt transcytny, jaki jest człowiek,
+czyli może być nieoporządkowane, mogą tylko kilkana stępnych wrażeń zrobić,
+na pierwszy dakaw wydających się przypadkowymi,
+ale razem zróżnę przez artystę, tworzą coś, co powstaje na poziomie sztuki,
+ludzie uznawają zapiękne,
+bo takie mają wspólne, jakby powiedzieć wyobrażili,
+czyli taki wspólne poznanie tego byt, który jest.
+A właśnie, co się jako umiejowanie prawdy,
+właściwie poszukiwanie wiedzy,
+to jest próba uporządkowania.
+I tylko chciałem właśnie albo propon tej empili
+zwrócić uwagę na to, co zaołażyłeś, a jest kluczem.
+Ta metodologia jest kluczem, czyli jeżeli np. robimy pomiary,
+nie wiem, gleby, tak,
+jakiej są składziki w glebie,
+to żebyśmy mogli porównąć jeden wynik z drugiem,
+musimy mieć procedury dowodową,
+która wiąże się w jaki sposób
+pogieramy próbkę, jakym przełowujemy, jak porównujemy jedno z drugim
+i tworzyć taki sztywny aparat metodologiczny,
+gdzie to musi być powtarzalne,
+możliwe do swalsyfikowania i po prostu do widzenia
+albo do zaprzeczenia temu dowodowi,
+czyli musi być na tym poziomie możliwość tego,
+żeby wskazać na poziomie nauki,
+że jeżeli to się nie będzie zgadzało, to się nazywa falsyfikacja.
+Tak, trochę mi się tu wszystko kojarzy,
+że tak zeszła starożytną grecją,
+zazwyczaj na nawet słowa są wiejęte stamtąd,
+czyli mamy już tukę, czyli ktoś może sobie wyobrazić Ampita
+a trkdzie mamy jakąś,
+gdzie mamy jakieś prezentacje, gdzie chodzi o to,
+żeby wybyć jakieś wrażenie na słuchacza,
+żeby przeżyli to Katarsis.
+Filosofia, to mamy tych umiejętnego,
+umiejętnego restopta Lesa,
+który gdzieś tam ćwiczy sobie nasiłowni
+i rozmyśla na sensem życia wicja,
+uczywki na zionie,
+ale pytają go dlaczego tak jest, to on mówi,
+bo tak mi się wydaje i daje na to jakieś argumenta,
+ale nie poparte do wodami.
+A z drugiej strony mamy już Pita Gorasa,
+który jest w stanie wyliczyć kwadratów i kątów,
+i tak dalej, to właśnie dlatego, że już dowodzi tutaj
+taką obiektywnymi twierdzeniami i jakby niepodważalnymi.
+Tak, i jakby skarżla z tych obszarów,
+myślę, że Grecia to jest taki dobry matycznik
+i filozofii nauki, więc można go tutaj podeprzeć
+i ktoś sobie może to wyobrazić,
+ale pytanie po co nam to rozróżnienie.
+No, szóżnienie jest potrzebne nam do tego,
+żebyśmy mogli współpracować.
+Jeżeli każdego z nas podaktują jako osobny system proces autonamicznego,
+to z definicji oddziałowania pomiędzy nami,
+czyli relacje pomiędzy ludźmi,
+są rodzajem kodów.
+I precyzja kodu,
+które my się teraz posługujemy,
+w pewien sposób wymusza albo niemożliwia,
+współpracy celowo.
+Bo jeżeli użyjemy tego samego słowa,
+a każdy z nas pod tytułem będzie rozmiar coś innego,
+i powiemy, że to jest nasz cel.
+To każdy z nas,
+co dyspowie, swój cel zrealizuje.
+Każdy z nas do nas wie tak samo,
+ale te nasze cele będą zupełnie inne brzeciwistości.
+Znaczy, właśnie, uporządkowanie procesy poznawczego,
+co zaczęło się w celizacji heleńskiej,
+a akontyłem teraz u nas
+eżę informacji i kodów,
+czyli po co informacyjnej.
+Powoduje, że jesteśmy w stanie zająć się rozmową
+i sterowaniem procesami,
+które dla naszych przodków w ogóle
+były niezauwerealne.
+I doprecyzowanie tego kodu
+i całego tego aparatu poznawczego,
+właśnie sztuki, filozofii i nauki powoduje,
+że tak naprawdę mamy taką pewno drogę, którą idziemy.
+Najpierw się pojawiać coś w stucę.
+Jest jakiś wrażenie, człowiek odbiera wrażenie.
+Jest taka bardziej pierwotna, taka podstawowe,
+czy można byłoby płacić sztuka filozofia nauka,
+jako pewien poziom rozwoju ludzkości.
+Można tak grubą płacić,
+a no bo to nie musi być
+równowa, która się rozwija,
+tylko to może być jakaś synusoid,
+a tak ludzie też mogą się...
+Weźmy sobie na tą szeroką rzeczę.
+Różne rozwijamy sztuka, która jest najszerszym,
+bo za pomocą wrażenie możemy próbować opisać każdy byt,
+który istnieje albo konkretnie albo obstrakcyjnie,
+więc po z tym sztuka jest najszerszym,
+dziedziną ludzkiego poznania.
+Potem, jeżeli już coś musimy twierdzić o płacz tego,
+to się pojawia, że filozofii
+przestwierdzenie okieślamy relacje
+i budujemy z trykture, ale już zawężoną.
+Już nie całą sztuka, więc już węż zakres,
+tak naprawdę, bo on już musi być oporządkowany,
+tam już muszą być powstadzone relacje,
+więc niezalne wrażenia się liczą,
+ale jeszcze relacje pomiędzy wrażeniami.
+No i najwęższe, ten najtrudniejszy z punktu widzenia
+metodologicznego kawałek dziedziny ludzkiego poznania,
+czyli nauka, wymaga na odnoz nie tylko,
+to żebyśmy uporządkowali sobie semantykę,
+ale też wszystkie relacje pomiędzy
+całym tygłacznie ładnym, semantyczną relacyjnym
+i wyświli na początku od tego,
+co profesor Mazur, Azo
+to jest dopiero wyzwanie.
+Piękno, następna rzecz, tak naprawdę.
+Piękno dla wyżdżnego człowieka będzie różna.
+Znowu to jesteśmy w stanie tego zdefiniować.
+Czas z punktu widzenia fizyków, naukowców, cybernetyków,
+czy z wieku człowieka jest to użyteczne pojęcie,
+ale ono jest niezdefiniowane,
+ono jest dla nas pojęcie pierwotnym
+i co więcej nie rozumiemy,
+w jaki sposób poza tymi 4-memami miarami
+czas się jest, że tak powiem to,
+czy czas jest odwracalny,
+czy jest nieodwracalny,
+jeżeli weździmy terwotnym, to się okazuje,
+że jest nieodwracalny, trody nie możemy,
+w pewien sposób to tutaj, co wdenić mamy,
+to jest ścialkę termodydlamiczną,
+mamy ścialkę psychologiczną,
+człowieka, że nieco w niemy się,
+ale na poziomie nauki dalej,
+czas jest dla nas tabularaza,
+albo inaczej, może nawet nie tabularaza,
+bo karty kształt jest z multum,
+ale nie mamy tej kartki,
+która by nam piękną defimicję czasu dała do tej połady.
+Tak, ja w ogóle tam naukom nie damy rady.
+Tak, bo czasem trzeba nam wejść do tych
+sformułowej pierwotnych,
+i ciężko nam tutaj już wszystko udowadniać,
+ale teraz zawiera założenia,
+atwierdzenia i procedury dowodowe,
+czy nie zawiera założenie?
+Nie, no, musi zawierać założenia, tak?
+Bo jeżeli chcemy na poziomie nauki
+w świecie, w tymkolwiek posługiwać,
+to tak naprawdę właśnie jest kwestia jak w matematyce.
+Jeśli chcemy dowolną działanie matematyczne zrobić,
+to musimy coś założyć,
+musimy postawić jakieś twierdzenia,
+żeby zrobić dowod, więc to spółkty widzenia nauki,
+trzyw matematyce, trzyw logice,
+czy w naukach już jakieś konkretnych monodyscyplinarnych,
+trzyw metrę cytbelnice,
+teraz sama motorodiorogia musi być, tak?
+Takie najszedniejsze założenie,
+jeżeli rozmawiamy o poziomie nauki,
+to musimy na przykład,
+gdzie jest sobie ontarobicznie, że coś jest,
+w ogóle, żeby jest.
+No i to sławne angielskie pytanie,
+to bi, or not, to bi,
+po naszym mógłbyt albo nie byt.
+Czyli, jeśli sobie nie założymy,
+żebyt istnieje,
+po istnieje jest dla nas też pojęciem pierwotny,
+no to możemy sobie, że tak powiem,
+rozkuślać wszystko, tak?
+Na poziomie prawdopodobniesta 0,5,
+w przykład sobie będziemy sobie tutaj rozmawiać,
+to możemy w każdej chwili się,
+że tak powiem, jak strona monety,
+orze ureszka, orze ureszka sobie skakać.
+A jeżeli przyjmemy,
+żebyt istnieje, że istnienie w ogóle jest
+i odniesiemy to na przykład
+do tego, który jest, jako punkt odniesienia
+poza naszym systemem, jakim jest w szek świat,
+no to nagry się okazuje, że istnienie jest
+koniecznym założeniem, żebym w ogóle rozmawiać
+o czymśkolwiek inny.
+Ok, na poziomie,
+i możemy się,
+chyba, widzę coś nie istnieje, ale nie na poziomie już nauki.
+Musimy być wejśliwym.
+I myślę, że to warto powiedzieć, dlaczego to się może przydać?
+Właśnie tutaj,
+w zrozumienie tego tej różnicy między założeniem
+i twierdzenianiem i precyduży dowodowej
+filozofii na uce, będzie dla wielu z nas
+kluczowe.
+Kiedy będziemy siedzieć, to jest maweckimkolwiek.
+Dlatego, że często
+miesza się nam filozofę z nauką.
+Mówimy to tutaj definicji cybernetycznej.
+I często,
+no,
+ktoś może być bardziej ideologicznie kierowany,
+niczny naukowo-d kierowany.
+I często to, że ktoś przycawę nam jakieś
+twierdzenia, nie uznacza, że są poparte
+procedurą dowodową,
+ale taką w koncepcji nauki,
+czyli jest realna ta koncepcja dowodowa,
+gdzie jesteśmy w stanie niepodważalnie coś
+stwierdzić.
+I tutaj myślę,
+że to jest taki pewien klucz,
+wytrych,
+do tego, jak odsiewać też już pewnego rodzaju
+informacje, albo jak zarządzać pewnego rodzaju
+informacjami i jak je kategoryzować.
+Chwila, przerwy w programie.
+Jeśli ten podcast dał ci nową perspektywę
+zasubskrybuj kanał i napisz w komentarzu słowo cybernetyka.
+Nie po to, żeby nabić statystyki.
+Ale żebyśmy wiedzieli, że po drugiej stronie są ludzie,
+którzy naprawdę łączą kropki.
+Twoje słowo cybernetyka to dla nas sygnał zwrotny.
+Feedback w czystej formie.
+Dzięki nie mówimy, że ta wiedza działa,
+rezonuje i że warto inwestować w kolejne odcinki.
+Bo łapka w górę to impuls,
+a komentarz cybernetyka to większa
+informacja zwrotna i reaktywność systemu.
+No tak, ale to na końcu zauważy,
+że to wszędzie jest różdacznać, tak?
+Po co to jest?
+Jaki jest cel?
+Zarówno nauka jak i filozofia i sztuka mają swój cel.
+Sztuka ma stworzyć dla nas w ogóle możliwość tego,
+żeby nasze wrażenia przekuć na cokolwiek innego.
+Filozofia ma te wrażenia, które mamy,
+w pewien sposób usysty ma to zauwać,
+z relacją, w słożyć, które relacji,
+żebyśmy mogli o tym rozmawiać.
+A nauka, jeszcze dodatkowo,
+ma nam stworzyć tej obiektywne obraz reciewistości,
+co jesteśmy w stanie dowieć, a nie?
+A co nie?
+Jeżeli chcemy się na poziomie nauki działać,
+to na początku musimy zacząć od sztuki, tak?
+Bo w sztuki jesteśmy w stanie ujęć tutaj,
+jak najszerzeżnej.
+Potem doprecyzować za pomocą filozofii,
+a na końcu spowodować,
+że śnieg ten spójny, ład, semantyczny,
+relacji na opart i ofili to filozofię i osztuki.
+Na poziomie nauki jest dla nas już zdecznych,
+bo wprowadza w decelowość dziedzin drudzkiego poznania,
+która potem przykłada na po kierunku tego,
+że jakaś decyzja jest do podjęcia.
+I musimy to decyzje podjąć,
+bo w oparciu o to, co jest,
+aby to, co było, stało się prawdopodobne.
+Jeżeli sobie zaplanuje, że od jutra ma nie być grawitacji,
+no to to, że to jest,
+no, możemy sobie to zaprawawać, ale czy to jest realne.
+No i zauważy grawitacja też jest pojęcie,
+które dla nas jest cały czas,
+pierwotnie, co z tego, że mamy policzone przyspieszenie ziemski,
+co z tego, że mamy prawa nutyona,
+to określają oddziałowania między obiektami.
+Jak na końcu grawitacja i tak się okazuje,
+że jest spyt trudno dla pewnego aparatu poznawczego człowieka
+i możemy o niej.
+Jeżeli grawitacja jako pojęcie,
+w myśl cybernetiki to jest filozofia, a nie nauka.
+Na przykład pojęcie jest na razie na poziomie filozofii,
+tak, bo nie jesteśmy w stanie.
+Bo nie ma dobrej procedury dowodowej.
+Dlaczego ja śni?
+Czym jest grawitak?
+I na tym odstulat fizycy się głowią,
+żeby jak z tego, z tej filozofii,
+czy nie na razie koncepcji teorii tego,
+że istnienie grawitacja,
+zrobić z tego pewną, pewną naukę i procedury dowodową,
+istnienie w ogóle grawitacji,
+ale w kontekście tylko, czym ona tak realnie jest,
+tak niepodważalnie.
+Ale wszystkie nauki fizykalne, konkretne, które są wokół nas
+i odnoszą się do jakich rzeczywistych tutaj ambbytów.
+I tak wymuszałem na nas pewien sposób,
+w zwracuj braku lepszej metody.
+Przyjęcie założnić, że grawitacja jest, tak?
+Więc robimy sobie taki rzad, przyjmując na poziomie założenia,
+czyli sztuki, że jest niej grawitacja,
+używając filozofii do jej opracowania,
+żebyśmy ją coraz lepiej rozumieli,
+ale na poziomie nauki i tak jesteśmy zespacali na to założenie,
+bo nie małem procedury dowodowej.
+W związku z tym to ładnie i fajnie pokazuje ten przykład,
+że nauka jest takim pikiem włóczni, tak naprawdę,
+ale żeby ta włócznia zadziała,
+to musi mieć przed dziedzięć, środdzicie i zalidzie.
+W związku z tym nie da się odrwać jednego od drugiego,
+żebyśmy mieli tutaj poznanie ludzkie,
+bo jeżeli ten pik włócz nie ma coś celować na końcu,
+to potrzebujemy i artystów
+i ludzie, którzy mają wysokie,
+były obrażeniowe poznanie świata
+i filozofów, którzy o tym będą rozmawiali.
+I na końcu człowieka, która będzie się dziedział nad kartą papieru
+i dedykcyjniej próbował ustalić,
+co to jest? Skąd się wzięło?
+Bo świat abstrakcyjny jest możliwy do tego,
+żeby wzięć linikę i zmieżyć.
+To jest to piękne.
+To jest to piękne.
+To właśnie mamy oprócz procedury empielcznych,
+mamy jeszcze procedury abstrakcyjne,
+gdzie musimy od poziomu właśnie założeń
+przez poziom filozofii iść do akcjomatów,
+do pojęć pierwotnych
+i, my niestety, pogodzić się z tym,
+że nasze zdolności poznawcze są ograniczone.
+Nie jesteśmy w stanie zrozumieć całego wszechświata,
+bo mamy ograniczone i tolegencje pojętność taler.
+Nie jesteśmy w stanie zrozumieć tego, czym jest życie,
+tego, czym jest trascendencja na poziomie nauki,
+ale właśnie ta procedura,
+który jest poznanie ludzkie opozytkowane przed Polsce ramazura.
+Pozwala nam w danym momencie,
+określić na jaki poziom jemy ludzkiego poznania działamy.
+I do pewnych rzeczy idealna będzie sztuka,
+do pewnych rzeczy idealna będzie filozofia,
+a do pewnych rzeczy idealna będzie nauka.
+Co nie znaczy, że te rzeczy jest nieodrwaną obok siebie.
+I na koniec.
+No i to nie ma, nie chodzi o to, żeby wartościować.
+To też jest sumie taki czas z spór między naukowcami,
+na przykład, czy inszy nierym,
+a powiedzmy, artystą, tak, co jest ważniejsze.
+I jakby wszystko ma swoje miejsce, to tak.
+Natomiast też pod kątem jakościowo,
+jakiego wartościowania, jakości informacji,
+powiedzmy, które nam są potrzebne.
+Też warto, to jest bardzo empiricznie.
+Mówczę, że to ktoś może nawet nie wiem,
+obołaszmy sobie nawet na telewizję.
+Jeżeli ktoś luka jakieś twierdzenia powiedzmy,
+to teraz pytanie, czy to jest obszar filozofii,
+czy o ma tutaj podstawy naukowo
+do tego, żeby coś powiedzieć.
+Paktycznie, kiedy się skupimy na tym,
+co tam się tak naprawdę tutaj wiedzieli,
+to często to jest bardziej obszar filozofii,
+który pójść w górę sztuki,
+czyli wywołania wrażenia na widzu,
+a nie ma podstawy naukowych jako takich.
+Ale to się dzieje też takich naszych typowych relacjach,
+bo to jest bardzo jeskrawy,
+tak i nawet hiproboliczny przykład tego sterowania,
+powiedzmy nawet ludźmi.
+Natomiast jeżeli mamy relację w pracy
+i ktoś wrzuca na przykład,
+w jakimś twierdzeniami i może brzmić pewnie,
+to nie znaczy, że zadając to i odpowiednie procedura dowodowa,
+a nawet, że ktoś przedstawi procedur dowodową,
+to nie znaczy, że to jest ciągle nauka,
+bo pytanie, czy to spełnia definicję w tej procedur dowodowej,
+czyli, czy jesteśmy stanie obiektywnie tak naprawdę obronić
+tą procedurę, która ktoś tam przedstawił.
+Po to, że ktoś podpar coś,
+to nie znaczy, że to jest dowiedzione.
+Tak obiektywnie.
+Kojcząc, tak ci trochę wrzucę szpile,
+trochę cię ukłuje.
+Zaułasz, że teraz twoj wyłud skupił się naucy
+i filozofii, nie?
+A z punktu widzenia operacyjnego,
+pytanie o założenia jest wytruczem.
+I zauważ, że większość ludzi w ogóle
+z tym jakby powiedzieć otoczeniu medialno-informacyjno-adukacyjnym
+pomija ten aspekt z założenia, sztuki.
+Jest dla nas tak oczywisty, że nie koncentrujemy się na tym,
+żeby najpierw ustalić, że mamy wspólne założenia,
+żebyśmy w ogóle do dyskusji mogli powiedzieć.
+I zauwa, że jeżeli przychodzi taki pewny siebie człowiek,
+zaznę nam coś twierdzić,
+to za nim go zapytamy o procedur dowodową,
+zapytamy, jakie założenia przyjął.
+I tu na tym poziomie rozpada się większość,
+większość naprawdę dyskusji, które są obytach konkretnych.
+No tak, i chyba przez to, że mamy coraz więcej informacji
+i żyjemy w takim świecie, to coraz rzadziej o to pytamy
+i mamy chęć i tak naprawdę zostaje nam tylko wrażenie.
+Czyli znowu możemy pójść do tego,
+że z takiego, co nasza powiedzmy cywilizacja
+czy powiedzmy ludzkość wykształciła tę model nauki,
+nawet już 19-18 wieczny,
+który przez pieszuł cały ten proces,
+to wzwiąsku z tym nadłokiem informacji,
+coraz bardziej co famy się do obszaru sztuki,
+i teraz nawet jeżeli obejrzymy jakieś kanały komentery polityczne,
+to one bardziej decytytymy się,
+to na jakie wrażenie wywaru,
+a nie nawet już nie jakieś twierdzenia przedstawił
+i ponadbie podstawi przypisuje się komuś
+pewne, pewne, pewne, pewne, wygra nam powiedzmy jakieś debacie na przykład.
+Tak, ale nie formali się jeszcze nawet tych założyć, tak?
+Czyli rozmywa się wszystko
+i na poziomie perturbacji, czyli takiego potencjału
+ludzkim progeratorze odpowiedzialnego zapostawania emocji,
+tam się rozgrywa, teraz pomysł zabawy o to,
+kto będzie kim rządził.
+I to jest smutne.
+I tym myślę, że powinniśmy skończyć,
+tak naprawdę.
+I to w tym istycznym akcentu było?
+To właśnie o w tym istyczne coś staćmy.
+Zauważmy, że jeżeli patrzę my się cywilizacji halenckich,
+czyli to, co zapoczątkowała,
+tak naprawdę, ta cywilizacja to, co o czym się rozmawiamy,
+to można powiedzieć, że analogicznie w naszych czasach
+to, co dało sukces cywilizacji halenckiej,
+znowu może tak, co chce zna,
+czyli proste oporządkowanie tych trzech dziedziny poznania ludzkiego.
+Stoki, filozofii i nauki i w dyskursie nagle się okazuje,
+że my przyjmując odpowiednie założenia, które są dla nas wspólne,
+chwilę po nich porozmawiamy i za automatu przeskoczymy do tego,
+żeby w tej procedurze dowodować.
+Na przykład, żeby jakieś cele sobie postawić,
+żeby one był ładnie zakcematyzowany,
+żeby były w ramach ładów sematyczno-relacyjnego,
+niewielkim wysiłkiem, tylko oporządkowy,
+a z nasz wyobrażenie o tym, czym jest poznanie procedury poznawcze,
+może odniesie grady sukces w tym świecie,
+który jest rozmyty ponad wszelką miarę.
+Tak jak kiedyś cywilizacja chennicka pogotowała eksypcko właśnie za pomocą tych metod,
+tak my możemy teraz tą cywilizację hałosłup pokonać metodami,
+które mamy od cywilizacji halenckiej, zbogacone polską szkłący bez natyki.
+Bytowe.
+No, nawet podbyt dalej, żeby już to już przykładam to w proces,
+jakby to mogło wyglądać.
+Wyobraźcie sobie, że macie transkop taki rozmowy waszej
+albo wiele waszych rozmów i jakieś przemyślenia.
+I można po prostu wrzucić się z tym transkryptem,
+który my w tym momencie rozmawiamy
+i poprosić AI, żeby przygotował wam tabelkę
+i przy pisał do wszystkich waszych zadań
+i zleceni i działani na przykład,
+czy to jest sztuka, filozofe czy nauka.
+Na przykład i na tej podstawie już sobie odfitrować pewne korocje udziałania
+i moc procesy nie podejmować decyzję.
+Tak, dokładnie.
+To bardzo dziękuję.
+Dziękuję.
+Zastroszamy na kolejny.
+Super, do zobaczenia.
+To wszystko na dziś.
+Dziękujęmy za twój czas.
+Pamiętaj, wiedza o systemach i procesach
+to realna przewaga w świecie,
+który staje się coraz bardziej złożony.
+Jeśli chcesz być okrok przed innymi,
+wykorzystując potężne narzędzia polskiej szkoły cybernetycznej,
+by lepiej funkcjonować w biznesie i w życiu,
+to jesteś w idealnym miejscu.
+Ale to dopiero początek twojej drogi.
+Nie zatrzymuj się.
+Kliknij w następny materiał, który właśnie pojawił się na ekranie,
+aby kontynuować proces zdobywania wiedzy
+i stawać się coraz lepszym.
+Do zobaczenia w Krótce.

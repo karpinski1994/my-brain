@@ -1,0 +1,2230 @@
+Witam Was wszystkich bardzo serdecznie, nazywam się Marcin Kapusta,
+jest Zenometa Cyberny, Tyk Dominik Dudek.
+I dziś porozmawiamy sobie o kolejnym funkcjonale systemu, czyli akumulatorze.
+Przyjdziemy sobie przez te wszystkie elementarne obszary procesu czy systemu
+i dzięki temu później będziemy mogli sprzejść sobie do bardziej zaawansowanych tematów.
+Witaj Dominik.
+Witam serdecznie.
+No dobra.
+Jak sterować firmą, karierą i życiem, by osiągać 10 razy lepsze wyniki.
+Odpowiedzią jest cybernetyka, nauka o sterowaniu, wszystkim.
+Od twojej firmy przez rozwój osobisty, aż pomychanizmy społeczne.
+Przedwami Marcin Kapusta, praktyk transformacji cyfrowej i wdrożeń AI oraz Dominik Dudek,
+architekt systemów i meta cybernetyk.
+W tym podkaście przełożymy skomplikowaną teorię na konkretne narzędzia do twojej dyspozycji.
+Zaczynamy.
+To klasyczne pytanie moje pierwsze pytanie, jeżeli mamy funkcjonalne,
+czym jest w edukciebie, no mnie garbowe dupcy cybernetyki, akumulator.
+Akumulator to jest ta część toru energomaterialnego, która odpowiada za gromadzenie potencjału
+i potem przesyłanie zaślenia do efektorów.
+To jest tak główna część toż energomaterialnym, ale też doatkowo funkcjon,
+akumulatora jest kwestia tego, żeby zgromadzić potencjał,
+służący do zasilania wszystkich procesów sterowania,
+również w przypadku systemu procesy autonamicznego, czyli ślanie receptorów,
+zasilanie korylatora, zasilanie homoostatu, czyli te wszystkie też procesy,
+które są wewnątrz systemu procesy autonamicznego,
+a które tak samo wymagają w tymczasoprzeszczynym,
+czy te rywinerym świecie równicy potencjał, żeby można wykazać pracę.
+No i to wszystko właśnie jest skupranie akumulatora, chyba jest łatwo zrozumieć,
+bo najłatwym świeciem nie ma się wśród funkcjonalów powiedzmy nie,
+bo nawet nazwa jest taka, która każdemu człowiekowy coś tłumaczy,
+wie czym jest akumulator w systemie?
+Widzisz dla mnie jest najdziwniejszy do zrozumienia na tym przykład.
+Więc ile ludzi tyle różnych podejść, zrozkładkał sam na końcu mam,
+jakiś rozkład normalny, a dla tego dla mnie jest taki skomplikowany,
+ponieważ jak sobie podtrzymy na kwestie mocy w rozumieniu fizykalnym,
+to moc jest to energia w czasie, tak?
+Energia przez czas.
+No i wszystko by się wydawało pięknie tak naprawdę,
+ale jeżeli na to popatrzymy, to energię dla nas jest cały czas pojęciem
+pierwot, mam na myśli ludzkość.
+I co jest energią? To sobie coś tam mierzymy,
+mam jakieś identyfikatory, indykatory,
+tej energi, ale z punktu widzenia rzeczywistość tej nauki,
+to ona jest cały czas to nad pojęciem pierwot.
+Tak samo jest też ten mas,
+i dopiero energie i materia razem są dla nas czymś,
+co możemy mieć w świecie,
+bo będzie to zróbny krok, z należ.
+Jak cybernetyka definiuje energię?
+No i tutaj też dla cybernetyki jest pojęciem pierwotnym,
+po prostu, tak? Energia.
+No i tutaj używamy ensteineckiego usoru na energie,
+że energie to mamy to stosualne MC-quadra, tak?
+Czyli można powiedzieć tutaj ze względu na minkostkiego,
+punkarę, ensteineckie,
+równania ten sorowe i całą torobek fizykalny.
+Tak podchodzimy do tego, ale proszę zauważyć,
+że energię dla nas jest wtedy dookreszona,
+kiedy jest powieza nas masą i z parametrami pudełka
+w tym żyjemy, czyli przeszwata, czyli przedkością światło.
+Ale byśmy mieli jeden traktować jako być samodzielny,
+nieokreszony właśnie tym irylacjami depozostarny,
+Lipa, nie wiemy dalej czy jest energię.
+Mamy tego to powieza, nie właśnie doszli do światła
+i do masy i tą relację jesteśmy w stanie określić,
+ale ja byśmy po mielipakować palce i powiedzieć,
+to jest energię, no to jesteśmy, że tak powiem dalej.
+W czasach amazu nie robimy.
+Ja opisać wytłumaczyć do określi.
+Miał naprawdę jakieś podejścia do energie.
+Nie no to...
+Tak, ale właściwie do mocy bardziej niż do energi.
+Pomazłem moc zdefiniował bardzo ciekawi jako iloćn 3 czynników,
+czyli podzielnie to jako taki sur nie AC, z czego elementów.
+Niedziel, gdzie to jest moc jedno skowa,
+a to jest jakoś tworzywa, a to jest ilość tworzywa.
+I w ten sposób moc zdefiniował.
+Ale teraz, że energia, czyli skumrowanie tej motyw czasie,
+to już jest kwestia właśnie tego, że przyszedłaś w rymami 3 parametry,
+nie tak jak w tym wzorze, którego nas uczą najczęściej w szkołach,
+czyli energia przez czas.
+Tylko o mazora jest to wyprowadzenie niecałościowe podejścia właśnie do do mocy.
+No i to jest jedno skirku podejścia, tak naprawdę do mocy,
+bo jak popatrzymy sobie tutaj na to wzór,
+no to nie odpowiada tak naprawdę za tą moc jedno skową,
+czyli pewnego rodzaju, jeżeli człowiek się składa z jakiejś ilości masy,
+jak sobie tam w kilogramach, no to ta właśnie będzie odpowiedzialna za to moc,
+jako jest w stanie zgromadzić jakby w kilogramie masy, tak.
+Potem mamy jakoś tworzywa, no to jest kwestia tego też właśnie skorylowana,
+pewnego rodzaju parę betrami sztywnym i no i ilość tworzyła,
+czyli ile takich jednostryk jest.
+To jest łatwe do wytłumaczenia tak naprawdę,
+bo jak sobie na to patrzymy wszystko,
+bo oprócz samej tej właśnie strony,
+musimy popatrzeć na potencjał,
+jako to co jest w stanie zgromadzić różnicze, czyli dokonać zmiany.
+No i teraz gromadzenie tego potencjału,
+jak się odbyło właśnie w tym aktymalto, że pod kontynt tych 3 parę metrów
+tam nie osobiście było jednym z najtywniejszy rzeczy,
+a jeszcze do tego podpięcie do homoostat,
+to różni do przewodności korelacyjnej,
+zaśielania efektorów powoduje,
+że nie jestem w stanie o tym myśleć bardzo precyzji,
+nie tylko moje wyobrażenie o tym jest cały czas rozmyte
+i takie, które pozostawiają mnie samym,
+pewnego rodzaje poczcienia z to.
+Ja nie uważam, że mimo dobrze rozmiał właśnie kwestie energii materiałne
+i to, że już sobie gdzieś tam byłem w stanie połączyć
+marzura zainsztajnym i pewne rzeczy sobie wyobrazić.
+Dalej jestem zły na siebie i na świat,
+że nie w stanie o tym.
+Szkoda, że nie mam jakieś katedry fizycznej,
+która też ma podejście cywerne,
+tycznej gdzie nie mogłoby dziś tego spróbować powiązać,
+tego wzorca z jakimiś modelami
+i tutaj to w jakiś sposób rozpracować.
+Ale jeżeli mówimy o akumulatorze,
+to możemy powiedzieć, że on ma funkcjonalnie
+podobną trochę strukturę do kolera Latola,
+bo ma ilość elementów jakoś tych elementów,
+dobrze o tym mówię.
+I powodność pomiędzy nimi,
+czyli te trzy parametry,
+sztywne podobnie, jak w koronatorze.
+To też wcędę sobie,
+możemy popatrzeć na to tak naprawdę.
+Chwila przerwy w programie.
+Jeśli ten podcast dał ci nową perspektywę,
+zasubskrybuj kanał i napisz w komentarzu słowo cybernetika.
+Nie po to, żeby nabić statystyki.
+Ale żebyśmy wiedzieli, że po drugiej stronie są ludzie,
+którzy naprawdę łączą kropki.
+Twoje słowo cybernetika to dla nas sygnał zwrotny.
+Feedback w czystej formie.
+Dzięki nie mówimy, że ta wiedza działa,
+rezonuje i że warto inwestować w kolejne odcinki.
+Bo łapka w górę to impuls,
+a komentarz cybernetika to większa informacja zwrotna
+i reaktywność systemu.
+Czyli mamy tą masę tworzywa,
+też wyśladnął jako C,
+która o co tutaj jest.
+I tak naprawdę ta masa tworzywa systema autonomicznego
+może być okreszna właśnie w kilogramach,
+może być w liczbie ludzi.
+Jeżeli rozmawiamy o systemie precycał autonomicznego
+jakimś społecznym,
+może być rozumiana w kontekście tego,
+że mamy jakieś nośni energii, wodór,
+węgiel, urany,
+25 tego typu rzeczy.
+No i tam moc jednostkować,
+czyli moc przypadające na jednostkę potencjału
+a jednostkę masyce.
+To jest taki bardzo fajny wyprowadzenie,
+użyteczne,
+ale z punktu widzenia człowieka
+jak przychodzi do znalezienia,
+jak z np. tego świecie,
+to mi dopiero krew.
+Dała takie fajne zróżnienie,
+o czym tutaj mowa.
+Bo krew jest też akumulatorem,
+w przypadku organizm o człowieka.
+To w krewie właśnie mamy jakąś ilość,
+to naprawdę literale też można
+by to i w kilogramach pewnie policzyć.
+Mamy tam właśnie tą jednostkę potencjału
+na czerwonu,
+czy jakąś inną,
+tam męśnik, który mamy,
+który we krwi naszej jest zbudowany.
+W ten sposób już tą krew
+może sobie wyobraźć jako taki akumulator,
+który gromadzi w sobie ten potencjał
+i w momencie kiedy jest konieczność
+zasilenia czegoś wewnątrz nas,
+to to tą pocą jednostką
+o czasie wtedy oddziałuje na konkretnej funkcjonal
+konkrety organizceptor
+czy kolorator w naszym organizmie.
+Tylko to oczywiście nie właśnie
+jest tą mesą sterowniczą, która
+jest konieczna do tego,
+żebyśmy się sterowali zgodnie z naszym celem.
+A oprócz tego mamy jeszcze tą taką zewnętrzną,
+właśnie która jest odpowiedziała
+za tą energię, która jest wykonawcza,
+czyli decydulej osiele naszej racji,
+bo oprócz tego, że my sobie w to,
+że sterowniczym podejmujemy jakoś decyzję
+i tam musimy część naszej mocy
+poświęcić na to,
+żeby te poznawcze decyzyjne
+ze sobą skorelować,
+skorelować na samicelem,
+popełniliśmy co jej refleksję,
+to oczywiście rozmawialiśmy.
+No to jeszcze mamy właśnie tą energię,
+to jest ten energię,
+która jest stricte przekazana
+do jakiegoś efektora,
+który ma oddziałułaś na opoczenie.
+Naszej ręki, nogi,
+strun głosowych,
+który jest sprawiem,
+że będziemy drgania powietrzał w naszym utoczeniu.
+No i to jest właśnie to,
+że fajnie się dzieli pomazu rosku
+w system procesy autonomycznego
+na toli informacyjnej,
+to energomaterialny,
+ale na końcu mamy efektor,
+który jest wynikiem działania decyzji
+z historii informacyjnego
+i ześleń jest toroly energomaterialnego.
+Nagle musimy wrócić z powrotem
+do miejscach, gdzie te dwa tory nam się wspinają ze sobą
+i sterowane są myślę do tego przetkomostka,
+który jest w środku system autonomycznego
+i jak to przełoży się,
+tak żeby to było intuicyjne i łatwe do zrozumienia.
+I właśnie szukając tej drogi tak rejew mi tutaj,
+weszła w krew
+i ona tak wskazuje,
+że na kumulator to nie myślibyś tak,
+jak w samochodzie jakieś miejsce,
+gdzie dzisiaj pomadzi proją, tak?
+To jest też trudno,
+że to są funkcjonałe i to też
+to podkreślić do razem, że to wzorzec,
+a wzorzec zakładał,
+że tak jak korelator to nie jest musk,
+tylko po prostu przetwarzanie informacji
+może odbywać się w różnych obszarach
+i chodzi jako sam funkcjonal.
+Jako taki chome,
+ostatnio też podobnie,
+no i tak samo ma kumulator,
+to są funkcjonałe, tak?
+To nie jest jedno dokładnie precyzyjna rzecz,
+zwłaszcza z rozbudowanym obiekt,
+zwłaszcza tak skomplikowanym układzie jakimś człowiek.
+Ale może gdybyśmy mieli na przykład
+jakąś komputer, na przykład,
+to już dużo łatwiej byłby nam wskazać,
+co jest akumulatorem,
+albo nawet jak mamy telefon kugórkowy,
+co ma co z akumulatorem,
+co z korekatorem,
+no i chome,
+ostatnio też byliśmy byli stani w jakiś tam,
+wskazać chociaż tutaj organizator jest zewnętrzny,
+więc też to trochę nie czyj wygląda.
+Nalej różna forma bezpieczników
+i tak dalej też istnieje w samym sobie telefonie.
+Więc jeżeli mieliśmy telefon,
+to moglibyśmy zrozumieć,
+że akumulator to jest bateria,
+którą mamy w telefonie,
+ale są też inne mniejsze, bateryjki,
+na przykład wspomagające.
+My mamy też alimentator,
+znaczy mówiąc za silacz, tak? Czyli po prostu wejście tej energii,
+czyli coś, co odbiera to energii
+i wprowadzają do wewnętrznego akumulatora.
+No i to jest całe zasilaniem,
+we z tego nie podziała, tak?
+Może mieć wszystkie informacje zapisane
+nawet na twardym dysku i tak dalej,
+ale jeżeli on zostaną zasilania
+nie zostaną z niego wybyta
+i nie odbędzie się proces,
+który pozwala wyzwolić efekt.
+Tak, więc jeżeli mamy wszystkie informacje
+w telepii zapisane,
+i nie nawet całej ludzkości
+to przyzgrodzili w jakimś giga komputerze,
+ale bez zasilania nic tam z tego.
+Efekt musi się odbyć dopiero wtedy,
+kiedy mamy informacje i energię
+i wtedy można ten precyzyjnie zarządzać.
+Dobrze, myślę, czy coś byś to doprecyzował?
+Dobrze, myślę, że to też na to zwrócił uwagę
+właśnie w procesach koreacyjnych,
+czy jakiego typu właśnie
+uzdeniających już moc,
+przepływ mocny po drugach przywołek
+przycikoreacyjnej,
+podzieliną to na dwie rzeczy, czyli właśnie
+drogę przewodności koreacyjnej,
+która jest w warunkie koniecznym,
+żeby po czymś moc miała przepłynąć
+i dopiero ten przepływ mocny po drodze koreacyjnej
+powoduje powstanie korelatu,
+czyli wykonania jakieś zmiany,
+różnić pracy.
+No i to jest dokładnie na zurozki opis,
+tego co przed chwilą jako egzemplizkację
+podałaś z telefonem komór,
+przez komputerem,
+że bez zasilania,
+bez tej mocny sterowniczej, wewnętrznej,
+i tej mocnej, zewnecznej,
+które pozwala nam wykonać różnicę obotoczeniu,
+nic się nie uda.
+No i stąd też ma te manipulacje,
+takie żeby właśnie pozbawiać systemy procesowo
+otonicznych zwanych ludźmi,
+mocy,
+pozbawiać ich energii zgromadzonej,
+czyli określić dla to zasobów,
+nie była twierdziś,
+nie mi sterowało,
+normalnie,
+tak powiem przed świeci,
+która będzie z nich.
+No to możemy sobie powiedzieć jeszcze o mocy i faktycznie
+idziemy w tym kierunku, ale chciałbym zanim podzrymi się podział tych mocy,
+dalej to może powiedzmy,
+jak ten nasz akumulator
+działa w obrębie jeszcze całego układu,
+w sensie,
+jak wygląda jego relacja z homonstatem,
+potem też przyjeciążenie i obciążeń,
+tak mamy, czyli jeżeli akumulator wprowadza jakieś informacje,
+to dostaje do homosta,
+dostaje pewnego rodzaju bodzieck,
+który powoduje jakąś reakcję tak w nim.
+Tak, no to co tutaj namieniłeś właśnie
+sprzężenie odpężenie, czyli
+komunikacja z homoostatem,
+przez którą odbywa się
+pewnego rodzaju komunikacja z korelatorem,
+właśnie powoduje, że
+akumulator, tak jak materia w telefonie,
+ma okresionę parametry fizykalne,
+czyli np. akumulator jest czytanie tylko jakość
+okresioną i leśę energii w sobie zawrzeć,
+bo jeżeli koncentracja energii w materii zostanie przekroczona,
+to mamy to co się nazywa reakcja ulecowa,
+czyli wybuchnoklaarny,
+wtedy rozszczepienia to mu,
+czyli wybuch po prostu reakcja ulecowała.
+Tak samo, jeżeli jest zbyt mała koncentracja
+energii w materii, to nie ma możliwości wykonania
+i to jest właśnie na zasadzie sprzężyć i odpężenie
+pewnego rodzaju komunikacja z homoostatem,
+który dba o tą równowagę funkcjonalną,
+żebyśmy się nie przeładowani energię,
+ale jednocześnie żebyśmy nie mieli za mało.
+I ten sposób akumulator jest sterowany
+z homoostatu,
+no i homosty, jako ten funkcjonal,
+który ma cztery elementy łączącego
+z innymi funkcjonalami,
+czyli właśnie refleksje emocje sprzężenie i odpężenie,
+na zasadzie równowagi pomiędzy tymi czteryma elementami,
+wprowadza ten stan najbardziej oddalony
+od zagrażającego ciągłości systemu
+i co są otwęgne,
+czyli tak jak sobie idziemy tą granią u grami,
+to mamy jak najdali od każdej krawędzi być,
+tak samo, właśnie, jeżeli na przykład jesteśmy
+przynierzeni, na jedzeni za bardzo
+i tej energii w rozumieniu masy po karmu,
+który możemy przeorzyć, potem na moc użytkowo,
+będziemy mieli za dużo,
+no to dostaniemy informacje, że jesteśmy przyjedzeń.
+Jeżeli się okarzy, że ten gromadz nie jest zbyt dużo,
+organiz w procesach korakcyjnych podejmie decyzję,
+że na przykład trzeba oczyścić nam jelitka
+i wezwie na stawdzie król chodzi pihatą.
+Jeżeli będzie tego jeszcze więcej,
+to też z drugiej strony może mieć cofeczkę, tak?
+I to jest właśnie działanie homoostatu,
+chyba o to, żeby to, że akumulatora
+nie nastąpiło przygrzanie.
+Czyli tak, teraz jeszcze poprosiuję, czyli generalnie,
+to jest relatywnie prosto, prosto współpraca,
+no bo akumulator daje informacje,
+a, mam za dużo energii albo mam dużo energii,
+albo a, mam mało energii, jak homość mówi,
+no to trzeba albo dobra, luzujemy,
+albo ciśnimy bardziej, bo nam potrzeba.
+I tak mniej więcej wygląda ta relatyja, prawda?
+Więc relatywnie jest bardzo prosta,
+ale przez tą swoją złożęność homoostatu
+i tych wszystkich funkcjonautów,
+które mamy dziś w swoim ciele,
+no to ta wypadkowa jest zupełnie inna, tak?
+No bo pobacz, rozmawiajmy o tym,
+że mamy w kolatorze odruchy wyobrażenia i świadom.
+Więc część procesów jest zaślena odruchowo,
+więc nie musimy tutaj jako homoostatu czestyć
+w tym, część procesów jest naszymi wyobraźiciami,
+czyli że jestem głodny,
+że mam na coś ochotę i tak dalej,
+na część jest zrobiona świadomością,
+że muszę jeźdź żeby żyć,
+bo ja nie będę ja,
+to nie będę miał zasilania i tak dalej.
+No i tu się pojawia właśnie kwestia tego,
+że tym wyjściem za kumulatora,
+kierunku efektora to jest to,
+to ma to ma dwa zasilanie,
+czyli już konkretne przekierowanie
+emocji do konkretnego efektora,
+no i się okazuje tak naprawdę,
+że tutaj właśnie to jest bardzo dużo.
+I ta korelacja pomiędzy właśnie tym,
+co mamy w kolatorze,
+a tym, co mamy w akumulatorze,
+jest tym, tym,
+pytałem homoostatu,
+nazwana przed Mazur,
+i ona decyduje właśnie w jaki
+i w jakim czasie efektor dostanie
+to zasilanie i decyzje w tym samym czasie,
+żeby ta reakcja była możliwa.
+I to jest właśnie ten pewnego rodzaju paradokst,
+z którym nie bym denerwuje wiecznie,
+że nie jestem w stanie do końca sobie,
+w przypadku już bytu w konkretnej,
+tak jak np. człowiek,
+skorelować,
+jak to wszystko się pięknie odbywa,
+jak to jest ułożone,
+że 80% naszego mózgu statystycznie
+można powiedzieć,
+jest przyznaczona na potyku,
+żeby sterować wewnętrznie naszym organizmem,
+żeby to wszystko ta równowa
+ga była otrzymywana.
+I na poziomie właśnie biologicznym
+mam problem ze zrozumieniem tego,
+w sposób taki,
+który bym był w stanie wytłumaczić dziecku,
+pięć o letniemu,
+dlaczego akumulator działa tak jak działa.
+No bo wszystko na wdortu jest pięknie,
+tak sprzeżenie, odprenżenie,
+mamy pobieranie energii i materii przez zasilać
+i mamy zasilanie do efektorów,
+ale jak już wejdziemy w szczegu
+i zobaczymy ile tych efektorów wewnętrz
+i zewnętrz,
+i w przypadku człowieka,
+tych, którą działają na wewnątrz gdzieś tam nasze
+tak dalej na bakterie,
+które w nas są na soki trawienne,
+inne rzeczy,
+te, które na efektory zewnętrz,
+te, które są na szeregę,
+na nasze ręce, kończyn,
+włoski na skórze i paznokcie
+i tak dalej, to się okazuje,
+że to jest jakiś chorendalna ilość,
+po prostu taki weznętrz tych sprzężeń,
+które musisz być przez nas mózg obsłużona,
+a na końcu to jeszcze jest
+przenoszenie tej właśnie energii
+skumulowanych w akumulatorze,
+jaką moc do konkretnego funkcjonały
+to wszystko działa.
+Więc na poziomie wzorca piękna,
+łatwa rzecz, taka komulatory działa,
+ale wejśmy to sobie zimny na poziomie realnego,
+by to,
+i zrobimy tak jak w tym organizm,
+jak człowiek,
+czy inne żyjący stworzenie,
+i na wleś się okazuje,
+ile jest nie wiedzy w naszym otoczeniu,
+przecież, których nie potrafi się włożyć,
+dlaczego to, że nie ciedziała, tak?
+No tak, jakby,
+tutaj fajnie byłoby,
+ogólnie się zagłębić,
+i wiesz co, ja myślę,
+że jak już przyjdziemy,
+wszyscy wszystkie takie podstawy takie
+i sobie to wszystko ustrysujemy,
+to będziemy tutaj chyba,
+idę nawet go wsi zapraszać,
+więc mam nadzieję, że to się zrobicie kawie.
+A jeszcze adopcę dominika,
+poproszę,
+pod tym spotkaniu,
+żeby odpowiadom na wasze pytania
+w komentarzach,
+bo widzę, że,
+może, co,
+że nie mamy 10 tysięcy,
+niświetleni,
+ale mamy świetne zaangażowanych ludzi,
+jest bardzo dużo komentarzy
+i jest trochę pytań,
+i z dominik teraz będzie też odpowiadom
+na pytania pod,
+myślę także,
+pierwszy tygodniu,
+jeżeli będą jakieś pytania,
+to na nie będzie odpowiadom,
+no, by nie będzie wracał do każdego,
+sprzed,
+tam dwóch tygodniu coś,
+ale jeżeli macie pytania na przykład
+do tego filmiku,
+to zadawajcie je w pierwszą tygodniu,
+to obejrzał tu dominik odpowiednie.
+Oczywiście,
+jeżeli będzie następne nagranie,
+to można pod nim zadać swoje pytanie,
+bo nie zawsze są związane,
+stądści się tematyką,
+tylko generalnie,
+o cyberny,
+tylko inne obszary,
+więc myślę, że dominik jest jednym z najlepszych osób,
+do tego,
+bo odpowiedzi,
+ja tam mogę tylko likenąć
+i,
+i owentualnie coś tam od siebie,
+odpisać,
+ale to będziecie mieli prezyziny odpowiedź,
+i,
+z takimi ogłoszeniami,
+i ze czterego,
+że trochę pozwijemy nad tej takich książce,
+którą dzisiaj w ogóle zaczęła nasza interakcja
+z dominikiem parę lat temu,
+kiedy napisała ta pożeczka,
+zebrałem bardziej,
+myśli takie podstawy cyberny,
+taki społecznej,
+i już widziałem też takie zapytania,
+bo się to,
+czemu czasem do tego odwołujemy,
+i teraz zrobi mi coś takiego,
+że,
+bo też taka była idea,
+że ten nasze nagrania,
+te transkrypcje,
+które z nich powstały,
+uzupełnił tę książkę,
+i będziemy ją też,
+tak,
+tak publicować,
+jeszcze zobaczy, w jakiej formie,
+żeby to było też łatwe dla mnie do publikacji,
+bo też już tutaj pojawiają się planże,
+coraz więcej ich jest,
+więc to coraz mniej podkast,
+a coraz bardziej takie już się robią,
+wykład dalej,
+jednak, jak oko to zobaczy,
+to szybciej zapięli,
+po prostu,
+takimi wyobrażeniami,
+więc one też będą uzupełniały tę książkę,
+i mam nadzieję,
+że dzięki temu zrobimy sobie taki,
+nazwijmy to podręcznik podstaw cywionetyki,
+który będzie można,
+jak po ten każdy z nas,
+by sobie stosować,
+i odwównąc się do niego,
+a się ma tutaj fajny cytac,
+na lasu,
+ma się podczas,
+to co mówiłeś,
+to jest prawdopodobnie,
+to, to,
+to, to,
+to, to, to,
+kiedy byśmy się zabrany,
+za jakieś wykładów,
+więc albo to jest kosyckiego albo mazura,
+i m większa jest,
+pojemność akumulatora,
+to jest większa możliwa,
+ilość energii,
+jaką, akumulowanej,
+tym większa jest zdolność system
+autonomicznego,
+to sterowania się,
+to czeniu,
+tym dłużej bowiem,
+system może wydawać energię,
+bez jednoczesnego pobierania
+i zotoczenia.
+To właśnie dzięki akumulacji
+energii człowiek może,
+może,
+kiedy indzie jeść,
+a kiedy indzie i pracować.
+Więc,
+to też,
+to też chodzi o to,
+i co,
+to myślę, że warto
+określić,
+że akumulator
+akumuluje
+tą energię, tak?
+To nie zaczęło musieli być
+na stałym zasilaniu.
+I teraz,
+teraz,
+to jest też chyba takie ładne
+przejście do mocno,
+i dzięki temu,
+może, tak,
+racjonalnemu,
+zarządzanie swoją mocą,
+może być coraz bardziej efektywnym,
+czy powiedzmy,
+systemem autonomicznym.
+I,
+i,
+i,
+i może to będzie też takie ciekawy,
+ciekawy punkt wyjścia
+do,
+do samej jej koncepcji,
+mocy.
+Chwila przerwy w programie.
+Jeśli ten podkast
+dał ci nową perspektywę,
+zasubskrybuj kanał
+i napisz w komentarzu słowo cybernetyka.
+Nie po to,
+żeby nabić statystyki.
+Ale,
+żebyśmy wiedzieli,
+że po drugiej stronie
+są ludzie,
+którzy naprawdę łączą kropki.
+Twoje słowo cybernetyka,
+to dla nas sygnał zwrotny.
+Feedback w czystej formie.
+Dzięki nie mówimy,
+że ta wiedza działa,
+rezonuje i,
+że warto inwestować w kolejne odcinki.
+Bo łapka w górę to impuls,
+a komentarz cybernetyka,
+to większa informacja zwrotna
+i reaktywność systemu.
+Bardzo dobrze zauważyłeś tutaj,
+że to jest ten punkt,
+taki,
+gdzie możemy przejść do kolejnego,
+wzorca profesora,
+ma zura,
+który jest bardzo użyteczny.
+I tak,
+w sumie bez niego to ja sam,
+nie wiem,
+jakby sobie poradził z tym,
+właśnie kwestie makumulacji.
+A właśnie profesor Mazur
+już przechodząc z generki na moc.
+I ta kwestia związana z czasem ze zmianą.
+Stworzył też wzorzyć pod kontenem mocnych,
+która jest człowiekowi potrzebne do was w zestawie,
+czy w ogóle,
+jakie mogą ich systemy wyjąć autonomicznymi.
+No i po pierwsze,
+ze względu na to,
+że możemy w czasoprzezczonym energiomatorialnym
+w sześciwiecie, gdzie mamy,
+więc piję i wcześniej wszystko tam,
+do nas,
+że to oszcztał kontyntym termodynamiczną
+do wyrównania potencjałów.
+To się starzyjemy,
+tak?
+Asza jakość materiału spada.
+Więc mamy jakość stratność
+i wszystko co robimy powoduje,
+żeby to powiedzieć,
+tworząc coś,
+coś innego nie może się stać,
+ale tworząc też coś,
+część tej energii,
+którą przetwarzamy na moc,
+jest na ten proces tworzenia amarnowana,
+więc nie macie już takiego,
+że mamy przystryk palcami
+i było coś,
+jest coś innego.
+Tylko przejście z jednego,
+to na drugiego,
+daje nam coś,
+co ma z nas z was stratnością.
+I to się wiąże z tym,
+że potrzebujemy pewnego rodzaju moc jałową
+na podtrzymanie naszej existencji.
+Czyli zaślelanie po prostu
+tych wszystkich procesów,
+które wiążono się z tym,
+żebyśmy byli jako
+byt,
+czasoprzestrzenny i energiomatorialny,
+po prostu w czasie.
+No i to jest wszelkie kotypu,
+bicie serca,
+utrzymowanie cię potciała,
+pienię,
+właśnie,
+podtrzymowanie prof.
+w surfkoracyjnych,
+odpowiedzialnych za skurcze serca,
+za mi kodanie komu
+naszym sercu,
+za to, że wyłyplacują
+napreżając się i rozpreżając,
+wspomagając to wszystko,
+że skóra nam się regeneruje
+i tak dalej,
+czyli ta moc jałowa,
+która jest
+tylko i wyłącznie
+potrzebowa do tego,
+żebyśmy trwali jako byt.
+Jest to jest pierwsza część z tej
+mocy, którą proszę serm,
+a zresztą nam tutaj pokazuje.
+Druga część,
+to jest moc,
+taka, która jest związana
+z pozyskaniem,
+tej koniecznej wartości
+minimalnej,
+czy to jest moc robocza,
+czy do tej mocy jałowej,
+która jest konieczny
+do podtrzymania życia,
+musimy dołożyć jeszcze
+moc,
+którą proszę pan Renna
+ma zrób nazwał roboczą,
+która jest przez nas
+koniecznąłaśnie do wydatkowania
+dodatkowej mocy, żeby to
+modiałową sobie tutaj
+być w stanie pobrać
+z otoczenia i móc trwać.
+No i jeżeli mamy
+moc roboczą i moc jałową
+pokrytą,
+poprzez moc całą,
+którą powiedzmy z otoczenia,
+to już możemy
+być trwać tak,
+pewien sposób.
+Ale to by było takie trwanie,
+żeby tylko trwać.
+W związku z tym jest jeszcze
+jeden poziom mocy,
+a to jest moc
+słobodno.
+Moc słobodno
+to jest tam moc,
+która zostaje nam jako nadwyżka,
+z moc całkowitej,
+którą jesteśmy w stanie
+zużywać na nasze potrzeby,
+po odjęciu mocy roboczej
+i mocy jałowym.
+I to jest tam moc,
+która decyduje o tym,
+w jaki będziemy się starować,
+czyli w jaki sposób sobie
+realizujemy na szcel,
+w jaki sposób sobie
+wytyczamy nasze cele,
+w jaki sposób
+oktumalizujemy metody,
+którymi do tych celów,
+w jaki sposób gromadzimy,
+pozyskujemy
+i łączymy ze sobą
+zasoby,
+które używamy w procesach
+sterowania.
+No i tak naprawdę
+proszę zauważyć,
+to teraz robię się to już
+zupełnie dużo łatwiej się do zrozumienia,
+bo jak sobie idziemy to
+mocno na rozumieniu
+fizykalnym,
+potencjałami,
+to robię mocno
+jedneskowo,
+to jest to trudne.
+Ale jak już sobie
+przejdziemy do tego, że tak naprawdę
+moc swobodno,
+to jest ten parametr,
+który
+najbardziej pokazuje nam,
+to czy możemy się starować
+w własnym interesie
+i zmieniać o toczenie
+tak, żeby ono było
+zgodne z naszymi parametrami,
+no, przypełne, bolubie,
+szczęście,
+według mazura jest to zgodność
+parametrów charakteru z okoczeniem,
+to jest tam
+najbardziej optymalne
+z wszystkich możliwych,
+to właśnie o tym
+trzymamy moc swobodno,
+i ta właśnie
+walka o moc swobodno,
+jest
+najważniejszy punkt
+ten sensy człowieka,
+aby on był
+stanie swoje doczenie
+do swoich parametrów
+dostosowywać.
+No i
+patrząc na świat,
+proszę zauważyć,
+że na tych trzech pojęcia,
+tak naprawdę,
+moc jałowej,
+moc roboczej,
+moc swobodnej,
+gdzie moc ta robocza
+i moc swobodna,
+to jest też
+nazywa dyspozycyjną,
+czyli to,
+możemy dysponować
+po średniu
+moc jałowej,
+to tu jest cała,
+nazwijmy to,
+w historii ludzkości
+walka,
+o to,
+kto na kogo pracuje.
+Dla przykład,
+jeżeli chcemy,
+żeby ktoś był naszym
+jevolnikiem,
+to właśnie
+istotom jest to,
+żeby pozbawić
+go moc swobodnej,
+aby on nie mógł sobie
+knuć,
+jak się do tej zerwać,
+z naszego,
+czy tak powiem,
+sprawstwa,
+a cała jego,
+moc robocza,
+która jest,
+właściwie cała moc dyspozycyjna,
+została przekerowana
+w moc roboczą,
+żeby tak
+u niemożliwić mu
+oddziaływanie z otoczeniem,
+aby to,
+żeby zaspokoje
+swoją moc jałową,
+wymaga od niego
+całego wysiłku,
+czyli ta moc dyspozycyjna
+to ma,
+żeby była całkowicie
+zabrana przez właściciela,
+wysłowie tego,
+pana,
+niewolnika,
+w tym kierunku,
+żeby niewolnikowi
+nie zestawała
+w ogóle mocysłobodnej.
+Ciutakie utrudnienie
+pozyskania mocy,
+w otoczenia,
+albo takie,
+obłożenie go,
+które dystowow
+cenami,
+zanergie elektroniczną,
+zimię,
+teraz,
+opłatą zawodę,
+za podatek,
+kastranie,
+niemi rzeczami,
+aby na końcu się okazało,
+że wszystko,
+co jesteśmy w stanie
+wypracować,
+całą moc,
+jaką jesteśmy w stanie
+zatoczenia pozyskać,
+nie daje nam
+mocy zfłobodnej,
+żebyśmy starowali się
+z naszym własnym interesem,
+tylko pakuje nam
+to w moc roboczą,
+i z tej moc dyspozycyjny,
+z tej nam tylko tyle,
+żebyśmy pośnić pracę,
+zrobili to,
+co chce,
+na żołprawca,
+byli w stanie się
+zregenerować,
+żeby jutro przyjść do pracy
+z domu,
+i tyle,
+a,
+moc zfłobodne,
+to nie daje wolni.
+Tak, to jeszcze
+w ogóle możemy się powalić,
+bo pójdziemy sobie firmy,
+to może być ciekawa,
+bo to też jest spewne gruda
+i sprzężenia zwrotna,
+można było to,
+ale to sprzężenie,
+jeszcze co zostawimy,
+ale tak naprawdę,
+jeżeli popatrzymy na daną organizację,
+no to jeżeli firma zarabia pieniądze,
+no to od nowocześć,
+pieniądze musi przyznaczyć
+na mocy,
+czyli po prostu na
+podtrzymanie,
+na pensje pracowników,
+biuro,
+jakieś tam leasingi,
+tym podobne,
+reszta mocy,
+która mu zostaje,
+to jest moc robocza,
+czyli zużycie na,
+pewnie mocja łowaj,
+pewnie też możemy
+użyć podatki, nie?
+No to pewnie,
+tutaj by się mogć zekwalifikować.
+Moca robocza.
+Tak, robocza.
+No, no,
+no to,
+no bo, nie busisz
+płacić podatki, żeby,
+jakby, jak został,
+tak?
+Podatem jest narzucony,
+jakby ze twojej mocy
+dyspozycyjny,
+to jest na,
+że podatku, no dobra,
+ale ok,
+trzeciej,
+tak,
+jakby na tym etapie nie
+jest nam to,
+jak powiedziałaś,
+tak,
+potrzebny,
+to moglibyśmy też
+niektóre różni
+przepraszam,
+tak, nie,
+ja bym generalnie,
+proszę,
+no ale jeżeli masz podatek od niej rochomości,
+na przykład,
+jeżeli masz,
+tak,
+że nie będzie,
+tak,
+ja bym nie może być się łowę,
+bo,
+i generalnie,
+podtrzymanie ciągłości systemu,
+jeżeli nie będzie,
+że go opacieł,
+to zpaść no bo,
+na rosną kary i tak dalej
+i sobie rofinmę,
+albo,
+albo właśnie,
+wyjdziecieki zarząd komisaryczny.
+Więc tej perspektywy?
+Ale to jest właśnie definicjenie,
+moc robocza, tak,
+bo to jest nadatek,
+ponad to,
+co musisz mieć,
+jako moc jałową,
+który musisz,
+żeby to kaniałowo pozyskać, tak?
+Bo z punktu widzenia fizykalnego,
+jak popatrzeć na to,
+to podatek jest niczym więcej,
+jak dodatkowym,
+tym,
+który musisz,
+do tej fizycznej,
+czyli bez podatku,
+spokojnie być przed schwammu,
+a podatek jest po prostu
+do końca,
+który nie będzie zniszczyć,
+moc swobodna,
+czyli to jest moc dyspozycyjna,
+która jest,
+która,
+która,
+która,
+która mogłaby być przeznaczona na moc swobotną,
+ale przez co,
+że jest podatkiem,
+jest mocą roboczą i,
+i po prostu zabieracie tę swobodę.
+Okej,
+czyli zmieszać,
+to część,
+to, część,
+z mocys dyspozycyjnej,
+który on mogłby być podatkiem na swoje interesse.
+Natomiast moc swobodna,
+no to,
+to byłoby wszelkiego rodzaju,
+powiedzmy,
+zysk,
+który można teraz
+przyznaczyć,
+albo na, jakoś wypłata sobie,
+pensji różnego rodzaju,
+jako właściciel,
+albo na kolejnej inwestycje.
+No i cała zabawa polega na tym,
+żeby mieć większą to moc swobodną firmy, tak?
+Że im większe masz marże,
+albo im większe masz kosztów,
+względem,
+względem całego,
+swojego systemu,
+no to wtedy,
+ta mocja woda wzrasta.
+No i też,
+w związku z tym,
+że różne firmy mają podwykonawców,
+i tak dalej,
+to można mieć różnymi też,
+w tym,
+układzie pozycję,
+całym pojącą kłowartości,
+i dlatego są firmy,
+które mają bardzo dużo moc swobodną,
+przy bardzo małej mocy jałowej,
+albo mocno robocze,
+i też bardzo znikomyj.
+A sobie,
+firmy, które bardzo dużo muszą przyznaczyć,
+na utrzymanie siebie,
+z asza firmy produkcyjne,
+tam bardzo,
+albo logistyczne,
+bardzo dużo mają
+tej mocniej,
+jałowej mocy robocze,
+i mają niskie marże,
+ale no to spróbują to załać,
+wiesz,
+na przykład wolu mena.
+Tak na tej saszacie.
+No, to bra,
+i to jeszcze my od razu
+wykorzystał taki tutaj,
+hacie, który nam rzeczywistość daje,
+i to, co się stało ostatnio na linii,
+chińska republikaty,
+dekomiteczna,
+a reszta świata,
+gdzie chińczycy wprowadził
+i ograniczenia,
+nazwijmy exportowe metaliziem rzadki,
+że jeżeli,
+w jakikolwiek produkt
+czy technologia na świecie
+ma zawartość powyżej
+jednej dziesiątej procenta,
+też,
+tych, że pierwiast
+w metaliziem rzadkich w produkcie,
+to oni sobie tutaj
+uzytpują prawo do tego,
+żeby,
+wydawać skłodna eksport tego
+poza kraj, gdzie tu go sprzedali,
+itd.
+I popatrz,
+tak naprawdę,
+że w tym momencie,
+to nie pieniąc,
+taki jak dla większości ludzi,
+jest właśnie to mokznakom,
+mocy, słobodnej,
+czy moc jałowej,
+itd.
+Staje się tym myślanym parametrem,
+po pieniąc,
+to jest stereotyp, tak naprawdę,
+i bardzo nie lubię go używać,
+ponieważ przyzidnie potrafi
+definiować pieniądza,
+to tak na chwilę odchodząc w tematu,
+za oważ jak teraz,
+generalnie,
+po tym jak zaczął to tam kopać
+się w okosty,
+tu udało Ci utradnieć działanie
+i zwiększać ich moc roboczą,
+właśnie, pozwolić,
+w moc tej słobodnej,
+odwrócili to ogonem
+i przyładowali coś takiego,
+żeby wprowadzili
+ogrom mocy roboczej,
+która w tym momencie
+jest wymagane tego,
+żeby zrobić moc
+dyspozycyjną,
+w ogóle dla siebie, tak?
+Bo jeżeli teraz
+zresilanie dla fiks będzie
+jakimś produktem,
+które one sobie sprzedają
+i te toże energomaterialne mają
+tam jakieś potencja,
+które gromadzą,
+to w tym momencie
+pozyskajte tego zaślenia,
+staję się promulematrzem,
+bo na wszystko trzeba pięć zgodę KPH,
+czyli komuś w tej partich in,
+w cudzysłowie
+mówiąc.
+I właśnie kwestia tego,
+że w tym momencie
+próbowano chinchyką
+wywrócić ich
+moc dyspozycyjną
+i przekierować do mocy roboczej,
+tak jak Amerykań zrobili
+z opłatami portowymi,
+że wprowadzi 50 dolarów
+opłaty portowej za każdą tonę,
+statku, który w była
+do amarkińskiego portu
+i to
+prost zwiększał moc roboczą, tak?
+Bo ileś tej
+mocnej pratamy
+z potrzebą na firmę,
+którą fraktem się zajmie
+mężąskim,
+że musieli to przyjść na klientu
+i tak dalej,
+to raz, że się coś
+co odwrócili to,
+chyba że kilka,
+jak w ogóle przywalił jeszcze tym,
+że nie dość, że będą tutaj takie same,
+może powiedzieć,
+toż same,
+opłaty oporu
+normalnej wielkości,
+tam 56 dolarów,
+jeżeli wychodzi,
+jak się robi mi,
+przyjmiecie na dolarę,
+to jeszcze dowali
+tak naprawdę kontrolery sportową
+i jednocześnie pokazali,
+że nie zgadzają się na jakichkolwiek
+wykorzystanie tych surowców,
+które sprzedają do technologii wojskowej.
+I nagle się okazuje, że żeby wygrykować coś,
+co wcześniej był w stosunku
+była to jak i wie faktor nie wiem,
+rakietę SM-3,
+to żeby ją teraz wypracować,
+to moc robocza fabryki i tak dalej,
+wzrosła wiele protnie,
+bo jest ograniczenie
+pewnego rodzaju potencjału podaże
+surowców,
+które to wszystko buduje i co.
+Prostym ruchem tak naprawdę,
+właśnie na poziomie mocy,
+która jest,
+z mocy swobodnej,
+która wcześniej była i pozwolała
+a to,
+przekierowała to wszystko w odroboczu
+i tak naprawdę firmy
+przestają się moc starować.
+I zauważy,
+że w tym wyłodził mnie
+pieniąc pojawić tylko jak
+pewnego rodzaju identyfikator,
+którego nie powinniśmy tu używać, nie?
+Więc bardzo ważne jest to,
+żeby w rozumieniu firm
+nie posługiwać się wyłącznie pieniądze,
+bo to jest po prostu
+dezginformowanie się,
+gdy symulacyjne,
+które nie możliwe,
+to nie na wszystkiego.
+A cały ten wypowiedł po to,
+żeby pokazać,
+że pewien potencjał,
+który ludzie myślą,
+że mają w pieniądzach,
+w tym momencie właśnie się skończył.
+Co z tego, że ja mam miliardy dolarów,
+gdzieś tam w jaką bity w komputerku,
+jak z drugiej strony się dziktość,
+to powiem, że mnie sprzedają,
+co.
+No nie.
+Ok.
+To, jaki byś dał, na przykład zamiennik
+do tego, żeby obliczyć im moc,
+takiego systemu,
+jakim jest firma.
+To właśnie to to je potencjał.
+Tak jak ma zurgoliczy, tak?
+Czyli ta,
+który tam w tym wzorze na moc
+umazura jest,
+to powinniśmy tutaj patrzeć na to podkonteł potencjał.
+Czyli tego czynika,
+który jest nazwany,
+ale to nie się potencjał w zasadzie
+mocy, czyli energii i czasu,
+tak by się powiedzieć,
+czy...
+Koncentracja energii w tworzywie,
+tak naprawdę.
+Czyli możliwość dokonania z gadaj w otoczenia.
+No i zobacz,
+tak naprawdę, jest coś co my w cybernetice
+używamy jako takiego,
+głównego parametru podwajającego
+zrozumieć nam świat,
+skumulowanej mocy swobodnej,
+która jest liczona metodą profesora kurskiego,
+którą wymyślił,
+bo dać jeszcze w 10 latach,
+a potem to stąd kosycki
+wziął to metodę profesora kurskiego
+i dorobił do nich teorię walki.
+A końcu okazało się,
+że produkcem symptomę,
+który pozwala nam rozumieć,
+w jaki sposób systemy
+sterowania społecznej
+rozwane państwami są w stanie
+wytwarzać dla siebie moc
+i komulować się jako energię
+z swobodną w czasie.
+Tak zany produkt symptom jest,
+że jest to, że chciał wiedzieć.
+Tak?
+I według wyliczeń...
+Tak jest.
+Wydług wyliczeń wyszło na to,
+że w lipcu przełom czerwię z lipiec tego roku
+chcieli osiegnęli dwukrotną przewagę
+i co, ile czekaliśmy na to trzy miesiące
+i generalnie próba teraz
+zrobienia chńczyką podgórkę
+spowodowała na tym, że chńczycy
+korzystali tą przewagę,
+którą zyskali.
+O tym jeszcze sobie powiem,
+bo nie chciałbym, że ten,
+ale faktycznie to jest też takie ciekawy moment,
+bo 10 lat temu docent kosycki
+a w o tym opowiadał,
+no i mamy 10 lat,
+no i faktycznie w końcu
+jest przewaga z serownicza
+dwukrotna na następnym układem,
+jakim jest w stanie zjednoczone,
+i co powoduje pewną hewę o niech im tak,
+jak w całym układzie.
+I to się właśnie miało wydarzyć
+na przełom czerwice wcale,
+z czym w okresie czerwice
+lipiec 2025 roku.
+Pamiętam, jak jeszcze o tym dziewięć
+o 8 lat temu mówiłem, że chńczycy będą
+dominować na świecie
+to wszyscy głowę pokali,
+a dzisiaj chyba mało kto piszczył popłókę
+u głowę.
+Jeszcze niektórzy są
+przywiązani do stary, jak by rozwiązań,
+to też jeszcze to nie jest bardzo
+wyraźne, to się dopiero wydarzyło,
+ale czas już tylko teraz,
+gdzie tylko potwierdzał
+nowe argumenty za tym,
+że faktycznie tak się wydarzyło.
+Ale to już poszliśmy
+czterowanie międzynarodowe
+i tak dalej,
+a ja dalej, czyli co powiedzieli,
+byśmy znowu, że produktem
+z tymi ptomem będzie również w firmie,
+będzie stal,
+czyli firm, o które nie produkuje
+stalie nie ma, no właśnie cieszko,
+bo tak było powiedzieć, nie?
+Dlatego co bym mogą być takim,
+jeżeli nie pieniądze,
+bo to w tym kierunku poszliśmy,
+to co?
+No właśnie potencją,
+ale w tym rozumieniu nie tylko
+kwestii energiomaternialnej,
+ale również informacyjne kodowej,
+czyli zdolność,
+do wytworzenia,
+to po nim w otoczeniu.
+No i tu już,
+no i tu już właśnie jest teraz
+kwestia taka,
+że to się odatrzy nam to,
+to myśleć, ale uważam,
+że ten punkt ciężkość
+jest we wzdorzy,
+a jest taina,
+ale tak przykształcam
+za pomocą matematyki,
+żebyśmy po jednej stronie mieli
+energię i materię,
+czyli będzie EPSSM,
+bo to żeby
+tego początku jest to jest zura i
+stajna zasięcej kładrach,
+wystarczy,
+że podzielimy go
+obostrownie przez masę,
+czyli wychodzi na to,
+że energię przez masę
+również na świecie razy C.
+Jedna co odpowiada za informacje,
+bo to C to jest
+relacja,
+po prostu drugi do czasu,
+tak, to jest prawie tego światła,
+a drugie co odpowiada za kody.
+To jest druga właśnie.
+No i teraz patrząc,
+patrząc sobie na to,
+że struktura,
+która pozwala
+na budowanie tego wszechświata,
+to jest zasadwa co do światła,
+ona się przekładam na budowanie
+struktury całość również
+tej strony energii materialnej.
+No i,
+czy my teraz będziemy wykonywali
+o pracę w rozumieniu fizykalnym?
+Po stronie EPSSM,
+czy my będziemy wykonywali
+tą stronę po stronie C,
+teraz C,
+tak naprawdę,
+to niezależnie po której stronie
+wykonamy,
+to będzie jakaś zwiana.
+Będzie miała wpływ też na drugą stronę
+równania, tak?
+Tak działał rówtanie,
+że jeżeli zwiana następuje po jednej stronie,
+to zmieniło się też elementy po drugiej stronie.
+Wspory ma być równowaga.
+No i właśnie takim następnym trinnikiem,
+który powinniśmy tutaj mierzyć,
+który zastąpi nam właśnie tą kwestię
+mocy swobotnej w rozumieniu fizykalnym,
+według mnie jest taka właśnie,
+jakby jak to nazwać,
+bramka Einsteinna Mazura,
+która pozwala nam w jednej strony
+rozumieć strukturę,
+a z drugiej strony rozumieć energię materię,
+połączenie ze sobą.
+I w pewien sposób właśnie będziemy
+potrzebowali jakiś dendifikator,
+tylko zmierzy i będziemy w stanie
+to w sposób taki,
+jak po tej polej dzięki pozery
+kyryskiem,
+tylko seckiemu mierzyć w mocy swobotnej.
+No to jeszcze cię też szkamy,
+że takie trudne do tego,
+bo nie,
+bo nigdy nie rozpatrywał tego,
+jak zmierzyć moc firmy.
+I to jest ciekawe,
+bo gdybyśmy to rozpracowali,
+to faktycznie był ciekawy współczynnik.
+Tak jak żeby zmierzyć taką moc takiego,
+powiedzmy, każdej firmy i wiedzieć,
+ile ona jest powiedzmy,
+jak w kładzie silna.
+Bo tutaj niestety ten produktym
+tą stali nie miałby zastosowania.
+Takie, w tej strony, nie?
+Inaczej,
+popatrz, jak zmieniło się,
+dawniej metale ziemrzańkich
+prawie były niestety testyryweczu.
+Mam na myśli tutaj prof. Kurski
+i tużu swoją teorię,
+czyli tam lata 60.
+Teraz metale ziemrzańki
+stają się pewnego rodzaju
+takim punktem ciężkości,
+ale to dalej jest pewne rodzaju metale, tak?
+I metale, który też wymaga
+rafinacji, wydobyć się całego tego
+infrastruktury, która jest podobnie jak w przypadku stali.
+Więc prawdopodobnie wystarczyło,
+bo gdzieś tutaj zrobić jakieś
+pewnego rodzaju przeliczniki,
+mnożniki dla poszczególnych
+lantanowców,
+czy właśnie tych metaliżym rzadkich,
+które by dołożyły dodatkowo
+do tej emocji skłowanej w stali,
+moc, która by jeszcze
+była też w przypadkach metalita.
+Czyli zamiast produkt symtom,
+że to stali, to produkt symtom byłby metal
+teraz, czyli rozwój.
+Ale to przybywiamy taki,
+nie, mam główi,
+bo z tym, że przykaliłem raz, nie?
+To co dalej byśmy brali im
+z podkątem ilości stali,
+którą posiada,
+czy to je się samochody,
+ale które nie są de facto ich,
+czy patrz komaty,
+to tak by się do rozpatrywali.
+Właśnie tutaj popatrz,
+bo ten produkt symtom był
+ciągnu dla systemów
+sterowania społecznego,
+tak, tak, tak.
+Tak, wiem, że ili trzeba było
+pozostosować dla filmu,
+a się tutaj zmierzam na tego,
+jakby, wiem, że tak się trochę
+teraz wziąłem w wospodku podkątem tego.
+Nie, bardzo dobrze,
+lubię takie rozmowy.
+One dużo początkują czasami.
+Dobrze, dla te pani jest,
+jest bardzo odkrywcie czasami.
+To chciałem pokazać,
+że impost jako system
+procesu nie jest autonomiczny, tak?
+Bo on nie wypełnia
+wszystkich funkcjonalów,
+bo nie jest w stanie sobie sam
+wyprodukować stali sam wyprodukować.
+To co, co, co, co,
+to zasady żadna firma,
+prawie żadna mikrozuji,
+czyli tak dalej.
+To nie jest autonomiczna,
+ale dalej moglibyśmy policzyć ci,
+ale dalej możemy policzyć emocji, nie?
+Mamy, a cumulator,
+ma korolator,
+no, no, no, ok,
+ma innego organizatora, ok,
+ale pytaj nie wiesz,
+jak boże my zważy,
+bo wyższejśmy od tego,
+że pieniądze nie są biernikiem, nie?
+No to teraz szukamy,
+jakby, alternacywnego,
+powiedzmy, uniwersalnego punktu,
+a który moglibyśmy oprzeć,
+może to być produktym,
+a może to trzeba w inny sposób policzyć się?
+Nie, coś pokażę, jak tutaj impost się ma do tego...
+Ok, do tej bramki ma zura,
+jeszcze, nie?
+Tak, ma zło właśnie powstała,
+więc niech tak będzie.
+To zauważy,
+żebyśmy do tej bramki mieli sprawdzić,
+w którym miejscu jest siła impostu,
+to siła impostu jest postronię coraz ocen.
+Czyli przemieszczenia, drugi w czasie, nie?
+I moc impostu możemy policzyć,
+jako możliwość przewożenia patrzki z punktu,
+a do punktu b, w czasie t.
+I teraz możemy sobie tak popatrzeć na impostach,
+naprawdę, ile przewozów,
+w jakim nazwijmy to...
+Prze wieki przestrzeni,
+w jakim czasie jest stanie wykomadzić?
+Ok, ale to zmierzyć moc,
+to takiego impostu z względem firmy,
+która jest zupełnie inni branży,
+nie wiem, idźmy w komarach,
+ta duża firm IT.
+To masz wtedy to przeliczenie,
+e przez m, również się celazy c, tak?
+Skoro tu mamy celazy c, tak naprawdę?
+A drugie mamy we przez m,
+to wiemy jak porównąć jedno z dwie.
+To tutaj chyba wrzucimy jakoś matylica,
+żeby ktoś sobie tą bramkę zapaczyć
+i tam więc do Ciebie deprosił
+o rozdrysowaniem tego ładnie.
+Ale ok, dobra, bo poszliśmy troszeczkę w digresję,
+a jeszcze chciałbym pójść przez trpałość
+tworzywa akumulatora.
+W czasie, bo...
+Ok.
+Czekaj, czekaj, czekaj, jest jeszcze sekundę.
+To jeszcze tutaj mamy po stu lati.
+Jakby tu nas oglądał jakiś matemnik,
+który się właśnie
+w przestrzeniach banacha,
+ten sorach,
+dobrze operuje.
+Trawier tutaj sobie porozmawiał.
+A jeszcze na to, w jaki sposób,
+relacje energii do materii,
+odnosić do celazyce
+i jak to przełożyć na jezmatomatyki,
+żeby tutaj właśnie zrobić tego takiego dykator,
+który byłby odpowiednikiem produktu symptomu.
+Bo to już nie tylko będzie fizykalny,
+jak produktycy produkt,
+ale on będzie abstrakcyjny.
+W sensu jestem potrzebujemy dziedzinę jakąś matematyka
+do tego, żeby konośniąć.
+No, składa, że nie mamy...
+Wracam do tego jakiejś katedrym fizycznej,
+która wykorzystywała być cybernetykę
+i można było wyświęcić tam rozwijać dalej.
+To myślę, ale już tak swobodnie naukowo.
+To było bardzo przyjemne.
+To ja powiedziałem, że nie mamy jezmęcznej.
+No, duży z uczelni.
+Teraz może jest wiesz,
+duża konkurencja coraz większa,
+bo studentów coraz mniej,
+więc może ktoś się pokuszi
+a wyróżnienie się cybernetykom.
+Mamy zdaniem w ogóle też katedryz socjologiczne,
+bo wyciekawała,
+bo to polityologiczne,
+wydziały i tam się oprzeć do cybernetyka jako taką mówię z binarną gałość,
+bo też bardzo ciekawe.
+I pewnie to do Bryt-Hinglang,
+by z tego postą.
+Znowu tutaj troszeczkę wypraczę,
+że będę strefował cybernetyka.
+Ta w rozumieniu już posyckiego
+to jest ta dziedzinę nauki, która opowiada za relację celowa.
+A to co mówisz,
+takie interdyscy binarny rozwija nie?
+Mety tak.
+To jest tak naprawdę meta cybernetyka.
+To w przypadku by to w konkretnych.
+A jak idziemy wyżej jeszcze,
+to mamy matematykę i logikę.
+Tak naprawdę więc potrzebujemy uniwersytet.
+Potrzebujemy instytucję, która nam zeppnie całą naukę.
+W rozumieniu nowoczesnej strefury nauki koseckiego.
+To jest dopiero i testy dyscyptumarnę podejście,
+którego potrzebujemy.
+Z całym szacolkiem dla cybernetyki
+i tego, że ona otworzyła nam oczy,
+tak naprawdę i że Mazur to tak nazywał,
+nie zwi, to wszystko.
+Dopiero docen kosecki to oporodkował
+i pokazał, że to jest interdyscyplinarny system nauki całością.
+Takiego.
+Takie go nie.
+Policę to kłębować,
+żeby to było,
+że ten ekater,
+to też byłoby dobrze,
+gdzie się to stosuje.
+A potem stopniowo, stopniowo, to wiesz.
+Nie wierzę w to, żeby to się wydarzyło.
+Tak, adhok od razu musiał bybyli
+jakiś bardzo świadomo organizm.
+Ok, wystarczy dobry kryzys.
+Znowu teraz, czy życzyć sobie kryzysu,
+ale dobra, to są już dygresje.
+Przejdźmy, że to trwałość tworzywa akumulatora,
+bo to są dziekowe,
+mamy akurat tym podzawać cybernetyki
+społecznie, ma właśnie te takie ciekawe,
+ten obszary.
+Czyli jakość tworzywa, masa tworzywa, tak?
+Ale też mam takie zaprzepytanie.
+Czyli jeżeli mamy jakość tworzywa,
+masa tworzywa,
+to mamy też tutaj coś takiego korolatorze,
+że moglibyśmy mówić pewnego rodzaju talentem,
+czyli pewnego przykład zagężczeniem
+tej jeden przykład jakości, na przykład
+i tak dalej, czy czy nie możemy,
+czegoś takiego powiedzieć?
+Tak, tylko to, żeby wyjaśnić ludziom,
+że talent w rozumieniu Mazurowskiej
+to nie jest taki talent w rozumieniu potocznym.
+Tylko talenty jest nie rozmiarowany.
+Wracamy do filmików poprzednie.
+Sam akumulator z siebie poszedł,
+żeby też szukał.
+No, więc tam akumulatory zeszpedne talentem.
+Dokładnie.
+Więc jak najbardziej właśnie kwestia tego,
+a kto tutaj jest, czyli
+koncentratki energii materii,
+powoduje, że w różnej materii możemy
+różnobiliś energii koncentrowacji.
+I inaczej energii, jak powiedzieć,
+gromadzą nasze mięśnie,
+inaczej te kartka tużniczowa,
+inaczej krwinki,
+inaczej wątroba, inaczej energii.
+I to jak najbardziej, to co mówisz?
+Czy mamy różnorod koncentratki energii w różnych miejscach,
+a ktoś to zajmuje się z portem,
+to wierzę naprawdę i ludzki mięśnie potrafią być źródłem energii.
+Tak, że organizm potrafi własne mięśnie,
+jeżeli dlatego, że muszą działywać na końcu.
+Tak, praktycznie ludzki organizm,
+jaką system profesor to namieśnego,
+jest w stanie jeśli ma o powinno już czasu przetworzyć
+bardzo dużą część nasz organizmu,
+na to, żebyśmy mogli zaślać mążą,
+mążą mążą mążą działy.
+Kajaka się materiała,
+bo to może nie jestem unikliwy,
+ale jakoś nie spotkałem się właśnie
+z zagadnieniem i warto kłowaniu,
+za kiedy to było w korrelatorze,
+od razu warto kłowamy.
+Czy ty zauważyłeś coś takiego?
+A to jest na przykład też rzecz taka,
+która mnie frustruje i do tej precybienia
+mogę z tym poradzić.
+Mazur na przykład nie nazwało działywania pomiędzy
+zaślać małaku mularnej.
+A czasami potrzebuję o nim komuś powiedzieć,
+pomyśleć, a nie ma o mazurach nazwania.
+Tego co jest pomiędzy zaślać?
+A kosetka?
+A kosetka nie nazwał?
+Już nie ma że to nazwonej.
+Nie, nie znalazłem.
+Pięć może nazwał.
+Przedełoby się do uzupełnę już na malę.
+Nie, ale właściwie ciekawe,
+bo myślę, że profesor ma zur
+na tyle światłym człowiekiem był przyjaciół napraność na to,
+zastanawię pytanie, czy po prostu
+ze semantycznie tego nie weretekował,
+czy po prostu uznał, że jest inaczej
+albo to za niezasadne?
+Nie, to zastosował to tak.
+Więc ta relacja tam jest.
+Ale nie wertekuło.
+Nie pokazał, że tam jest.
+Ale nie nazwał jej nie.
+No, więc to jak najbardziej.
+No i teraz pytanie,
+dlaczego potem przez tyle lat po jego śmierci
+generalnie właśnie w temacie rozważania akumulatora?
+W ciś to nie wypłynęło.
+Dlaczego ktoś mi już nie przyniosła
+tej tacy tego rozwionanego?
+Tak ja się przynęć już.
+Ok, no dobra.
+Ale to w każdym razie
+mamy do tego jakości tworzywa,
+która właśnie jest potencjałem
+z powodowaną koncentracją energii w tworzywie,
+no i masa tworzywa, czyli określenia jako
+silność tworzywa
+C system autonomicznego.
+I tutaj mam takie takie ciekawe,
+ponieważ zapisek,
+ponieważ zmniejszienie się jakości tworzywa
+system autonomicznego, czyli starzenie,
+prowadzi do zmniejszczenia się mocy
+fizjologicznej systemu autonomicznego,
+a przez to do zmniejszienie się do
+doliwości do sterowania się,
+więc stanowi zakłócenie równowagi
+funkcjonalnej i wobec tego wywołuje
+przeciwdziałanie homyostatu.
+Jednym środkiem przeciwdziałania
+zmniejszenił się, trwało się tworzywa A
+i zwiększenie ilości tworzywa C,
+czyli rozbytowa system autonomicznego.
+Mam wrażenie, że to jest też punkt wyjścia
+do później już charakteru człowieka, tak?
+Tak, tego starości i tak dalej,
+czyli tego rozbodowa systemu autonomicznego
+i tych endogę, jak to było,
+exostatyków i endostatyków, tak?
+Tak, do dynamismu charakteru.
+Tak, to chyba to już w tym kierunku
+tej profesor idzie, ale ja mam tutaj
+zapisane zapisane przykład, czy to jest za te kwatne,
+jest to tak jak zinflacją, czyli
+gdy pieniądze tracą na wartości,
+to trzeba ich mieć coraz więcej,
+czy to jest też tego, bo ta po prostu
+zmienia, zwiększa się ilość
+przy tworzywa poprzez zmianę jakości tworzywa?
+Kamyciek do ogóltka, co jest pieniądz?
+Waluta?
+Trzymajmy waluta?
+Wiem, szczególnie zdefiniowaliśmy, znaczy
+no nie, no to nie znalne przez nieznane, tak?
+Pieniądze jest to relacja pomiędzy
+kupującymi asprzedającym.
+To jest jedna definicja, która jest
+rzuteczna, to jest naprawdę.
+No i teraz jeżeli to naby ci relacja
+pomiędzy kupującymi asprzedającym,
+to jeżeli jest coś to nazywane
+infracją, czyli jakby to powiedzieć,
+sprzedających, co więcej tego, co chciał
+i to wtedy jest infracja.
+Jeżeli sprzedających, co więcej tego,
+to mamy defrację.
+No to dobra, to i jakby się mogę odbywać
+ta rozbudowa system autonomicznego
+w takim razie, bo jakoś rozbudowa
+rozumiem, że co rozbudowa
+komulatora w jaki sposób musiała być nastąpić, tak?
+Jeżeli mamy jakieś zbreżenia
+w naszym otoczeniu, bo z tą prowisją
+prowadzę, że przeciwdziałanie,
+pewnym oddziału, a nie otoczenia,
+żebyśmy w nim nie mogli
+tak małej zastować.
+Jeżeli teraz mamy sobie żyć, żeby nas wiar
+nie zmuchnął, no to musimy być odpowiednio
+ciężcy, żeby wiar z nas nie zmuchnął, tak?
+Było punkty widzenia.
+Potem pytanie jak duży możemy urostąć.
+To znowu to jest skorulowany z parametrami
+pudełka, w jakim żyjemy.
+Tak, żebyśmy generalnie
+byli w stanie efektywnie się sterować,
+żebyśmy na przykład nie mieli kości za długi,
+bo by byłam głamiwe, żebyśmy nie warzili
+za dużo, bo będziemy mieli problemy
+się sporuszanie i tak dalej,
+będziemy wtedy do punktu takiego,
+co docent peseczki już potem nazwał
+systemem swobodnym, albo systemem nie swobodnym.
+System swobodnym to jest taki,
+który jest ogranicza na i rozbudowie
+i tu jest dowód wzorcowy,
+czy system powinni się rozasać
+tylko pewnej okresionej wartości,
+bo jeżeli będzie się rozrastał bardziej,
+to jego existencja w czasie się skróci.
+Ale tu już idziemy w kwestie właśnie
+tego, co możemy potem określić właśnie
+rozbudową systemu autonomicznego,
+jego maksymalizacją,
+w rozumieniu masowym,
+a potem trwania w czasie,
+czyli ta rozbudowa systemu autonomicznego
+jest tak zrogo na przez
+po prostu na ture,
+że człowiek się rozbudowuje bardzo szybko,
+szczególnie w tym okresie,
+kiedy jest jeszcze włośnie matki,
+mamy na podziały komórkowe
+bodanie 50 kilka,
+to czyli komórka dzieli na 2,
+potencjała masy,
+potem zdoby się dzieli,
+tak dalej,
+więc ta jakość tworzyła jest największa,
+więc ten system rozbudowuje się wtedy
+najszybciej,
+bo wtedy ta jakość jest najlepsza
+i powielanie tam rozbudowa
+jest najepiektyniejsza.
+O tym człowiek przychodzi
+już na ten świat,
+gdzie musi walczyć samo siebie,
+jego rozbudowa nadal jest bardzo szybka,
+ale już w wolniej szaniczym wło nie matki,
+aż mniej więcej gdzieś tam w okolicy,
+tylko 5 roku z tyśnie,
+kończy swoją rozbudowy
+i nigdy już nie będzie większy
+w rozumieniu masy,
+chyba że jakaś tam tłuszcz,
+czy coś takiego czy mięśnie,
+ale z punktu widzenia optimu
+pewne, to już to okunty
+zakonowano jego kodzidena
+i jaka powinna być ta równowa
+taka funkcjonalna,
+już tam nie urośnie w sensie
+wzrostu,
+już musi jest to pynie zginion,
+urostną palc nie będziemy więcej
+i tak dalej, więc jest też
+tak granicach,
+gdzie to powinno być,
+a potem zaczyna się walka
+o to, żeby podtrzymać
+ten optymalny stan,
+bo o to,
+o to, że nie w tym my żyjemy,
+właśnie powoduje te,
+te modynamiczne zmiany,
+czyli entropie
+i spatek jakości struktury,
+które cały czas następują
+od momentu,
+kiedy człowiek jest początek do,
+do jego śmierci,
+no i potem wspomniałeś też
+o tym przejści,
+że w pewnym momencie bakuj nam
+ten emocji fizjologicznej,
+czyli tej kryjny jest nasza,
+którą możemy oddziaływać,
+to, żeby móc oddziaływać
+daje na otoczenie,
+człowiek,
+jaką systemy,
+co są autonomyślne,
+ma taką zdolność,
+żeby móc pozyskiwać
+z otoczenia,
+i to wtedy w przechodzimy
+na emocji fizjologiczną,
+i dlatego na przykład
+mamy coś takiego,
+że jeżeli dziadek
+chce się napić herbaty,
+to poprosi swojego wnuczka,
+wnuczek ma nadmiar energii,
+więc ochenty,
+tą herbatę dziadkowi
+zrobi,
+bo dziadek ma zawsze fajny,
+pomysł, więc coś wymyśli,
+albo coś opowie,
+a wnuczysz zawsze
+ma nadmiar energii,
+bo taka jest,
+natura,
+że on tej energii
+musi gromadzić dużo przetwarzać
+i nadwyżki widać do otoczenia,
+więc zdolnośćka będzie łatwiej
+przez zrobienie herbaty.
+I ta równowaga,
+potem przynosi się
+z poziomu pojedniczego człowieka,
+na poziom jego rodziny,
+czy poziom rodu,
+czy potem poziom narodu,
+aż na poziom całej
+ludzkości.
+No i tu jest właśnie kwestia tego,
+jak ta moc,
+która musi wykonywać
+zmiany w otoczeniu,
+żeby człowiek musi jeź,
+ogrzeć się,
+móc odpocząć,
+musi być zapewniana
+w ciągłości kultowej,
+zwanej ludzkością,
+a poziomie całej planety.
+I w związku z tym takie rozważanie,
+jak sobie tutaj bawiliśmy się z impostem,
+przemieszczeniach jakichś,
+elementu energomaterialnego,
+czasoprzez czynnego z punktu adu,
+punktu b,
+różnego to punktu dami
+i lolić te dodoknie
+jak i to czas zajmie i tak dalej.
+Może być takim identyfikatorem
+indywidualnym,
+ale z punktu widzenia
+o zogazatoryki społecznej,
+to jednak powinniśmy przyjść na narody,
+jako ten byt,
+na czerwne,
+różnorodnych,
+który jest w stanie dobrowolnie
+ze sobą spimpracować,
+i gdzieś tutaj musimy patrywać
+tego właśnie,
+czynnikami mierzonego.
+No i wtedy się okazuje,
+że firma nie jest z bytem sobie amuzot,
+tylko firma jest,
+ciągle jak już narodu i tak dalej.
+Mówi się, że kapital nie ma narodowości tak.
+A ja w ten sposób pokazuje,
+że czywistość,
+to już chyba tylko ufonie,
+wieży w to, że tak,
+coś jest wymysł,
+fanabarniowi i metodomalipulacji,
+bo nagnie się okazuje,
+że wszystko o narodu.
+Tak,
+właśnie to jest fajciekawa,
+właśnie to jest tam od cybernetiki,
+że kiedyś sobie,
+że to znaczy,
+że to znaczy,
+że wyprzekładać na różne,
+ten zorzec do różnych strep,
+obszarów życia
+i funkcjonowania,
+to na zawsze
+była jakieś,
+właca się jakieś,
+bardzo prostych,
+często oczywistych wniosków, nie?
+I,
+niestety czasem nie podażalnych,
+ale, że,
+jak gdyby była jeszcze bardziej rozwijana
+i,
+i doprecyzowywana
+i, wchodziła na coraz ciekawszego przera,
+to pewnie też moglibyśmy
+z tego wywyniskowym,
+już długo rozmawiam,
+ale jeszcze jedną rzecz,
+ja bym powołoszyć.
+Nie wiem,
+czy ty widzisz tą kliurzeczkę przed sobą,
+tą podstawę tej cybernetiki,
+a dzisiaj,
+okorak wybitnie,
+najniepowłuje jakoś,
+bo mam to taki wykres,
+przyjmując w uproszczeniu,
+że moc przetwarzania
+przez system autonomiczny,
+czyli jego moc,
+fizjologiczna p,
+jest proporcjonalna
+do jakości a i ilości c,
+tego tworzywa,
+można napisać.
+I mam taki wykres,
+bo,
+taki,
+z krsztymi,
+i teraz,
+w odróżnion tego,
+szczególnego przypadku,
+rozbudowa równomierna,
+przebiega szybciej niż starzenie,
+gdy współczynnik rozbudowy C,
+jest w przodspółczynika starzenia A.
+W wolniejzaść,
+dyspółczynik rozbudowy C,
+jest w mniejszy odspółczynika starzenia A.
+Takie dosyć oczywiste rzeczy,
+natomiast,
+ja przejdę od razu do wniosku.
+Z wykresu tego można wysunąć
+następujące wnioski.
+Po pierwsze,
+gdy chodzi o rozumnażenie,
+natomiast stawia człowiekowi
+wysokie wypowiadania,
+co do mocy,
+co na niej około 95%,
+czyli 95% maksymalnej,
+mocy dyspozycyjnej.
+Po drugie,
+człowiek osiąga maksymalną,
+mocy dyspozycyjną i wieku,
+około 28 lat.
+Potrzeb,
+i paradoxa,
+jakby to nie brzmiało,
+cywerne,
+tylko lego opostaw,
+tego,
+że moja żona zgodziła się na,
+na to,
+że to już jestem ołasz na dziecko.
+Matematycznie nie podważali,
+ale potrzecie,
+mocy dyspozycyjna powieka,
+maksimum,
+bardzo płaskie,
+czyli niewiele się zmienia
+w okresie zdolności prokracyjnej,
+wynawia się inni dziwnego,
+że w tym okresie człowiek
+ma poczucie niezmienności sił życiowych,
+no i po czwartę życie ludzkie,
+czas tezet,
+może trwać uwaga około 160 lat.
+To mi ciekawe,
+dlaczego akurat tak to,
+musiałbyś mi ty wytłumaczyć,
+ma to matematycznego punktu widzenia,
+dlaczego to jest.
+Możeś się jakoś do tego wszystkiego odniesiesz.
+Praceniaż mi to,
+ja nie jestem mazu,
+że był nasz taki rzeczy,
+czy pytaw im liczyć,
+ja jestem z kromnym,
+mały metodsybilny,
+ale generalnie pomysł,
+że znajomyłaś ci matematyki,
+czy fizyki,
+to profesora ma zure,
+bo z tydzień była ziemia,
+no i aż tak pięknie,
+gdzie to mnie nie jest,
+żeby pytaw im takie,
+by liczenia zrobić.
+No to my,
+właśnie to są,
+to są to, że przydały się
+trochę więcej matematyków,
+to, że są też cyberny,
+tekami i z tego można byłoby,
+z tych wzorców,
+które tutaj są już podważone,
+można byłoby to jeszcze bardziej podoprytacować
+i podochodzi bardzo ciekawy wniosków.
+No poczekaj, poczekaj,
+jest te guntkę,
+jeśli można,
+to tak, żeby nie zostawić Państwo,
+to jest z takim niedosytem,
+to ja, że nie potrafię tego powtórzy,
+to nie zazwyczaj nie wiem,
+gdzie to jest,
+bo mamy książkę na zura,
+teoria systemu autonomicznej,
+tamte wszystkie wyliczenia są,
+ta cała matematyka jest,
+można sobie ją wziąć,
+i po prostu nie potrafię powtórzyć z głową,
+tak, że to jest moja ułowność,
+ale nie, że nie wie,
+gdzie zajrzeć,
+po to wiedzę.
+Tam zapraszam do tworzenia systemu autonomicznej ma zura,
+tam, tą całą wiedzę,
+z wyliczenia,
+tak, tak, tam,
+to my, same te,
+same te ciekawostki,
+to są takie ciekawostki,
+ale myślę, że dają dużo,
+też do myślenia,
+natomiast też,
+jeszcze tak wrzuca
+do tego, co w czasie mówiłeś,
+wiążącego się też toch z tym,
+że,
+jednak przez to, że społeczeństwa
+coraz bardziej się starzają,
+będą też coraz niskłonne,
+na przykład,
+do boję,
+bo będą miał coraz mimo,
+co jest w ogóle,
+czy będą coraz bardziej skłonne,
+na przykład do boję,
+przez to, że nie będą miały
+w Polsce swobodnej.
+Będą coraz bardziej skłonne tego,
+żeby tocić wojny
+rękami innych,
+ludzie,
+bo już nie będą korzystały
+do wojen z mocnej,
+fizjologicznej,
+to jest złej własnej,
+tylko z mocnej,
+socjologicznej,
+czyli będą chcieli innej
+na wojny wysyłać.
+Więc ta, żejące się
+mocno,
+swój imperia,
+szukają sobie,
+ścieży,
+żywej, która będzie
+w ich menu walczyła,
+mamy przykład
+rozpadł rzymskie
+cyllizacji,
+kiedy tak naprawdę
+zdziągnęli sobie
+chuny w walczyli w ich menu,
+a potem,
+później sobie
+przejagali się po rzmie
+i wzięli, co chcieli.
+I temu w tym
+istycznym akcentem,
+myślę, że
+doszliśmy do końca,
+dziękujemy wam
+za dzisiejszy udział.
+Jeżeli macie
+kilkolwiek pytania,
+to zapiszcie je też
+w komentarzach,
+Dominik ten pierwszy tydzień
+po publikacji,
+będzie odpowiadał
+i mam nadzieję,
+że to też
+w powoduje, że
+pobudzimy się
+wspólnie intelektualnie,
+może pają się jakieś
+nowe pomysły,
+też idziełem kilka pomysłów
+już na jakieś odcinek,
+więc też to
+będzie wszystko
+sobie skrzednie agreguje.
+I jak już przejdziemy,
+że całe ten taki podstawy,
+żebyśmy mogli się później
+odwoływać właśnie
+niestety w tym stylu,
+czy my stalen,
+tylko odwołacie do filmiku.
+Na przykład,
+gdzie o tym mówimy,
+to wtedy będziemy sobie
+coraz takie
+ciekawsze niemancerować
+i pewnie też będziemy
+coraz więcej takich rozważań,
+może faktycznie
+jakieś matematyków
+pozapraszamy,
+żeby zimina
+ten temat po rozmawiać.
+Dzięki wielkie
+i do zobaczenia.
+To wszystko na dziś.
+Dziękuję za twój czas.
+Pamiętaj,
+wiedza o systemach
+i procesach,
+to realna przewaga w świecie,
+który staje się coraz bardziej złożony.
+Jeśli chcesz być okrok przed innymi,
+wykorzystując potężne na rzędzia polskiej szkoły cybernetycznej,
+by lepiej funkcjonować w biznesie i w życiu,
+to jesteś w idealnym miejscu.
+Ale to dopiero początek twojej drogi.
+Nie zatrzymuj się.
+Kliknij w następnym materiał,
+który właśnie pojawił się na ekranie,
+aby kontynuować proces
+z tym,
+aby się nie znać.
+Że właśnie pojawił się na ekranie,
+aby kontynuować proces zdobywania wiedzy
+i stawać się coraz lepszym.
+Do zobaczenia w Krótce.

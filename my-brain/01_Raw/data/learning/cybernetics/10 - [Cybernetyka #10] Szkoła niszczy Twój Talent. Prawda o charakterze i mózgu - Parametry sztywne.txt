@@ -1,0 +1,1206 @@
+Dlatego tak się to spastwien od tym, że definiowanie stało się w naszych czasach najlepszym obronom przed manipulacją.
+Bo większość manipulacji, które w tym momencie jest wokół nazwim fosferze, polega na tym, że podmienia się znaczenie słów, że charakter jest to zespół sztywnych właściwości sterowniczych.
+A jak będziemy próbowali rozwijać w tych wszystkich rzeczy, gdzie jesteśmy średniakami albo jesteśmy słabi i próbowali je doczonąć do średniej, to nie śladbimy rożnicy. Co najwyżej dołączmy do średnich.
+Witam wszystkich bardzo serdecznie, nazywam się Marcin Kapusta, zewnął cybernetek Dominik Dudek, a cybernetek Dominik Dudek.
+I dziś do warsztat bierzemy, no i takich chyba jeden z najciekawszych tematów albo takich chyba najbardziej nosi, czyli cybernetyka AHA-lakter w ujęciu profesora Mariana Mazura.
+No myślę, że to jest taka podstawa, o której większość chyba nawet zaczyna cybernetykę i swoją przygodę z tym obszarem, więc serdecznie zapraszamy was do wysłuchania tej rozmowy.
+Jak sterować firmą, karierą i życiem, by osiągać 10 razy lepsze wyniki. Odpowiedzią jest cybernetyka, nauka o sterowaniu, wszystkim, od twojej firmy przez rozwój osobisty, aż pomychanizmy społeczne.
+Przedwami Marcin Kapusta, praktyk transformacji cyfrowej i wdrożeń AI oraz Dominik Dudek, architekt systemów i meta cybernetyk.
+W tym podkaście przełożymy skomplikowaną teorię na konkretne narzędzia do twojej dyspozycji. Zaczynamy.
+Na wniena początek przydałoby nam się zdefiniować, czy wiskara, aktyrwu ujęcie cybernetycznym.
+Od tradycyjnej już zrobił Fikałka i wywrócić to wszystko.
+Po najpierw tak naprawdę pomazu rozku chciałbym zwrócić uwagę na to, że my nie pasjemy się nad słowem.
+Tylko słowo jest okresie niem zjawiska, który tutaj mówimy.
+Wydaje, że na to bardzo tutaj mocno zwracał uwagę, żeby właśnie nie podchodzić do kwestii potocznego wyrazu charakter,
+bo jeżeli sobie podstawimy potoczne zdaczenie do tego słowa, to cały zbudowana wiedza,
+a potem na podstawie tego właśnie naszego wyobrażenia o słowie będzie się odnośladę słowo.
+A chodzi o to, że tak naprawdę my ozny pewne pojęcie tutaj wprowadzamy jako charakter i to pojęcie będzie dla nas oznacza na tym słowem.
+To jest bardzo istotne, żeby podwłaśnie słowem charakter rozumieć tylko i wyłącznie to,
+co my sobie tutaj pomazu rozku teraz podefinujemy, bo jak popatrzymy na znaczenie tego słowa,
+to poś tego potocznego, ktoś ma ta obry charakter, złych charakter, co jest w ogóle z punktu widzenia o szteczności,
+totalnie nie będę użyła na myl, który właściwie, ale totalnie nie użyteczne niesta robicza,
+bo jak już wspomniałem dobry i zły w poprzedniej nagranach to są relacje pomiędzy część a część,
+więc trzeba określić pomiędzy czym i czym jest lenden, czego.
+Po tym charakter to w zrozumieniu potocznym głównie odnosi się do pewnej osobowości do tego jakim człowiek jest
+sposobieniem do innych ludzi, co w tym przypadku jest pełną desinformacją,
+bo odnosi się do czegoś zupełnie innego, do czegoś szerszego i na innym poziomie wiedzy,
+bo to jest do poziomu filozofii, do poziomu sztuki, a my w poziomie nauki musimy sobie definiować pojedcia dokładnie
+i przyjmować to słowo jako pewnego rodzaju odniesienie do zesignatu,
+tym ta nas jest konkretnym byd, jakim jest charakter.
+No i właśnie, żeby to zrozumieć, to dlatego tak właśnie za mazurem zecytuje.
+Nie wyraz charakter jest istotny, ale co za napostawię konwencji terminu licznej oznaczonym tym wyrazem,
+choć mógłbym i nam tak pisze, mazure właśnie w cybernej.
+Ok, dobra, proszę tutaj o wyjaśnienia tego cytatu.
+No bo w generalnie mazur z wszystkich dostępnych słów, jakie są w języku polskim,
+musiał wybierać jakieś konkretne słowa i przepisywać je do bytu, który opisywał.
+Generalnie popełni też taką książkę terminologię techniczną,
+Mariana ma zrób, gdzie po prostu pasty się nad całą problematyką związanym z nazywnictwem,
+pewnej rzeczy, by w naukach technicznych, jeden inżynier z drugim, inżynierem
+byli w stanie jeżdżować po jakim bycie oni, mówią o jakim jest jamisku,
+czy jakim urządzeniu technicznym, czy jakim parametrym urządzeń,
+czy jakich ceszy tego urządzenia.
+No i proszę zauważyć się to naprawdę, dlatego tak się teraz pastwie nad tym,
+że definiowanie stało się w naszych czasach najlepszym obronom przed manipulacją.
+Bo większość manipulacji, które w tym momencie jest wokół nazwim fosferze,
+polega na tym, że podmienia się znaczenie słów.
+Jeśli różła się tego samego słowa, żeby nazwać coś innego.
+No i potem mamy różne kwiatki, takie, że dwóch ludzi się kucie o znaczenie słowa,
+a nie kucie się obyt, który jest jego decyzjaty.
+I w ten sposób sobie świata dwóch manipulatorów,
+regenę sobie pod stołem podadzą, zaczynają się kucić na poziomie kielisłowa,
+a wszyscy ci ludzie, którzy wokół są i obserwują ich kutnie o to słowo,
+widzą teatr, a nie widzą grzeczy, która polega na tym,
+że tam to rozmywanie jest celem, a nie samadęskutie nad znaczeniem słowa.
+Tak, no gdyby ktoś chciał bardziej się zgłębić na tym obszarze,
+to chyba nasze pierwsze w ogóle nagranie, właśnie dotyczy też tego,
+że cybernetyka jest bardzo zdefiniowana.
+By tutaj idziemy definicja mnicyberne, tycznymi,
+natomiast bardzo mi zainterkowały z tym cytatem profesora Mazura
+i gdybyśmy jakby dotrachę nam rozbicie,
+jakby opisać go najczęściej pierwszego troszeczkę,
+to wtedy może byśmy lepiej zrozumieli,
+jak Mazur potrzedł do nazywnictwa i tutaj zwłaszcza,
+że je chodzi o charakter człowieka tak.
+Oto jeszcze raz nie wyraz charakter jest w tym istotny lecz to,
+co na podstawie konwencji terminologicznej,
+to znaczyłem tym wyrazem, choć mógł bym innym.
+I chodzi o to, co proszę o zauważyć,
+że charakter jest to wyraz, w języku polskim,
+który został przez Mazura w ramach konwencji terminologicznej,
+czyli czegoś co ja teraz nazywam ładnie semantyczno-relacyjnym,
+po uporządkowaniu tego przyskoseckiego,
+przypisany do konkretnego znaczenia.
+W tym przypadku właśnie parametrów sztywnych człowieka,
+czyli takich, które są niezmiedne.
+Po to zaraz sobie tutaj zdefiniujemy dokładnie charakter,
+ale chciałbym pewien ciąg logiczny zachować.
+I proszę tutaj zwrócić uwagę na to jeszcze, co jest.
+Oznaczyłem tym wyrazem, choć mógł bym innym.
+Czyli to jest znowu to, co nadmieniłem,
+że nie ważne jest jakiego słowa ma używam.
+Ważne jest o jakim bycie, czy o jakim systemie,
+czy o jakim zjawiskum rozmawiamy.
+Bo to jest istota.
+To, że my słowa używamy jako pewnego określenia,
+to jest nasz wybuch konwencji terminologicznej
+albo ładosematyczno-relacyjnego.
+I jedynek co musimy pamiętać,
+to jeżeli raz wyramak w swojej konwencji terminologicznej,
+albo ładosematyczno-relacyjnego,
+przypisany określonych schodów, w jednim obytowi,
+to myśmy się tego potem trzymać.
+I proszę zauwać, jak to jest skuteczna forma podowania.
+Jeżeli ktoś będzie chciał zakładać cenzure,
+w jakikolwiek sposób,
+a my sobie podstawimy pod słowa indeznaczenia,
+to ta cenzura, a kla jest w internecie,
+może nie być skuteczna.
+Jak przykład tam od razu, żeby to fajnie zaprzymiało.
+Tylko ja nie chciał wiesz,
+do mnie grzybyśmy tutaj znowu zrobili dyskusja,
+jeszcze maltyce.
+Czy to, okey.
+No i jak nie?
+No i jak nie?
+Dostępnie do rany definiowaniu jest najważniejszą kwestię.
+To już konflucjusz 2,5 tysięcy.
+Ale już to przerabialiśmy,
+tutaj ktoś już odpłoto,
+żeby się o charakterze coś dowiedzieć.
+To mój charakter jest taki,
+że generalnie definiowanie jest sztywne.
+Mabyć sztywne, tak?
+Ładze, mam też to relacji,
+mój sztywki.
+Dobra, okey.
+To tylko dopyczy tę degresję.
+A właściwie to zapewniając się,
+miałam powiedzieć, cinkowieci.
+Czy to jedziemy dalej?
+Dla wszystkich, którzy mówią,
+że Dominikowi przerywam i wchodzę,
+my mamy z Dominikiem taką umowę, właśnie,
+żeby to było dziś zwardość, zwięzłe,
+to ja po prostu muszę czasem wejść.
+A czasem po prostu muszę zrobić taką przerwę,
+żeby nakierować to dla tych wszystkich bądków,
+że ktoś mówi, że nie szaluje rozmówcy i mu przerywam.
+Na tym polega taką dwencję,
+można było trzymać się wątków,
+i ja to trochę pełnie to taką okrutną rolę,
+strażnika czasu, nawet trochę.
+Co też nie zawsze mi wychodzi,
+powiedz sobie odpawić.
+Tak, tylko to jest zły,
+to w ramach nasz umowuje,
+mam też pozwolenie na być jezłuszny.
+Tak.
+Tak, tak.
+A ja mam też pozwolenie na czasem wycieńcie
+niektóryzłośliwych fragmentów,
+które czasem znikają.
+To też jest też taka historia,
+więc jakby...
+Także wiele, że tak, żebyście wiedzieli,
+że nie mamy wszystko te materiały,
+które są publikowane,
+są zalazzą obo bólną zgodą publikowane.
+Ale dobra, wracając do charakteru,
+to znowu posłużę się,
+czy to tam jest cyberentykiej charakter.
+Spostśród właściwości każdego systema autonomicznego
+można wyróźnić właściwości odrywające rolę
+w zapodzących w nim procesach sterownicie,
+czyli właściwości sterownicze,
+czyli charakter jest właściwością sterownicją człowiek.
+Oprócz tego, znowu wracam do czstaku,
+można wyróżnić właściwości niezależne od działowania otoczenia,
+z wyjątkiem, od działowanii śrzących,
+bo w niszciej zawsze możemy wszystko i te zwłatwiejsze.
+Czyli właściwości sztywni,
+czyli właściwości szcynety,
+w sąte właściwości, które nie zależy od otoczenia w reszam bethsatu,
+pojęcie to obojmuje właściwości stałe
+oraz właściwości zmieniające się niezależnie od otoczenia.
+Czyli na przykład, to jak człowiek,
+rośnie, jako ten człowiek poczenty
+od jednej komórki rozwije się po działku mórkowego,
+zwiększa swoją masę,
+to jest niezależne otoczenia.
+To jest zależne od programu, który jest w człowieku,
+jego po prostu kody DNA,
+w którym jest jego obraz na przyszłość.
+To się zmienia niezależnie otoczenia.
+Czyli otoczenie nie może wpłynąć na zmianę programu człowieka,
+jak im jest kodyera, chyba że niszcząco,
+ale to takie działanie pobomijamy na prawek.
+No i jak sobie patrzymy na takie właściwości sterownicze,
+człowieka to ma mi ich dwa rodzaje,
+nie sztywne i sztywne.
+Czyli sztywne to są tektury nie podlegają zmianie
+i nie sztywne tektury możemy kształtować.
+Przykładem takiego nie sztywnego jest, na przykład,
+znajomyź języka, możemy się nauczyć chińskiego,
+manzulskiego, możemy się nauczyć słachilii etc.
+Nie sztywnym parametrom jest też kwestia taka,
+że możemy zdobyć jakąś wiedzę o historii.
+Możemy się nauczyć tańczyć,
+to też jest parametr nie sztywne.
+No i mamy właściwości sterownicze i sztywne.
+To są takie, które nie podlegają zmianie.
+Mamy dwie recy, to jest parametr sterownicze.
+Możemy sterować naszymi rękami,
+ale sztywny trzecie ręki sobie nie wyhoduje.
+Mamy parametr kolejny, taki sztywny, który jest noga.
+Mamy dwie nogi, nie wyhodujemy sobie czuć.
+Parametrom sterowniczym i sztywnym jest serce.
+Ono steruje bie.
+Naszym rytmem pompuje krew, odpowiada za rozprowadzenie akumulacji.
+Wrożnego typu materiałów, które są w naszym człowieku.
+Ale jeszcze w jednej postawie drugiego serca nie wyhodujemy.
+Jak mam to serce ulegie zyszczeniu, to na jego miejsce też subinowego nie wyhoduje.
+No i to słuchajnie te elementy.
+No i patrząc, jeżeli patrzą mnie o charakterze,
+to definicja ma zrózpa charakteristaka,
+że charakter jest to zespół sztywnych właściwości sterownicze.
+Czyli tych, które są nas i potrafią okresić naszą reaktywność.
+Czyli to, co my jako człowiek, jako system procesy autonomicznego.
+Więc w skrócie potrafimy zrobić, nie potrzebne skreślić,
+przeciwdziałać, przeciwdziałać po prostu transformować bodziec,
+który jest dotoczenia na koniec celową naszą reakcję.
+Czyli od naszego charakteru zależy to, w jaki sposób otoczenie, które nas oddziałuje.
+My przerabiamy i oddziałujemy na nie,
+tak żeby było zgodne z naszym, tutaj wizją naszym celem.
+Czyli próbuję sobie powiedzieć tak w jednym zdaniem charakter,
+jest to zespół sztywnych parametrów,
+u wystąpujących człowieku.
+Zwłaszcza, że tym mówimy o przywodności korolecyjne do wkorylatorze
+i w akumulatorze też moglibyśmy jakieś takie elementy,
+ale tu jest bardzo ważne, że to są parametry sterownicze.
+Tak.
+Bo to jest, widzę, że charakter jest powiązany ze sterowaniem.
+Są te parametry,
+te właściwości te cechy człowieka, które służą sterowaną.
+Tak, a później na pewno po zaraz po charakterze przyjdziemy do sprzężeń,
+bo to będzie wyspośrednio z sobą powiązane.
+Czyli człowiek ma pewne sztywne parametry, które są niezmieniale,
+to chyba nawet w książce, bo to też twarto powiedzieć,
+że bo przede wszystkim od 80 tej do książki cywerny,
+taka jej charakter, profesora Maria Namazura,
+to już zdawać 20 laty, ja też pewnie z 1-2 przy tocze.
+Bo to jest taki bardzo zwięzłe, z fajny kompendium do tego,
+żeby można było sobie to przy swoich, więc gdyby to jest w was chciał,
+to może też śmiało się tym kierunku i poszukać tej książki na autonom na autonom eduk.pl.
+Więc sztywny, ze współsztywnych parametrów człowieka,
+to jest charakter.
+No i teraz gdybyśmy mieli przejść powiedzmy do tej przewodności korolacyjnej,
+czyli idziemy w ten taki niebieski prosto koncik w systemie procesa autonomicznego,
+to z czegoś się składa ten parametry sztywny,
+jaki możemy wyróżnić w korolatorze.
+Jeżeli popatrzymyśmy na ten tor informacyjny godowy, który jest,
+to profesor Maria wyróżli trzy takiej parametry.
+Ja ja najpierw wymienia, a potem będziemy opacić.
+To mamy inteligencję pojętność gitaret.
+No i tak naprawdę to jest pażeć, która te trzy elementy razem,
+bo na poziomie abstractu możemy sobie każdy z niego z rozpatrwać osobno,
+ale na poziomie bytu konkretnego, jak mi z na przykład człowiek jako zoprifikacja systemu procesa autonomicznego,
+to te trzy elementy musimy rozpatrywać razem po prostu w odniesieniu całej reszty.
+No to jest właśnie te trzy elementy toże korolacyjnym, które odpowiadają głównie za to.
+Jaka selecja błopca dotatczenia jest dla nas atrakcyjna albo Abercynna, tak?
+Czyli to jakie działania są dla nas dostępne, czyli możemy je wykonać,
+a jakich nie możemy wykonać?
+No i to jest właśnie tej kwestii odziennać z informacjami godami.
+Ok, czyli jeżeli mamy inteligencję, to jest to przede wszystkim to,
+możemy się wrócić do naszych rozmowach korolatorzy, to jest pojemność informacyjna,
+czyli to jak dużo możemy zapisać informacji, jeżeli mamy poje...
+Ok?
+Nie, jeżeli pogryziłeś palcem, to już słucham.
+Nie, no bo jak już musimy to dokładnie tak.
+Procyzyjający.
+Telegencja, odpowiada za ilość i że jest stratów, tak?
+Czyli, mówiąc po już o ileś komunikatów, jakie nasz mózd może zawsze,
+czyli tak jak się idziem do kompletnego, czyli ile mamy...
+Ok, to skąd by się wzięła pojemność informacyjna,
+bo samym tego nie by myślił, a małtowo do tatkach?
+Wzięła się stąd, że tak naprawdę Mazur napisał,
+że jakby powiedzieć poszczególny element, tak?
+Czyli w rozmianiu akcji matrznej toorii poznania, czyli komunitat,
+to u niego to jest element korelacyjny, tak?
+Nie, na rozdziwo, ale teraz element korelacyjny.
+Korelacja to są dwa elementy i relacja pomiędzy nimi, tak?
+Element korelacyjny to jest jeden z dwóch elementów i relacji pomiędzy nimi,
+który tutaj musi wystąpić, czyli jest pewnego rodzaju na poziomie matyki i sematyki.
+Sprasowanie jedynki z dwóch.
+I powiem, noż informacyjna określa już tak naprawdę stopin organizacji tych elementów pojedynczej w układy dwóch.
+Ok, dlatego idziemy do...
+Znaczy, ten wytuśnianie o 80 miliardów,
+tak jest profesorów etulanii, określi i lożnę oronów tam,
+oczywiście czas jakaś tam to było jego przybliżenie,
+to teoretycznie mamy 80 miliardów rejestratów,
+potencjalnej do zrobienia w naszym gospu,
+ale pojemność informacyjna jest dwa do potęgi osił i sił i miardów.
+Bo tyle teoretycznie może powstać relacji pomiędzy 80 miliardami i relacji.
+I tu jest właśnie to, że tak, jeżeli rozmawiamy o rejestratach,
+czy elementach koreacyjnych i nazwoma zupry,
+właśnie jest ta problematyka semantyczna do zrobienia,
+to ich mam 80 miliardów, ale informacji czy relacji pomiędzy elementami,
+które możemy na tej podstawie zbudować,
+że jest dwa do potęgi osił i miardów.
+To, że jest określa, że jest troszeczkę w skali wielkości.
+Ok, dobrze, czyli mamy już tą inteligencję,
+czyli jakbyś to ładnie jeszcze raz powiedział,
+żeby po to można było zapisać.
+To inteligencja jest to ilość punktów rejestracyjnych,
+potencjalnej rejestratów, które ma człowiek w sobie.
+Ten spraw.
+Ok, czyli jeszcze bardziej upraszczając to,
+ile możemy zarejestrować informacji, tak?
+Nie informacji rejestratów.
+Rejestratów? Ok.
+Rejestrat to jest ten komunikor, czyli jeden element.
+A informacja jest to relacja pomiędzy dwoma rejestratu.
+Zbawam tak, z jednego zbioru.
+Tak, ok.
+Dobrze?
+No, teraz mamy pojrza motynus.
+Pojrzań już?
+No to pojemność to jest tak naprawdę możliwość wytwarzania połączeń
+pomiędzy tymi rejestrotami, czyli tworzenie relacji.
+I to wchodzi nam o to, jak one mogą być,
+że tak powiem pod kątem już wejśniamy sobie
+tutaj światakunkretnego, czyli parametrwy, jakim żyjemy,
+jakiej długości mogą być te odcinki pomiędzy pościelnymi rejestrotami,
+no bo wiadomo, że tutaj odległość robi różnicę na poziomie energii,
+jak on przesyłamy i utymamy całe prawe w zikii, tak?
+Ileś koniecznej energii wzrasta w kwadracie do odległości,
+tak dalej, więc tu nie będziemy w toślić, żeby wzorami nie zamitać,
+ale po prostu odległość połow między elementami
+i szyb możliwość i szybkość tworzenia tych połączeń,
+czyli pojemność.
+I jak popatrzemy sobie na człowieka, to najlepiej to egzympryfikuje płynę
+mózgu wordzeniowy, który tworzy właśnie przestrzeń dla neuronów
+i instrukturoparty w one urony, pomiędzy w której jest możliwość
+wykonywania tych połączeń, tak?
+I płyn mózgu wordzeniowy za pomocą poddziałowania właśnie,
+które na niego się dają, łączy po neuronny za pomocą drugi przewodności
+i to jest właśnie to środowisko, które mogą posztawać korelate,
+czyli łącznie się ten rejestraty w korelate,
+czyli rejestraty łącznie się w informacji,
+czyli łącznie dwóch neuronów i relacji pomiędzy.
+OK, i teraz można powiedzieć, że do tak,
+profesor też poszłod taki obszar od 0 do 1,
+więc dla inteligencji pojęto się talentu przypisał takie możliwość,
+że z tym przykład jeżeli mówimy o talentie, że może być brak talentu
+albo wyraźny talent, jest też tak przestrzeń pewnie pomiędzy,
+którą można było by wskazać, ale na tej podstawie też później
+profesor przystworzył matryce, już się uśmiecha,
+że więc pewnie zaraz coś tutaj dorzucisz.
+Każdy brać ja tylko powiem, że profesor Mazur,
+jeżeli chodzi o inteligencję, to określimy jako nisko wysokoł,
+pojętość mało dużo no i talent, brak albo wyraźny.
+Słucham cię.
+No i ja bym ten rower egzywrocił wyżycił z tego obrazka.
+Tak naprawdę.
+OK.
+Bo to jest takiego pewnego rodzaju uproszczenie edukacyjne,
+tak to nas, tak.
+Bo profesor Mazur, chciał tą książkę napisać tak,
+żeby zrobić ją człowiek bezprzgotowania technicznego,
+bez pewnego przygotowania semantycznego
+i to była książka Pisanowra tak 70.
+W związku z tym jest to według mnie na czasy obetny nie uprawnione
+uproszczeni z tą tabelkę,
+bo po pierwsze, jeżeli byśmy tak rozmawiali,
+to musieliśmy to już konkretny talent,
+bo określić tak nie, że talent nie jest,
+ale bo go nie ma, tylko już jakiś konkretny.
+Czyli to by była taka tamerka odsorcowa,
+w której byśmy musieli wpisować dla każdego talentu inną rzecz,
+a tak tylko państwu powiem jako ciekawadkę,
+że talentem jest też to, że my umiemy oddychać, tak.
+To, że jest talentem.
+Talentem jest to, że nam się palić,
+kiskinają, talentem jest to, że możemy obłuchać.
+Oczywiście nie, ale niektórzy mogą poruszać,
+uchęmanie, niektórzy nie, tak.
+Jednak ma taki talent w ich takiego talentu nie ma.
+Więc ta tabelka jest taka dla wielu ludzi zbyt ogólna
+i wprowadza pewne ogółogólnienie,
+że talent jest czymś powiązany na sztywno charakterym,
+a talent to jest po ten trzeci paramet,
+którego my jeszcze teraz sobie nie umówiliśmy,
+a może w sumie to zrobił to teraz.
+Ok.
+No więc talent to jest już struktura,
+rozmyścia na tych po prostu rejestratów
+i zbudowanych sieci pomiędzy nimi,
+czyli talent to jest właśnie takie uzależnienie
+wzajemnego położenia tych elementów,
+sieci połącznie pomiędzy nimi.
+W czasie i przestrzeni to jest nowo wynika
+z tego, że po prostu energii amel.
+Tym świecie konkretnym, jakim żyjemy,
+ma pewne właściwości.
+Jeżeli chcemy, żeby coś było zrobione bez strady energii,
+to my się elementy bardzo wisko siebie umieścić.
+Tak naprawdę wtedy ta moc potrzebna na wykonowanie
+tych pracowizm dużo mniejszy.
+No i znowu sobie wróćmy do mojego człowieka,
+to patrzmy, że moc człowieka ma pewne wyspecjalizowane rejon.
+Tak, czyli jako przykład weźmie sobie płacczowy.
+Pewne procesy wyspecjalizowane w naszym budgu
+znappodem w płacie czołowy,
+tego co gdzieś tam, ale to proszę,
+po prostu, jak wziąć sobie jako podezoba dawczą,
+wyznaczenie celu,
+myślenia o długi stanach przyszłili i obstrakcyjnych.
+To jest prawdopodobnie tutaj pewna cecha naszego płata czołowego.
+To właśnie ten talent,
+jaki w człowieku daje możliwość się myślenia
+o stanach abtrakcyjnych i stanach przyszłych,
+nie zrealizowana w płacie czołowy,
+czyli można powiedzieć, że wtedy, że talent w ramach płata czołowego
+jest zdolność abtrakcyjnego myślenia.
+A taki inny, który nie mają płata czołowego,
+tak wytworzonego jak człowiek,
+mają tam powiedzmy tam,
+jak rybka kwaliowa 6 sekund do przodu i komencja.
+Przebę.
+Mhm.
+Ja zbę rybu, tak nie będzie.
+Chwila przerwy w programie.
+Jeśli ten podcast dał ci nową perspektywę,
+zasubskrybuj kanał i napisz w komentarzu słowo cybernetyka.
+Nie po to, żeby nabić statystyki.
+Ale żebyśmy wiedzieli, że po drugiej stronie są ludzie,
+którzy naprawdę łączą kropki.
+Twoje słowo cybernetyka to dla nas sygnał zwrotny.
+Feedback w czystej formie.
+Dzięki nie mówimy, że ta wiedza działa,
+rezonuje i że warto inwestować w kolejne odcinki.
+Bałapka w górę to impuls, a komentarz cybernetyka
+to większa informacja zwrotna i reaktywność systemu.
+Zawsze się zastanawiałem, jeżeli chodzi o talent.
+Teraz myślę, że to jest dobry moment, żeby o tym powiedzieć.
+Bardzo lubię model, bo to trzeba podkreślić, że nie wzorzec.
+W Polsce popularnie to się mówi, testu galupa.
+To jest stronie twój i dwa zero.
+A wykonało go chyba z 40-50 milionów ludzi przez ostatni tam kilka.
+10 lat. Generalnie można powiedzieć, że opar się trochę o kropie czasu.
+W zasadzie ludzi widzą, nie my wartość.
+Jest często stosowanym elementem.
+I faktycznie teza, którą stawia tam ten model jest spójna
+z tezą, którą stawia cybernetyka,
+że człowiek zawsze zmierza do tego obszaru naturalnego dla swojego talentu.
+Mam naturalną składność do działania w tym obszarze.
+Tam tak samo jest wskazany tych powiedzmy,
+tych 5 talentów, oczywiście można jest zrobić.
+Oczywiście człowiek ma jeszcze więcej talentów niż tam wskazany,
+tak jak sam wjeździą oddychanie jest talentem.
+Ale faktycznie jest wskazują,
+bo jest zdaniem na pewno, powiedzmy,
+jest to model diagnostyczny, pewnej preferencjności człowieka.
+Jestem ciekaw, naprawdę znasz ten model.
+Co myślisz, czy jesteśmy,
+jeżeli nie mamy odpowiedniego modelu,
+to czy jesteśmy wzorca,
+to czy jesteśmy w stanie podpinać powiedzmy model,
+które bardziej pasują albo gdzieś tam są spójne
+z podobnymi i z tymi te zami, które kłosić cybernetyka.
+Czy jest to jakoś forma uzupełnienia tej pustki?
+Powiedzmy.
+Czy tak, jestem wytrytyni odpaliłem test Galupa,
+który mam, że tak powiem, nie swój,
+to naprawdę ale mam jak się dziedzieli,
+że mam koło siebie.
+I tam przykład tak naprawdę.
+Teście Galupa dostajemy tam na początku tych 5 cech,
+tak głównie, które są.
+Weźmy sobie tutaj przykład jeden empatio.
+Osoby, które szczególnie wyróżnia czecha empatii,
+potrafią wyczuwać uczucie innych ludzi,
+wyobrażając sobie, że są ich,
+są na ich miejscu i ich sytuacji.
+Fajne, tak?
+Na poziomie wzofii mamy coś,
+ale generalnie do czego to się odnosi,
+jak się mierzy?
+Do jakiego wzorca to się odnosi?
+Czy jesteśmy w stanie porównąć pomier empatii u osoby,
+a z pomierem empatii u osoby B?
+Gdzie mamy wspólny pomiędzy osobą, a osobą B?
+Tak, zgaza się.
+I to jest to właśnie, co do czego zmierzałem,
+że jest duży problem z tym,
+że nie ma tutaj, ale też nie mamy,
+przynajmniej ja nie znam,
+dobrych metod diagnostycznych talentów
+w oparciu wzorze cybernetyczny,
+dlatego zapytałem czy można zastosować model,
+który jest de facto spójny, na przykład,
+tak? Pod kontyn, tylko nawet zwrócenia tego,
+że mówiliśmy sobie podczas nasza rozłowła korolatorze
+jest o to odcinek, czyli tutaj też jesteśmy w tym optarze,
+że do człowiek będzie naturalnie zmierzał do tego,
+żeby działać we przelestwę jego talentu
+i będzie nieszczęśliwie, że nie będzie korzystał.
+Jeżeli nie będziemy odpowiedniego środowiska,
+dlatego żeby realizować swój talent.
+I teraz, na przykład,
+jako jedną z elementów tego,
+dosyć ten zastosowaniu modelu technologii,
+to jest okropa,
+więc jestem ciekaw, co, czy, czy,
+czy ma w ogóle zastosowanie,
+w sensie ok, jako porówna w czemu,
+nie, ale do, na przykład, wskazania człowiekowi
+jego jakiejś pewnej preferencyjności,
+pewnego talentu
+i pozwolenia mus kupić się na tym,
+ok, jaką model diagnostyczny,
+znaczy, czy to też,
+po polacyjnej, czy coś,
+po prostu, czy coś problematyczny,
+ale czy nie wystarczyłoby go tutaj,
+to jest bardzo użyteczny pod kątem,
+pewnej przewagi, które on daje na temat wiedzy o człowieku,
+przez wiele, wiele czasu
+był bezkonkurencjony, tak naprawdę.
+Nie ma innego narzędzia,
+ale w inniach się nie było innego narzędzia,
+przez długi czas, który byłoby równie użyteczny.
+Gdzie ja zaznaczam tutaj właśnie kwestie tego,
+że, że są pewne,
+parametry, czy pewne właściwości tego testu,
+których on nie przeskoczy,
+dlatego, że istnieje rozwiązanie,
+stworzone przez Maciejam Arczewickiego,
+który nazywa się rezynasty bernetyczny,
+można o tym pocztać na stronie rezynasty bernetyczny.pl,
+który jest właśnie już
+pewnego rodzaju testem opartym powzożec,
+który daje nam odwzorcowany parametry charakteru człowieka
+pod kątembiego parametrów,
+właśnie w odniesieniu do mazurowskich prac
+i ma zuraikostwskiego tak naprawdę.
+I ta już jest kwestia taka, że dostajemy właśnie
+ten punkt odniesienia wzorcowy, dedukcyjny, abstrakcyjny,
+który służy dla nas jak bez najbardziej benedrukcji,
+jak skońcy wykładzie słonecznym,
+do tego, że było kreślić,
+w jaki sposób poruszają się planet.
+Jeśli byśmy nie mieli słońca,
+jako punktów wspólnego w okazji słonecznym,
+jako odniesienie,
+i wtedy byśmy sobie,
+jeśli jak pomiędzy sobą działują np. mars i ziemiar,
+to naprawdę,
+na podstawie oddziowania marsza i ziemiar.
+Bez tego punkt odniesienia,
+jakim jest słońce,
+sobie stwierdzić, jak to wygląda,
+to relacja pomiędzy marszem a ziemiar
+jest zmienna w czasie,
+w takich okresach,
+żeby by nam bardzo trudno ustalić.
+Dlaczego to jest tak?
+Dopiero jak wprowadzamy ten punkt odniesienia,
+jakim jest słońce,
+i okazuje, że to słońce jako ten odcinek,
+grafikacyjny,
+który ma 98% masy,
+po wodwie, że elipsy,
+po których poruszają się planety,
+ich parychalek, i tak dalej,
+to wszystko jest przewidywalne i wielcialne,
+powoduje, że możemy tak naprawdę określić parę
+międzyzimi samego marsza,
+a potem na podstawie tego możemy wyliczyć,
+jakie będzie położenie marsza z dędą z ziemi
+do wolnym czasie,
+który jest obietana.
+Przyjmiemy w przyszłości.
+Bez tego punktu z pełnego, jak miejsce słońce,
+przewidzenie tego,
+w jaki sposób poruszać się będzie ziemiar
+w dędem marsza,
+a przykładzenie,
+40 lat,
+byłoby problematyczne,
+tak naprawdę,
+bo myślili byśmy dużo więcej obliczeń wykonywać,
+dużo więcej extrapolacji
+i przybliżenie przyjmować.
+A tak mając punkt wspólny,
+jakiejś słońce,
+nawet nam się wszystko porządkuje z dędem tego punktu.
+No i właśnie mazu,
+daje nam takie punkty w świecie abstraktów,
+czyli w dorkę,
+który dają nam takich pomier,
+gdzie możemy jednego członka próbny z drugiej człowiekiem
+i przewidzieć stany przyszłe,
+jak interakcja pomiędzy tymi dwoma
+o ludźmi będzie wyglądała na podstawie ich parę
+i trwesterowni się właśnie sztywni.
+W jaki sposób będę się będą zmieniać w czasie.
+I to jest przewaga rezynanccy bionytrznego,
+i w ogóle mazurowskiego podejścia do tego,
+że możemy przede wszystkim badać też grupy ludzi
+i wzajem do działowania pomiędzy ludzi
+są też tą zauważą do cytkosecki
+i wykorzystam,
+tworząc całą dzicinąkę,
+jaką między tygodne tylko społeczne.
+OK, to za pomocą tych prac,
+o których przed chwilą powiedziałaś,
+to jesteśmy w stanie wskazać podobny sposób
+talenty jak Ugelupa.
+W sensie jesteśmy w stanie mamy tam jakieś zbiór
+30 tysiąca,
+ile jak to mniej więcej mógł wyglądać.
+Talentów to mamy naprawdę dużo,
+bo jeżeli jest to...
+Tak, właśnie na tego mnie ciekawi,
+jak to działa w tym systemie,
+o którym tu mówiłeś,
+o którym tutaj macie broczyński,
+ma uczyński.
+Macie broczyński.
+Macie broczyński, jak przygotował?
+Tak, no to generalnie właśnie
+jest kwestią tego,
+że tutaj organizorem tego testu
+powinien ich być cel,
+po co my go robimy.
+Bożeby dokonać po prostu,
+bożeby dokonać po miaru,
+to musimy wiedzieć po co jest.
+Proszę sobie wyobrazić,
+że mamy dwa punkty w przestrzeni
+i teraz mamy zmieżyć wszystkie możliwe ich paramut
+w jakiej są.
+To generalnie w matematyce pokazuję nam,
+to że to będzie jakaś abstrakcyjna,
+liczbę do rządzą do nieskończoności
+i tak naprawdę rzeczy, które możemy sobie tutaj
+próbować na tym temat powiedzieć
+i w wymiarów, które wprowadzimy
+ilości różnego typu punktu wodniesienia,
+który do tego użyjemy.
+Może by ich tam w nieskończoność.
+W obycz tego, żeby to było celowe,
+to po prostu musimy wystarczyć cel.
+No i właśnie w rezynaniu sybernetycznym
+to cel jest organizowane.
+Jeżeli na przykład chcemy stworzyć grupę,
+która masterować jakiś procesem,
+to określamy, jakim procesem mają sterować.
+Jeżeli sobie określamy,
+jaki ten proces jest,
+czyli jakiej zegodce,
+jakamy to do jakiej zasoby,
+to pod kontyntę tego.
+Możemy wtedy dobierać ludzi.
+No i wtedy się okazuje, że to badanie,
+że jest celowe,
+bo my szukamy jakiś określonych cech w ramach.
+Systemów procesy o tym licznego,
+jakim są ludzie, którzy mają w ramach metach procesów,
+zbudowanego zwiększulności ludzi,
+zrealizować jakiś konkretny metacel
+na całej grupy ludzi.
+I pod tym kątem,
+bierzemy sobie tabelkę,
+co musi być,
+czyli deducienie o tym wzorca,
+wychodzi mi, jak jest potem,
+jaka metoda,
+jakiej zasoby muszą być.
+Sprawdzamy paramę tym człowiek
+i wypełniamy sobie, jak w Bingo, tak?
+To jest, to jest, to jest,
+tego mnie jeszcze brakuje
+i budujemy z grupy ludzi po prostu
+taki układ,
+taki właśnie system procesu,
+który będzie do tego celowo
+mógł nas doprowadzić, tak?
+W wieluście.
+Ok, to chyba będziemy się
+i pozbędzie na to,
+dzielno odcinek i zaprosić tutaj
+to dyskusji na ten temat,
+kogoś jeszcze.
+Jak w to razie,
+tutaj, no,
+już się zgodzi, zapraszamy,
+już nawet teraz.
+Tutaj idę za profesorem mazurem,
+nie porozumienie polega na tym,
+że parametry
+intelektów są sztywne biologicznie,
+żadna siła nie zdoła doprowadzić
+do zwiększenia komuś inteligencji,
+bo niemożliwe jest dodaniem
+mu elementów w mózgu,
+ani pojątność,
+bo niemożliwe jest z zagęszczenie
+rozmieszczenia
+tak,
+taki grupy elementów w mózgu.
+Coś tu chyba
+mamy tak w każdy razie.
+Nie, dobrze, to możecie to ten,
+czyli po prostu nie jesteś w stanie
+w ludzkim mózgu,
+jakby to będzie wszystkie
+te określonej,
+które są w jednym miejscu,
+jeśli tak,
+bo mamy ograniczenie,
+po prostu parametrów świata
+w tym żyjemy
+i na urą zawimuje jakąś przestrzeń,
+określone.
+W związku z tym,
+na określone,
+nie wiem,
+w jakimś miejscu,
+konkretnym mózgu,
+możecie się zmieścić,
+tylko jakaś określona
+ilości tych do umaronów i stąd
+musi być ten podział w ramach naszego mózgu,
+tak,
+ale stąd właśnie,
+nawet w ramach naszego mózgu,
+są różne talenty
+rozmięszone przestrzeń,
+a nie da się wszystkich
+zrobić tym samym miejscu,
+tak, co byłoby idealny.
+Z prawego widzenia
+przebiegów energomaterialnym.
+Dobra, więc przeżyliśmy
+te parametry sztywne
+w procesie korolacyjnym,
+ale teraz przydałoby się w tym
+energomaterialnym
+i tutaj przejdziemy
+kładodynemizm ochara kteru
+bezpośrednio.
+Czy chciałbyś jeszcze coś
+zanim przyjdziem do dynamisumu powiedzieć?
+No, w sobie to może byśmy
+to poczyli na dwa odcinki,
+więc byśmy się jeszcze
+mogli trochę podpatwić
+tutaj nad
+samym haramakterylinat
+tymi informacyjnymi
+elementami,
+tak, żeby trochę jeszcze
+wrócić do tej bodzu.
+Bo, bo akcyt są
+właśnie te oddziaływania,
+które wpływają na nas informacyjno-kodowy.
+Dobra, to już nie tłumacz.
+Teraz tylko,
+bo tu macysz mi na tym.
+Dobra, bo to,
+teraz taki w razie
+robimy cięcie
+i
+i teraz przed
+takiej płynnego pytania,
+żebyśmy mogli
+se to ładnie wiecieć.
+Dobra?
+No, ok,
+i to wierzące mnie ten,
+możesz zapytać,
+tak naprawdę,
+o
+pewnego rodzaju,
+skoro,
+jesteśmy
+w tej informacji
+i kodów i bodica,
+to,
+o to, jak bodcy mają się do
+charakteru
+i dlaczego niektóre bodcy
+dla człowieka są,
+takie, że go biorą,
+czy tak pojęcie w słowie,
+a na inny,
+po prostu wbomija
+i w ogóle na nie nie rało się.
+No to też idziemy do reaktywności.
+Że to jest właśnie kwestia też
+tych,
+znaczy nie całej reaktywności,
+czyli tak, bo reaktywność
+to masz i całego systemu, nie?
+A tutaj mówimy
+o bodica, tak naprawdę, teraz, nie?
+Ok.
+To ja za dą pytań
+i idziemy w to,
+jestem ciekaw,
+i już bym dozaczył dopytywać,
+a tak wiesz,
+dobra?
+Dobra.
+No dobra do mnie,
+to jeszcze chciałbym
+coś nadmienić o bodcach, tak?
+Prze,
+przy tym procesie korelacyjnym
+w obszarze charakteru,
+więc,
+zemieniam się słuch.
+No bo,
+proszę zauważyć,
+z którą mamy
+różną inteligencję,
+różną pojętym,
+już i różne talenty,
+i nie ma dwóch takich
+samych ludzi,
+z związku z tym,
+możemy być oność miasek,
+że w skutie gruźnić charakterów,
+upościglunnych ludzi,
+bodcy,
+które są atrakcyjne dla mnie,
+mogą być totalnie nieatrakcyjne,
+czyli agresyjne dla
+innego człowieka.
+I widzę, wiesz co?
+Coś co jest
+atrakcyjne dla groźnego?
+Dla mnie będzie
+a wersyjny.
+I to jest właśnie kwestia,
+którą parametry
+informacyjno-kodowe określają nam.
+Jaka selekcja bodców
+z otoczenia będzie dla człowieka
+powodowała, że
+w jego otoczeniu będzie
+czuł się szczęśliwie,
+a dla innego
+i nie szczęśliwie.
+Takie przykład ten
+codziny. Mamy człowieka,
+który bardzo lubi czytać, tak?
+Czyli bodcy,
+którą będzie pobierał,
+z otoczenia,
+będzie on z książek.
+No to on w widotece,
+gdzie ma książki,
+będzie czuł się świe.
+I dla niego to będzie atrakcyjne.
+Miejsce będzie tam chciałbym być.
+I to jest związane właśnie
+z parametrym jego informacyjno-kodowy.
+No i tutaj właśnie
+jego inteligencja
+dostanie tyle bodców
+z otoczenia, że będzie
+zadowolony pojętność,
+czyli będzie
+sobie mógł to czytać
+przyzwajać imtale,
+który jest właśnie związany z tym właśnie,
+że te konkretne bodcy
+z otoczenia są dla niego
+atrakcyjne.
+Zypełnia parametry
+definicjne jego szczęścia, tak?
+Czyli zgodnieć
+parametrów chorakteru z otoczenia.
+Jak go posadzi w miód
+w widotece, gdzie jest cisza,
+totalna,
+i przyzwajać
+bodcy z otoczenia odbywa się
+za pomocą oczu i czytania,
+będzie czuła to,
+a wers jest straszna, tak?
+Bo on oczekuje
+tego, że bodcy do niego
+będą przesyłane
+w sposób
+za pomocą
+fali dźwiękowej
+i rejestrowane
+uszami, a nie uczami.
+I dla niego
+mimo
+wielkiego potoboństwa
+bo ma 2, 2, 2,
+oczu,
+jeżeli to chodzi o te zbyt
+z twojące bodcy
+tym przypadku,
+to różnica
+właśnie charakteru
+bardzo subtelna z punktu widzenia
+prawdopodobiejsko
+ogólnice i tak i obydwy jak człowiek.
+Na poziomie tam
+jakiś bardzo małych
+liczb po przyciągu
+jak weźniemy sobie
+wszystkie komórki, jaki mamy i tak dalej.
+Powoduje, że
+jedno otoczenie dla człowieka jest
+atrakcyjne, a drugi a wersji,
+a drugie mu człowiekowi wresz przeciwnym.
+No i to jest bardzo ważna rzecz,
+żebyśmy wiedzieli,
+że charakter człowieka
+właśnie
+jest sztywny
+i nie możemy zmusić człowieka,
+który lubi słuchać do tego,
+żeby chciel się dziać w blitece,
+a człowieka, który lubi czytać nie możemy
+zmusić do tego, żeby się dział na wykładach
+już słuchał indygludzi.
+Mam ciekawy przykład.
+Mam ciekawy przykład.
+Myślę, że on powoduje to,
+że teraz rozmawiamy.
+Natomiast apropo tego
+zrozumienia zdania sobie
+sprawę z tego, jak się przyjmuje
+bodźcie, jaka jest ta preferencyjność
+odbieranie bodców.
+W liceum, kiedy już ostatecznie
+uświadomiłem sobie, że zasypiam
+przed książkami i nie lubię
+po prostu przedmii się dziś,
+zacząłem się dziś przedłu zadawać na ukrycie
+ląpy tania. Co powodowało, że
+mogłem dupytać coś, czego nie
+widziałem nie rozumiem
+i ostatecznie całkiem dobrze
+sobie poradziwe w liceum,
+w sensie śwatecz, co spaskiem,
+etc.,
+ale w domu się prawie
+wcale nie uczyłem,
+bo zastoby nad tymi książkami,
+więc dlatego ten sposób
+odbieranie bodźców po prostu
+po prostu powodował, że mogłem
+lepiej działać.
+I analogicznie, kiedy zacząłem
+zgłębiać się w cybernetykę,
+stwierdziłem, że bola
+w umyskim światłem po prostu
+po rozwaleźć.
+I mamy tutaj o to dzisiaj
+tego tym spotkanie.
+Właśnie ze względu na to
+preferencyjność w odbieraniu bodźców.
+Ja jeszcze jedną rzecz powiem.
+Dla mnie dużo
+bardziej preferowany jest swobodno
+wypowiedź niż pisanie.
+Swobodno wypowiedź
+mam na poziomie 86%,
+a pisanie mam na poziomie
+jednego procent.
+Był mi też kazał na psedzie
+tym książkę,
+bo by się długo
+mógł nie doczekać,
+a jak ktoś mi przychodzi,
+żeby nic nie powadał,
+jeszcze widać czas na
+wypowiedź, tak?
+Swobodno ma nieprzerywami.
+Zostawcy, proszę bardzo.
+Więc już na tym
+przykładzie widać, że działamy
+poprzeżę swoich preferencyjności.
+Tak?
+No i tym
+z sypatecznym obiektywnym
+parametrrem jeszcze chciałem
+zaprofić Państwa
+właśnie do wygodania sobie
+takiego rezynanska.
+To nie rezynę z tymi
+przez klopka.pl,
+a w powersji postawowa
+jest bezbłatma.
+Tam już się dostanie
+odpowiedź na to właśnie,
+jakie mamy parametry takie
+zozalne zesłuchanie,
+czytanie można sobie na to
+popatrzyć właśnie
+po konteku odniesienia się
+do tego czego
+o sobie nie wiemy.
+A w bryw po zorom
+człowiek ma taką
+właściwość, że
+myślić dobrze się rozumie,
+ale ma problem z
+porównaniem się do innych ludzi.
+I coś, co na przykład
+o sobie myślę, że
+nocybrenyka jest
+prosta metacja
+bonutka jeszcze
+prostsza, bo łatwia
+jeszcze u wspólnia
+uogólnia pewne rzeczy,
+i że wszyscy pojnite bez
+problemu zrozumieć
+dlaczego tego nie
+rozumiałem jak śmiowo
+w ogóle, tak nie rozumie
+dzisiaj z tym
+mączyć. Okazuje
+że to jest mój
+specyficzny
+parametr charakteru,
+który powoduje, że
+mistym się łatwo
+działa, więc
+z tym, jak
+powoduje, że mistym się
+łatwo działa, że
+z tym, jak powoduje,
+w sobie nie doceniem.
+Bo uważam, że to jest
+normalne i naturalne.
+A to jest paramet,
+który powoduje, że
+właśnie jest jakieś
+specyficzne miejsce
+w czasie i przestrzeni
+na tym wespadolę,
+w którym ja się pojdę
+i to się tym będę
+zajmował, to będzie
+nic po prostu
+towarzyszę
+szczęście, czyli
+z dodność parametrów
+charakteru z opuczeniem,
+a zaufsz
+wielu, wielu innych
+ludzi zajmowanie się tym
+tematem byłoby
+te pozaraneje a wersyjnej
+i nie chcą tego robić.
+I my poradzy
+mamy taki
+no stop
+problem od
+sedlady,
+że mnie doceniamy
+tego, co w nas jest dobre
+i próbujemy
+bardziej tym, co w nas jest
+słyn. A to jest
+błąd strategiczny.
+To nie
+wasz z punktu widzenia
+człowieka,
+no i ważniejsze jest to, że
+tu Achczyzna
+stąd
+ten swój talent, ten który mamy najlepszy w cudzysłoru,
+najbardziej rozwinięty.
+Jednak nie powtarzalne na 8 miliardów ludzi,
+to tam możemy zrobić coś, czego nie zrobimy inny.
+A jak będziemy próbowali się rozwijać
+w tych wszystkich rzeczy, gdzie jesteśmy średniakami
+albo jesteśmy słabi i próbowali jej docionyć by średnie,
+to nie śladimy rożnicy, co najwyżej dołączymy do średni.
+I to jest to, co w naszej szkole,
+wypatrza właśnie kwestia indywidualizmu,
+to uśrednianie dzieciaków,
+tak, wszystkim do równego poziomu.
+Dociągimy przynajmniej tych dzieciak,
+a kim nie lepszy? Nie, to oni se po razom, tak?
+A problem jest tak naprawdę takie,
+że powinniś wyraźć te specyficzne ludzkie talenty,
+tworzyć takie otoczenie tym ludziom,
+żeby oni ten swój specyficzny talent rodzinęli,
+tak bardzo, którzy już inni zanim nie na nożu.
+I tam przebijali drugi przewodności korolacjiny do odskości,
+bo jeżeli im się uda coś poknąć dalej,
+w tym specyficznym talentie, to potem inni mogą podość,
+bo najtrudniej jest przebić tą drogą przewodności korolacji na początku.
+A potem już ludzie mogą tamlić,
+tak jak jeszcze 400 lat temu,
+na powierzom po wszechnym,
+znajomość weźmy sobie logarithm, tak?
+Przybyć już trochę trudniej było.
+No, była wśród jakiś naprawdę bardzo,
+bardzo wąskiej grupy matematyków.
+Teraz, jak popatrzymy na logarithm,
+to wszyscy studenci studiów ścisłych,
+większość mat fizów, która jest.
+Tutaj dla nieglogardy jest czymś normalnym,
+nie jest problemem funkcja logoretmiczna,
+naresywać wykres funkcjonulara weryfniczne.
+I co więcej są takie miejsce,
+na świecie, gdzie od razu ludzie potrafią odnieść ten logard,
+to czegoś rzysztecznego, więc on do czego ta funkcja jest do zastosowania.
+Tak już jest taki brak w naszej szkole, gdzie uczy się ludzie,
+o tym czym jest logard,
+ma nie uczy się, czego on został prostowac,
+taka mała rybresja na boku.
+To jest właśnie kwestia taka,
+żeby wśród rozumieć parametry sztywne człowieka
+i te parametry sztywne człowieka,
+które określony, talent, spetyficzny, indywidualny i niepoktarzalny,
+pokazują nam w tym człowieku rozwinąć tak po poziomie,
+do jakiego tylko możemy mu pomóc jako człowiek,
+a następnie pustić go jak dla ta wyc,
+jeszcze żeby on poleciodali,
+gdzie już tylko on sam jest w stanie polecić,
+bo może sobie się podróbcie.
+Jest taka metoda profesora szubartowskiego,
+to jest nauczyciel wycału.
+Nie wiem czy znasz tą historię czy nie,
+to chyba dajże z godyni.
+I nawet przed chwilą zapytałem szluczny inteligencji.
+Później to to polegała na tym,
+że generań bronił uczniów przed koniecznością
+a grażowania się w innej przedmioty,
+po to, żeby mogli się skupić na Olimpiać
+i tam oczywiście tam istotorii, młodzierowe,
+specyficzne warunki do rozworu tego talenta stwarzył,
+co spowodowało, że aż 280 jego uczniów
+doszło do finalów Olimpiać i informatycznej
+i łącznie jest 126 medali,
+w tym 22 medale złote,
+ale nie mieć znarodowej zdolowej,
+też 34, ja o jest cała lista te grudzenia medali,
+ale co ciekawe,
+lubia część założycieli OpenAI,
+to pierwszy fazy twórców,
+to dajże około 40 osób.
+To spora część była Polakami,
+z czego większość pochodziła właśnie,
+była wychowanka mi tego profesora,
+więc to jest troszeczkę trybut
+do tego, co mówisz,
+a po powieżę można poprowadzić edukację w taki sposób,
+że tworzy odpowiedni środowisko do rozwoju talentu
+i później tworzy pewne przełowowe innowacyjne rzeczy,
+bo co by nie mówić o OpenAI,
+to ono legło podstawy myśli tego całego nurtu
+ruchu wielkiego ejajowego,
+który w tym momencie się dzieje.
+W koniec, żeby zakończyć to ładnie w tych 45.
+W im. 15.
+i 15.
+To takie wolne kasusie.
+Proszę zauważyć,
+jak wkurzony żołnierz,
+od tych specyficznych parametrów charakteru,
+który w stabilnej, generalny Wojska Polskiej
+uznaleźł je atrakcji,
+co więcej,
+wywoławiamy taką awersję,
+że to tam się nie da zrobić,
+mieć co zrobiło różnicę,
+spowodowały, że wylądowało w liceum
+i nie znalazł tam miejsca,
+które uznał za atrakcyjne związku z tym,
+przerobił do miejsce,
+jak aby zrobić to miejsca atrakcyjne dla siebie
+i do tej atrakcji, która była jego,
+znalazł całej grono ludzi
+o podobnych parametrach,
+z którzy też potrzebowały takiego środowiska,
+ja wiem, że on uważała za atrakcyjne dla siebie,
+i w związku z tym stworzył takie środowisko atrakcyjne dla innych ludzi,
+który poskodkowało tym,
+że jego umarłżenie,
+zdenerwowanie na sytuację zastanął w stabilnej,
+generalny Wojska Polskiego,
+spowodowało, że teraz porady są większości,
+liczący się na świecie ośrodków,
+które zajmują się algoryk,
+mamy informacje.
+I co powoduje właśnie stworzenia odpowiednego środowiska
+pod rozwój własnych talentów?
+I tym autywystycznym akentem,
+zapraszamy was do wyjrzenia następnych nagrań,
+a jeżeli ktoś z was ma jakieś pytania,
+to zapraszamy to zadawanie ich tutaj w komentarzach,
+Dominik Tydzień po bubikacji zawsze chętnie wchodzi i odpowiada.
+Zobaczcie, nie jak chodzić do widzenia.
+To widzenia.
+To wszystko na dziś.
+Dziękujęmy za twój czas.
+Pamiętaj, wiedza o systemach i procesach,
+to realna przewaga w świecie,
+który staje się coraz bardziej złożony.
+Jeśli chcesz być okrok przed innymi,
+wykorzystując potężne narzędzia polskiej szkoły cybernetycznej,
+by lepiej funkcjonować w biznesie i w życiu,
+to jesteś w idealnym miejscu.
+Ale to dopiero początek twojej drogi.
+Nie zatrzymuj się.
+Kliknij w następnym materiał,
+który właśnie pojawił się na ekranie,
+aby kontynuować proces zdobywania wiedzy
+i stawać się coraz lepszym.
+Do zobaczenia w Krótce.

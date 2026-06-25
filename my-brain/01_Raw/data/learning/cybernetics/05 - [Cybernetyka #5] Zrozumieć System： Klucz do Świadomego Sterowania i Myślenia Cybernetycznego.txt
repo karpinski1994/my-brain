@@ -1,0 +1,1113 @@
+Witam Was wszystkich bardzo serdecznie, nazywam się Marcin Kapusta, jest ze mną cybernetyk Dominik Dudek.
+I dziś przechodzimy już do takich ciekawszych mam wrażenie zagadnień.
+I już tego to, co pozwala nam dobrze zrozumieć cybernetykę i w jednym z podstaw, czyli system.
+I porozmawiamy sobie o tym czym jest dzisiaj system i jak z niego można korzystać.
+Witaj Dominik.
+Jak sterować firmą, karierą i życiem?
+Wyosiągać 10 razy lepsze wyniki.
+Odpowiedzią jest cybernetyka, nauka o sterowaniu, wszystkim.
+Od twojej firmy przez rozwój osobisty aż pomychanizmy społeczne.
+Przedwami Marcin Kapusta, praktyk transformacji cyfrowej i wdrożeń AI oraz Dominik Dudek, architekt systemów i meta cybernetyk.
+W tym podkaście przełożymy skomplikowaną teorię na konkretne narzędzia do twojej dyspozycji.
+Zaczynamy.
+System jest po to, żeby coś co istnieje w jego otoczeniu, transformować w coś, czego wcześniej nie było.
+Więc cel istnienia systemu jest po to, żeby powstało coś, co w otoczeniu wcześniej nie występowało.
+Jak sobie na to popatrzymy z takiej największej węgności, to właśnie w tę sposób stwierdamy, że system istnieje.
+Jeżeli nie za jakieś oddziaływanie, które na ten system tutaj nam działa, czyli już możemy powiedzieć, że w pewnego rodzaju domyśle jest jakaś granica.
+Czyli mamy otoczenie coś, co jest poza tym otoczeniem, właśnie jest tym systemem.
+I to oddziaływanie przez ten system jest transformowany w jakiejś reakcje, jeśli oddziałowanie tego systemu do otoczenia.
+No to w tym momencie mamy dowic na to, że ten system istnieje po pierwsze, a po drugie, że on coś robi.
+Więc jak popatrzymy na kwestie systemu, to czym on jest, jest tak naprawdę pewne rodzaju pytaniem, które powinniśmy powiązać z pytaniem po co on jest.
+Jeżeli teraz sobie patrzymy na ten system, po co on jest w tym rozumieniu, to on jest po to, żeby to oddziaływanie do otoczenia mogło zaistnieć.
+Czyli żebyśmy mogli zmienić jakoś otoczenia.
+Ok, klasycznie poproszęcie z warstwa abstrakcji do jakiegoś konkretnego przykładu, żeby to sobie jakoś...
+Una oczynić, ić w tym kierunkiem, po co nam jest ten system. Mówimy się to systemie w ujęciu cybernetiki jako taki.
+Do czego on nam służy i wejdźmy na jakąś punktu, coś co jest zaplanować to przykład i mamy system.
+To w życiu w takim razie jakiś przykład, o który się fajnie będzie rozmawiał.
+Pierwsza rzecz, gdzie chciałbyś po prostu jakiś...
+No moje klasyczne, bo o jego kontynstyspaczenie, no to idziemy firme, nie?
+I biznesowo podejdźmy do tematu, czyli po co nam jest system w firmie?
+Może tak?
+Jeżeli teraz wierzymy firme jako system, to pytamy po co jest ta firma i czym ona jest.
+Ok.
+Idziemy to...
+Więc skoro zaproponowałem, żeby najpierw o celu porodmawiać, to po co jest firma?
+No firma jest, żeby stworzyła albo produkt albo usługę, która będzie dostarczona komu z spodem.
+Żeby dostarczyć pewną wartość na rynek, tak? Po to jest generalnie firma.
+A czy są różne cele?
+No ale trzymaj mi się tego celu.
+Ale generalnie jest po to, żeby oddziałuła na zewnątrz.
+Bo firmy nie tworzy się po to, żeby sama do siebie dowędą, że oddziałuła.
+Tak.
+Tylko jest, jej cele mi się oddziałuła na zewnątrz.
+Wskaza się.
+I w języku ma zurozkim to oddziałuła na zewnątrz, nazywamy reakcją.
+Czyli firma jest po to, żeby jakąś reakcję z siebie do otoczenia wydawała.
+Czyli wpadają nam różnego rodzaju bote, coś się mieli w systemie i na końcu mamy reakcję, tak?
+Czyli linie, patrzę z na linii produkcyjną, wpadają nam jakieś komponenty na linii produkcyjną.
+Mieli się to i wytwarza się produkt.
+I to jest, i to co mieli to wszystkie komponenty, żeby stworzyć nam konkrety produkt.
+To moglibyśmy w tym momencie nazwać systemem.
+Tak. No i żeby tutaj to tak trochę bardziej jeszcze odnieść, to co co wpada do firmy?
+Po są rzeczy, które są energomaterialne, czyli różnego typu materiał, różnego typu energii, a ja ja jest.
+I też wpada do firmy jeszcze kwestia tego, jakiejś pomysły, jakieś umiejętności i tak dalej, tak?
+Po to wszystko jest składane do firmy i potem buduje się strukturę z tych pomysłów.
+No bo system składa się z różnych komponentów i tak?
+To sobie powiedzmy, tak?
+I po to sobie nazywamy co tam jest w tym samym systemie i tak dalej.
+Czyli tak byśmy mogli powiedzieć, czyli system to jest narzędzie do realizacji celów.
+Dokładnie.
+System jest narzędziem bytem, który ma za zadanie realizować jakiś cel, a ten cel nazywamy reakcją tego systemy.
+Który miesza różnego rodzaju komponenty, tak?
+To nie zawsze muszą być tylko takie energomaterialne, tylko też mogą być informacyjne, tak?
+I co do zasady i wtedy wpadają różne, powiedzmy, punkty i potem na wychodzi jakiś tam efekt.
+Myślę, że dobrze byłoby też to od razu podkreślić czym jest systema, czym jest proces,
+bo to też jakby była pewna rozwinięcia tych myśli systemowych na zura, pójście po prostu w proces.
+Ja sobie to, powiedzmy, czy dobrze to rozumiem.
+System to jak mamy taśmia filmową to jest po szczególny slide, a proces to jest po prostu cała taśma.
+Filmowa.
+Czyli zmiana systemu w czasie.
+Tak.
+Najdawałek jest taki bardziej o wlolnej definicji, zmianą systemu w czasie.
+Ale też jak opatrzymy na system jako firme, to on jako proces jest zmianą nie tylko sam siebie,
+ale też zmianą, którą z otoczenia pobierawcy dyskowie i którą do otoczenia wydaje z siebie.
+Więc jest to po prostu proces zmian, tak?
+Systemu i otoczenia, w którym on się znajduje, czyli dajmy na to firmy na przykład, która robi arażację muzykę,
+i którego celem jest wydanie płyty albo weźmiesz od rzyfrowej jest jakiś utworu motocznego w zapisie cyfrowym.
+To zauwaźmy, że tutaj nie ma energlowatywane wynoszlika na prawdę, tylko na poziomie matematyki postaje zapiżdżę i jedynek.
+To jest ta reakcja, którą system się wydaje.
+Wydając tą reakcję do otoczenia powoduje, że system zmienił to otoczenie i to otoczenie już innego przed działania tego systemu.
+można powiedzieć, że ludzie mogą słować tej muzyki, w związku z tym o to czy nie się zmieniło,
+a następnie przez zmianę otoczenia ta firma, która wydała tę piosenkę,
+jest za tą swoją pracę w stanie pobrać jakieś zotoczenia ekwiwolenu,
+rozmienił wartości, czyli na tym zarobić mówiąc po prostu.
+Co genera nie ją też samą sobie zmienia, no bo jeżeli mamy powiedzmy firmy,
+która cięko przętła, ale lagle trafiła jakiś hit i ten hit pozwala jej bardzo dobrze zarobić,
+że zmienia i reputacji branży zupełnie nowej ścieżki się otwierają,
+to i procesy w ogóle zadania samy organizacje się w ogóle mogą samy zmienić w sobie.
+I to jest pewna ewolucja dostosowanie się do tego, co się dziwrym,
+bo może być też tak, że kiedyś miała jakiś świetny hit,
+a teraz wypuściła jej sklapa i też musi zmienić swoje sposoby działania.
+Więc ten system jako taki cały czas się zmienia i zmiana tego systemu w czasie to jest proces.
+Dokładnie. I nie żoło już to bardzo dobrze.
+I teraz cały czas na podzotroję, żeby sobie na pytanie po co jest system,
+to teraz możemy przyjść do pytania czym jest ten system.
+Ok, jeżeli potraktujemy system, czy firma jako czarną skrzynkę,
+że na przykład nie możemy sobie zajrzeć do środka,
+a mamy możliwość tylko obserwowania tego, jakimi i bodzicami na tę skrzynkę się oddziały,
+i jakie reakcje są tej skrzynki,
+to możemy scharytoryzować ten system, właśnie jako stosunek reakcji do bodzicą.
+I profesor Maszę w nazwą to reaktywności o tej chwili.
+Czyli odpowiedź na pytanie czym jest system,
+jest odpowiedź na poziomie cybernytyki formalnej mazurowskiej,
+odpowiedź na pytanie jaka jest reaktywność tego systemu.
+Czyli generalnie, jak jeżeli idziemy na przykład tą firmy,
+jak bardzo dynamicznie zmienia się wewnętrzny system firmy w czasie, tak?
+No to już poszedłeś w proces, ja zostałem okazji na systemie, tak naprawdę.
+W pewnym momencie, bo zmiana reaktywności w czasie jest proces.
+Tak. Czyli to, co już sobie zaczęliśmy,
+że nagraliśmy hit hit wpłyną na otoczenie, otoczenie chce więcej,
+płacie nam tantjemy za ten hit,
+nagle możemy tutaj zmienić reaktywność na systemu,
+czyli na tym tygodziejko chcę zatrudnić lepszy pokój,
+nagrań sobie postawić podpisać kontrakty z jakimiś dalszymi,
+że tak powiem odbiorcami zatrudnić dwóch handoców,
+którzy będą mieć liczb po świecie cetera,
+to właśnie to, co się dzieje po tym, jak my dalliśmy naszą reakcję wyłatrzenia,
+ta reakcja zmieniła to przenia i mamy nowy bodice,
+i my pod kontyntych bodice się zmieniamy,
+to jest proces wewnętrzny, czyli zmiana naszej reaktywności w czasie,
+i na przykład, to może być właśnie tak, jak tutaj,
+po prostu i firmy pod kontem z warsztu możliwości, jak działowane.
+Super, mam nadzieję, że to jest dosyć obrazowe,
+że będziemy musieli, ja bardzo róbo jest nowo,
+wiesz, to takie przykłady fizyczne, ale więc będę się chyba odnosi do tasie filmowej,
+tak żeby słuchacze, też mógł, którzy nie są aż tak zazdają i z cyberenteką łatwiej,
+którzy sobie rozumieli, czyli jeszcze raz system,
+to jest taki powiedzmy, dislike, a proces, to jest powiedzmy,
+ciąg tych slajdów wszystkich filmowych,
+które wspierają się na cały film.
+Ja mam największy problem z egzemplifikacją zordy,
+bo dla mnie tak na to, że dowol ma rzecz, którą wezmę,
+a istnieje jest systemem, dla mnie systemem jest kamien.
+Tak?
+Jest kamien to też...
+To jest punktu widzenia cyberny, tak.
+Jeżeli moglibyśmy powiedzieć, że kamien ma cel,
+to wtedy byłby systemem, tak?
+No ma cel, bo istnieje.
+Ok, czyli istnieje samą sobie też może być celem, no w sumie tak.
+No, bo ten kamien jest poczyś, tak?
+Może nie być w tej jego cely w rozumieniu samego, że tak powiem...
+Nie musi być świadowy swojego celu, trzymać.
+No bo to...
+Świadomość to zupełnie inny proces, to jest jeden, o jak.
+Bo dla zaznajomionych mamy filmik o stucznej inteligencji
+i tam poruszyliśmy temat świadomości.
+Tak, no do będą.
+W każdym razie kamien jako system też transportuje, bo chce w reakcji,
+to też zauważycie się na kamien będziemy oddziałowali siłą.
+To zgodnie z prawami nie to na, ten kamien będzie na nas oddziałowo z powrotem, tak?
+Czyli on transportuje naszą siłę i siłę przeciwstawną opór, po prostu daje tak.
+Więc on jego reaktywność jest można być taka nieoczywista,
+bo on po prostu oddaje tę siłę.
+Oczywiście tam z jakimś przybliżeniu i z jakimś umiejszeniem tej władności,
+bo część tam naszi siły, jakąś tam się w tym kamienie rozłoży i tak dalej.
+Mimo że podobnie zgodnie się wydaje, że osiedzę.
+Ale on też jest systemem też ma wspaniawania jak myśli reaktywność
+i też możemy sprawdzić, jaki nasze oddziaływanie na ten kamień zapomnijom w bolce,
+na przykład weźmie sobie dynamik to, weźmie sobie podłożenie dymanem do kamienia.
+Jaką reakcję wyzwoli?
+Czyli my tam dostarczymy tyle energii, że koncentracja energii w materii przykład 3.5,
+to ten kamień się rozpabnie, tak?
+I to też jest reaktywność.
+Jaka mi pocawś się rozstadzić pod kudyną materiałem wybuchowy.
+Jeśli bo dziecko jest materiał wybuchowy, reaktywność to jest kamień,
+a reakcje to jest kamień w kowach rozsadwienictwą przyłożę na mębie.
+Też możemy to właśnie systemu władzać.
+Ok, czyli mamy bodziec jako oddział wanie wejściowe reaktywność,
+czyli to co się przytwarza w ramach tego systemu.
+No i oddziałowanie wyjściowe, czyli reakcja.
+Tak mamy to.
+Ok.
+I teraz pewnie by się przydało, no, słucham.
+No i teraz możemy popatrzeć, że mamy te 3 parametry.
+Ma się, te wszystkie 3 parametry mogą zmieniać się w czasie.
+Więc można powiedzieć, że jeśli przychodzimy na myślenie procesowe,
+to już wtedy myślimy o zmianie tych 3 parametów w czasie.
+Cały czas.
+I do myśleń to co łączy na reakcję, którą system firma
+z siebie do otoczenia oddziałuje.
+To jest otoczenie, które zwracą nam to w bodźcy.
+Czyli takie sprzężenie zwrotne na ten, co powstaje pomiędzy firmu
+mają otoczenie.
+I jak sobie rozpatrujemy to wszystko,
+to właśnie kwestie jest takie, że mamy dwa takie systemy
+to na siebie oddziałują.
+Po otoczenie to może po traktować jako system.
+No i mamy wtedy te 4 elementy, które tutaj mamy.
+Bo proszę zauważyć, że wtedy to co jest bodźcem
+naszej firmu do otoczenia, czyli dla otoczenia jest bodźcem,
+to naszej firmy to jest reakcję.
+I mamy 4 elementy, które też patrujemy wtedy systemu.
+Mamy system, jego oddział w adiach na drugi system,
+reaktywność tego systemu, na którą oddziałujemy,
+reakcję tego systemu na którą oddziałujemy,
+który automatycznie jest bodźcem tego systemu,
+który rozpoczął proces sprzężenia zwrotnego.
+I znowu reaktywność tego systemu.
+No myślę, że to trzeba jednak będzie wrzucić slajdze
+sprzężeniaami zwrotnymi, żeby ktoś sobie to zwizualizować,
+ale generalnie chodzi o to, że w cybernetyce jest takie
+punkt widzenie, że wszystkie systemy są w stanie na siebie oddziaływać
+w różny sposób.
+I dzięki temu, że będziemy są zarazami meli się w to,
+czy jest tym systemy szczerze i tak dalej,
+z czego się składa, będziemy mogły sobie mapować albo analizować
+pewne wpływy różnych systemów na siebie wzajemnie.
+Prawda? Co potem pozwala w sterowaniu?
+No bo jeżeli będziemy patrzydzić,
+jeżeli jedny system wpływa na drugi w jakiś sposób,
+jaka jest reaktywność systemu, kiedy jedyna niego wpływa i tak dalej,
+co jest generalnie często policzalne,
+inaczej, nie często, tylko zawsze jest policzalne,
+nie zawsze mamy odpowiednie metody pomiaru.
+Ale dzięki temu możemy faktycznie zacząć
+skutecznie sterować albo własną organizacją powiedzmy,
+albo wasymi wytworami, albo też innymi systemami.
+Nie ma samego procesu, nie ma sama dosystemu,
+jest system procesolokonomicznego.
+Z definicji system nie może być autonomiczne.
+No bo nie zmienia się tak?
+Tak.
+Ok.
+Autonomia to jest sterowanie.
+Ok, jest to pewnego rodzaju normowi,
+nie tylko historycznie w sumie,
+jakby z wasorowskich prac,
+bo on się skupiał na systemach, a nie na procesie.
+Dobrze, to rozumiem?
+No nie, no tam, generalnie,
+prosozu nie jest cały czas pod tekście.
+Ok.
+Tak, nie jest nazwany, tak, wersie.
+Ok, dominik to gdybyśmy mieli powiedzieć o tym,
+z czego składa się system,
+to co byśmy tutaj wyróżnili?
+To tak naprawdę z punktu widzenia świata,
+które przyjemnych,
+to jest czasoprzestrzenny energomaterialnym,
+to jest system składa się z takich dwóch torów,
+z toru sterownicznego,
+gdzie mamy deczenia z informacjami i kodami,
+z toru energomaterialnego,
+gdzie mamy do czynienia z energią i materią.
+I system to jest właśnie taki,
+byt, który te dwa todezesowe ułączy,
+żeby na końcu swoją reakcję do otoczenia
+już z tych dwóch nazwimy to przestrzeni,
+połączyć i żeby coś konkretnego
+do otoczenia gru wydamu.
+Ok, to idźmy tym pierwszym torem,
+torem informacyjnym.
+No to w tożej informacyjnym
+mamy po pierwszy właśnie to,
+co jest szcanie o dobrej ktybotce do toczenia,
+i ten funkcjonal nazywa się receptorem.
+Czyli te bódcy, które oddzią je na system,
+są przetwarzane przez receptów,
+a coś co nazywamy wrażenie.
+Uczoejka moglibyśmy,
+że to są zmysły na przykład jakieś.
+Co mamy zmysł?
+Maków, wejchu, zdrownaż, bo...
+Czyli to są nasze receptory?
+A w fabryce, na przykład,
+moglibyśmy powiedzieć,
+że to na przykład
+transformator na wejściu,
+który odbiera energię,
+przepraszam, bo to będzie też.
+Ale czujnik pod czerwieni na przykład
+mogliby być pewnego rodzaju receptorem,
+na przykład, nie?
+Waga, zwykła.
+Też może być receptorem.
+I to zbiera,
+czyli powiedzmy jakieś narzędzia,
+urządzenia z biorę jące informacje.
+Tak, z otoczenia.
+Przedważający to, co się dzieje w otoczeniu,
+na te informacje,
+które nas opoczywamy na pewność systemu.
+No i właśnie te informacje,
+które zewraliśmy z zednąć za pomocą wrażeń,
+za pomocą kodów,
+które łączymy nowośćmi receptors
+tym mostentkiem funkcjonają,
+tym nazywamy koreratorem,
+którzy do przetwarzania informacji kodów
+w naszym systemie
+postaje cały to pod kontyntem tego,
+jak zebrać z otoczenia informacje
+i jak te informacje przetwarzecie
+w pewnym systemu,
+no i wspomniany wcześniej efektor,
+tu łączy to właśnie informacje
+mykodowych z otoczeniem.
+Jest ostatnim elementem toro informacji,
+więc na tej informacji
+składa się trzy elementy
+właśnie receptora,
+który odbiera pod cywytuszenia,
+korelatora,
+który łączy te wszystkie procesy informacje
+na kodowego zewnątrz systemu
+i efektora,
+który z naszej firmy
+z systemu
+wydaje informacje do otoczenia.
+Ok, czyli tak pokazując,
+na przykład jakby to mogłoby wyglądać człowieka,
+człowiek coś widzi,
+chodzą informacja poprzez z rok jako
+nasz receptor do koloratora,
+który na przykład może być głową,
+a później jest przetwarzana informacja,
+jakby dalej jeszcze
+cały tym procesie w systemie,
+jeszcze od sobie powiemy
+i na koniec jest efekt,
+czy nie wiem, ucieczka,
+bo walka na przykład tego typu.
+Abo pomagać, tak.
+Bo to mamy też taki
+ten efekt,
+który za pomocą naszej rynki
+dajemy znaki,
+które ktoś w zrokiem może odobrać,
+podnoszać,
+jeśli jeszcze trzymanych z roku,
+no to widzimy, że ktoś do nas macha,
+a dobraliśmy to,
+zrozumieliśmy,
+w naszym kororatorze,
+procesach koralacyjnych,
+że on odbywa z macha,
+no i my też ma odmahujemy,
+czyli mamy wtedy wymianę informacji
+pomiędzy Nami
+a drugi systemy,
+którzy informacyjnym
+za pomocą receptorów,
+wiekektorów,
+którzy dotyczą
+takich z mysląckich,
+więc.
+O, na przykład,
+w myśl, jeżeli mówimy o komputerze,
+to jest takim receptorem,
+może być na przykład mikrofon,
+który po prostu
+zapisuje to i przetwarza ten,
+ten dźwięk
+i później na przykład na tej podstawie,
+można wykonywać kolejne zadania.
+Na przykład, tak?
+To też mógłby tak
+wyglądać.
+To i,
+jeżeli patrzmy na mych profon,
+to jest receptorem.
+Tak.
+Mych profon dźwięki,
+czyli fale,
+która jest w cieli powach,
+transformuje nam na zapis relatyczny,
+ten zapis relatyczny jest przekładany na zerajynki,
+w zerajynek,
+tak to jest przekładany,
+a potem mamy głośki,
+który robi pracę z odwrotki,
+czyli zerajynki.
+I efekt,
+że na niej pols relatyczny,
+potem mamy znowu nam drany,
+która wchodzą znowu fale się.
+I myślę, że to warto podkreślić,
+że korelator,
+to co to zasady
+nie musi być jedno miejsce.
+Tak, jeżeli mówimy na szkator człowieku,
+to też nie zawsze jest to tylko tylko musk.
+Jakbym naturalnie będziemy uciekali
+w to, że wiele decyzji podjmowane są w mózgu,
+ale nie są też inne obszaryk,
+na przykład je litanym,
+tak? Ci też,
+jakby ma wpływ, na przykład,
+że dzień kręgowy też mogą być
+podjmowane różne decyzje,
+już tutaj na tym obszarze,
+tak? Więc ten korelator w samym człowieku
+też nie musi być w jednym miejscu,
+i tak samo korelator w samym na przykład komputer,
+też nie musi być w jednym miejscu,
+czyli jeżeli mamy linie produkcyjną,
+to ten korelator przetwarzania informacji
+może być ich wiele, tak?
+Której się skupiają i więc
+to to też,
+to po prostu, że to nie musi być jedno miejsce,
+bo mamy tendencję do takiego myślenia.
+Tak, to jest ważne,
+żeby tak w armadurę prokurzyć,
+że na poziomie wzorca
+my rozmawiamy o funkcjonalach,
+czyli jakimś bycie,
+który wykonuje funkcję,
+a to, co jest egzemplifikacją tej funkcji,
+i już wycie konkretnym,
+to też po prostu przyporządkowujemy do tego,
+ale ma zrówną poziemia,
+to traktuje, czyli taki wzorców,
+jak ciedzie niepitego rasa,
+jak prawa diamyki,
+to nawet, etc.,
+którego,
+pieroprzyłożyne do człowieka,
+i to, że są w stanie być określone komputerce.
+No i tu jednak przydało nam się kiedyś powiedzieć
+o metodzie systemowej,
+ale to może sobie odłożymy na inny raz,
+ale co jeszcze jest takiego
+samym systemie jako takim,
+bo już przeżyliśmy ten kanał informacyjny,
+no i teraz przydało,
+by się przyzgarnął energetyczny.
+Tak, no to mamy odpowiedź
+w geceptorach, w toże energetycznym,
+czyli mamy zaślacz,
+czyli taki funkcjonal,
+który pobiera z otoczenia energii i materię,
+przetwarza ją do takiego stopnia,
+żeby dała się zgromadzić w nas,
+i tą funkcję gromadzenia od nas
+sprawuje funkcjonalne,
+zwamy akumulatorem,
+i akumulatory jednocześnie,
+momencie kiedy jest decyzja,
+a w akumulatorze mamy wystarczyłem
+się zaślenie nad boże,
+by oddziałać na zewnątrz,
+z drugiej strony oprócz decyzje
+oddziałuje na efektor
+i efektor,
+kiedy znowu wydaje nasze oddziału
+w wami do otoczenia,
+czyli w toże energiomateria,
+to jest znowu zwamyk zaślać,
+ten który pobiera z zewnątrz do świadka systemu,
+akumulatory,
+który wewnątrz przetwarza i gromadzi
+pomnę energii i materię,
+i efektor, który wydawuje,
+wydaje ześlenie do otoczenia
+i proszę zauważyć,
+że podsymował wyjątkach na kładysku,
+mamy ten efektor,
+który jest pomoczeniem,
+oby dwutorówka,
+czyli efektor występuje na to,
+że informacyjny,
+jak i w toże energiomateriami,
+i on jest dyspecyficznie
+takim funkcjonalem,
+który pokazuje,
+żeby do otoczenia móc oddziałować,
+to musimy połączyć tę stworzę,
+właśnie tę stworę,
+nazwijemy to,
+sobie abstractów i stworzy,
+i to w kopiektów energiomateria.
+No i to mamy na poziomie,
+taki oczywisty i oczywistości,
+obsany system,
+ale teraz pytanie jest,
+o to, co zaczęliśmy,
+czyli ocel,
+oczywistnym systemie.
+Ten cel,
+po co jest ten system,
+wprowadza z nową funkcjonal,
+który macie z malą homą statą.
+Czyli jest to taki funkcjonal,
+który właśnie jest w stanie,
+za pomocą reflecji
+i wyobrażenia o decyzji,
+prowadzić do tego systemu,
+co on ma zrobić.
+I za pomocą właśnie homoostatru,
+czyli określenia celu,
+istnienia tego systemu,
+i równowa widać,
+i ten system ma być.
+Spajamy te wszystkie funkcjonalne,
+coś co nazywamy systemem procesu.
+Czyli tak,
+bo, bo, jakoś,
+spróbuję to obrazowo powiedzieć,
+czyli mamy, powiedzmy, wejście informacji,
+mamy wejście energii.
+No i ten homoostat
+to jest taka obszar funkcjonalny,
+który mówi,
+ok, to jest zgodne z waszym celem,
+taki, taki mam zasoby,
+więc działam w ten sposób.
+Czyli nawet idąc już dalej tą taką,
+klasyczną walką i ucieczką,
+czyli taka ja mam informacja,
+a takuje mi nie, nie wiem, nieć wieć.
+Znowu, tyle mam energii,
+jestem dużym silnym gościem,
+ale teraz znowu warzę,
+czy mam uciekać,
+bo chce przeżyć,
+czy jednak walczyć z mi dźwiedziem na przykład, tak?
+I podejmuję,
+bo, i podejmuję tę decyzję,
+bo może poszedłem walczyć z mi dźwiedziem
+i, i ta jest tak może być,
+tak, różni, równi mają cele,
+więc, więc tak to,
+ale, no, ale ty byśmy poszli,
+to może być ciekawe dla, dla niektórych,
+funkcjonalnie,
+jeżeli mamy chomeo stat,
+to gdzie moglibyśmy na przykład,
+jeżeli mówimy o człowieku,
+go zlokalizować.
+Jeżeli patrzymy na człowieka,
+i popatrzymy na człowieka,
+jako taką sferę ciała i ducha,
+to chomeo stat,
+więc tym, co spaja ciało i duch,
+czyli wielu ludzi na żawa to dłuższą,
+tak?
+Czyli tym wiołchwyt,
+tym takim punktem,
+który powoduje, że właśnie,
+człowiek ma cel,
+czyli, tutaj im ceżycie,
+czyli cybernytyka nie jest w stanie pokazać,
+gdzie jest człowiek,
+gdzie człowiek u istnieje chomeo statnie,
+jest ten przykład pod spidzajnicę pod puszczom,
+ale nie jest w umuzku na przykład.
+Tak, będziemy sobie w kierunku aż biego.
+W przypadku biego chomoostwa
+z beroan i tak dalej,
+czyli ludzi, którzy zajmowali się chomoostazą,
+a chomoostwa za tych zrównowa to funkcjonalne,
+czyli takie,
+otrzymanie ciągłości życia,
+a przeciwdziałanie zagrożenia,
+które się pojawiają,
+czyli to jest funkcja,
+którą chomoostat to,
+to określę,
+taką równowa wiatrą cymaną,
+że raz, że przy,
+glisza nas do celu,
+czyli do decyzji,
+co chcemy, żeby było,
+czyli do realizacji naszego celu,
+a dwa,
+że przeciwdziała tym zakuczeniem,
+które mogłyby,
+niemożliwićmy nam o realizacji tego celu,
+to jest to pewnego rodzaju
+taki regulator regulatorów,
+tym chomoostaw.
+I to jest to, co właśnie jest,
+czytanie zarówno z spory energiomatywanych,
+zyskory korelatwiny,
+pobrać wejścia wyjścia,
+tam sygnałów,
+wejścia wyjścia energiomaterialne
+i zrobić tego właśnie
+proces utrzymania równowa,
+i tak naprawdę to jest w człowieku
+rozproszony pomiędzy
+wszystkich narzędnych,
+ale najbliżej można powiedzieć,
+to jest do hormonów,
+do rozmowaliś hormonalnych,
+tak jak pokazysz mi narzędny,
+do hormonalną.
+Nie ma tam celu,
+nie ma tam decyzji,
+ciężko to uchwydzić.
+Tak.
+Ale firmie na przykład,
+chome ostatn,
+może być właściciel firmy.
+Z zupełnie abstrakcyjnie,
+wiem, przeskoczyłem z człowieka na ten,
+ale może być też na przykład,
+że w danego działu,
+albo manager,
+który jest w miarę samodzielnie
+podejmuje decyzję,
+znając cel w jakim kierunku idziemy,
+o tym,
+większych,
+to jest starowaniu,
+jeszcze byciemy sobie pewnie
+bardziej opowiadać.
+Czas nam się pomauł.
+Ale to procesujmy.
+Do procesujmy,
+to szybciej, tak.
+Jak kupaczemy na firmen,
+to chome ostatn,
+jest ten człowiek,
+który stanowi ten punkt równowa.
+Czyli wprowadza cel,
+a potem przeciwdziała
+możliwości utratów,
+czyli właściciel firmy,
+może być chome ostatn,
+który sobie tam wynajmuje
+na drzegów,
+znajmniej oprezyza, etc.,
+ale to on,
+czyn w prowadzeniu.
+Dlaczego ten system istnieje?
+A następnie jest punkt właścicielskiego,
+robi nadzów włacielski,
+i modywiku jest,
+które,
+i tak naprawdę,
+operacyjny prezes
+była o to,
+żeby wszystko ładnie działało,
+ale tym realnym chome ostatn,
+jest on,
+bo w ten prezes jest ten tylko korelator,
+który tam wewnątrz jest,
+ale realizuje cel.
+I tutaj mam właściciela.
+I tu mam właśnie dobry kierunek,
+że zawód właściciela firmy,
+czy biznesmena,
+czy przedsiębiorcy,
+jest pracą nad firmą,
+a nie wyfirmy.
+Oczywiście obie rolę mogą być,
+ale właśnie pracę nad firmą,
+by w z tą rolą chome ostatn,
+że tak się wyraże.
+Więc myślę, że to może być
+taki ciekawie kierunek.
+Chwila przerwy w programie.
+Jeśli ten podcast
+dał ci nową perspektywę,
+zasubskrybuj kanał
+i napisz w komentarzu słowo cybernetika.
+Nie po to, żeby nabić statystyki.
+Ale żebyśmy wiedzieli,
+że po drugiej stronie są ludzie,
+którzy naprawdę łączą kropki.
+Twoje słowo cybernetika
+to dla nas sygnał zwrotny.
+Feedback w czystej formie.
+Dzięki nie mówimy,
+że ta wiedza działa,
+rezonuje i że warto inwestować
+w kolejne odcinki.
+Bo łapka w górę to impuls,
+a komentarz cybernetika
+to większa informacja zwrotna
+i reaktywność systemu.
+Ja nie wiem, czy to ciąć pojęty.
+Ja bym to w życiu generalnie,
+jako o taki ofto.
+Ja ta nasza robię.
+Naparno, trzeba ci jakoś przyciąć.
+Ja to będzie.
+Wyśmiana.
+Przez niektórych,
+że na tym mogą pochylić,
+że tak powiem.
+Zobaczymy.
+Wiesz, trochę nałówie.
+Ja to mi to daje trochę
+po polcinki to sobie struk,
+który z uwierzy wiedzę i mi się to podoba.
+Czy ktoś to złapie?
+Mam nadzieję, że tak.
+Wiem, że samo w sobie dziedzina jest to na
+i wariere w jej cieszę dużo po prostu.
+I powtarzam to porazenty.
+Sam się dziwi, żeby się chciało.
+Aczkolwiek,
+bardzo łatwiej o moje życie.
+Więc tak to chyba musi być.
+Znowu to,
+to jest chyba wracam do pierwszego odcinka,
+chyba tam dorzuć w takiej konkluzji,
+że z cyberen tylko jest z językiem.
+Rozumijcie, że chce, trzeba się go nauczyć.
+I powiedzmy, że to jesteś na tym,
+już poziomie języka C++,
+a ja powiedzmy jakieś tam B-minus,
+łapie i to jest to ten poziom.
+I to jest gorzej pojęci.
+Ja chcę się nauczyć języka tak naprawdę,
+to piero ty by wierzy było,
+mierzchnę o troszkę oślinnego.
+Na pewno jedno z najlepszych metod
+to jest właśnie tego typu sprzęsza niezwrotne,
+czyli tego typu,
+bo łapie wszystkie twojej luki nie dociągnięcia po prostu,
+i serią pytań.
+Nie, dopiero jak będziesz nauczyć,
+to dopiero wtedy sam.
+Ja się biełem, musisz pobodać sam tą wiedzę,
+która ja...
+Tak, tak, tak.
+Podok, i to, że mieszczaby na poziomie jęciiny,
+to ludzkim mógł smać taką specifikę,
+rządzić te wszystkie luki za pełni.
+Zgodny z obiektywną rzeczywistością,
+bo takie jest budowane ludzki mózgu.
+Więc ty nie musisz uświadomić sobie,
+także co tam się dzieje,
+twój mózd to poskładana zasadzie odruchów
+w twoim korelatorze, tak?
+A dopiero uświadomić sobie tego jest problemą,
+bo tak, na pewno czuję,
+ma dużo więcej odruchów średołości.
+No tak, dużo dzieje się nieświadomienie.
+Nawet są bada,
+czy to, że sztatwienia,
+że 80% naszego mózgu jest przeznaczona do odruchów.
+Nie zastanawiam nawet czyni więcej.
+Przecież patrzę nawet na ludzi,
+którzy chodzą na terapie różnego rodzaju,
+i tak dalej,
+że za korzenia ją się to nakrieś okazuje,
+że większość ich z tematem życiowy codziennie
+basuje na doświadczenie,
+z dzieciństwa, gdzieś tam jeszcze tam,
+nawet prenatalnych i jakiś tam jeszcze spłyści,
+z niegenetycznej itd.
+Czekałe, pewnie gdyby się jakiś cybernetek pokusił,
+to pewnie mógłby nawet zliczyć.
+Pewnego rodzaju doze.
+Proporcję znowu żyjemy stary,
+żeby to masz 10 tysięcy.
+Tak, tak, tak, tak.
+Ale wtedy by się mogli powiedzieć, że nie ja o 80 na 20,
+tylko na przykład 99 na 1,
+na przykład, albo tym kierunek.
+To się potępowiem, że jest jeszcze rozkład normalny,
+i dajśmy pokażć, w styrym masz do przynienia,
+a czy jesteś na ramieniu hendalek,
+czy jesteś w piku tam, gdzie jest dominanta?
+Mówisz już dla mnie bardzo zagotkowym językiem,
+ale do tego jeszcze, kiedyś przyjęcie?
+No, to jest rozkład normalny gałostr.
+No, no, no.
+Tak, no, no.
+Jak już człowieka badaż, to teraz mi powiedzieć,
+w którym miejscu na szywej gałostr, a my zjeżdżemy.
+No dałoby się to populacje i nie zebrać,
+to akurat by się dało.
+Tylko znowu trzeba było wywiedzić te dane, nie?
+No, ale to masz wtedy wiesz 10 do potęgi 80 gwiatów,
+raczej 8 gwiatów.
+No, to ciężko będzie całą populację zebrać,
+ale powiącisz szczerze, patrząc jak idzie postępu
+z agregacją danych, to myślę, że to może być
+i jeszcze wykładniczyć wzrost, zobaczymy.
+Ale to już naprawdę jest o wtopie koftopików,
+że to już zdycha?
+No, zdycha.
+Ja teraz testuję nie mówię, że zdycha.
+Nie, bo już jest zdycha.
+Ale co?
+Już zaślenie tych procesów spada powoli.
+Już zaczynają to, co było,
+oczywiście od samego początku, czyli nazywalna gwenera tydnaż,
+toż ta inteligencja, już spada zdrowarka, tak?
+Czemu?
+Już nazwijmy to swoje praktycy.
+Orientują się, że nie mają zasobu na to, żeby ich dalej.
+A na próźmie teority, na co to jest rozwój.
+O i nie wiem, tyle co wczoraj analizowałem,
+jakichś artykułów dotyczący radykalnej efektywności
+AI, aktor go wyprodukowała Alibaba.
+W ogóle dzięki temu wykresyki udowej
+teraz poszybowały bardzo wysoko.
+No, bardzo.
+Potrzebuję sobie na to i jakby to powiedzieć,
+ograniczenia są bardzo łatwe do znalazie na to,
+czegoś. Ten ja będziemy imiala,
+tylko już to inteligencja, no,
+tego tego tego tego.
+Myślę, że wiesz co, jakby teraz,
+co dziennie się z siebie, tym bym bym nowymi narzędziami,
+technologią i tak dalej.
+I korzystam teraz z przeglądarki komentarki
+komentarz i komentarzami,
+to jest dla mnie bardzo dużą usprawnieniem w ogóle pracy i tak dalej.
+Nie z dalej.
+No, idę w kierunku tego,
+że jednak to ten korelator nam przyspiesza po prostu pracę, nie?
+W tym obszarze tych rewolucybitów.
+I jakby do człowiek dalej ci zastępowalny,
+ale to prędkość jaką mogę wykonać pewne zadanie.
+Są u Witam, ci taki przykład nawet z ciekawości,
+aż pokazałem, że on, nie?
+Zapytałam tej mojej pokochany,
+przy gondarki, do której sobie podpiałam oczywiście kalendarz,
+tam, wyskugl i tak dalej.
+Bardzo po prostu, o której bym dzisiaj pojechać na spotkanie.
+I to był wszystko, co mu zadałem.
+On sobie sam przed obygu kalendarza, wiesz, poszukał ten
+i potem przed obygu glmamsa przanalizował uruch w tym
+zdanym czasie, kiedy mam być, wziął pod uwagę jeszcze, wiesz,
+tam wielkość miasta i lokalizację pod kątem ilości czasu
+potrzebne na znalezienie np. parkingu i tak dalej,
+podał mi precyzyjnie godziny, o której pojawia się na to spotkanie.
+A to są optimalizacje, to jest metod do jego sobie.
+No tak, ale to powoduje.
+A za tej pytanie, mój cel, który miałem jest nieaktualny,
+z nasz mimo wycel, co mam jeszcze odpokonowany.
+No ale to nie jest dałby radę, gdyby miał pewną ilość danych,
+myślę, żeby z problemu i osobiście uważam,
+że to jest realiz...
+Ja jestem w stanie już w tym momencie coś takiego stworzyć się.
+No dobrze, ja się powiem, że ja się bawię z tym alibabą powadzą.
+Życiłem mu ta maksymaty kosyckiego,
+logikę, więc do pewnego momentu sobie dawał radę,
+a potem, jak już trzeba było zrobić logikę,
+ceny Łukasiewicza, no to...
+Rozumiem do czego zmierzasz,
+a z koleg, no te modele nie są przystosowane do tego kierunku,
+więc jakby to też się wynika.
+Generatywda, definicja chemosenka.
+No ale...
+Skaza im się.
+Ok, dalej uważam, że to w ogóle nie wychamowuje,
+zmieniają się metody procesy sposoby podejścia do wykorzystania tego,
+optymalizuje się też z użycie danych i...
+Jakby, grozułem w mojej podejście do tych wicy generatywna
+i wiem dobrze, jak jesteś bardzo wiesz,
+nie w tych wynicach i zgadzam się z tym co mówiłem,
+co to za degeneratywna jako tako nie,
+ale funkcjonalna tak,
+poza tym też zazwyczaj, kiedy pracujemy sobie z firmami często,
+no to ja pierwszy, jednym z pierwszych rzecz,
+od których zaczynam, to pokazuje im wykres różnych modeli
+i efektywności, różnych obszar,
+czyli tutaj ićby w kierunku talentu już tak,
+nawet żeby to było...
+Więc, no ok, jeżeli powiemy, że istnień,
+czy jak generatywna sztuczna inteligencja,
+to nas definicyby chyba nie mogła istnieć,
+no bo idący bernetycznie każdy korylator ma talent, tak?
+Maj jakąś tam...
+Maj jakąś tam zagęszczenie powiedzmy tak,
+jak ustąstrukturę w pewnych obszarach,
+więc generatywna sensie takim, że ma równy talent wszędzie
+i jest na poziomie kogoś tam,
+jest nieosiągalny,
+ale dodykowanych zadań tak,
+i z mojej perspektywy docelowo,
+w krótkim teraz ten mokresie czasu
+może to wyglądać ten sposób,
+że mamy asystenta, który łapie sobie wiedzę o nas jako jeden,
+potem rozdospronowuje ją po różnych innych microagentach, nie?
+I to już jest realizowalne firmach i tak dalej,
+a myślę, że już niedługo perspektywy nawet roku
+mogą być realizowalne w kontekście takiego PituC.
+No, tylko dalej po co?
+To jest pytanie, tak naprawdę, że cel i tak musi
+w to sprzężenie z władko pomiędzy narzędziem
+a a człowiekiem szolid prowadzi.
+Tak, no ale znowu to jest po prostu przyspieszenie procesów
+i optymalizacja.
+I dodawej w kierunku tego, że dla mnie większość tego typu modeli
+to jest trochę zastosowanie podrób do tego,
+co z powodową Excel 30 lat temu.
+Czyli...
+To dla mnie, jeżeli dalej działanie jest
+z niezdienifikowanem celem,
+to jest działanie bez celowo.
+Ale czemu nie zimić z zidemifikowaną celę?
+A to to, wiesz?
+A człowiek nie wprowadza celu, to jest działanie bez celowo.
+No tak, no ale ja zapładam, że firmy
+produkujące te AI, jest zwyczaj mają swój cel
+i na pewno będzie masa od siewu,
+pasząc ta firmy, te takie radczkujące aiowe,
+wiesz, te wszystkie starta, pójdą podobne.
+Natomiast to wielki graczy,
+ja by tutaj nie widział zaburzenia celu.
+Nawet pom powiedział, że bardzo wyraźnie widzę w którym
+kierunku idzie np. Google albo Anthropic.
+To bardzo wyraźnie widzę w którym kierunku idę.
+No dalej, generalnie jest kwestia taka,
+że żadne z tych modeli jeszcze nie warunipujące.
+Spokojnie.
+Ale one też nie muszą bezpośrednio zarabić pieniędzy.
+Myślę, że jeszcze na to wszystko przyjdzie czas
+i w ogóle bym się o to nie martwił.
+I dam taki banalny przykład, ale ubera,
+który przez chyba tam 12 lat nie zrobiła nią zutówki,
+ale jest teraz już tak ośpłać.
+Więc to jest naturalne przy technologii,
+bo ja traktuję dalej to wszystko,
+co się w tym momencie dzieje jako R&D,
+czyli takie badanie rozwój.
+No ale właśnie patrząc za to pod tym,
+że systemem bym procesowym,
+tak naprawdę, to mamy teraz systemy procesów,
+które biorą cele,
+które są w tych wszystkich ukradzionych danych,
+żeby słyszyli, że je tego słowa danych.
+I pośrednich wszystkich ukradzionów,
+w celu, które są, że bierają taki cel,
+który im się wydaje,
+wyliczając sobie prawdopodobie,
+bo że jest celem tego, co z nimi wchodzi w interakcję.
+A i robią to coraz precyzyjniej
+i będą robić coraz precyzyjniej.
+I coraz lepszy złożej.
+No tak.
+Jakby, wiesz, oddzielam tutaj warstwa etyczną,
+powiedzmy o, zwierz, o zbezpośredniej do zastosowania.
+Nie?
+No nie, taka po prawo.
+No to, to można było powiedzieć,
+że po kinie mają zarzutów,
+to są działają zgodni z prawem, tak?
+Zarzutów są, nie ma wyrobnie.
+No to już musieliśmy wierzyć bardzo,
+chyba bym bo go tutaj wchodzić i się gdzieś tam,
+wiesz, sorry za te dziwne wycieczki,
+ale o otoczenie mnie w kozulii,
+generalnie kwantuje mnie trochę wendo,
+na te co nie wiedzą to po prostu.
+Zachobuje się, jak kurzony starzek,
+którzy sam nie ma energi na to, żeby komuś przyłożyć,
+ale generalnie, po prafi wykorzystania otoczenie na to,
+gdzie wiesz, kurzy.
+Na szczęście, chyba moja reaktywność
+jest inny na nierze zakładałość, więc...
+Nie, nie, nie, po prostu.
+Jakby to powiedzieć, moja złoślimy,
+że na tym poziomie, że nie ma niszczyć, tak?
+Ono jest tylko taka po prostu, żeby sobie byłany.
+Na złej sprawie kontrolowa spoko.
+Aczką, jak ja podsumowę swoją taką to,
+moje zdanie widzę wyraźny cel i widzę wyraźnym obszary zastosowania.
+Aczką, jak skadzam się, to nie jest generalna sztuczna inteligencja,
+ale utalentowana, utalentowany algorytmy,
+statystyczny, oparto, jakieś, na pewno,
+modele statystycznej i tak dalej i ten koncepcji sieci neuronowych.
+I ma bardzo duże zastosowanie i może przyspieszyć pracę,
+i oprzeże bitów, i przetwarzanie informacji,
+praktycznie każdego człowieka.
+Jeżeli będziemy odpowiedzieć i zastosować.
+Ale w ramach rozwoju tego, jak tej dziedziny powiedzmy jako takiej,
+to umiejętnie zastosowania będzie coraz prostsza i łatwiejsza.
+I to też widzać, nie?
+I te modele też, nawet które są już tywnione,
+to naprawdę sobie fajnie radzą.
+Ja liczę na to, że pojawią się personal assistant,
+takie, które będą w stanie agregować moją wiedzę
+i informacje tak na bieżąco.
+A potem mogli sobie po tych protokoła MCP,
+pewnie wyzwalać kolejnych agentów,
+czyli to coś, co się powiedziałem teraz,
+co zapechałem, moi przeglądarki, o jakieś obszary.
+Mogę ją teraz odpytać o mailę i odpytać o paręnaści innych rzeczy.
+I liczę na to, że po prostu kiedyś bydziłem,
+ok. 80% rzeczy, takich podstawowych dziać bez mojego udziału.
+I bardzo bym nad tym zależało, że na przykład wrzucam sobie jakieś,
+po rynkiś powiedzmy efektor,
+czy coś po prostu do mojej lodówki,
+które analizuje zużycie mojej lodówki,
+i na tej podstawie samomizamawia produkty,
+które ja potrzebuję, co już jest my realizowalne,
+ale jeszcze nie jest takiej powiedzmy mass-parketem.
+Ja mam po prostu mówić,
+a ja marchim bo to, to, to, to, to,
+bo bym ci chciał zamówić,
+bo to, co tydzień zamawiamy,
+ale jeszcze widziałem, że skończyło się to,
+czy chciałbyś tak, ja mówię,
+tylko tak, zrób po prostu przechodzi mi po dom.
+I to już jest coraz bardziej realizowalne.
+Myślę, że gdybym już się chciał popawić,
+to już bym mógł to zrobić,
+ale to jeszcze nie jest do zastosowania szerokiego,
+więc jeszcze nie jest mi do potrzebne.
+Ale to jest miśleniebie jednego człowieka.
+Bo bogaty człowiek, by sobie wynająli,
+żeby to zamówić.
+Tak, daję mówię, tu o mass-marka ci obitu sinia.
+I moim znikdzie, że tak powiem,
+to narzędzie nie zastąpić człowiek.
+A ja nie uciłowi zawsze, będzie obtymalnie.
+Ale ja nie mówię, że tak będzie,
+ale znowu nie każdykostarcynowu,
+jak tak będziemy nawet faktycznie nas na jakiegoś służącego
+albo jakiegoś asystenta,
+a tego typu podejście, no to pozwoli po prostu.
+Więc generalnie spowoduje to, że koszty będą coraz
+mniejsze większości procesów.
+Nawet myślę, że wiesz,
+np. koszty wizyty ulekarza np.
+mógłby stanieć inaczej.
+Koszca mi wizyty może nie,
+bo dalej praca człowieka będzie droga,
+ale te pewnie kroki, które będą mogły się w nim profilaktycze,
+np. podjęte albo dodatkowego rozpoznania,
+jakości tego rozpoznania i tak dalej,
+inne znacznie efektywniejsze.
+Trzeciąż się dzieje.
+Taką robią twaralele.
+Po co to istnieje?
+Tak, czyli znowu mamy system?
+I jaka ma być ta celowa reakcja?
+I znowu, czy tak naprawdę coś bo zdrowia jest potrzebna?
+Czy możemy znać linyne metody i metody
+i metody systemy prefersty zreaktują?
+I ten układ właśnie trzech elementów,
+w odsu, reaktywności i reakcji?
+I zawsze będzie do mnie na człowieka,
+tak jak w dwie gęta w orkiestrze.
+No, oto rozmawialiśmy, już mamy całą odcinek.
+I jakby trochę tutaj idziemy dalej w tym kierunku,
+ale to takie rozważanie,
+bo też z punktu widzenia branży,
+której się boję gdzieś tam otaczamy,
+no to to, co jest silne myślenie.
+Czasnam się po małkończy,
+więc warto jeszcze tylko nakreślić,
+że jeżeli mamy systemy
+na bardziej nawet procesy,
+to mogą być już tak idąc dalej,
+to mogą być autonomiczne,
+samoosterowne i sterowne.
+Tak i o tym, żeby będziemy mówili pewnie
+już szczegółowo dalej,
+bo mamy tę tendencję do oftopików,
+ale już mam nadzieję, że dzisiaj wszystkim wystarczy
+i gdyby były jakieś pytania,
+może ktoś z Asma,
+to proszę zadawać się w komentarzach,
+jednie się też będziemy odnosić,
+bo też dana jest informacja zwrotna,
+więc chętnie byśmy sobie w taką reakcję
+sprzężenia zwrotnego z wami
+w takiej weszli,
+więc gdyby ktoś bardzo miał jakieś uwagi,
+to to serdecznie zapraszamy.
+Ciałyś coś jeszcze zadać do minik, tak o nic?
+A nie, tylko to, że my się podoba,
+to że znowu sobie doszliśmy nad przepaść,
+pokazaliśmy, że jest przepaść
+i że można tam skocić samym,
+albo radem dami,
+to trzeba było tak powiem się zdecydować,
+że nie powiem się.
+Tak, ale już po małów wchodzimy w takie obszary,
+że nie, że to jest przydać, tak?
+Realnie, nie w sensie już,
+co zbliża jest tego aparatu takiego pojęciowego,
+że nawet już to,
+cybernetycznie możemy usasadzić,
+dlaczego przedsiębiorca powinien pracować nad firmą,
+a nie w firmie, na przykład, jaka jest jego rola.
+No, z tego już można się naprawdę pani bardzo.
+To chodzi o to, że tak naprawdę większość ludzi nie jest,
+w stanie sobie byli się ramić czy nie z celta.
+A to, a na jest pokudzenie właściciela,
+to żeby uzystymować udział w jedzieczym jest cel,
+jest najbardziej potrzebny.
+Tak, to się na u nas przesówydaje,
+że to jest takie amerykańskie, że jakaś wizja, misja, cele,
+i tak dalej.
+A tu jednak się okazuje,
+tylko zależy, jak postawiany cel,
+bo też jest zrozumienie pomiędzy strategią
+i działaniami operacyjnymi też duże.
+I tutaj też powiem się duże,
+bo co innego, to są cele operacyjne dla poszczególnych działów
+i tak dalej co innego są takie, powiedzmy,
+cele jako podmiotu organizacji,
+tak, które funkcjonuje.
+I to też mają różne funkcje sterowniczenia.
+No co znowu, wracamy do początku.
+Po co jest system i czy nie system,
+czyli strategia i operacja.
+O tym też sobie by było powiemy na następnych odcinkach,
+więc dziękuję wam wszystkim za uwagę.
+Czekamy na wasze komentarze opii informacje zwrotne
+i co, jesteśmy w kontakcie, subskrybujcie.
+Kilnionymi wykorzystując potężne narzędzia polskiej
+szkoły cybernetycznej by lepiej funkcjonować w biznesie
+i w życiu to jesteś w idealnym miejscu.
+Ale to dopiero początek twojej drogi.
+Nie zatrzymuj się.
+Kliknij w następnym materiał, który właśnie pojawił się na ekranie
+aby kontynuować proces zdobywania wiedzy
+i stawać się coraz lepszym.
+Do zobaczenia wkrótce.
