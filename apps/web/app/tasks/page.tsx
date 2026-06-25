@@ -173,6 +173,17 @@ export default function TasksPage() {
     }
   }
 
+  async function handleAddSubtask(title: string) {
+    if (!editingId) return
+    const res = await fetch("/api/todos", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ title, priority: editingTodo?.priority || "medium", parent_id: editingId }),
+    })
+    const subtask = await res.json()
+    setTodos((prev) => [...prev, subtask])
+  }
+
   const filterConfigs = [
     {
       label: "Priority",
@@ -325,6 +336,9 @@ export default function TasksPage() {
           onSave={handleEditSave}
           onDelete={deleteTask}
           onToggleSubtask={handleToggleSubtaskInModal}
+          onEditSubtask={setEditingId}
+          onDeleteSubtask={deleteTask}
+          onAddSubtask={handleAddSubtask}
         />
       )}
 

@@ -79,3 +79,27 @@ events:
     total: 20
     skill_tree: marketing
     date: 2026-06-25
+  - id: 823a0a89-3e42-4326-9234-53ed5d70d23e
+    source: todo_complete
+    source_title: "Testimonial: Create video thumbnail"
+    xp_awarded: 20
+    multiplier: 1
+    total: 20
+    skill_tree: marketing
+    date: 2026-06-25
+  - id: 7b231a06-cc22-4205-9193-667052b79a5e
+    source: todo_complete
+    source_title: "Testimonial: Go to hairdresser"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-06-25
+  - id: 47b4c8f5-8511-403a-a068-323c8e3b8e5a
+    source: todo_complete
+    source_title: "Testimonial: Create video thumbnail"
+    xp_awarded: 20
+    multiplier: 1
+    total: 20
+    skill_tree: marketing
+    date: 2026-06-25

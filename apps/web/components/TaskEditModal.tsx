@@ -22,6 +22,9 @@ interface TaskEditModalProps {
   onSave: (updated: Todo) => void
   onDelete: (id: string) => void
   onToggleSubtask: (id: string) => void
+  onEditSubtask?: (id: string) => void
+  onDeleteSubtask?: (id: string) => void
+  onAddSubtask?: (title: string) => void
 }
 
 export default function TaskEditModal({
@@ -31,6 +34,9 @@ export default function TaskEditModal({
   onSave,
   onDelete,
   onToggleSubtask,
+  onEditSubtask,
+  onDeleteSubtask,
+  onAddSubtask,
 }: TaskEditModalProps) {
   const [title, setTitle] = useState(todo.title)
   const [description, setDescription] = useState(todo.description)
@@ -38,6 +44,7 @@ export default function TaskEditModal({
   const [area, setArea] = useState(todo.area)
   const [tagsInput, setTagsInput] = useState((todo.tags || []).join(", "))
   const [dirty, setDirty] = useState(false)
+  const [newSubtaskTitle, setNewSubtaskTitle] = useState("")
 
   useEffect(() => {
     function handleKey(e: KeyboardEvent) {
@@ -173,40 +180,91 @@ export default function TaskEditModal({
           </div>
 
           {/* Subtasks */}
-          {subtodos && subtodos.length > 0 && (
+          {(subtodos && subtodos.length > 0) || onAddSubtask ? (
             <div>
               <label className="text-xs font-semibold mb-1.5 block" style={{ color: "var(--text-dim)" }}>
-                Subtasks ({subtodos.filter((s) => s.status === "completed").length}/{subtodos.length})
+                Subtasks {subtodos ? `(${subtodos.filter((s) => s.status === "completed").length}/${subtodos.length})` : ""}
               </label>
-              <div className="space-y-1">
-                {subtodos.map((s) => {
-                  const done = s.status === "completed"
-                  return (
-                    <div
-                      key={s.id}
-                      className="flex items-center gap-2 px-3 py-2 rounded-lg text-xs"
-                      style={{ background: "var(--bg)", opacity: done ? 0.5 : 1 }}
-                    >
-                      <button
-                        onClick={() => onToggleSubtask(s.id)}
-                        className="w-3.5 h-3.5 rounded border flex items-center justify-center flex-shrink-0"
-                        style={{
-                          borderColor: done ? "var(--green)" : "var(--border)",
-                          background: done ? "var(--green)" : "transparent",
-                        }}
+
+              {subtodos && subtodos.length > 0 && (
+                <div className="space-y-1 mb-2">
+                  {subtodos.map((s) => {
+                    const done = s.status === "completed"
+                    return (
+                      <div
+                        key={s.id}
+                        className="flex items-center gap-2 px-3 py-2 rounded-lg text-xs"
+                        style={{ background: "var(--bg)", opacity: done ? 0.5 : 1 }}
                       >
-                        {done && <span className="text-[7px]" style={{ color: "#fff" }}>✓</span>}
-                      </button>
-                      <span className="flex-1 truncate" style={{ textDecoration: done ? "line-through" : "none" }}>
-                        {s.title}
-                      </span>
-                      <span style={{ color: "var(--text-dim)" }}>+{s.xp_value} XP</span>
-                    </div>
-                  )
-                })}
-              </div>
+                        <button
+                          onClick={() => onToggleSubtask(s.id)}
+                          className="w-3.5 h-3.5 rounded border flex items-center justify-center flex-shrink-0"
+                          style={{
+                            borderColor: done ? "var(--green)" : "var(--border)",
+                            background: done ? "var(--green)" : "transparent",
+                          }}
+                        >
+                          {done && <span className="text-[7px]" style={{ color: "#fff" }}>✓</span>}
+                        </button>
+
+                        <span
+                          className="flex-1 truncate cursor-pointer hover:opacity-70"
+                          style={{ textDecoration: done ? "line-through" : "none" }}
+                          onClick={() => onEditSubtask?.(s.id)}
+                          title="Edit subtask"
+                        >
+                          {s.title}
+                        </span>
+
+                        <span style={{ color: "var(--text-dim)" }}>+{s.xp_value} XP</span>
+
+                        {onDeleteSubtask && (
+                          <button
+                            onClick={() => onDeleteSubtask(s.id)}
+                            className="text-xs px-1 py-0.5 rounded hover:opacity-60"
+                            style={{ color: "var(--red)" }}
+                            title="Delete subtask"
+                          >
+                            ✕
+                          </button>
+                        )}
+                      </div>
+                    )
+                  })}
+                </div>
+              )}
+
+              {onAddSubtask && (
+                <div className="flex gap-2">
+                  <input
+                    value={newSubtaskTitle}
+                    onChange={(e) => setNewSubtaskTitle(e.target.value)}
+                    onKeyDown={(e) => {
+                      if (e.key === "Enter" && newSubtaskTitle.trim()) {
+                        onAddSubtask(newSubtaskTitle.trim())
+                        setNewSubtaskTitle("")
+                      }
+                    }}
+                    placeholder="Add a subtask…"
+                    className="flex-1 px-3 py-1.5 rounded-lg outline-none text-xs"
+                    style={{ background: "var(--bg)", color: "var(--text)", border: "1px solid var(--border)" }}
+                  />
+                  <button
+                    onClick={() => {
+                      if (newSubtaskTitle.trim()) {
+                        onAddSubtask(newSubtaskTitle.trim())
+                        setNewSubtaskTitle("")
+                      }
+                    }}
+                    className="px-3 py-1.5 rounded text-xs font-medium"
+                    style={{ background: "var(--accent)", color: "#fff" }}
+                  >
+                    + Add
+                  </button>
+                </div>
+              )}
             </div>
-          )}
+          ) : null}
 
           {/* Actions */}
           <div className="flex items-center justify-between pt-2">
