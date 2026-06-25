@@ -49,19 +49,32 @@ Out of scope: multi-user auth, cloud sync, mobile native app, notifications infr
 MyBrain is a new standalone system with no legacy dependencies. It consists of:
 
 ```
-┌─────────────┐     ┌──────────────────┐     ┌───────────┐
-│  WhatsApp    │────▶│  Vercel (Next.js) │────▶│  SQLite   │
-│  Cloud API   │     │  - API Routes    │     │  (DB)     │
-└─────────────┘     │  - Web UI        │     └───────────┘
-                    │  - LLM Client    │
-                    └────────┬─────────┘
-                             │
-                    ┌────────▼─────────┐
-                    │  LLM Backend      │
-                    │  (TBD: Gemini    │
-                    │   Free / HF /     │
-                    │   Ollama)         │
-                    └──────────────────┘
+┌─────────────┐     ┌──────────────────────────┐
+│  WhatsApp    │────▶│  FastAPI Backend          │
+│  Cloud API   │     │  (Railway Free)           │
+└─────────────┘     │                            │
+                    │  ┌──────────────────────┐  │
+┌──────────────┐    │  │  Orchestrator Agent  │──│──▶ LLM (Gemini/HF)
+│  Next.js     │    │  │  (decides, plans,    │  │
+│  Frontend    │◀──▶│  │   delegates)         │  │
+│  (Vercel)    │    │  └───────┬──────────────┘  │
+└──────────────┘    │          │                  │
+                    │  ┌───────▼──────────────┐  │
+                    │  │  Tools               │  │
+                    │  │  • Todo CRUD         │──│──▶ PostgreSQL + pgvector
+                    │  │  • Calorie Log       │  │     (Neon Free)
+                    │  │  • RAG Search        │  │
+                    │  │  • Stats/Quests      │  │
+                    │  └───────┬──────────────┘  │
+                    │          │                  │
+                    │  ┌───────▼──────────────┐  │
+                    │  │  Sub-Agents          │  │
+                    │  │  • Calorie Agent     │  │
+                    │  │  • Brain Agent       │  │
+                    │  │  • Gamification      │  │
+                    │  │    Agent             │  │
+                    │  └──────────────────────┘  │
+                    └──────────────────────────┘
 ```
 
 ### 2.2 User Classes
@@ -77,6 +90,7 @@ MyBrain is a new standalone system with no legacy dependencies. It consists of:
 | **Deployment** | Vercel serverless — functions have 10s timeout (Hobby), 60s (Pro). WhatsApp webhook must respond within 5s. |
 | **Storage** | SQLite in `/tmp` (ephemeral on Vercel) or external via Turso/Cloudflare D1 for persistence across redeploys |
 | **LLM** | Must use a free-tier LLM provider (Gemini API free tier, Hugging Face inference, or self-hosted Ollama) |
+| **Agentic** | Backend architecture is agent-driven: orchestrator agent plans and executes tool calls, delegates to sub-agents |
 | **Budget** | $0 operational cost for MVP |
 | **Single-tenant** | No multi-user isolation required |
 
@@ -98,9 +112,9 @@ MyBrain is a new standalone system with no legacy dependencies. It consists of:
 
 | ID | Requirement | Priority | Source |
 |----|------------|----------|--------|
-| SRS-006 | The system shall classify messages into: `create_todo`, `complete_todo`, `delete_todo`, `list_todos`, `log_calories`, `calorie_summary`, `weekly_calories`, `brain_question`, `check_stats`, `unknown` | P0 | FR-06 |
-| SRS-007 | Classification shall use an LLM with a system prompt defining each intent | P0 | FR-07 |
-| SRS-008 | If confidence < 0.6, the system shall reply asking for clarification | P0 | FR-08 |
+| SRS-006 | The system shall pass each incoming message to an orchestrator agent that decides actions via tool calls | P0 | FR-06 |
+| SRS-007 | The orchestrator agent shall have tools for: todo CRUD, calorie log, daily/weekly calorie query, stats, quests, brain search | P0 | FR-07 |
+| SRS-008 | The orchestrator agent may delegate complex tasks to specialized sub-agents (calorie, brain, gamification) | P0 | FR-08 |
 | SRS-009 | If the LLM is unavailable, the system shall reply: "MyBrain LLM is currently unavailable. Please try again in a moment." | P0 | FR-09 |
 
 ### 3.3 Todo Management
@@ -120,7 +134,7 @@ MyBrain is a new standalone system with no legacy dependencies. It consists of:
 | SRS-015 | Calorie entity fields: `id`, `food_name`, `calories`, `serving_size`, `logged_at` | P1 | FR-18 |
 | SRS-016 | The system shall calculate and display daily total, goal, remaining, and percentage | P1 | FR-21b–FR-21d |
 | SRS-017 | Daily intake resets at midnight (configurable timezone) | P1 | FR-21e |
-| SRS-018 | The system shall support WhatsApp intents `calorie_summary` and `weekly_calories` | P1 | FR-21f–FR-21g |
+| SRS-018 | The system shall expose tools `query_daily_calories` and `query_weekly_calories` callable by the orchestrator agent | P1 | FR-21f–FR-21g |
 | SRS-019 | The system shall support a configurable daily calorie goal (default 2000 kcal) | P1 | FR-21c |
 
 ### 3.5 Gamification

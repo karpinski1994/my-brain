@@ -70,13 +70,13 @@ No secondary roles exist for MVP. The system is architected as single-user only.
 | FR-04 | The system shall send response messages back to the user via the WhatsApp Business API | P0 |
 | FR-05 | The system shall support text-only messages (no images, voice, or attachments for MVP) | P0 |
 
-### 4.2 Intent Classification
+### 4.2 Orchestrator Agent
 
 | ID | Requirement | Priority |
 |----|------------|----------|
-| FR-06 | The system shall classify each incoming WhatsApp message into one of: `create_todo`, `complete_todo`, `delete_todo`, `list_todos`, `log_calories`, `calorie_summary`, `weekly_calories`, `brain_question`, `check_stats`, `unknown` | P0 |
-| FR-07 | Classification shall run via a local Ollama LLM with a system prompt describing each intent | P0 |
-| FR-08 | If confidence is below threshold (configurable, default 0.6), the system shall reply asking for clarification | P0 |
+| FR-06 | The system shall pass each incoming WhatsApp message to an orchestrator agent that decides which tools to call based on the full conversation context | P0 |
+| FR-07 | The orchestrator agent shall have access to tools: `create_todo`, `complete_todo`, `delete_todo`, `query_todos`, `log_calorie`, `query_daily_calories`, `query_weekly_calories`, `query_stats`, `query_quests`, `search_brain`, `check_stats` | P0 |
+| FR-08 | The orchestrator agent may delegate complex tasks to specialized sub-agents (calorie analysis, deep brain Q&A, gamification advice) | P0 |
 | FR-09 | If the LLM is unavailable, the system shall reply: "MyBrain LLM is currently unavailable. Please try again in a moment." | P0 |
 
 ### 4.3 Todo Management
@@ -104,8 +104,8 @@ No secondary roles exist for MVP. The system is architected as single-user only.
 | FR-21c | The system shall support a configurable daily calorie goal (default 2000 kcal) stored in user settings | P1 |
 | FR-21d | The system shall display on the web UI: daily total, goal, remaining, and percentage of goal consumed | P1 |
 | FR-21e | The system shall reset daily intake tracking at midnight each day (based on local timezone) | P1 |
-| FR-21f | The system shall support an intent `calorie_summary` that replies with: today's total, goal, remaining, and recent entries | P1 |
-| FR-21g | The system shall support an intent `weekly_calories` that replies with: per-day totals for the past 7 days, daily average, and trend direction (up/down/stable) | P1 |
+| FR-21f | The system shall expose a tool `query_daily_calories` that the orchestrator agent can call to get today's total, goal, remaining, and recent entries | P1 |
+| FR-21g | The system shall expose a tool `query_weekly_calories` that the orchestrator agent can call to get per-day totals, daily average, and trend | P1 |
 | FR-21h | The web UI shall have a weekly view showing daily totals as a bar chart or table with average | P1 |
 
 ### 4.5 XP & Gamification
@@ -140,71 +140,52 @@ No secondary roles exist for MVP. The system is architected as single-user only.
 
 ## 5. Workflow & Logic
 
-### 5.1 Incoming WhatsApp Message Flow
+### 5.1 Incoming WhatsApp Message Flow (Agentic)
 
 ```
 WhatsApp → Webhook (POST /api/whatsapp)
   → Verify signature
   → Extract text body & sender number
-  → Call Ollama LLM for intent classification
-  → Route to handler based on intent:
+  → HTTP 200 (ack)
 
-  create_todo:
-    → Parse title from message
-    → Insert into SQLite
-    → Reply: "✅ Added: <title>"
+  → BUILD CONTEXT:
+    a) Assemble system prompt: user goals, campaign phase, gamification rules
+    b) Load recent history: last N todos, streak, last messages
+    c) Optionally retrieve brain context if message seems like a question
 
-  complete_todo:
-    → Fuzzy-match title against pending todos
-    → If single match → set completed, award XP
-    → Reply: "✅ Done: <title> (+10 XP, streak: 3 days)"
-    → If multiple matches → reply: "Which one? 1) ... 2) ..."
+  → ORCHESTRATOR AGENT LOOP:
+    1. LLM receives message + context
+    2. LLM decides which tool(s) to call (single or multiple)
+    3. System executes tool call → returns structured result
+    4. LLM evaluates: done? need another tool? delegate to sub-agent?
+    5. If complex → delegate to sub-agent (calorie, brain, gamification)
+    6. Repeat until orchestrator decides task is complete
 
-  delete_todo:
-    → Fuzzy-match against pending todos
-    → Delete record
-    → Reply: "🗑 Deleted: <title>"
+  → FORMAT REPLY:
+    1. Orchestrator formats natural-language response
+    2. POST reply to WhatsApp Cloud API
 
-  list_todos:
-    → Query pending todos ordered by priority
-    → Reply formatted list or "No pending todos 🎉"
+Examples of what the orchestrator handles:
 
-  log_calories:
-    → Parse food & amount with LLM
-    → Estimate calories
-    → Insert into SQLite
-    → Reply: "🍗 Logged: 200g chicken breast (~330 kcal)"
-    → If within 80% of daily goal, include warning: "(80% of your daily goal)"
+  "add task edit video"
+    → creates todo → "✅ Added: edit video"
 
-  calorie_summary:
-    → Query today's entries + daily goal
-    → Calculate total, remaining
-    → Reply: "📊 Today: 1,450 / 2,000 kcal · Remaining: 550 kcal
-    12:30 — Chicken breast (330 kcal)
-    19:15 — Pasta (400 kcal)"
+  "done edit video"
+    → fuzzy-match, complete, award XP → "✅ Done: edit video (+10 XP, streak: 3 days)"
 
-  weekly_calories:
-    → Query per-day totals for last 7 days
-    → Calculate average
-    → Reply: "📅 Weekly calories:
-    Mon: 1,800 · Tue: 2,100 · Wed: 1,450 · Thu: 1,900 · Fri: 2,200 · Sat: 1,600 · Sun: 1,750
-    Avg: 1,829 kcal/day · Trend: stable"
+  "200g chicken breast"
+    → estimate via LLM, log → "🍗 Logged: 200g chicken breast (~330 kcal)"
 
-  brain_question:
-    → Query LLM with brain context
-    → Reply: LLM-generated answer
+  "add task edit video and 200g chicken breast for lunch"
+    → two tools in one turn → "✅ Added: edit video\n🍗 Logged: 200g chicken breast (~330 kcal)"
 
-  check_stats:
-    → Query XP total & streak
-    → Reply: "⭐ 1,250 XP total · Streak: 5 days"
-
-  unknown / low confidence:
-    → Reply: "I didn't understand that. Try: 'add task: ...' or 'done ...'"
+  "how's my eating this week?"
+    → delegate to Calorie Sub-Agent → "📅 Weekly: Mon 1,800 ... Avg: 1,829 kcal/day · Stable"
 ```
 
-### 5.2 Todo Fuzzy Matching
+### 5.2 Todo Fuzzy Matching (Tool)
 
-When completing or deleting via WhatsApp, the system shall:
+The todo fuzzy match tool shall:
 - Normalize both input and stored titles (lowercase, strip punctuation)
 - Compute Levenshtein similarity
 - If similarity > 0.8 → single match, auto-select
@@ -291,13 +272,14 @@ The web UI shall have a persistent top or side navigation with four sections:
 
 | Scenario | Behavior |
 |----------|----------|
-| LLM classification timeout (>10s) | Reply: "I'm processing your request, one moment..." then retry once. If still fails, fallback to rule-based keyword matching |
-| LLM unavailable (Ollama down) | Reply: "MyBrain LLM is currently unavailable. Please try again in a moment." |
+| Orchestrator agent loop timeout (>10s) | Reply: "I'm thinking about that, give me a moment..." then retry once. If still failing, reply with partial results |
+| LLM unavailable | Reply: "MyBrain LLM is currently unavailable. Please try again in a moment." |
+| Tool call fails (e.g., DB down) | Orchestrator retries once. If still fails, reply: "I ran into an issue with that. Please try again." |
 | WhatsApp webhook signature invalid | Log warning, return HTTP 401, no processing |
-| Todo fuzzy match returns no results | Reply: "I couldn't find a todo matching that. Try 'list todos' to see what's pending." |
-| Todo fuzzy match returns multiple | Reply with numbered list and ask user to reply with number |
+| Todo fuzzy match returns no results | Orchestrator replies: "I couldn't find a todo matching that. Try asking me to list your todos." |
+| Todo fuzzy match returns multiple | Orchestrator asks: "Which one did you mean? 1) ... 2) ..." |
 | Invalid priority in web UI | Reject with validation error: "Priority must be low, medium, or high" |
-| Calorie parsing fails | Reply: "I couldn't estimate calories for that. Try being more specific (e.g., '200g chicken breast')" |
+| Calorie parsing fails | Orchestrator replies: "I couldn't estimate calories for that. Try being more specific (e.g., '200g chicken breast')" |
 | Database write failure | Reply: "Something went wrong saving that. Please try again." Log error server-side |
 | Message too long (>1000 chars) | Reply: "That message is too long. Please keep it under 1000 characters." |
 
