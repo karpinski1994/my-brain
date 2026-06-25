@@ -51,11 +51,11 @@ Deep exploration of current self-image, strengths and limitations, shadow traits
 | Area | Status |
 |------|--------|
 | **Savings** | $9,000–$10,000 |
-| **Passive income** | $1,700/month (apartment rental in Poland) |
+| **Passive income** | 1,700PLN/month (apartment rental in Poland) |
 | **Business income** | $2,000+/month (mentoring software engineers) |
 | **Total baseline** | ~$3,000–$4,000/month |
 | **Living situation** | Mexico resort, high standard of living |
-| **Safety net** | Parents in good financial situation (double-edged sword) |
+| **Safety net** | Parents in good financial situation (double-edged sword) | Savings
 | **Visa** | Overstayed — not stressed about it |
 | **Health coverage** | None |
 | **Business** | Mentoring developers from developing countries to earn more. Scalable model with happy clients. One worker (Cora). |
