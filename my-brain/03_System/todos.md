@@ -1,12 +1,28 @@
 ---
 type: database
 name: todos
-updated: '2026-06-25T22:01:45.021Z'
-total: 20
-pending: 20
+updated: '2026-06-25T22:33:18.570Z'
+total: 21
+pending: 21
 completed: 0
 total_xp_earned: 0
 todos:
+  - id: a1b2c3d4-thumb-4000-8000-000000000001
+    title: 'Testimonial: Create video thumbnail'
+    description: >-
+      Design and export a YouTube thumbnail for the Gabriel/Miguel testimonial
+      video
+    priority: high
+    status: pending
+    xp_value: 20
+    tags:
+      - video
+      - testimonial
+      - thumbnail
+    area: marketing
+    parent_id: a1b2c3d4-0001-4000-8000-000000000001
+    created: '2026-06-25T22:33:18.570Z'
+    completed: null
   - id: a1b2c3d4-0001-4000-8000-000000000101
     title: 'Testimonial: Go to hairdresser'
     description: Get ready before recording the intro
@@ -294,11 +310,12 @@ todos:
 
 > Last updated: 2026-06-25
 
-**Stats:** 0/20 done · 0 XP earned
+**Stats:** 0/21 done · 0 XP earned
 
 ### 🔴 High Priority
 | Status | Task | XP | Tags |
 |--------|------|----|------|
+| ⬜ | Testimonial: Create video thumbnail *(subtask)* | 20 | video, testimonial, thumbnail |
 | ⬜ | Testimonial: Go to hairdresser *(subtask)* | 5 | video, testimonial, subtask |
 | ⬜ | Testimonial: Record intro talking about Miguel *(subtask)* | 10 | video, testimonial, subtask |
 | ⬜ | Finish testimonial video (Gabriel/Miguel case study) | 20 | video, marketing, client-work |

@@ -72,12 +72,29 @@ export default function TasksPage() {
     return result
   }, [todos, search, selectedFilters, showCompleted])
 
+  const childrenMap = useMemo(() => {
+    const map = new Map<string, Todo[]>()
+    for (const t of todos) {
+      if (t.parent_id) {
+        const arr = map.get(t.parent_id) || []
+        arr.push(t)
+        map.set(t.parent_id, arr)
+      }
+    }
+    return map
+  }, [todos])
+
+  const parentIds = useMemo(() => new Set(childrenMap.keys()), [childrenMap])
+
   const pending = filtered.filter((t) => t.status === "pending")
   const completed = filtered.filter((t) => t.status === "completed")
 
-  const high = pending.filter((t) => t.priority === "high")
-  const medium = pending.filter((t) => t.priority === "medium")
-  const low = pending.filter((t) => t.priority === "low")
+  const standalone = pending.filter((t) => !t.parent_id && !parentIds.has(t.id))
+  const parents = pending.filter((t) => parentIds.has(t.id))
+
+  const high = standalone.filter((t) => t.priority === "high")
+  const medium = standalone.filter((t) => t.priority === "medium")
+  const low = standalone.filter((t) => t.priority === "low")
 
   async function addTodo() {
     if (!newTitle.trim()) return
@@ -205,15 +222,15 @@ export default function TasksPage() {
         <>
           <div className="mb-4 p-4 rounded-xl" style={{ background: "var(--card)", border: "1px solid var(--border)" }}>
             <div className="flex justify-between text-xs mb-2" style={{ color: "var(--text-dim)" }}>
-              <span>{todos.filter((t) => t.status === "completed").length} of {todos.length} done</span>
-              <span>{Math.round((todos.filter((t) => t.status === "completed").length / todos.length) * 100)}%</span>
+              <span>{filtered.filter((t) => t.status === "completed").length} of {filtered.length} done</span>
+              <span>{Math.round((filtered.filter((t) => t.status === "completed").length / filtered.length) * 100)}%</span>
             </div>
             <div className="w-full h-2 rounded-full overflow-hidden" style={{ background: "var(--bg)" }}>
               <div
                 className="h-full rounded-full transition-all duration-500"
                 style={{
-                  width: `${(todos.filter((t) => t.status === "completed").length / todos.length) * 100}%`,
-                  background: todos.every((t) => t.status === "completed") ? "var(--green)" : "var(--accent)",
+                  width: `${filtered.length > 0 ? (filtered.filter((t) => t.status === "completed").length / filtered.length) * 100 : 0}%`,
+                  background: filtered.length > 0 && filtered.every((t) => t.status === "completed") ? "var(--green)" : "var(--accent)",
                 }}
               />
             </div>
@@ -255,9 +272,15 @@ export default function TasksPage() {
             </div>
           )}
 
-          {high.length > 0 && <Section label="High Priority" color={priorityColor.high} tasks={high} onComplete={completeTask} onDelete={deleteTask} />}
-          {medium.length > 0 && <Section label="Medium Priority" color={priorityColor.medium} tasks={medium} onComplete={completeTask} onDelete={deleteTask} />}
-          {low.length > 0 && <Section label="Low Priority" color={priorityColor.low} tasks={low} onComplete={completeTask} onDelete={deleteTask} />}
+          {high.length > 0 && (
+            <Section label="High Priority" color={priorityColor.high} tasks={high} parents={parents.filter(t => t.priority === "high")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
+          )}
+          {medium.length > 0 && (
+            <Section label="Medium Priority" color={priorityColor.medium} tasks={medium} parents={parents.filter(t => t.priority === "medium")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
+          )}
+          {low.length > 0 && (
+            <Section label="Low Priority" color={priorityColor.low} tasks={low} parents={parents.filter(t => t.priority === "low")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
+          )}
 
           {filtered.length === 0 && todos.length > 0 && (
             <div className="text-center py-12" style={{ color: "var(--text-dim)" }}>
@@ -290,22 +313,104 @@ function Section({
   label,
   color,
   tasks,
+  parents,
+  childrenMap,
   onComplete,
   onDelete,
+  onRevert,
 }: {
   label: string
   color: string
   tasks: Todo[]
+  parents: Todo[]
+  childrenMap: Map<string, Todo[]>
   onComplete: (id: string) => void
   onDelete: (id: string) => void
+  onRevert: (id: string) => void
 }) {
   return (
     <div className="mb-6">
       <h3 className="text-sm font-semibold mb-3 flex items-center gap-2" style={{ color }}>
         <span className="w-2 h-2 rounded-full inline-block" style={{ background: color }} />
-        {label} ({tasks.length})
+        {label} ({tasks.length + parents.length})
       </h3>
-      <div className="space-y-2">
+      <div className="space-y-3">
+        {parents.map((parent) => {
+          const children = childrenMap.get(parent.id) || []
+          const done = children.filter((c) => c.status === "completed").length
+          const pct = children.length > 0 ? Math.round((done / children.length) * 100) : 0
+          return (
+            <div
+              key={parent.id}
+              className="rounded-xl p-4 transition"
+              style={{ background: "var(--card)", border: "1px solid var(--border)" }}
+            >
+              <div className="flex items-center gap-3 mb-3">
+                <div className="flex-1 min-w-0">
+                  <p className="text-sm font-semibold">{parent.title}</p>
+                  {parent.description && (
+                    <p className="text-xs mt-0.5 truncate" style={{ color: "var(--text-dim)" }}>
+                      {parent.description}
+                    </p>
+                  )}
+                </div>
+                <span className="text-xs font-mono px-2 py-0.5 rounded" style={{ background: "var(--bg)", color: "var(--text-dim)" }}>
+                  +{parent.xp_value} XP
+                </span>
+              </div>
+
+              <div className="flex items-center gap-2 mb-3">
+                <div className="flex-1 h-1.5 rounded-full overflow-hidden" style={{ background: "var(--bg)" }}>
+                  <div
+                    className="h-full rounded-full transition-all duration-500"
+                    style={{ width: `${pct}%`, background: done === children.length ? "var(--green)" : color }}
+                  />
+                </div>
+                <span className="text-xs font-mono" style={{ color: "var(--text-dim)" }}>
+                  {done}/{children.length}
+                </span>
+              </div>
+
+              <div className="space-y-1.5 ml-2 pl-3 border-l-2" style={{ borderColor: "var(--border)" }}>
+                {children.map((c) => {
+                  const childDone = c.status === "completed"
+                  return (
+                    <div
+                      key={c.id}
+                      className="flex items-center gap-3 px-3 py-2 rounded-lg transition cursor-pointer"
+                      style={{ opacity: childDone ? 0.4 : 1 }}
+                    >
+                      <button
+                        onClick={() => childDone ? onRevert(c.id) : onComplete(c.id)}
+                        className="w-4 h-4 rounded border-2 flex items-center justify-center flex-shrink-0 transition hover:opacity-80"
+                        style={{
+                          borderColor: childDone ? "var(--green)" : color,
+                          background: childDone ? "var(--green)" : "transparent",
+                        }}
+                      >
+                        {childDone && <span className="text-[8px]" style={{ color: "#fff" }}>✓</span>}
+                      </button>
+                      <p className="text-xs truncate flex-1" style={{ textDecoration: childDone ? "line-through" : "none" }}>
+                        {c.title}
+                      </p>
+                      <span className="text-xs font-mono" style={{ color: childDone ? "var(--green)" : "var(--text-dim)" }}>
+                        +{c.xp_value} XP
+                      </span>
+                      <button
+                        onClick={() => onDelete(c.id)}
+                        className="text-xs px-1 py-0.5 rounded opacity-0 hover:opacity-100"
+                        style={{ color: "var(--red)" }}
+                      >
+                        ✕
+                      </button>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+          )
+        })}
+
         {tasks.map((t) => (
           <div
             key={t.id}
