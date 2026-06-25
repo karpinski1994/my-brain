@@ -11,66 +11,129 @@ description: MyBrain second brain — gamified productivity assistant. Manage to
 
 ---
 
-## Data Storage
+## ⚠️ CRITICAL: File Format Rules
 
-### Todos
-**Path:** `my-brain/03_System/todos.md`
-Single file. YAML frontmatter = database, markdown body = readable table for Obsidian.
+These files are parsed by `gray-matter` (YAML frontmatter) AND rendered as human-readable markdown tables in Obsidian. **Every write MUST preserve both.**
+
+### General rules for ALL vault files:
+1. **Read the file completely** with `cat` before any edit
+2. **Parse YAML frontmatter** (content between `---` markers)
+3. **Modify the YAML data** (todos array, routines array, items array, stats fields)
+4. **Regenerate the markdown body** from scratch to match current YAML data — DO NOT preserve old body, it will be stale
+5. **Regenerate frontmatter metadata** — update `updated` timestamp, `total`/`pending`/`completed` counts
+6. **Write the full file** — frontmatter + body
+7. Use `gray-matter`'s `stringify(body, data)` or write manually with `---\n${yaml}\n---\n\n${body}`
+8. **String values must be quoted** if they contain colons, special chars, or start with numbers
+9. **Arrays** must use `-` list format, not inline `[...]` for complex fields
+
+### What BREAKS the files:
+- ❌ Editing the markdown body directly (it's a human-readable view, not the source of truth)
+- ❌ Leaving stale counts in frontmatter (total/pending/completed must match actual arrays)
+- ❌ Omitting fields that the web app expects (id, title, status, etc.)
+- ❌ Using wrong field names (e.g. `name` instead of `title`)
+- ❌ Putting metadata outside `---` delimiters
+
+---
+
+## File Formats (Exact)
+
+### `my-brain/03_System/todos.md`
 
 ```yaml
 ---
-type: database
-name: todos
-updated: "2026-06-25T..."
-total: 20
-pending: 20
-completed: 0
-total_xp_earned: 0
+type: database                   # literal "database"
+name: todos                      # literal "todos"
+updated: "2026-06-25T21:58:58Z"  # ISO 8601, always update on write
+total: 20                        # must equal length of todos array
+pending: 20                      # count where status == "pending"
+completed: 0                     # count where status == "completed"
+total_xp_earned: 0               # sum of xp_value of completed todos
 todos:
-  - id: "a1b2c3d4-..."
-    title: "Finish testimonial video"
-    description: ""
-    priority: high          # high | medium | low
-    status: pending         # pending | completed
-    xp_value: 20
-    tags: [video, marketing]
-    area: marketing
-    parent_id: null
-    created: "2026-06-25T09:00:00.000Z"
-    completed: null
+  - id: "a1b2c3d4-0001-4000-8000-000000000001"   # UUID, unique
+    title: "Finish testimonial video"              # required, string
+    description: "Complete the full testimonial"   # optional, default ""
+    priority: high                                 # exact: "high" | "medium" | "low"
+    status: pending                                # exact: "pending" | "completed"
+    xp_value: 20                                   # integer, low=5 medium=10 high=20
+    tags:                                          # array of strings
+      - video
+      - marketing
+    area: marketing                                # freeform category string
+    parent_id: null                                # UUID string or null
+    created: "2026-06-25T09:00:00.000Z"           # ISO 8601, set once
+    completed: null                                # ISO 8601 or null
 ---
 ```
 
-### Dailies (Routines)
-**Path:** `my-brain/03_System/dailies.md`
-Single file with routines + streak data.
+Body is a markdown table:
+```
+# Tasks Database
+
+> Last updated: 2026-06-25
+
+**Stats:** 0/20 done · 0 XP earned
+
+### 🔴 High Priority
+| Status | Task | XP | Tags |
+|--------|------|----|------|
+| ⬜ | Finish testimonial video | 20 | video, marketing |
+
+### 🟡 Medium Priority
+...
+
+### 🔵 Low Priority
+...
+
+### ✅ Completed
+| Task | XP | Done |
+|------|----|------|
+```
+
+### `my-brain/03_System/dailies.md`
 
 ```yaml
 ---
 type: database
 name: dailies
 updated: "2026-06-25T..."
-current_streak: 1
-longest_streak: 1
-last_activity_date: "2026-06-25"
-total_xp: 50
-daily_calorie_goal: 2000
+current_streak: 1                # integer, never negative
+longest_streak: 1                # integer, never negative
+last_activity_date: "2026-06-25" # YYYY-MM-DD or null
+total_xp: 50                     # integer, cumulative XP
+daily_calorie_goal: 2000         # integer
 routines:
-  - id: "uuid"
+  - id: "a1b2c3d4-r001-..."     # UUID, unique
     title: "Reading / Learning (30 min)"
     description: "Read a psychology or business book"
-    frequency: daily          # daily | weekly
-    xp_value: 10
-    area: psychology
-    history: []               # completed YYYY-MM-DD dates
-    linked_progress_id: "progress-cybernetics-001"  # optional: auto-logs to progression
-    progress_amount: 1        # how many units to log each completion
+    frequency: daily             # exact: "daily" | "weekly"
+    xp_value: 10                 # integer
+    area: psychology             # category string
+    history:                     # array of YYYY-MM-DD completion dates
+      - "2026-06-25"
+    linked_progress_id: "progress-cybernetics-001"  # optional, null if not linked
+    progress_amount: 1           # how many units to add to linked progress per completion
 ---
 ```
 
-### Progression (Books, Courses, Projects)
-**Path:** `my-brain/03_System/progress.md`
-Generic progress tracker. Works for books (pages), courses (lectures), projects (milestones), etc.
+Body:
+```
+# Dailies Database
+
+**Streak:** 1d · **Best:** 1d · **Daily:** 3/9 · **Weekly:** 0/2
+
+## Daily Routines
+| Status | Task | XP | Area |
+|--------|------|----|------|
+| ✅ | Reading / Learning (30 min) 🔗 | 10 | psychology |
+| ⬜ | Exercise (30 min) | 10 | physical |
+
+## Weekly Routines
+| Status | Task | XP | Area |
+|--------|------|----|------|
+| ⬜ | The Weekly Review 🔗 | 15 | cybernetics |
+```
+
+### `my-brain/03_System/progress.md`
 
 ```yaml
 ---
@@ -78,60 +141,57 @@ type: database
 name: progression
 updated: "2026-06-25T..."
 items:
-  - id: "progress-cybernetics-001"
-    title: "Cybernetics Course (en)"
-    description: "14 cybernetics transcripts in English"
-    category: "course"        # book | course | project | habit | other
-    unit: "lectures"          # pages | lectures | chapters | hours | etc
-    total: 14
-    current: 7
-    status: "in_progress"     # in_progress | completed
-    entries:
-      - date: "2026-06-25"
-        amount: 1
-        note: "via Reading / Learning (30 min)"
-    created: "2026-06-25T10:00:00.000Z"
-    updated: "2026-06-25T10:00:00.000Z"
+  - id: "progress-cybernetics-001"    # unique ID
+    title: "Cybernetics Course (en)"  # required
+    description: "14 cybernetics transcripts"
+    category: "course"                 # "book" | "course" | "project" | "habit" | "other"
+    unit: "lectures"                   # "pages" | "lectures" | "chapters" | "hours" | etc
+    total: 14                          # integer > 0
+    current: 7                         # integer >= 0, never > total
+    status: "in_progress"              # "in_progress" | "completed"
+    entries:                           # chronological log
+      - date: "2026-06-25"             # YYYY-MM-DD
+        amount: 1                      # any positive/negative integer
+        note: "via Reading routine"    # optional string
+    created: "2026-06-25T10:00:00Z"   # ISO 8601, set once
+    updated: "2026-06-25T10:00:00Z"   # ISO 8601, update on every change
 ---
 ```
 
-### Today's Focus
-**Path:** `.opencode/skills/mybrain/data/today.yaml`
+Body:
+```
+# Progression Database
 
-```yaml
-date: 2026-06-25
-focus_tasks:
-  - id: "550e8400-..."
-    order: 1
+**Total:** 2 · **Completed:** 0
+
+### 🔄 Cybernetics Course (en)
+| Category | Unit | Progress |
+|----------|------|----------|
+| course | lectures | 7/14 (50%) |
+
+**Log:**
+| Date | Amount | Note |
+|------|--------|------|
+| 2026-06-25 | +1 lectures | via Reading routine |
+
+### 🔄 Data Science for Business
+| Category | Unit | Progress |
+|----------|------|----------|
+| book | pages | 10/409 (2%) |
 ```
 
-### Calorie Files
-**Path:** `.opencode/skills/mybrain/data/calories/`
-One `.md` per entry.
-
-```yaml
----
-id: "uuid"
-food: "Chicken breast"
-calories: 330
-serving: "200g"
-logged: 2026-06-24T12:30:00Z
----
-```
-
-### XP Events
-**Path:** `.opencode/skills/mybrain/data/xp/events.yaml`
+### `.opencode/skills/mybrain/data/xp/events.yaml`
 
 ```yaml
 events:
   - id: "uuid"
-    source: "todo_complete"   # todo_complete | daily_complete | streak_bonus
+    source: "todo_complete"           # "todo_complete" | "daily_complete" | "streak_bonus"
     source_title: "Edit video"
-    xp_awarded: 10
+    xp_awarded: 10                    # base XP before multiplier
     multiplier: 1.0
-    total: 10
+    total: 10                         # xp_awarded × multiplier
     skill_tree: "video"
-    date: "2026-06-24"
+    date: "2026-06-24"               # YYYY-MM-DD
 ```
 
 ---
@@ -154,166 +214,217 @@ events:
 ### 📋 Task Management
 
 **"add task: <title>"** or **"add todo: <title>"**
-1. Parse title, priority (default medium), description, tags, area
-2. Read `my-brain/03_System/todos.md`, parse YAML frontmatter
-3. Append new todo to `data.todos` array
-4. Assign XP: low=5, medium=10, high=20
-5. Regenerate markdown body and write file
-6. Confirm
+1. Parse user input for: title (required), priority (default "medium"), description (default ""), tags (default []), area (default "general")
+2. Read `my-brain/03_System/todos.md` — use `cat` to get full content
+3. Parse YAML frontmatter (extract `data.todos` array)
+4. Generate a new UUID for `id` (use `crypto.randomUUID()` or a UUID library)
+5. Create new todo object with ALL required fields
+6. Push to `data.todos` array
+7. Update frontmatter metadata: `updated` (now), `total`, `pending`, `completed` counts
+8. **Regenerate the markdown body** from scratch (see format above)
+9. Write the file (frontmatter + body)
+10. Confirm with the title and XP value
 
 **"add subtask: <title> under <parent>"**
-1. Find parent todo by fuzzy match in `todos.md`
-2. Append new todo with `parent_id` pointing to parent
-3. Regenerate file
+1. Fuzzy match parent todo by title in `data.todos` array (search `title` field, case-insensitive, partial match)
+2. Create new todo with `parent_id: "<parent.id>"`
+3. Same write procedure as "add task"
 
 **"list todos"**
-1. Read ALL pending todos from `my-brain/03_System/todos.md` (`data.todos` where `status: pending`)
-2. Group by priority (HIGH → MEDIUM → LOW)
-3. Show count per priority
-4. Show completed at bottom if any
+1. Read `my-brain/03_System/todos.md`, parse `data.todos`
+2. Separate into `pending` (status === "pending") and `completed` (status === "completed")
+3. Group pending by priority: high → medium → low
+4. Within each group, list with: ⬜ title (+XP)
+5. Show counts: "N pending · M completed"
 
-**"list <area> todos"** — filter by area
+**"list <area> todos"** — filter pending by `area` field (case-insensitive match)
 
 **"done <task>"**
-1. Fuzzy match pending todos in `todos.md`
-2. Set `status: completed`, `completed` timestamp
-3. Award XP (base × streak multiplier)
-4. Update `current_streak` / `total_xp` in `dailies.md` frontmatter
-5. Append event to `events.yaml`
-6. Regenerate `todos.md` and `dailies.md`
-7. Confirm: ✅ XP earned · streak · total XP
+1. Fuzzy match task title in `data.todos` (pending only)
+2. Update the matched todo:
+   - `status: "completed"`
+   - `completed: new Date().toISOString()`
+3. **Award XP flow:**
+   a. Read `dailies.md` frontmatter → get `total_xp`, `current_streak`, `last_activity_date`
+   b. Calculate streak multiplier (`getStreakMultiplier(streak)`: <7=1.0, 7-13=1.25, 14-29=1.5, 30+=2.0)
+   c. Update streak:
+      - If no last_activity_date or last_activity_date is yesterday: streak += 1
+      - If last_activity_date is today: streak unchanged
+      - Otherwise: streak = 1
+      - last_activity_date = today
+      - Update longest_streak if current > longest
+   d. Calculate: `xpEarned = Math.round(todo.xp_value × multiplier)`
+   e. Increment: `total_xp += xpEarned`
+   f. Write updated `dailies.md` with new streak/XP values + regenerate body
+4. **Log XP event:** append to `events.yaml`:
+   ```yaml
+   - id: "uuid"
+     source: "todo_complete"
+     source_title: "<todo.title>"
+     xp_awarded: <todo.xp_value>
+     multiplier: <streak multiplier>
+     total: <xpEarned>
+     skill_tree: "<todo.area>"
+     date: "<today YYYY-MM-DD>"
+   ```
+5. Update `todos.md` — modify the todo + update counts + regenerate body
+6. Confirm: "✅ <title> +<xpEarned>XP · streak <streak>d · total <total_xp>XP"
 
-**"delete <task>"** — fuzzy match, confirm, remove from `todos.md` array, regenerate
+**"delete <task>"**
+1. Fuzzy match task in `data.todos`
+2. Confirm with user before deleting
+3. Remove from `data.todos` array
+4. Update counts + regenerate body
+5. Write file
 
-**"edit todo <task>"** — find, update fields, regenerate
+**"edit todo <task>"**
+1. Fuzzy match task in `data.todos`
+2. Read which fields user wants to change (title, priority, description, tags, area)
+3. Update only those fields
+4. Regenerate body
+5. Write file
 
 ### 🎯 Today's Focus
 
 **"focus today"** or **"today's tasks"**
 1. Read `data/today.yaml`
-2. For each focused task ID, find the todo in `todos.md`
-3. Display ordered list with status (✅/⬜)
-4. Show completions: "X/Y done today"
+2. For each `focus_tasks[i].id`, find the todo in `todos.md` `data.todos`
+3. Display in `order` sequence with status (✅/⬜)
 
 **"plan today"** or **"set focus"**
-1. List all pending todos from `todos.md`
-2. User picks which ones to focus on
-3. Write to `data/today.yaml` with order
+1. List ALL pending todos from `todos.md`
+2. Let user pick which ones to focus on (by title or number)
+3. Write `data/today.yaml`:
+   ```yaml
+   date: "<today YYYY-MM-DD>"
+   focus_tasks:
+     - id: "<todo.id>"
+       order: 1
+   ```
 
 **"add to focus: <task>"** / **"remove from focus: <task>"**
-- Append/remove from `data/today.yaml`
+- Read `data/today.yaml`
+- Append/remove by fuzzy-matched ID
+- Re-number order sequentially
+- Write file
 
 ### 🔄 Daily Routines
 
 **"dailies"** or **"routines"**
-1. Read `my-brain/03_System/dailies.md`
-2. For each routine, check if `history` contains today's date
-3. Show grouped: 🟢 done / ⬜ pending
-4. If routine has `linked_progress_id`, show the linked item name and current progress
+1. Read `my-brain/03_System/dailies.md`, parse `data.routines`
+2. Today = `new Date().toISOString().slice(0, 10)`
+3. For each routine: done = `r.history.includes(today)` for daily, or `r.history.some(h => h >= weekStart)` for weekly
+4. Show: "✅ Title (done)" or "⬜ Title (pending)"
+5. If routine has `linked_progress_id`, show linked item's current progress from `progress.md`
 
 **"daily done <routine>"** or **"routine done <routine>"**
-1. Fuzzy match routine in `dailies.md`
-2. Add today's date to `history` if not present
-3. Award XP: routine.xp_value × streak multiplier
-4. Update `current_streak` / `total_xp` in `dailies.md`
-5. If routine has `linked_progress_id`: log +`progress_amount` to that progression item in `progress.md`
-6. Append event to `events.yaml`
-7. Regenerate `dailies.md` (and `progress.md` if linked)
-8. Confirm: ✅ +XP · linked progress updated
+1. Fuzzy match routine title in `data.routines`
+2. Check if already done today (`history.includes(today)`) — if yes, inform user
+3. Add `today` to `r.history` array
+4. **Award XP** (same XP flow as "done <task>" — update dailies.md streak/XP, log event)
+5. **Linked progress:** if `r.linked_progress_id` is set:
+   a. Read `progress.md`
+   b. Find item by `linked_progress_id`
+   c. Log entry: `{ date: today, amount: r.progress_amount || 1, note: "via <r.title>" }`
+   d. Increment `item.current += (r.progress_amount || 1)`
+   e. If current >= total: set `status: "completed"`
+   f. Update item.updated timestamp
+   g. Regenerate `progress.md` body
+6. Regenerate `dailies.md` body (update stats, routine histories)
+7. Confirm: "✅ <routine.title> +<xp>XP · linked progress updated"
 
-**"dailies reset"** — show completion stats for the week
+**"dailies reset"** — show this week's completion stats per routine
 
 ### 📈 Progression (Books, Courses, Projects)
 
-**Natural language patterns — parse these flexibly:**
-
-| You say | What happens |
-|---------|-------------|
-| *"I read 20 pages of Data Science"* | Fuzzy match `Data Science for Business` → log +20 pages |
-| *"Finished 8th chapter of cybernetics"* | Fuzzy match `Cybernetics Course` → log +1 lecture (chapter = unit match) |
-| *"Just finished 5 more pages of the book"* | Fuzzy match first book → log +5 pages |
-| *"I'm on chapter 12 now"* | Fuzzy match first in-progress course/book → calculate delta from current, log the difference |
-| *"Completed lecture 9"* | Fuzzy match course → set current to 9, add entry |
-| *"Read 3 chapters of Data Science"* | Fuzzy match → log +3 (unit = chapters, even if stored as pages, convert sensibly) |
-
-**Rules for parsing:**
-1. Extract **amount** — any number mentioned (20, 8, 5, 12, 9, 3)
-2. Extract **unit** — pages, chapter(s), lecture(s), lesson(s), section(s), transcript(s), percent(%) — map to the item's stored unit
-3. Fuzzy match **item title** — ignore stop words, find closest match among all progress items
-4. If unit mismatch (e.g. user says "chapters" but item stores "lectures"), treat as +1 per mention unless a specific amount is given
-5. If the user gives an absolute position ("on chapter 12", "finished lecture 9"), calculate `amount = new_position - current` and log that delta
-6. Default to first in-progress item if title isn't clear
+**Natural language parsing — REQUIRED for "I read X pages", "finished chapter Y", etc.:**
+- Extract the **numerical amount** from the user's sentence
+- Extract the **unit** (pages, chapter/s, lecture/s, lesson/s, section/s, transcript/s, %)
+- Fuzzy match the **item title** against all items in `progress.md` `data.items`
+- If the user gives an absolute position ("on chapter 12", "finished lecture 9"), the delta is `new_position - current`
+- If the unit the user says ("chapters") differs from the stored unit ("lectures"), treat it as the stored unit
+- Default to the first in-progress item if title is ambiguous
 
 **"add course: <title>"** or **"add book: <title>"**
-1. Parse title, category (book/course/project), unit, total
-2. Read `my-brain/03_System/progress.md`
-3. Append new item with `current: 0`, `status: in_progress`
-4. Regenerate file
-5. Confirm
+1. Parse: title, category ("course" if user said course, "book" if book), unit, total
+2. Read `progress.md`, get `data.items` array
+3. Generate UUID `id: "progress-<short-uuid>"`
+4. Create: `{ id, title, description: "", category, unit, total, current: 0, status: "in_progress", entries: [], created: now ISO, updated: now ISO }`
+5. Push to items array
+6. Update `updated` timestamp
+7. Regenerate body + write file
 
 **"list progress"**
-1. Read `my-brain/03_System/progress.md`
-2. Show each item: title · category · current/total (percentage)
-3. Show progress bar emoji: ████████░░ 70%
-4. Mark completed items with ✅
+1. Read `progress.md`
+2. For each item: show title, category, current/total (percentage), progress bar emoji
+3. Mark completed with ✅
 
 **"log progress: <item> <amount>"**
-1. Fuzzy match progress item in `progress.md`
-2. Add entry with today's date, amount, optional note
-3. Increment `current`
-4. If `current >= total`, set `status: completed`
-5. Regenerate file
-6. Confirm: "📖 Data Science for Business: 20/409 pages (5%)"
+1. Fuzzy match item in `data.items`
+2. Log entry: `{ date: today, amount: <amount>, note: "" }`
+3. `item.current = Math.max(0, item.current + amount)`
+4. If current >= total: current = total, status = "completed"
+5. If was completed and current < total: status = "in_progress"
+6. Update `item.updated`
+7. Regenerate body + write file
+8. Confirm: "📖 <title>: <current>/<total> <unit> (<pct>%)"
 
 **"next lesson"** or **"next lecture"**
-1. Find first in-progress course item in `progress.md`
-2. Log +1 to it
+1. Find first in-progress item where category is "course"
+2. Log +1 entry
 3. Confirm
 
 **"link <routine> to <progress>"**
-1. Fuzzy match routine in `dailies.md`
-2. Fuzzy match progress item in `progress.md`
-3. Set `linked_progress_id` on the routine
-4. Regenerate `dailies.md`
-5. Confirm
+1. Fuzzy match routine in `dailies.md` `data.routines`
+2. Fuzzy match progress item in `progress.md` `data.items`
+3. Set `r.linked_progress_id = item.id`, `r.progress_amount = 1` (or ask user)
+4. Regenerate `dailies.md` body + write
 
 ### 📊 Progress & Status
 
 **"progress"** or **"status"**
-1. Count:
-   - Pending todos (by priority)
-   - Dailies (done/total today)
-   - Progression items (in-progress/completed)
-   - Streak days · XP · Level
-2. One-block summary
+1. Read todos.md, dailies.md, progress.md, events.yaml
+2. One-block summary:
+   ```
+   📋 Tasks: N pending · M completed today
+   🔄 Dailies: X/Y done today
+   📈 Progress: K items (Z in progress)
+   🔥 Streak: Sd · ×M XP · Lvl L · XP to next: N
+   ```
 
-**"my stats"**
-1. Read `dailies.md` frontmatter (has total_xp, streaks)
-2. Calculate level
-3. Display: XP · Level · Streak · XP to next level
+**"my stats"** — same as XP section from dailies.md + level calculation
 
 **"weekly review"**
-1. Show completed todos this week (from `todos.md`)
-2. Show daily routine completion rates (from `dailies.md`)
-3. Show XP earned this week (from `events.yaml`)
-4. Suggest focus areas
+1. Calculate start of week (Sunday): `new Date(new Date().setDate(d.getDate() - d.getDay())).toISOString().slice(0, 10)`
+2. From `events.yaml`, filter events where date >= weekStart
+3. Group by day, sum XP
+4. Show daily breakdown, total weekly XP
 
 ### 🍽️ Calorie Logging
 
 **"<amount> <food>"** — log a food
-1. Estimate calories if not provided
-2. Create `.md` in `data/calories/`
-3. Read today's existing entries → running total
-4. Show: logged item · daily total · remaining
+1. Extract calories if number provided, otherwise estimate reasonably
+2. Extract food name (everything after the number)
+3. Create `.md` in `data/calories/`:
+   ```yaml
+   ---
+   id: "uuid"
+   food: "Chicken breast"
+   calories: 330
+   serving: "200g"
+   logged: "<now ISO>"
+   ---
+   ```
+4. Read today's existing entries → sum calories → show daily total + remaining vs goal (2000)
 
-**"calorie summary"** — today's calories
-**"weekly calories"** — past 7 days
+**"calorie summary"** — list today's entries + total + remaining
+**"weekly calories"** — past 7 days, total per day
 
 ### 🧠 Brain Q&A
 
 **"<question about goals/psychology/campaigns>"**
-1. Search brain directories
-2. Synthesize answer from content
+1. Search brain directories (`02_Wiki/`, `01_Raw/`)
+2. Synthesize answer from content found
 
 ---
 
@@ -327,10 +438,24 @@ events:
 | High | 20 |
 
 ### Streak Calculation
-- Consecutive days with at least one completion (todo or daily)
-- If last activity was yesterday: increment streak
-- If today: no change
-- If older: reset to 1
+```javascript
+function updateStreak(stats, today) {
+  if (!stats.last_activity_date) {
+    stats.current_streak = 1
+  } else if (stats.last_activity_date === today) {
+    return stats.current_streak  // no change
+  } else if (stats.last_activity_date === yesterday(today)) {
+    stats.current_streak += 1
+  } else {
+    stats.current_streak = 1
+  }
+  stats.last_activity_date = today
+  if (stats.current_streak > stats.longest_streak) {
+    stats.longest_streak = stats.current_streak
+  }
+  return stats.current_streak
+}
+```
 
 ### Streak Multiplier
 | Streak | Multiplier |
@@ -347,49 +472,47 @@ xp_for_next = level² × 100
 xp_needed = xp_for_next - total_xp
 ```
 
-### XP Award Flow
-1. Base XP (from priority or routine value)
-2. Streak multiplier applied
-3. Total = base_xp × multiplier
-4. Update total_xp in `dailies.md` frontmatter
-5. Append event to `events.yaml`
-6. Check level-up
-
 ---
 
 ## Behavioral Rules
 
-1. **Always read first** — Read file before editing
-2. **Confirm destructive actions** — Ask before delete, before completing irreversible actions
-3. **Be concise** — One-line confirmations
-4. **Session greeting** — When user starts, optionally: "N pending · X focus today · Y dailies · Z XP · L-level · K progress items"
-5. **Use the brain** — Search brain files for questions about goals/campaigns
-6. **No notifications** — User initiates all interactions
-7. **Compound messages** — Handle mixed requests (task + calorie) in one turn
-8. **Focus order matters** — When showing focus tasks, always display in `order` sequence
-9. **File regeneration** — After any write to `todos.md`, `dailies.md`, or `progress.md`, ALWAYS regenerate the markdown body table to match the YAML data. The body must reflect current state.
+1. **Always read first** — Read the full file with `cat` before any write. Never guess file contents.
+2. **Confirm destructive actions** — Ask before delete, before completing irreversible actions.
+3. **Regenerate bodies** — After ANY write to `todos.md`, `dailies.md`, or `progress.md`, you MUST:
+   - Update `updated` timestamp to now
+   - Recalculate all summary stats (total, pending, completed counts)
+   - Regenerate the full markdown body table from the YAML data
+   - Write the complete file (frontmatter + body)
+4. **Be concise** — One-line confirmations after every action.
+5. **Session greeting** — When user starts, optionally: "N pending · X focus today · Y dailies · Z XP · L-level · K progress items"
+6. **No notifications** — User initiates all interactions.
+7. **Compound messages** — Handle mixed requests (task + calorie) in one turn.
+8. **Focus order matters** — Display focus tasks in `order` sequence.
+9. **Never edit the markdown body directly** — It's a generated view. Always modify the YAML data and regenerate.
+10. **Never make up IDs** — Use a proper UUID generator (`crypto.randomUUID()` or node `crypto`).
 
 ---
 
 ## Quick Reference
 
-| Command | Action |
-|---------|--------|
-| `add task: <title>` | Create new todo |
-| `add subtask: <title> under <parent>` | Create subtask |
-| `done <task>` | Complete a todo |
-| `list todos` | All pending grouped |
-| `focus today` | Today's focus tasks |
-| `plan today` | Set today's focus |
-| `dailies` | Show routines |
-| `daily done <routine>` | Complete a routine (+ linked progress) |
-| `add course: <title>` | Create progression item |
-| `add book: <title>` | Create book progression |
-| `list progress` | Show all progression items |
-| `log progress: <item> <amount>` | Log progress |
-| `next lesson` | Quick +1 to current course |
-| `link <routine> to <progress>` | Link routine to progression item |
-| `progress` | Full status summary |
+| You say | What to do |
+|---------|------------|
+| `add task: <title>` | Create new todo in todos.md |
+| `add subtask: <title> under <parent>` | Create subtodo linked to parent |
+| `done <task>` | Complete todo, award XP, update streak |
+| `list todos` | Show all pending by priority |
+| `focus today` | Show today's focus list |
+| `plan today` | Pick tasks to focus on today |
+| `dailies` | Show routines + linked progress |
+| `daily done <routine>` | Complete routine, award XP, log linked progress |
+| `add course/book: <title>` | Create progression item |
+| `list progress` | Show all progress items |
+| `log progress: <item> <amount>` | Log progress entry |
+| `next lesson` | +1 to current course |
+| `link <routine> to <progress>` | Connect routine to progress auto-log |
+| `I read 20 pages of Data Science` | Parse → log +20 to book |
+| `finished chapter 8 of cybernetics` | Parse → calculate delta → log |
+| `progress` / `status` | Full summary |
 | `my stats` | XP + level |
-| `<amount> <food>` | Log calories |
+| `<number> <food>` | Log calories |
 | `calorie summary` | Today's calories |
