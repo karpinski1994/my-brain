@@ -169,7 +169,7 @@ Born in Poland. First 6 years were pure adventure — forest exploration, buildi
 | Quest | Objective | XP | Skill |
 |-------|-----------|----|-------|
 | 🏰 The $6K Sprint | $6K/mo by end of July 2026 | — | Business |
-| 🎥 Gabriel Case Study | Finish recommendation video | 50 | Marketing |
+| 🎥 Gabriel/Miguel Case Study | Finish testimonial video 🔴 #1 PRIORITY | 50 | Marketing |
 | 📊 The Funnel Eye | Finish monitoring software | 75 | Cybernetics |
 | 🤖 Automation Polish | Instagram automations | 40 | AI & Tech |
 | 📝 Content Blueprint | Create content plans | 30 | Business |

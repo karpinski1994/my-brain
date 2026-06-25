@@ -31,11 +31,20 @@ See [[Financial Roadmap]] for full campaign.
 - **Reward**: Scuba certification 🏆
 - **Bosses**: The Lethargy Spore, The Void Walker, The Perfection Wraith
 
-### ~~🎥 Side Quest: The Gabriel Case Study~~ ✅ Complete
-- **Objective**: Finish recommendation video for Gabriel
+### 🎥 Side Quest: The Gabriel/Miguel Case Study 🟡 In Progress
+- **Objective**: Finish testimonial video
 - **XP**: 50
 - **Skill**: Marketing
-- **Progress**: ✅ Complete
+- **Progress**: 🟡 In progress (cut highlights ✅, glitch intro ✅)
+- **Subtasks**:
+  - ✅ Cut the most important parts
+  - ✅ Created intro with glitches
+  - ⬜ Go to hairdresser
+  - ⬜ Write intro script with Google AI Studio
+  - ⬜ Record intro talking about Miguel
+  - ⬜ Add music at beginning and end
+  - ⬜ Write video description
+  - ⬜ Create hashtags, description, and link
 
 ### 📊 Side Quest: The Funnel Eye
 - **Objective**: Finish funnel monitoring software
@@ -74,6 +83,12 @@ See [[Financial Roadmap]] for full campaign.
 - **Status**: Repeatable daily
 - **XP**: 5 + First Strike buff (2x = 10)
 - **Skill**: Psychology
+
+### 🔍 Side Quest: Find a Mentor
+- **Objective**: Find someone who has achieved $17K/mo+ with a scaled business
+- **XP**: 50
+- **Skill**: Business
+- **Status**: 📝 Planned (after testimonial video)
 
 ### 💪 Side Quest: The Iron Vessel (Exercise 30min)
 - **Status**: Repeatable daily
@@ -121,7 +136,7 @@ See [[Financial Roadmap]] for full campaign.
 
 ## Completed Quests
 
-*(None yet — the journey begins.)*
+- 🎥 Gabriel/Miguel Testimonial — in progress (cut highlights ✅, glitch intro ✅)
 
 ---
 
