@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback, useMemo } from "react"
 import type { Todo } from "@/lib/types"
 import FilterBar from "@/components/FilterBar"
+import TaskEditModal from "@/components/TaskEditModal"
 
 const priorityColor: Record<string, string> = {
   high: "var(--red)",
@@ -22,6 +23,7 @@ export default function TasksPage() {
   const [newPriority, setNewPriority] = useState<string>("medium")
   const [showForm, setShowForm] = useState(false)
   const [undo, setUndo] = useState<{ todo: Todo; from: "pending" | "completed" } | null>(null)
+  const [editingId, setEditingId] = useState<string | null>(null)
 
   const [search, setSearch] = useState("")
   const [selectedFilters, setSelectedFilters] = useState<Record<string, Set<string>>>(() => ({
@@ -144,6 +146,31 @@ export default function TasksPage() {
   async function deleteTask(id: string) {
     await fetch(`/api/todos/${id}`, { method: "DELETE" })
     setTodos((prev) => prev.filter((t) => t.id !== id))
+  }
+
+  const editingTodo = useMemo(() => editingId ? todos.find(t => t.id === editingId) ?? null : null, [editingId, todos])
+  const editingSubtodos = useMemo(() => editingId ? todos.filter(t => t.parent_id === editingId) : undefined, [editingId, todos])
+
+  async function handleEditSave(updated: Todo) {
+    const { _id, ...body } = updated as any
+    delete body._id
+    await fetch(`/api/todos/${updated.id}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    })
+    setTodos((prev) => prev.map((t) => (t.id === updated.id ? updated : t)))
+    setEditingId(null)
+  }
+
+  function handleToggleSubtaskInModal(id: string) {
+    const t = todos.find(t => t.id === id)
+    if (!t) return
+    if (t.status === "completed") {
+      revertTask(id)
+    } else {
+      completeTask(id)
+    }
   }
 
   const filterConfigs = [
@@ -273,13 +300,13 @@ export default function TasksPage() {
           )}
 
           {(high.length > 0 || parents.some(p => p.priority === "high")) && (
-            <Section label="High Priority" color={priorityColor.high} tasks={high} parents={parents.filter(t => t.priority === "high")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
+            <Section label="High Priority" color={priorityColor.high} tasks={high} parents={parents.filter(t => t.priority === "high")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} onEdit={setEditingId} />
           )}
           {(medium.length > 0 || parents.some(p => p.priority === "medium")) && (
-            <Section label="Medium Priority" color={priorityColor.medium} tasks={medium} parents={parents.filter(t => t.priority === "medium")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
+            <Section label="Medium Priority" color={priorityColor.medium} tasks={medium} parents={parents.filter(t => t.priority === "medium")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} onEdit={setEditingId} />
           )}
           {(low.length > 0 || parents.some(p => p.priority === "low")) && (
-            <Section label="Low Priority" color={priorityColor.low} tasks={low} parents={parents.filter(t => t.priority === "low")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
+            <Section label="Low Priority" color={priorityColor.low} tasks={low} parents={parents.filter(t => t.priority === "low")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} onEdit={setEditingId} />
           )}
 
           {filtered.length === 0 && todos.length > 0 && (
@@ -288,6 +315,17 @@ export default function TasksPage() {
             </div>
           )}
         </>
+      )}
+
+      {editingTodo && (
+        <TaskEditModal
+          todo={editingTodo}
+          subtodos={editingSubtodos}
+          onClose={() => setEditingId(null)}
+          onSave={handleEditSave}
+          onDelete={deleteTask}
+          onToggleSubtask={handleToggleSubtaskInModal}
+        />
       )}
 
       {undo && (
@@ -318,6 +356,7 @@ function Section({
   onComplete,
   onDelete,
   onRevert,
+  onEdit,
 }: {
   label: string
   color: string
@@ -327,6 +366,7 @@ function Section({
   onComplete: (id: string) => void
   onDelete: (id: string) => void
   onRevert: (id: string) => void
+  onEdit: (id: string) => void
 }) {
   return (
     <div className="mb-6">
@@ -346,7 +386,7 @@ function Section({
               style={{ background: "var(--card)", border: "1px solid var(--border)" }}
             >
               <div className="flex items-center gap-3 mb-3">
-                <div className="flex-1 min-w-0">
+                <div className="flex-1 min-w-0 cursor-pointer" onClick={() => onEdit(parent.id)}>
                   <p className="text-sm font-semibold">{parent.title}</p>
                   {parent.description && (
                     <p className="text-xs mt-0.5 truncate" style={{ color: "var(--text-dim)" }}>
@@ -354,7 +394,7 @@ function Section({
                     </p>
                   )}
                 </div>
-                <span className="text-xs font-mono px-2 py-0.5 rounded" style={{ background: "var(--bg)", color: "var(--text-dim)" }}>
+                <span className="text-xs font-mono px-2 py-0.5 rounded cursor-pointer" onClick={() => onEdit(parent.id)} style={{ background: "var(--bg)", color: "var(--text-dim)" }}>
                   +{parent.xp_value} XP
                 </span>
               </div>
@@ -423,7 +463,7 @@ function Section({
               style={{ borderColor: color }}
             >
             </button>
-            <div className="flex-1 min-w-0">
+            <div className="flex-1 min-w-0 cursor-pointer" onClick={() => onEdit(t.id)}>
               <p className="text-sm font-medium truncate">{t.title}</p>
               {t.description && (
                 <p className="text-xs mt-0.5 truncate" style={{ color: "var(--text-dim)" }}>
@@ -431,7 +471,7 @@ function Section({
                 </p>
               )}
             </div>
-            <span className="text-xs font-mono px-2 py-0.5 rounded" style={{ background: "var(--bg)", color: "var(--text-dim)" }}>
+            <span className="text-xs font-mono px-2 py-0.5 rounded cursor-pointer" onClick={() => onEdit(t.id)} style={{ background: "var(--bg)", color: "var(--text-dim)" }}>
               +{t.xp_value} XP
             </span>
             <button

@@ -71,3 +71,11 @@ events:
     total: 20
     skill_tree: marketing
     date: 2026-06-25
+  - id: d63edfc1-ffb6-40a0-865e-6b74366b489f
+    source: todo_complete
+    source_title: "Testimonial: Create video thumbnail"
+    xp_awarded: 20
+    multiplier: 1
+    total: 20
+    skill_tree: marketing
+    date: 2026-06-25

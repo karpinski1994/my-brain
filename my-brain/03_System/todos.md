@@ -1,7 +1,7 @@
 ---
 type: database
 name: todos
-updated: '2026-06-25T22:37:04.406Z'
+updated: '2026-06-25T22:40:12.148Z'
 total: 21
 pending: 21
 completed: 0
@@ -52,7 +52,7 @@ todos:
     created: 2026-06-25T09:00:00.000Z
     completed: null
   - id: a1b2c3d4-0001-4000-8000-000000000001
-    title: Finish testimonial video (Gabriel/Miguel case study)
+    title: Finish testimonial video (Gabriel/Miguel case study)AAA
     description: >-
       Complete the full testimonial video project — this is the #1 priority
       before anything else
@@ -65,7 +65,7 @@ todos:
       - client-work
     area: ''
     parent_id: null
-    created: 2026-06-25T09:00:00.000Z
+    created: '2026-06-25T09:00:00.000Z'
     completed: null
   - id: a1b2c3d4-0001-4000-8000-000000000102
     title: 'Testimonial: Write intro script with Google AI Studio'
@@ -318,7 +318,7 @@ todos:
 | ⬜ | Testimonial: Create video thumbnail *(subtask)* | 20 | video, testimonial, thumbnail |
 | ⬜ | Testimonial: Go to hairdresser *(subtask)* | 5 | video, testimonial, subtask |
 | ⬜ | Testimonial: Record intro talking about Miguel *(subtask)* | 10 | video, testimonial, subtask |
-| ⬜ | Finish testimonial video (Gabriel/Miguel case study) | 20 | video, marketing, client-work |
+| ⬜ | Finish testimonial video (Gabriel/Miguel case study)AAA | 20 | video, marketing, client-work |
 | ⬜ | Testimonial: Write intro script with Google AI Studio *(subtask)* | 5 | video, testimonial, subtask, ai |
 
 ### 🟡 Medium Priority
