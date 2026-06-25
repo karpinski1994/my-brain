@@ -285,3 +285,5 @@ File
 settings.json
 ai.opencode.serve.plist
 com.grinev.opencode-telegram-bot.plist
+
+Done. Both opencode serve and the telegram bot are stopped. Launch agents are still on disk at ~/Library/LaunchAgents/ if you want to re-enable later via launchctl load.
