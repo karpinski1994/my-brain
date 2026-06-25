@@ -13,7 +13,7 @@ Daily calorie tracking, grouped by date.
 
 | Date | Total | Goal | Remaining | Notes |
 |------|-------|------|-----------|-------|
-| [[Food Log 2026-06-24\|2026-06-24]] | 1,370 | 2,000 | 630 | First recorded day |
+| [[Food Log 2026-06-24\|2026-06-24]] | 1,875 | 2,000 | 125 | Meal 1: 1,370 (no breakdown) · Meal 2: 505 (logged) |
 
 > [!info] Daily goal: **2,000 kcal** (maintenance)
 > **Methodology:** All calculations use [[Calorie Reference]] (USDA-backed kcal/100g).
