@@ -25,7 +25,7 @@ export default function TasksPage() {
 
   const [search, setSearch] = useState("")
   const [selectedFilters, setSelectedFilters] = useState<Record<string, Set<string>>>(() => ({
-    priority: new Set(["high", "medium", "low"]),
+    priority: new Set(["high"]),
     tag: new Set<string>(),
   }))
   const [showCompleted, setShowCompleted] = useState(false)
