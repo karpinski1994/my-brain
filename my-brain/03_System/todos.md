@@ -1,9 +1,9 @@
 ---
 type: database
 name: todos
-updated: '2026-06-25T22:45:38.040Z'
-total: 22
-pending: 20
+updated: '2026-06-25T22:50:00.000Z'
+total: 27
+pending: 25
 completed: 2
 total_xp_earned: 40
 todos:
@@ -316,13 +316,72 @@ todos:
     parent_id: null
     created: 2026-06-25T09:00:00.000Z
     completed: null
+  - id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    title: Clean drives
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 20
+    tags: []
+    area: general
+    parent_id: null
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
+  - id: 22be67e5-5241-4785-9f7d-0b05291d651a
+    title: Google Drive
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 5
+    tags:
+      - subtask
+    area: general
+    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
+  - id: bee123cd-b6e7-4f47-b8cc-2d4f88eaa869
+    title: Physical
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 5
+    tags:
+      - subtask
+    area: general
+    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
+  - id: 21439ef6-b3b2-40f3-adbe-89c335af6428
+    title: Create Hermes and Matias transcripts
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 5
+    tags:
+      - subtask
+    area: general
+    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
+  - id: 5ff6d5f0-6ea1-41fe-abf8-f85aca77245e
+    title: Take results to tables
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 5
+    tags:
+      - subtask
+    area: general
+    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
 ---
+
 # Tasks Database
 
 > Last updated: 2026-06-25
 
-**Stats:** 2/22 done · 40 XP earned
-
+**Stats:** 2/27 done · 40 XP earned
 ### 🔴 High Priority
 | Status | Task | XP | Tags |
 |--------|------|----|------|
@@ -330,6 +389,11 @@ todos:
 | ⬜ | Testimonial: Record intro talking about Miguel *(subtask)* | 10 | video, testimonial, subtask |
 | ⬜ | Finish testimonial video (Gabriel/Miguel case study)AAA | 20 | video, marketing, client-work |
 | ⬜ | Testimonial: Write intro script with Google AI Studio *(subtask)* | 5 | video, testimonial, subtask, ai |
+| ⬜ | Clean drives | 20 | |
+| ⬜ | └ Google Drive *(subtask)* | 5 | |
+| ⬜ | └ Physical *(subtask)* | 5 | |
+| ⬜ | └ Create Hermes and Matias transcripts *(subtask)* | 5 | |
+| ⬜ | └ Take results to tables *(subtask)* | 5 | |
 
 ### 🟡 Medium Priority
 | Status | Task | XP | Tags |
