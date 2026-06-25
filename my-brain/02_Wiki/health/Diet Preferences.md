@@ -112,4 +112,5 @@ All, especially: strawberries, bananas, oranges, kiwi, watermelon, lychee, blueb
 - [[Medical History]] — health conditions affecting diet
 - [[Diet for Good Sleep]] — sleep-friendly eating
 - [[Previous Diet Plan]] — structured meal plan from nutritionist
+- [[Food Log]] — daily calorie tracking
 - [[../../01_Raw/diet/previous diet|Previous Diet Plan (Full Raw Details)]]

@@ -33,6 +33,8 @@ aliases: [Health Dashboard]
 - [[Sleep & Stress]] — chronic stress effects
 - [[Flow State]] — health affects ability to enter flow
 - [[../campaign/07-obstacles-skills-resources|Obstacles & Skills]] — health as an obstacle
+- [[Food Log]] — daily calorie tracking
+- [[Diet Preferences & Restrictions]]
 - [[../../01_Raw/diet/questionnaire 24 jun 2026|Diet Questionnaire (Raw)]]
 - [[../../01_Raw/diet/previous diet|Previous Diet Plan (Raw)]]
 - [[../../01_Raw/diet/my health history|Health History (Raw)]]
