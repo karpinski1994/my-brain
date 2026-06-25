@@ -272,13 +272,13 @@ export default function TasksPage() {
             </div>
           )}
 
-          {high.length > 0 && (
+          {(high.length > 0 || parents.some(p => p.priority === "high")) && (
             <Section label="High Priority" color={priorityColor.high} tasks={high} parents={parents.filter(t => t.priority === "high")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
           )}
-          {medium.length > 0 && (
+          {(medium.length > 0 || parents.some(p => p.priority === "medium")) && (
             <Section label="Medium Priority" color={priorityColor.medium} tasks={medium} parents={parents.filter(t => t.priority === "medium")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
           )}
-          {low.length > 0 && (
+          {(low.length > 0 || parents.some(p => p.priority === "low")) && (
             <Section label="Low Priority" color={priorityColor.low} tasks={low} parents={parents.filter(t => t.priority === "low")} childrenMap={childrenMap} onComplete={completeTask} onDelete={deleteTask} onRevert={revertTask} />
           )}
 

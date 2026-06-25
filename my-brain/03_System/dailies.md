@@ -1,11 +1,11 @@
 ---
 type: database
 name: dailies
-updated: '2026-06-25T22:24:21.047Z'
+updated: '2026-06-25T22:37:00.554Z'
 current_streak: 1
 longest_streak: 1
 last_activity_date: '2026-06-25'
-total_xp: 60
+total_xp: 80
 daily_calorie_goal: 2000
 routines:
   - id: a1b2c3d4-r001-4000-8000-000000000001
@@ -24,6 +24,8 @@ routines:
     xp_value: 10
     area: physical
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r003-4000-8000-000000000003
     title: US Market Prep (30 min)
     description: Course or research on US market
@@ -31,6 +33,8 @@ routines:
     xp_value: 10
     area: business
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r004-4000-8000-000000000004
     title: Evidence Log (3 things)
     description: Write 3 things old-me couldn't do
@@ -38,6 +42,8 @@ routines:
     xp_value: 5
     area: psychology
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r005-4000-8000-000000000005
     title: Morning meditation (10 min)
     description: Build pause between trigger and reaction
@@ -45,6 +51,8 @@ routines:
     xp_value: 5
     area: psychology
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r006-4000-8000-000000000006
     title: 1 micro-post (LinkedIn/Facebook)
     description: Write and publish at least 1 sentence of value
@@ -52,6 +60,8 @@ routines:
     xp_value: 10
     area: marketing
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r007-4000-8000-000000000007
     title: Funnel check (10 min)
     description: Review funnel monitoring system
@@ -59,6 +69,8 @@ routines:
     xp_value: 5
     area: business
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r008-4000-8000-000000000008
     title: Fridge sticky note
     description: 'Write today''s #1 priority on fridge, check off at EOD'
@@ -66,6 +78,8 @@ routines:
     xp_value: 5
     area: cybernetics
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r009-4000-8000-000000000009
     title: Plan tomorrow (5 min)
     description: Set top 3 priorities for next day
@@ -73,6 +87,8 @@ routines:
     xp_value: 5
     area: cybernetics
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r010-4000-8000-000000000010
     title: The Weekly Review
     description: 2-min Sunday review (4 questions)
@@ -80,6 +96,8 @@ routines:
     xp_value: 15
     area: cybernetics
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: a1b2c3d4-r011-4000-8000-000000000011
     title: The Vault Audit (Track Finances)
     description: Weekly financial review
@@ -87,6 +105,8 @@ routines:
     xp_value: 10
     area: finances
     history: []
+    linked_progress_id: null
+    progress_amount: 1
   - id: r-datascience-001
     title: Read Data Science for Business
     description: Read at least 10 pages from the book
@@ -106,7 +126,7 @@ routines:
 ## Daily Routines
 | Status | Task | XP | Area |
 |--------|------|----|------|
-| ⬜ | Reading / Learning (30 min) 🔗 | 10 | psychology |
+| ⬜ | Reading / Learning (30 min) | 10 | psychology |
 | ⬜ | Exercise (30 min) | 10 | physical |
 | ⬜ | US Market Prep (30 min) | 10 | business |
 | ⬜ | Evidence Log (3 things) | 5 | psychology |
@@ -115,7 +135,7 @@ routines:
 | ⬜ | Funnel check (10 min) | 5 | business |
 | ⬜ | Fridge sticky note | 5 | cybernetics |
 | ⬜ | Plan tomorrow (5 min) | 5 | cybernetics |
-| ⬜ | Read Data Science for Business 🔗 | 10 | learning |
+| ⬜ | Read Data Science for Business | 10 | learning |
 
 ## Weekly Routines
 | Status | Task | XP | Area |
