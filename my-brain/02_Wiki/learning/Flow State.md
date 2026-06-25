@@ -6,6 +6,12 @@ aliases: [Optimal Experience, Deep Work]
 
 # Flow State
 
+**Connected notes:**
+- [[Theory of Boredom]] — boredom as the opposite of flow
+- [[My Gamification Approach]] — speedrunning for flow
+- [[Gamification System]] — flow in gamification design
+- [[../health/Sleep & Stress|Sleep & Stress]] — how sleep affects flow ability
+
 ## Summary
 
 The optimal state of consciousness where challenge meets skill, time disappears, and work feels effortless. Central to the gamification system — the goal is to make business work as engaging as gaming.

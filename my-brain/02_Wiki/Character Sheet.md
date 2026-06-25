@@ -10,6 +10,8 @@ monthly-revenue: "2000-5000"
 
 # Character Sheet — The Architect
 
+**Connections:** [[health/Health Overview|Health]], [[learning/Gamification System|Gamification]], [[learning/My Gamification Approach|Gamification Approach]], [[psychology/Psychological Portrait|Psychology]], [[learning/Skill Trees|Skill Trees]], [[learning/XP Economy|XP Economy]]
+
 > *"I am becoming the greatest version of myself. Like a stone. Buddha mode. Everything flows."*
 
 ---

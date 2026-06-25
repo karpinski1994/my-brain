@@ -41,3 +41,8 @@ Boredom occurs when **challenge is too low** relative to a person's **skill leve
 - [[My Gamification Approach]] — tailored strategy for INTP personality
 - [[Gamification System]] — overall gamification framework
 - [[../03_System/gamification/Game Master System|Game Master System]]
+- [[Flow State]] — the flow channel theory
+- [[Skill Trees]] — Core Drive 3 application
+- [[XP Economy]] — weighted XP as a boredom antidote
+- [[30-Day Onboarding Plan]] — applied boredom prevention
+- [[Psychological Portrait]] — why INTP is prone to boredom

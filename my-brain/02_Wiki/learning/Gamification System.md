@@ -6,6 +6,17 @@ aliases: [Personal Gamification, Life RPG]
 
 # Gamification System
 
+**Connected notes:**
+- [[My Gamification Approach]] — personalized application of this system
+- [[Theory of Boredom]] — why the system works (psychology)
+- [[30-Day Onboarding Plan]] — how to start using this system
+- [[12-Step Goal Setting Guide]] — how goals become gamified quests
+- [[Flow State]] — the flow channel in gamification
+- [[../health/Health Overview|Health Overview]] — health as a gamification pillar
+- [[../03_System/gamification/Game Master System|Game Master System]]
+- [[../03_System/gamification/XP Tracker|XP Tracker]]
+- [[../03_System/gamification/Quest Log|Quest Log]]
+
 ## Summary
 
 A personalized gamification framework designed to overcome procrastination (especially LoL addiction) and build sustainable motivation. Based on Octalysis framework, Self-Determination Theory, and tailored to INTP personality type.

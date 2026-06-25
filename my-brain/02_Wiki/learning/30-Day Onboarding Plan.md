@@ -32,3 +32,9 @@ aliases: [Onboarding Plan]
 - [[My Gamification Approach]] — tailored strategy
 - [[Theory of Boredom]] — underlying psychology
 - [[Gamification System]] — full system docs
+- [[Flow State]] — finding flow through onboarding
+- [[../03_System/gamification/Quest Log|Quest Log]] — quest tracking
+- [[../03_System/gamification/XP Tracker|XP Tracker]] — XP implementation
+- [[12-Step Goal Setting Guide]] — step 7 (do something every day)
+- [[Psychological Portrait]] — understanding anxiety drivers
+- [[Healing Exposure]] — overcoming fear of posting (LinkedIn step)

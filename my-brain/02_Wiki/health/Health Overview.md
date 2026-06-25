@@ -25,8 +25,14 @@ aliases: [Health Dashboard]
 5. [[Diet Preferences]] — food preferences and recipes
 6. [[Food Log 2026-06-24]] — daily food tracking
 
-## Quick Links
+## Related
 
+- [[Character Sheet]] — stats affected by health (XP, energy)
+- [[Psychological Portrait]] — how health impacts psychology
+- [[Gamification System]] — health as a gamification pillar
+- [[Sleep & Stress]] — chronic stress effects
+- [[Flow State]] — health affects ability to enter flow
+- [[../campaign/07-obstacles-skills-resources|Obstacles & Skills]] — health as an obstacle
 - [[../../01_Raw/diet/questionnaire 24 jun 2026|Diet Questionnaire (Raw)]]
 - [[../../01_Raw/diet/previous diet|Previous Diet Plan (Raw)]]
 - [[../../01_Raw/diet/my health history|Health History (Raw)]]

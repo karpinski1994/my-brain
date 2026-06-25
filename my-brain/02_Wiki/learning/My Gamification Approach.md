@@ -39,3 +39,13 @@ aliases: [Gamification Strategy, Life RPG]
 - [[Theory of Boredom]] — psychological framework
 - [[Gamification System]] — system documentation
 - [[../03_System/gamification/Game Master System|Game Master System]]
+- [[../03_System/gamification/XP Tracker|XP Tracker]]
+- [[../03_System/gamification/Quest Log|Quest Log]]
+- [[Flow State]] — speedrunning for flow
+- [[Skill Trees]] — Core Drive 3 application
+- [[XP Economy]] — weighted XP system
+- [[12-Step Goal Setting Guide]] — how goals become quests
+- [[Psychological Portrait]] — INTP-T profile foundation
+- [[campaign/06-goal-definition|Goal Definition]] — campaign integration
+- [[campaign/07-obstacles-skills-resources|Obstacles & Skills]]
+- [[Healing Exposure]] — overcoming resistance to visibility

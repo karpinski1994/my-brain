@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0daf71aa1576d1c",
+        "id": "6807e933c733bedb",
         "type": "tabs",
         "children": [
           {
-            "id": "41fe336f95969b3c",
+            "id": "2b7f879e70a7f2a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,8 +177,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "41fe336f95969b3c",
+  "active": "2b7f879e70a7f2a6",
   "lastOpenFiles": [
+    "02_Wiki/campaign/04-future-identity-emotions.md",
+    "2026-06-24.md",
     "02_Wiki/learning/12-Step Goal Setting Guide.md",
     "02_Wiki/psychology/Healing Exposure.md",
     "02_Wiki/learning/My Gamification Approach.md",
@@ -210,8 +212,6 @@
     "01_Raw/diet/questionnaire 24 jun 2026.md",
     "01_Raw/diet/Preferencje -preferences.md",
     "01_Raw/diet",
-    "02_Wiki/campaign/10-chapter-0-summary.md",
-    "02_Wiki/campaign/09-commitment-system.md",
     "01_Raw/research/psychology",
     "01_Raw/research",
     "02_Wiki/campaign"

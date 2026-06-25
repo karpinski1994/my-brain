@@ -7,6 +7,17 @@ chapter: 0
 
 # Goal Definition: Clarify & Define Goals
 
+**Connected notes:**
+- [[../learning/12-Step Goal Setting Guide|12-Step Goal Setting Guide]] — the reference method for these steps
+- [[../learning/My Gamification Approach|My Gamification Approach]] — gamified goal execution
+- [[../learning/30-Day Onboarding Plan|30-Day Onboarding Plan]] — action plan for goal pursuit
+- [[../learning/Gamification System|Gamification System]] — how goals feed into gamification
+- [[../psychology/Psychological Portrait|Psychological Portrait]] — psychology of goal pursuit
+- [[../projects/Financial Roadmap|Financial Roadmap]] — financial goals
+- [[../projects/Business Growth|Business Growth]] — business goals
+- [[../projects/Learning Roadmap|Learning Roadmap]] — learning goals
+- [[07-obstacles-skills-resources|Obstacles & Skills]] — step 11: anticipate obstacles
+
 ## Overview
 
 Dream turned into measurable targets with deadlines. The vision from skills 04-05 is now concrete.

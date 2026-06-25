@@ -26,5 +26,11 @@ aliases: [Brian Tracy Goal Setting]
 ## Related
 
 - [[../../01_Raw/12-Step-Goal-Setting-Guide|Full guide (raw)]]
-- [[Goal Definition]] — how this applies
+- [[../campaign/06-goal-definition|Goal Definition]] — how this applies in the campaign
+- [[../campaign/07-obstacles-skills-resources|Obstacles & Skills]] — step 11 (anticipate obstacles)
+- [[Psychological Portrait]] — why goal setting is essential for INTP
 - [[Financial Roadmap]] — business goals
+- [[Business Growth]] — income goals
+- [[Learning Roadmap]] — skill acquisition goals
+- [[My Gamification Approach]] — applied gamification of goal setting
+- [[Gamification System]] — how goals integrate with gamification

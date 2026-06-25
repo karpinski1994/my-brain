@@ -46,4 +46,12 @@ Hate comments are almost always projection — not about you.
 ## Related
 
 - [[Psychological Portrait]] — full personality context
+- [[Shadow Work]] — confronting the shadow that fears exposure
+- [[Core Wounds]] — root wounds triggered by judgment
+- [[Relationship Patterns]] — how FNE affects relationships
+- [[My Gamification Approach]] — reframing exposure as a quest
+- [[30-Day Onboarding Plan]] — micro-dosing visibility (LinkedIn step)
+- [[campaign/01-childhood-patterns|Childhood Patterns]] — origins of fear of judgment
+- [[campaign/03-release-and-reclaim|Release & Reclaim]] — letting go of the need for approval
+- [[Business Growth]] — why exposure matters for business
 - [[../01_Raw/research/psychology/healing exposure|Raw research note]]
