@@ -7,3 +7,59 @@ events:
     total: 5
     skill_tree: general
     date: 2026-06-25
+  - id: f4755ad0-7f00-47bf-ae6c-b8f06f0e6031
+    source: todo_complete
+    source_title: "Testimonial: Go to hairdresser"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-06-25
+  - id: 9607265a-f226-4140-ba0f-04273734d0c2
+    source: todo_complete
+    source_title: "Testimonial: Go to hairdresser"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-06-25
+  - id: ad20ec1c-f4dd-42e7-ab7d-643e8155721e
+    source: todo_complete
+    source_title: "Testimonial: Record intro talking about Miguel"
+    xp_awarded: 10
+    multiplier: 1
+    total: 10
+    skill_tree: general
+    date: 2026-06-25
+  - id: 66124b4e-b206-4aea-8fc8-09b8eb5228fa
+    source: todo_complete
+    source_title: Finish testimonial video (Gabriel/Miguel case study)
+    xp_awarded: 20
+    multiplier: 1
+    total: 20
+    skill_tree: general
+    date: 2026-06-25
+  - id: e4a91430-f265-408c-b8ba-4d49871b6fa1
+    source: todo_complete
+    source_title: "Testimonial: Write intro script with Google AI Studio"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-06-25
+  - id: 1488f668-db31-4a3c-ac5c-7e754de69e00
+    source: todo_complete
+    source_title: "Testimonial: Go to hairdresser"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-06-25
+  - id: 364e92c8-8a86-4745-9e55-bc5df5908eea
+    source: todo_complete
+    source_title: "Testimonial: Go to hairdresser"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-06-25

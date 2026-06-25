@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server"
-import { readTodos, writeTodo } from "@/lib/data"
+import { readTodos, writeTodo, deleteTodo } from "@/lib/data"
 import type { Todo } from "@/lib/types"
 
 export async function PATCH(
@@ -24,19 +24,6 @@ export async function DELETE(
   const todo = todos.find((t) => t.id === params.id)
   if (!todo) return NextResponse.json({ error: "Not found" }, { status: 404 })
 
-  const fs = await import("fs")
-  const path = await import("path")
-  const dir = path.resolve(
-    process.cwd(),
-    "../../.opencode/skills/mybrain/data/todos"
-  )
-  const files = fs.readdirSync(dir)
-  for (const f of files) {
-    const raw = fs.readFileSync(path.join(dir, f), "utf-8")
-    if (raw.includes(params.id)) {
-      fs.unlinkSync(path.join(dir, f))
-      break
-    }
-  }
+  deleteTodo(params.id)
   return NextResponse.json({ deleted: true })
 }

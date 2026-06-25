@@ -2,81 +2,211 @@ import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
 import { parse, stringify } from "yaml"
-import type { Todo, TodoFile, Routine, Stats, XPEvent } from "./types"
+import type { Todo, Routine, Stats, XPEvent } from "./types"
 
-const DATA_DIR = path.resolve(
-  process.cwd(),
-  "../../.opencode/skills/mybrain/data"
-)
+const VAULT_DIR = path.resolve(process.cwd(), "../../my-brain/03_System")
+const DATA_DIR = path.resolve(process.cwd(), "../../.opencode/skills/mybrain/data")
 
 export function getDataDir(): string {
   return DATA_DIR
 }
 
+// ---------------------------------------------------------------------------
+// TODOS
+// ---------------------------------------------------------------------------
+
 export function readTodos(): Todo[] {
-  const dir = path.join(DATA_DIR, "todos")
-  if (!fs.existsSync(dir)) return []
-  const files = fs.readdirSync(dir).filter((f) => f.endsWith(".md"))
-  return files
-    .map((f) => {
-      const raw = fs.readFileSync(path.join(dir, f), "utf-8")
-      const { data } = matter(raw)
-      return data as Todo
-    })
-    .sort((a, b) => {
-      const p = { high: 0, medium: 1, low: 2 }
-      return (p[a.priority] ?? 1) - (p[b.priority] ?? 1)
-    })
+  const file = path.join(VAULT_DIR, "todos.md")
+  if (!fs.existsSync(file)) return []
+  const raw = fs.readFileSync(file, "utf-8")
+  const { data } = matter(raw)
+  const todos = (data.todos || []) as Todo[]
+  const p = { high: 0, medium: 1, low: 2 }
+  return todos.sort((a, b) => (p[a.priority] ?? 1) - (p[b.priority] ?? 1))
+}
+
+function genTodosMd(todos: Todo[]): string {
+  const total = todos.length
+  const pending = todos.filter((t) => t.status === "pending").length
+  const completed = total - pending
+  const totalXp = todos
+    .filter((t) => t.status === "completed")
+    .reduce((s, t) => s + t.xp_value, 0)
+
+  let body = `# Tasks Database\n\n> Last updated: ${new Date().toISOString().slice(0, 10)}\n\n**Stats:** ${completed}/${total} done · ${totalXp} XP earned\n`
+
+  const groups = [
+    { label: "🔴 High Priority", filter: (t: Todo) => t.status === "pending" && t.priority === "high" },
+    { label: "🟡 Medium Priority", filter: (t: Todo) => t.status === "pending" && t.priority === "medium" },
+    { label: "🔵 Low Priority", filter: (t: Todo) => t.status === "pending" && t.priority === "low" },
+  ]
+  for (const g of groups) {
+    const items = todos.filter(g.filter)
+    if (!items.length) continue
+    body += `\n### ${g.label}\n| Status | Task | XP | Tags |\n|--------|------|----|------|\n`
+    for (const t of items) {
+      const tags = (t.tags || []).join(", ")
+      body += `| ⬜ | ${t.title}${t.parent_id ? " *(subtask)*" : ""} | ${t.xp_value} | ${tags} |\n`
+    }
+  }
+
+  const done = todos.filter((t) => t.status === "completed")
+  if (done.length) {
+    body += `\n### ✅ Completed\n| Task | XP | Done |\n|------|----|------|\n`
+    for (const t of done) {
+      body += `| ✅ ${t.title} | ${t.xp_value} | ${t.completed ? t.completed.slice(0, 10) : ""} |\n`
+    }
+  }
+
+  const frontmatter = {
+    type: "database",
+    name: "todos",
+    updated: new Date().toISOString(),
+    total,
+    pending,
+    completed,
+    total_xp_earned: totalXp,
+    todos: todos.map((t) => ({
+      id: t.id,
+      title: t.title,
+      description: t.description || "",
+      priority: t.priority,
+      status: t.status,
+      xp_value: t.xp_value,
+      tags: t.tags || [],
+      area: t.area || "",
+      parent_id: t.parent_id || null,
+      created: t.created,
+      completed: t.completed || null,
+    })),
+  }
+
+  return matter.stringify(body, frontmatter)
 }
 
 export function writeTodo(todo: Todo): void {
-  const slug = `${todo.created.slice(0, 10)}--${todo.title
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/(^-|-$)/g, "")
-    .slice(0, 40)}`
-  const frontmatter = matter.stringify("", {
-    ...todo,
-    tags: todo.tags || [],
-    parent_id: todo.parent_id || null,
-    completed: todo.completed || null,
-  })
-  fs.writeFileSync(path.join(DATA_DIR, "todos", `${slug}.md`), frontmatter)
+  let todos = readTodos()
+  const idx = todos.findIndex((t) => t.id === todo.id)
+  if (idx !== -1) {
+    todos[idx] = todo
+  } else {
+    todos.push(todo)
+  }
+  fs.writeFileSync(path.join(VAULT_DIR, "todos.md"), genTodosMd(todos))
 }
 
+export function deleteTodo(id: string): void {
+  let todos = readTodos().filter((t) => t.id !== id)
+  fs.writeFileSync(path.join(VAULT_DIR, "todos.md"), genTodosMd(todos))
+}
+
+// ---------------------------------------------------------------------------
+// DAILIES / ROUTINES
+// ---------------------------------------------------------------------------
+
 export function readRoutines(): Routine[] {
-  const file = path.join(DATA_DIR, "routines", "dailies.yaml")
+  const file = path.join(VAULT_DIR, "dailies.md")
   if (!fs.existsSync(file)) return []
   const raw = fs.readFileSync(file, "utf-8")
-  const parsed = parse(raw)
-  return (parsed.routines || []) as Routine[]
+  const { data } = matter(raw)
+  return (data.routines || []) as Routine[]
+}
+
+function genDailiesMd(routines: Routine[], extras: Record<string, any>): string {
+  const today = new Date().toISOString().slice(0, 10)
+  const weekStart = new Date()
+  weekStart.setDate(weekStart.getDate() - weekStart.getDay())
+  const weekStartStr = weekStart.toISOString().slice(0, 10)
+  const daily = routines.filter((r) => r.frequency === "daily")
+  const weekly = routines.filter((r) => r.frequency === "weekly")
+  const dailyDone = daily.filter((r) => r.history.includes(today)).length
+  const weeklyDone = weekly.filter((r) => r.history.some((h) => h >= weekStartStr)).length
+
+  let body = `# Dailies Database\n\n> Last updated: ${today}\n\n**Streak:** ${extras.current_streak ?? 0}d · **Best:** ${extras.longest_streak ?? 0}d · **Daily:** ${dailyDone}/${daily.length} · **Weekly:** ${weeklyDone}/${weekly.length}\n`
+
+  body += "\n## Daily Routines\n| Status | Task | XP | Area |\n|--------|------|----|------|\n"
+  for (const r of daily) {
+    const done = r.history.includes(today)
+    body += `| ${done ? "✅" : "⬜"} | ${r.title} | ${r.xp_value} | ${r.area || ""} |\n`
+  }
+
+  body += "\n## Weekly Routines\n| Status | Task | XP | Area |\n|--------|------|----|------|\n"
+  for (const r of weekly) {
+    const done = r.history.some((h) => h >= weekStartStr)
+    body += `| ${done ? "✅" : "⬜"} | ${r.title} | ${r.xp_value} | ${r.area || ""} |\n`
+  }
+
+  const frontmatter = {
+    type: "database",
+    name: "dailies",
+    updated: new Date().toISOString(),
+    current_streak: extras.current_streak ?? 0,
+    longest_streak: extras.longest_streak ?? 0,
+    last_activity_date: extras.last_activity_date || null,
+    total_xp: extras.total_xp ?? 0,
+    daily_calorie_goal: extras.daily_calorie_goal ?? 2000,
+    routines: routines.map((r) => ({
+      id: r.id,
+      title: r.title,
+      description: r.description || "",
+      frequency: r.frequency,
+      xp_value: r.xp_value,
+      area: r.area || "",
+      history: r.history || [],
+    })),
+  }
+
+  return matter.stringify(body, frontmatter)
 }
 
 export function writeRoutines(routines: Routine[]): void {
-  const file = path.join(DATA_DIR, "routines", "dailies.yaml")
-  const content = stringify({ routines })
-  fs.writeFileSync(file, content)
+  const extras = readDailiesExtras()
+  fs.writeFileSync(path.join(VAULT_DIR, "dailies.md"), genDailiesMd(routines, extras))
 }
 
-export function readStats(): Stats {
-  const file = path.join(DATA_DIR, "xp", "stats.yaml")
-  if (!fs.existsSync(file))
-    return {
-      total_xp: 0,
-      current_streak: 0,
-      longest_streak: 0,
-      last_activity_date: null,
-      daily_calorie_goal: 2000,
-    }
+function readDailiesExtras(): Record<string, any> {
+  const file = path.join(VAULT_DIR, "dailies.md")
+  if (!fs.existsSync(file)) return { current_streak: 0, longest_streak: 0, last_activity_date: null, total_xp: 0, daily_calorie_goal: 2000 }
   const raw = fs.readFileSync(file, "utf-8")
-  return parse(raw) as Stats
+  const { data } = matter(raw)
+  return {
+    current_streak: data.current_streak ?? 0,
+    longest_streak: data.longest_streak ?? 0,
+    last_activity_date: data.last_activity_date || null,
+    total_xp: data.total_xp ?? 0,
+    daily_calorie_goal: data.daily_calorie_goal ?? 2000,
+  }
+}
+
+// ---------------------------------------------------------------------------
+// STATS (from dailies.md + events.yaml)
+// ---------------------------------------------------------------------------
+
+export function readStats(): Stats {
+  const extras = readDailiesExtras()
+  return {
+    total_xp: extras.total_xp,
+    current_streak: extras.current_streak,
+    longest_streak: extras.longest_streak,
+    last_activity_date: extras.last_activity_date,
+    daily_calorie_goal: extras.daily_calorie_goal,
+  }
 }
 
 export function writeStats(stats: Stats): void {
-  const file = path.join(DATA_DIR, "xp", "stats.yaml")
-  const content = stringify(stats)
-  fs.writeFileSync(file, content)
+  const file = path.join(VAULT_DIR, "dailies.md")
+  const raw = fs.readFileSync(file, "utf-8")
+  const { data } = matter(raw)
+  const routines = (data.routines || []) as Routine[]
+  fs.writeFileSync(
+    path.join(VAULT_DIR, "dailies.md"),
+    genDailiesMd(routines, { ...stats, routines })
+  )
 }
+
+// ---------------------------------------------------------------------------
+// XP EVENTS
+// ---------------------------------------------------------------------------
 
 export function readXPEvents(): XPEvent[] {
   const file = path.join(DATA_DIR, "xp", "events.yaml")
@@ -90,9 +220,12 @@ export function appendXPEvent(event: XPEvent): void {
   const events = readXPEvents()
   events.push(event)
   const file = path.join(DATA_DIR, "xp", "events.yaml")
-  const content = stringify({ events })
-  fs.writeFileSync(file, content)
+  fs.writeFileSync(file, stringify({ events }))
 }
+
+// ---------------------------------------------------------------------------
+// STREAK / XP ENGINE
+// ---------------------------------------------------------------------------
 
 export function getStreakMultiplier(streak: number): number {
   if (streak >= 30) return 2.0
