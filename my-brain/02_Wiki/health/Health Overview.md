@@ -1,0 +1,32 @@
+---
+type: wiki/health
+tags: [health, overview, dashboard]
+aliases: [Health Dashboard]
+---
+
+# Health Overview
+
+## Current Status
+
+| Metric | Value | Date |
+|--------|-------|------|
+| Weight | 77 kg | June 2026 |
+| Waist | 90.5 cm | June 2026 |
+| Activity | Boxing 4-5x/week, walking daily | Ongoing |
+| Sleep quality | Poor — waking multiple times/night | Ongoing |
+| Stress level | High — chronic | Ongoing |
+
+## Key Health Priorities
+
+1. [[Diet for Good Sleep]] — nutrition to support sleep quality
+2. [[Sleep & Stress]] — addressing chronic insomnia and stress
+3. [[Medical History]] — GI issues (reflux, gastritis, potential IBS, Gilbert's)
+4. [[Blood Work 2024]] — monitored lab values
+5. [[Diet Preferences]] — food preferences and recipes
+6. [[Food Log 2026-06-24]] — daily food tracking
+
+## Quick Links
+
+- [[../../01_Raw/diet/questionnaire 24 jun 2026|Diet Questionnaire (Raw)]]
+- [[../../01_Raw/diet/previous diet|Previous Diet Plan (Raw)]]
+- [[../../01_Raw/diet/my health history|Health History (Raw)]]

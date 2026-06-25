@@ -95,7 +95,7 @@ The user's existing knowledge base is in markdown files across the repo. Referen
 | Skill Trees & Learning | `02_Wiki/learning/` |
 | Gamification Systems | `03_System/gamification/` |
 | Projects & Roadmaps | `02_Wiki/projects/` |
-| Health & Diet | `01_Raw/diet/` |
+| Health & Diet | `02_Wiki/health/`, `01_Raw/diet/` |
 | System Templates | `03_System/templates/` |
 
 For brain Q&A, search these directories for relevant content. When the user asks "what's my biggest obstacle?" or "what's my current campaign?", read the relevant files and synthesize an answer from their content.
