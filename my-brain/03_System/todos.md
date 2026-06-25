@@ -1,9 +1,9 @@
 ---
 type: database
 name: todos
-updated: '2026-06-25T22:41:36.714Z'
-total: 21
-pending: 21
+updated: '2026-06-25T22:44:17.842Z'
+total: 22
+pending: 22
 completed: 0
 total_xp_earned: 0
 todos:
@@ -81,6 +81,17 @@ todos:
     area: ''
     parent_id: a1b2c3d4-0001-4000-8000-000000000001
     created: 2026-06-25T09:00:00.000Z
+    completed: null
+  - id: e2e2d4e1-948b-4c57-885f-a00ca0d576db
+    title: swinia
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 20
+    tags: []
+    area: general
+    parent_id: a1b2c3d4-thumb-4000-8000-000000000001
+    created: '2026-06-25T22:43:48.414Z'
     completed: null
   - id: a1b2c3d4-0004-4000-8000-000000000004
     title: 'The Automation Polish: Instagram automations'
@@ -310,7 +321,7 @@ todos:
 
 > Last updated: 2026-06-25
 
-**Stats:** 0/21 done · 0 XP earned
+**Stats:** 0/22 done · 0 XP earned
 
 ### 🔴 High Priority
 | Status | Task | XP | Tags |
@@ -320,6 +331,7 @@ todos:
 | ⬜ | Testimonial: Record intro talking about Miguel *(subtask)* | 10 | video, testimonial, subtask |
 | ⬜ | Finish testimonial video (Gabriel/Miguel case study)AAA | 20 | video, marketing, client-work |
 | ⬜ | Testimonial: Write intro script with Google AI Studio *(subtask)* | 5 | video, testimonial, subtask, ai |
+| ⬜ | swinia *(subtask)* | 20 |  |
 
 ### 🟡 Medium Priority
 | Status | Task | XP | Tags |

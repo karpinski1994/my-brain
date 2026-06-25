@@ -330,6 +330,7 @@ export default function TasksPage() {
 
       {editingTodo && (
         <TaskEditModal
+          key={editingTodo.id}
           todo={editingTodo}
           subtodos={editingSubtodos}
           onClose={() => setEditingId(null)}
