@@ -1,1 +1,9 @@
-events: []
+events:
+  - id: 28750e76-1bf8-4098-ad7a-c8d4d97d6957
+    source: todo_complete
+    source_title: "Testimonial: Go to hairdresser"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-06-25
