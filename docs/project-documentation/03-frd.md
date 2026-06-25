@@ -45,6 +45,11 @@ No secondary roles exist for MVP. The system is architected as single-user only.
 | US-07 | User | Add subtasks to a todo | I can break complex tasks into steps | P1 |
 | US-08 | User | Send "200g chicken breast" via WhatsApp | the calories are logged with approximate nutrition | P1 |
 | US-09 | User | View calorie log on the web UI | I can see what I ate and daily totals | P1 |
+| US-09b | User | See my daily calorie intake and remaining vs goal on the web UI | I know how much I can still eat today | P1 |
+| US-09c | User | Send "calorie summary" via WhatsApp | I get my daily total, remaining goal, and recent entries | P1 |
+| US-09d | User | Send "weekly calories" via WhatsApp | I get a weekly overview (daily totals, average, trend) | P1 |
+| US-09e | User | See weekly calorie summary on the web UI | I can spot patterns in my eating habits | P1 |
+| US-09f | User | Have my daily calorie count reset automatically each day | I start fresh without manual intervention | P1 |
 | US-10 | User | Complete a quest step | I earn associated XP and see quest progress | P0 |
 | US-11 | User | View quest log on the web UI | I see all active quests and their progress | P0 |
 | US-12 | User | Ask "what is my #1 goal?" via WhatsApp | the LLM answers from my brain context | P1 |
@@ -69,7 +74,7 @@ No secondary roles exist for MVP. The system is architected as single-user only.
 
 | ID | Requirement | Priority |
 |----|------------|----------|
-| FR-06 | The system shall classify each incoming WhatsApp message into one of: `create_todo`, `complete_todo`, `delete_todo`, `list_todos`, `log_calories`, `brain_question`, `check_stats`, `unknown` | P0 |
+| FR-06 | The system shall classify each incoming WhatsApp message into one of: `create_todo`, `complete_todo`, `delete_todo`, `list_todos`, `log_calories`, `calorie_summary`, `weekly_calories`, `brain_question`, `check_stats`, `unknown` | P0 |
 | FR-07 | Classification shall run via a local Ollama LLM with a system prompt describing each intent | P0 |
 | FR-08 | If confidence is below threshold (configurable, default 0.6), the system shall reply asking for clarification | P0 |
 | FR-09 | If the LLM is unavailable, the system shall reply: "MyBrain LLM is currently unavailable. Please try again in a moment." | P0 |
@@ -95,6 +100,13 @@ No secondary roles exist for MVP. The system is architected as single-user only.
 | FR-19 | The system shall parse "200g chicken breast" → approximate calorie value using LLM knowledge or a local nutrition lookup | P1 |
 | FR-20 | The web UI shall display a calorie log page showing entries grouped by day with daily totals | P1 |
 | FR-21 | The web UI shall support manual entry and deletion of calorie logs | P1 |
+| FR-21b | The system shall calculate daily calorie total by summing all entries with `logged_at` matching the current calendar day | P1 |
+| FR-21c | The system shall support a configurable daily calorie goal (default 2000 kcal) stored in user settings | P1 |
+| FR-21d | The system shall display on the web UI: daily total, goal, remaining, and percentage of goal consumed | P1 |
+| FR-21e | The system shall reset daily intake tracking at midnight each day (based on local timezone) | P1 |
+| FR-21f | The system shall support an intent `calorie_summary` that replies with: today's total, goal, remaining, and recent entries | P1 |
+| FR-21g | The system shall support an intent `weekly_calories` that replies with: per-day totals for the past 7 days, daily average, and trend direction (up/down/stable) | P1 |
+| FR-21h | The web UI shall have a weekly view showing daily totals as a bar chart or table with average | P1 |
 
 ### 4.5 XP & Gamification
 
@@ -162,6 +174,21 @@ WhatsApp → Webhook (POST /api/whatsapp)
     → Estimate calories
     → Insert into SQLite
     → Reply: "🍗 Logged: 200g chicken breast (~330 kcal)"
+    → If within 80% of daily goal, include warning: "(80% of your daily goal)"
+
+  calorie_summary:
+    → Query today's entries + daily goal
+    → Calculate total, remaining
+    → Reply: "📊 Today: 1,450 / 2,000 kcal · Remaining: 550 kcal
+    12:30 — Chicken breast (330 kcal)
+    19:15 — Pasta (400 kcal)"
+
+  weekly_calories:
+    → Query per-day totals for last 7 days
+    → Calculate average
+    → Reply: "📅 Weekly calories:
+    Mon: 1,800 · Tue: 2,100 · Wed: 1,450 · Thu: 1,900 · Fri: 2,200 · Sat: 1,600 · Sun: 1,750
+    Avg: 1,829 kcal/day · Trend: stable"
 
   brain_question:
     → Query LLM with brain context
@@ -248,7 +275,7 @@ The web UI shall have a persistent top or side navigation with four sections:
 |---------|-------|-------------|
 | Dashboard | `/` | XP total, streak, recent activity feed |
 | Todos | `/todos` | Filterable/sortable todo list with create/edit inline |
-| Calorie Log | `/calories` | Daily calorie entries with daily total |
+| Calorie Log | `/calories` | Daily entries, daily total vs goal, weekly view with chart |
 | Quests | `/quests` | Active quests from campaign with progress bars |
 
 ### 7.2 Layout Rules
