@@ -33,14 +33,14 @@ Ask clarifying questions if needed:
 
 ### Step 2: Choose the Location
 
-The new page goes into `02_Wiki/`. Determine the filename from the title:
-- Use kebab-case: "Motivation and Cybernetics Comparison" → `02_Wiki/motivation-cybernetics-comparison.md`
+The new page goes into `my-brain/02_Wiki/`. Determine the filename from the title:
+- Use kebab-case: "Motivation and Cybernetics Comparison" → `my-brain/02_Wiki/motivation-cybernetics-comparison.md`
 - Keep names short but descriptive
 
 ### Step 3: Check for Existing Content
 
-Search `02_Wiki/` for existing pages on the same or similar topic. If a page already exists:
-- Ask: "A page on this topic already exists at `02_Wiki/ExistingPage.md`. Should I update it instead of creating a new one?"
+Search `my-brain/02_Wiki/` for existing pages on the same or similar topic. If a page already exists:
+- Ask: "A page on this topic already exists at `my-brain/02_Wiki/ExistingPage.md`. Should I update it instead of creating a new one?"
 - If the user says update, follow the kb-ingest update procedure instead
 
 ### Step 4: Create the Page
@@ -78,7 +78,7 @@ type: insight
 <Why this matters, what follows from this insight>
 ```
 
-### Step 5: Update `02_Wiki/index.md`
+### Step 5: Update `my-brain/02_Wiki/index.md`
 
 1. Read the current index
 2. Add a row for the new page
@@ -99,10 +99,10 @@ For each related page listed in "Connections":
 
 ### Step 7: Log the Operation
 
-Append to `02_Wiki/log.md`:
+Append to `my-brain/02_Wiki/log.md`:
 
 ```
-| YYYY-MM-DD HH:MM | save | <conversation context> | 02_Wiki/<new-page>.md |
+| YYYY-MM-DD HH:MM | save | <conversation context> | my-brain/02_Wiki/<new-page>.md |
 ```
 
 Update `updated` and `entries` frontmatter. Write the file.
@@ -111,12 +111,12 @@ Update `updated` and `entries` frontmatter. Write the file.
 
 Report:
 ```
-💾 Saved: 02_Wiki/<page-name>.md
+💾 Saved: my-brain/02_Wiki/<page-name>.md
 Backlinks added to: <count> existing pages
 ```
 
 ## Rule
 
-- If the insight directly relates to a source in `01_Raw/`, add the source path to the page's frontmatter `sources` field
+- If the insight directly relates to a source in `my-brain/01_Raw/`, add the source path to the page's frontmatter `sources` field
 - Never save raw conversation without synthesis — distill the insight first
 - Always link to at least one existing wiki page (compounding requires connections)

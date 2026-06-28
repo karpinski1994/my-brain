@@ -25,21 +25,21 @@ Parse the user's question. Identify:
 
 ### Step 2: Search the Wiki
 
-Use grep to search `02_Wiki/` for relevant pages:
+Use grep to search `my-brain/02_Wiki/` for relevant pages:
 - Search for the topic name, related keywords, synonyms
-- Read `02_Wiki/index.md` for page descriptions matching the topic
+- Read `my-brain/02_Wiki/index.md` for page descriptions matching the topic
 - Read the most relevant 3-5 pages in full
 
 If the initial search yields no results:
 - Try broader terms or alternative phrasings
-- Inform the user that the wiki has no direct content on this topic, and note whether the raw source material in `01_Raw/` contains any related information
+- Inform the user that the wiki has no direct content on this topic, and note whether the raw source material in `my-brain/01_Raw/` contains any related information
 
 ### Step 3: Synthesize the Answer
 
 From the pages you read:
 - Identify key claims and facts relevant to the question
 - Note where pages agree or disagree
-- Trace claims back to their original sources (`01_Raw/` paths)
+- Trace claims back to their original sources (`my-brain/01_Raw/` paths)
 
 ### Step 4: Answer with Citations
 
@@ -51,8 +51,8 @@ Based on the wiki:
 [Answer synthesized from wiki pages]
 
 **Sources:**
-- `02_Wiki/PageA.md` — [brief note on relevance]
-- `02_Wiki/PageB.md` — [brief note on relevance]
+- `my-brain/02_Wiki/PageA.md` — [brief note on relevance]
+- `my-brain/02_Wiki/PageB.md` — [brief note on relevance]
 ```
 
 ### Step 5: Flag Issues
@@ -84,14 +84,14 @@ Agent:
 Based on the wiki:
 
 The vault covers cybernetic motivation theory across 14 lecture transcripts. Key concepts include:
-- The 12 motivations matrix that drives human behavior (`02_Wiki/12-Motywacji.md`)
-- The concept of "Free Power" and accumulators (`02_Wiki/Moc-Swobodna-Akumulator.md`)
-- The 5 stages of life and character dynamism (`02_Wiki/5-Etapow-Zycia.md`)
+- The 12 motivations matrix that drives human behavior (`my-brain/02_Wiki/12-Motywacji.md`)
+- The concept of "Free Power" and accumulators (`my-brain/02_Wiki/Moc-Swobodna-Akumulator.md`)
+- The 5 stages of life and character dynamism (`my-brain/02_Wiki/5-Etapow-Zycia.md`)
 
-These all reference the cybernetics lecture series in `01_Raw/data/learning/cybernetics/`.
+These all reference the cybernetics lecture series in `my-brain/01_Raw/data/learning/cybernetics/`.
 
 **Sources:**
-- `02_Wiki/12-Motywacji.md`
-- `02_Wiki/Moc-Swobodna-Akumulator.md`
-- `02_Wiki/5-Etapow-Zycia.md`
+- `my-brain/02_Wiki/12-Motywacji.md`
+- `my-brain/02_Wiki/Moc-Swobodna-Akumulator.md`
+- `my-brain/02_Wiki/5-Etapow-Zycia.md`
 ```

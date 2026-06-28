@@ -18,7 +18,7 @@ Use this skill when the user says:
 
 ### Step 1: Scan All Wiki Pages
 
-Use glob to find all `.md` files recursively under `02_Wiki/`. Exclude `index.md` and `log.md` from some checks (they are meta-pages).
+Use glob to find all `.md` files recursively under `my-brain/02_Wiki/`. Exclude `index.md` and `log.md` from some checks (they are meta-pages).
 
 Read each page's content. For each page, capture:
 - Page title (from `# Heading` or frontmatter)
@@ -30,7 +30,7 @@ Read each page's content. For each page, capture:
 
 For every `[[wikilink]]` or `[text](path)` pointing to a wiki page:
 - Resolve the target file path
-- Check if the target file exists in `02_Wiki/`
+- Check if the target file exists in `my-brain/02_Wiki/`
 - If not, flag as **broken link**
 
 ### Step 3: Find Orphan Pages
@@ -60,17 +60,17 @@ Present the report in this structured format:
 # Wiki Lint Report
 
 ## 🔗 Broken Links
-- `02_Wiki/PageA.md` → `[[MissingPage]]` (line X)
+- `my-brain/02_Wiki/PageA.md` → `[[MissingPage]]` (line X)
 
 ## 👻 Orphan Pages (no inbound links)
-- `02_Wiki/OrphanPage.md` — last updated YYYY-MM-DD
+- `my-brain/02_Wiki/OrphanPage.md` — last updated YYYY-MM-DD
 
 ## ⚠️ Potential Contradictions / Duplicates
-- `02_Wiki/PageA.md` and `02_Wiki/PageB.md` both cover <topic>
+- `my-brain/02_Wiki/PageA.md` and `my-brain/02_Wiki/PageB.md` both cover <topic>
 - Claim in `PageA.md` ("X") vs claim in `PageB.md` ("not X")
 
 ## 📄 Missing Concept Pages (referenced but don't exist)
-- `[[ConceptX]]` — mentioned in `02_Wiki/SomePage.md`
+- `[[ConceptX]]` — mentioned in `my-brain/02_Wiki/SomePage.md`
 
 ## ✅ Healthy Pages
 - N pages with no issues found
