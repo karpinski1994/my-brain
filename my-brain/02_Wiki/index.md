@@ -2,7 +2,7 @@
 type: catalog
 name: wiki-index
 updated: 2026-06-28
-total_pages: 20
+total_pages: 24
 ---
 
 # Wiki Index
@@ -29,3 +29,7 @@ total_pages: 20
 | [[Cybernetics-Rigid-Parameters]] | Intelligence, Aptitude, Talent, 5 Life Stages, Breadth of Character | cybernetics, psychology, talent | 2026-06-28 |
 | [[Cybernetics-Motivation-Matrix]] | 12 motivation types, 6 control stages, G-Potential | cybernetics, motivation, decision-making | 2026-06-28 |
 | [[Cybernetics-Social-Power]] | Free Power, geopolitics, infowiruses, normoviruses | cybernetics, social-dynamics, power | 2026-06-28 |
+| [[Rockstar-Programmer-ICP]] | ICP overview: demographics, awareness levels, failed attempts | business, icp, marketing | 2026-06-28 |
+| [[ICP-Content-Hooks]] | Pain points, goals, objections organized for content creation | business, marketing, content-creation | 2026-06-28 |
+| [[ICP-Customer-Psychology]] | Internal blocks, external obstacles, emotional drivers | business, psychology, icp | 2026-06-28 |
+| [[ICP-Voice-Of-Customer]] | Exact phrases, metaphors, buying triggers for copywriting | business, copywriting, icp | 2026-06-28 |

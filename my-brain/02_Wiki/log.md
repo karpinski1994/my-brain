@@ -2,7 +2,7 @@
 type: log
 name: wiki-log
 updated: 2026-06-28
-entries: 20
+entries: 21
 ---
 
 # Wiki Change Log
@@ -29,3 +29,4 @@ entries: 20
 | 2026-06-28 | ingest | 01_Raw/data/learning/cybernetics_en/ summaries (lectures 10,11,12) | Cybernetics-Rigid-Parameters |
 | 2026-06-28 | ingest | 01_Raw/data/learning/cybernetics_en/ summaries (lectures 13,14) | Cybernetics-Motivation-Matrix |
 | 2026-06-28 | ingest | 01_Raw/data/learning/cybernetics_en/ summaries (lectures 7,8) | Cybernetics-Social-Power |
+| 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/icp/ingredients/ (27 files) | Rockstar-Programmer-ICP, ICP-Content-Hooks, ICP-Customer-Psychology, ICP-Voice-Of-Customer |
