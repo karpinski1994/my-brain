@@ -2,7 +2,7 @@
 type: log
 name: wiki-log
 updated: 2026-06-28
-entries: 22
+entries: 23
 ---
 
 # Wiki Change Log
@@ -31,3 +31,4 @@ entries: 22
 | 2026-06-28 | ingest | 01_Raw/data/learning/cybernetics_en/ summaries (lectures 7,8) | Cybernetics-Social-Power |
 | 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/icp/ingredients/ (27 files) | Rockstar-Programmer-ICP, ICP-Content-Hooks, ICP-Customer-Psychology, ICP-Voice-Of-Customer |
 | 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/hooks-headlines/ (2 files) | Hook-Writing-Framework |
+| 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/icp/components/ (4 files) | ICP-Hook-Frameworks, ICP-Copy-Scripts, ICP-CTA-Bank |

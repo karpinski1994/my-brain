@@ -2,7 +2,7 @@
 type: catalog
 name: wiki-index
 updated: 2026-06-28
-total_pages: 25
+total_pages: 28
 ---
 
 # Wiki Index
@@ -34,3 +34,6 @@ total_pages: 25
 | [[ICP-Customer-Psychology]] | Internal blocks, external obstacles, emotional drivers | business, psychology, icp | 2026-06-28 |
 | [[ICP-Voice-Of-Customer]] | Exact phrases, metaphors, buying triggers for copywriting | business, copywriting, icp | 2026-06-28 |
 | [[Hook-Writing-Framework]] | Hook pillars, 4 mistakes, contrast formula, proven headline patterns | marketing, copywriting, content-creation | 2026-06-28 |
+| [[ICP-Hook-Frameworks]] | 5 identity-based hook frameworks with 100+ ICP-specific examples | business, copywriting, hooks | 2026-06-28 |
+| [[ICP-Copy-Scripts]] | Pain point paragraphs and mini-history scripts for ads and content | business, copywriting, scripts | 2026-06-28 |
+| [[ICP-CTA-Bank]] | 10 ranked CTAs with conversion logic and funnel mapping | business, copywriting, cta | 2026-06-28 |
