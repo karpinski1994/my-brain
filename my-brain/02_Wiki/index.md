@@ -2,7 +2,7 @@
 type: catalog
 name: wiki-index
 updated: 2026-06-28
-total_pages: 24
+total_pages: 25
 ---
 
 # Wiki Index
@@ -33,3 +33,4 @@ total_pages: 24
 | [[ICP-Content-Hooks]] | Pain points, goals, objections organized for content creation | business, marketing, content-creation | 2026-06-28 |
 | [[ICP-Customer-Psychology]] | Internal blocks, external obstacles, emotional drivers | business, psychology, icp | 2026-06-28 |
 | [[ICP-Voice-Of-Customer]] | Exact phrases, metaphors, buying triggers for copywriting | business, copywriting, icp | 2026-06-28 |
+| [[Hook-Writing-Framework]] | Hook pillars, 4 mistakes, contrast formula, proven headline patterns | marketing, copywriting, content-creation | 2026-06-28 |
