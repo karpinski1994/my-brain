@@ -2,7 +2,7 @@
 type: catalog
 name: wiki-index
 updated: 2026-06-28
-total_pages: 28
+total_pages: 29
 ---
 
 # Wiki Index
@@ -37,3 +37,4 @@ total_pages: 28
 | [[ICP-Hook-Frameworks]] | 5 identity-based hook frameworks with 100+ ICP-specific examples | business, copywriting, hooks | 2026-06-28 |
 | [[ICP-Copy-Scripts]] | Pain point paragraphs and mini-history scripts for ads and content | business, copywriting, scripts | 2026-06-28 |
 | [[ICP-CTA-Bank]] | 10 ranked CTAs with conversion logic and funnel mapping | business, copywriting, cta | 2026-06-28 |
+| [[Content-Frameworks-And-Narratives]] | BAB, PAS, AIDA, StoryBrand, Hero's Journey + 15+ narrative frameworks | marketing, copywriting, narratives, linkedin | 2026-06-28 |

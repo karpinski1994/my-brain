@@ -2,7 +2,7 @@
 type: log
 name: wiki-log
 updated: 2026-06-28
-entries: 23
+entries: 24
 ---
 
 # Wiki Change Log
@@ -32,3 +32,4 @@ entries: 23
 | 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/icp/ingredients/ (27 files) | Rockstar-Programmer-ICP, ICP-Content-Hooks, ICP-Customer-Psychology, ICP-Voice-Of-Customer |
 | 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/hooks-headlines/ (2 files) | Hook-Writing-Framework |
 | 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/icp/components/ (4 files) | ICP-Hook-Frameworks, ICP-Copy-Scripts, ICP-CTA-Bank |
+| 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/patterns-scripts-narratives/ (3 files) | Content-Frameworks-And-Narratives |
