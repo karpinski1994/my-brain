@@ -9,11 +9,14 @@ items:
     category: course
     unit: lectures
     total: 14
-    current: 7
+    current: 12
     status: in_progress
-    entries: []
+    entries:
+      - date: '2026-06-29'
+        amount: 5
+        note: updated from 7 to 12 — wiki notes processed up through part 12
     created: '2026-06-25T10:00:00.000Z'
-    updated: '2026-06-25T10:00:00.000Z'
+    updated: '2026-06-29T00:00:00.000Z'
   - id: progress-datascience-001
     title: Data Science for Business
     description: 409-page book by Foster Provost & Tom Fawcett
@@ -31,14 +34,14 @@ items:
 ---
 # Progression Database
 
-> Last updated: 2026-06-25
+> Last updated: 2026-06-29
 
 **Total:** 2 · **Completed:** 0
 
 ### 🔄 Cybernetics Course (en)
 | Category | Unit | Progress |
 |----------|------|----------|
-| course | lectures | 7/14 (50%) |
+| course | lectures | 12/14 (86%) |
 
 ### 🔄 Data Science for Business
 | Category | Unit | Progress |
@@ -48,4 +51,5 @@ items:
 **Log:**
 | Date | Amount | Note |
 |------|--------|------|
+| 2026-06-29 | +5 lectures | Updated from 7 to 12 — wiki notes processed through part 12 |
 | 2026-06-25 | +11 pages |  |
