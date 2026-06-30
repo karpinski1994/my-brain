@@ -1,0 +1,804 @@
+00:00:00:03 - 00:00:31:02
+Speaker 1
+I started doubting about my actual skills, etc. that might come to that. I started to think that it doesn't matter how many years of experience I supposedly have. It was very frustrating. I was very emotionally unstable, angry at all moment, not even able to get dressed in the night. It would be so difficult for me to get interviews to know what are their expectations.
+
+00:00:31:04 - 00:01:00:27
+Speaker 1
+I think that it will be very easy for someone just to record some videos and tell students, okay, you can read this and you will receive more interviews, but the process that you had with me was more than that. You make me feel that I was not alone, that you were going through this with me. I even had 1 or 2 interviews per day after enhancing everything.
+
+00:01:01:00 - 00:01:39:26
+Speaker 1
+I started receiving lots of messages of the reporters. I just wanted to have a job and Aaron Maji like that. And now we did it. And limitation of like a small company for lawyers, law firms to help them work with the AI. I know that I have enough skills that to do something big on my own and to start not depending on some projects, some company, some hiring process.
+
+00:01:39:28 - 00:02:05:03
+Speaker 1
+The software engineering job market is brutal right now. Even software developers with over a decade of experience are getting ghosted, rejected, and losing their confidence. But what if I told you that in just a few months, you could go from zero callbacks to recruiters begging you for attention and even starting your own business before we will get into this insane transformation.
+
+00:02:05:06 - 00:02:32:02
+Speaker 1
+If you remember Miguel from this video, here is the update. Miguel, after finding a better job, decided to step up with his career. Since then, he has acquired two new businesses and started his own consulting ventures. And today you're going to meet Gabriel, the person who went through similar path a few months ago. He was emotionally drained and frustrated because his contract was ending, and since months his CV was going into a black hole.
+
+00:02:32:02 - 00:03:00:28
+Speaker 1
+When he started our program, we completely redesigned his career. Firstly, we took advantage of his law degree. It was a huge leverage because it led him not only to level up his CV, online presence and things like that, but also because of knowing that market basically starting his own law consulting firm. If you are a developer who is struggling in all this market, you don't have idea for yourself for a business how to get a better job, start international career.
+
+00:03:01:00 - 00:03:22:28
+Speaker 1
+Click the link in the description behind you will find completely free audit of everything what you have right now, whether it is business idea or your CV, LinkedIn and things like that. I volunteer you that after our 1 to 1 audit you will start getting more offers. Now focus yourself because Gabriel is going to drop a lot of value.
+
+00:03:23:00 - 00:03:34:16
+Speaker 1
+Thank you so much for being here. Gabrielle, I am very happy to have this call with you. Could you please briefly introduce yourself and tell us about. What do you do?
+
+00:03:34:18 - 00:03:50:26
+Speaker 2
+Yes, sir. Thank you very much. Well, my name is. I'm terrified. Years old. I'm a super engineer with more than 12 years of experience. And I'm currently working on.
+
+00:03:50:28 - 00:04:01:29
+Speaker 1
+Sure. Could we talk a little bit more about what was your situation before we started? Like, working together?
+
+00:04:02:02 - 00:04:23:09
+Speaker 2
+Okay. Before we started working together, I was about to end a contract, and it was actually. It was something very difficult for me to continue getting into this and to perform well in these interviews.
+
+00:04:23:11 - 00:04:43:08
+Speaker 1
+Sure. What would you say you were trying to, for example, achieve at that time before we we because as you said, I remember you were just about to finish a contract with a company and you were trying to jump to another position. Yeah. So what were you trying to achieve at that time? Like when we like met.
+
+00:04:43:10 - 00:04:47:27
+Speaker 2
+What I was trying to achieve was.
+
+00:04:47:29 - 00:05:08:16
+Speaker 2
+Trying to get interviews, trying to, I don't know, polish some kind of things, like the resume I have at that time. And we'll try to add some things into my LinkedIn in order to try to catch some attention.
+
+00:05:08:18 - 00:05:18:06
+Speaker 1
+Great. And what would you say, based on what you said, that was like the biggest challenge for you?
+
+00:05:18:09 - 00:05:51:27
+Speaker 2
+Going through the interviews because, well, times are changing and now the interviews are not the same like they were years ago. So it was something difficult for me to know what was the expectation on the interviews and what are the scanning points that we should be aware of before getting into an interview?
+
+00:05:51:29 - 00:06:03:00
+Speaker 1
+Would you say that this was like the most frustrating thing throughout the process? Or would you say that there was also something that was like frustrating you at that time?
+
+00:06:03:03 - 00:06:06:23
+Speaker 2
+I think that was the most frustrating thing.
+
+00:06:06:27 - 00:06:20:03
+Speaker 1
+Okay. And how long before we met you were trying, like, let's say, to solve this problem or to try it, for example, land a job or understand the interviews or have messages from recruiters.
+
+00:06:20:05 - 00:06:44:28
+Speaker 2
+It was Marcelo because I knew when my contract was ended, so I was already taking a look into some into searching for new opportunities. It's not like I was waiting for the contract to end in order to start searching for something else. So it was a months of effort.
+
+00:06:45:00 - 00:06:54:04
+Speaker 1
+Okay. And what have you tried before joining Rockstar Programmer?
+
+00:06:54:06 - 00:07:03:16
+Speaker 2
+Just trying to have my resume updated and.
+
+00:07:03:18 - 00:07:39:29
+Speaker 2
+Making my LinkedIn feel like I am open to new opportunities, but yeah, well, that was basically it. And well, since I have worked before with some platforms like Turing will try to update the skills and tests they provide in order to have the skills of the developers updated so they can touch more like opportunities. But that's all I did.
+
+00:07:40:01 - 00:07:56:12
+Speaker 1
+Okay. I remember we talked in the past, for example, about other friends that you had, other developers. What would you were hearing from, let's say, other developers about the job market right now in software engineering?
+
+00:07:56:15 - 00:08:30:28
+Speaker 2
+Well, this last time, it has been very rough for a lot of people to get new jobs. And taking into account that the most of them have been fired. They are not longer working in the places they are. They were working. I knew a lot of colleagues that we're working, not even as a contractor role, but also as a full time employee, that we're not working on those projects anymore.
+
+00:08:31:00 - 00:08:35:21
+Speaker 2
+Well, the the.
+
+00:08:35:23 - 00:08:42:17
+Speaker 2
+The skills that are necessary now are not necessarily the ones that were before.
+
+00:08:42:20 - 00:08:51:11
+Speaker 1
+And would you say that there was a moment in which you felt like the market was like, impossible or something like very hard to understand?
+
+00:08:51:14 - 00:08:56:00
+Speaker 2
+Yeah, because actually it was being
+
+00:08:56:03 - 00:08:59:10
+Speaker 2
+it was being so difficult for me to get interviews.
+
+00:08:59:10 - 00:09:22:27
+Speaker 2
+And it's something that was not difficult before. I had interviews in the past with big companies like PayPal, I have had interviews with Amazon, I have traveled, I had to I had to travel to other countries in order to have these, those interviews.
+
+00:09:22:29 - 00:09:34:14
+Speaker 2
+But now it's very it's it's I will say that it's closed, but the what they are,
+
+00:09:34:15 - 00:09:40:20
+Speaker 2
+what people reporters or companies are currently looking for is very different
+
+00:09:40:22 - 00:09:43:22
+Speaker 2
+than other types.
+
+00:09:43:24 - 00:10:02:04
+Speaker 1
+I remember you mentioned, Patrick, that, for example, you even use some strong developers, like for example, X developers that were struggling to land a job. Yeah. So how do you think it affect that? Like for example, the way that you saw the market?
+
+00:10:02:06 - 00:10:34:18
+Speaker 2
+Well, it's kind of frustrating because it takes your faith and or that expectation that you have to land into a new job or new opportunities since, well, the people that are very skilled, that has a lot of experience are even struggling in getting the projects.
+
+00:10:34:21 - 00:10:44:15
+Speaker 1
+And at any point, do you think, for example, that the developer market was already done and maybe you should, for example, look for other kind of jobs?
+
+00:10:44:17 - 00:11:18:03
+Speaker 2
+Yeah, well, of course, yeah. I was actually trying to search for new, jobs and not related to the software engineering, like opening some kind of saw or, taking into account that I'm also a lawyer, I was starting to see if that was something that I could start spending some time on.
+
+00:11:18:05 - 00:11:25:17
+Speaker 1
+I even remember you were even considering moving to other countries just to find other job opportunities, correct?
+
+00:11:25:20 - 00:11:37:24
+Speaker 2
+Yeah, I saw a set introduced that were on site, and these were for your why and for.
+
+00:11:37:27 - 00:11:42:15
+Speaker 2
+Arabia. I'm not wrong.
+
+00:11:42:17 - 00:11:51:20
+Speaker 2
+So yeah, I was thinking a lot of getting new opportunities very different ways.
+
+00:11:51:22 - 00:12:16:20
+Speaker 1
+And would you say to for example, all the situation that you were living was affecting, for example, your confidence as a developer? Because I know that you have a lot of years of experience. You have mastered like a lot of technologies. You're a great developer. But I do remember that you are struggling a little bit. But would you say that it was, for example, all these processes and everything like this and how the market has shifted from pandemic?
+
+00:12:16:20 - 00:12:22:26
+Speaker 1
+So now would you say that this was something that was affecting your confidence?
+
+00:12:22:28 - 00:12:24:24
+Speaker 2
+Yeah, in some way
+
+00:12:24:27 - 00:12:35:08
+Speaker 2
+it's that my confidence, because I also started to think that it doesn't matter how many years of experience I supposedly have,
+
+00:12:35:09 - 00:12:51:07
+Speaker 2
+but it's not comparable to what I should know with that years of experience. So it's very important to say that
+
+00:12:51:11 - 00:12:56:06
+Speaker 2
+I started doubting about my actual skills
+
+00:12:56:11 - 00:13:08:04
+Speaker 2
+and what I can offer to the companies as not only as a developer, but also as a lead or mentor.
+
+00:13:08:06 - 00:13:20:16
+Speaker 1
+Of course, of course. And would you say that, for example, it was affecting your day to day basis or maybe your family, your free time or, I don't know, let's say your happiness?
+
+00:13:20:18 - 00:14:09:16
+Speaker 2
+Yeah, it's very rude. I said these very hard times. Well, especially when you have a family, you have children. It's something like you can enter into some kind of desperation to get some opportunities and to get something else. It, of course, affected my relationship, not even with my not only with my friends and social circle, but also with my bare, with my wife, children, with so on.
+
+00:14:09:18 - 00:14:24:24
+Speaker 1
+And what would you think it could have happened if you have done nothing, let's say for the next 6 to 12 months, how do you think your situation could have potentially looked like? If you have done nothing about what you are facing?
+
+00:14:24:27 - 00:14:42:03
+Speaker 2
+I think that I will have been in the exact point that I was before. If I had done nothing.
+
+00:14:42:05 - 00:14:58:10
+Speaker 2
+Maybe six, 12 months without a job, like spending my savings, I don't know, start selling things in order to.
+
+00:14:58:12 - 00:15:11:11
+Speaker 2
+Have what it needs, what it's needed for the family. But, yeah, I think that would be the situation if I had done nothing.
+
+00:15:11:14 - 00:15:31:04
+Speaker 1
+And what would you say? Because, I mean, we are talking a lot about emotion. So what would you say was, for example, the most difficult part or the hardest part? The most of, of of the situation itself? It was more like it was more a matter of really not knowing what to do.
+
+00:15:31:06 - 00:15:32:14
+Speaker 2
+Yeah. Everything.
+
+00:15:32:18 - 00:15:44:27
+Speaker 2
+It was very frustrating. I was a very emotionally unstable, angry at all moment
+
+00:15:44:29 - 00:15:51:26
+Speaker 2
+that I was not even able to get some get good press in the night.
+
+00:15:51:29 - 00:15:54:29
+Speaker 2
+
+
+00:15:55:02 - 00:15:58:12
+Speaker 2
+Yeah. It's a very sad situation.
+
+00:15:58:20 - 00:16:23:03
+Speaker 1
+I got. Thank you so much for sharing that. So let's talk a little bit about the program and what we did together. There are many programs in the market. I'm pretty sure this is not the first time that you were approached by somebody telling you, finding a better job and things like this. Why did you decide to work with us in the first place?
+
+00:16:23:05 - 00:16:55:14
+Speaker 2
+Well, in the first place, I decided to work with guys because I could see that it was a serious program and, well, you were actually like, you knew what you were doing. You have experience helping other people develop alternatives and not only getting opportunities, but leveraging their careers in some way. So that's what convinced me in order to start working with you.
+
+00:16:55:16 - 00:17:16:23
+Speaker 1
+And what would you say was like the, let's say, the thing in previous calls, I mean, at the beginning that convinced you the most or what was the thing that you said? Yes, because they said this or because they showed me this, it already convinced me, and I would like to work with them.
+
+00:17:16:26 - 00:17:53:06
+Speaker 2
+Well, you have this platform, the school platform, where you have a bunch of modules. And what actually did convince me was looking into the three course that you had and the discipline module that you let me see at no cost. And a I started to realize that I had a lot of things to a lot of things to learn to make.
+
+00:17:53:08 - 00:18:12:15
+Speaker 2
+Right since. Well, I it's like a lot of time that I have a finished the university. So it comes like some.
+
+00:18:12:17 - 00:18:35:12
+Speaker 2
+Moment when you start forgetting forgetting things and what it's the most, most important part of the being a professional is to have solid foundations, a first place theoretical and well in in practice as well.
+
+00:18:35:15 - 00:19:02:24
+Speaker 1
+Great. And did you have like any concerns or doubts before you joined the program or before you decided to like to start officially? Because because I remember when we talk the first time you said, yes, I want to join. But at the end we started working together, like, I believe like a week or two after that. So in this time, did you had any kind of concern or something that was worrying you before joining the program?
+
+00:19:02:27 - 00:19:05:09
+Speaker 2
+Yeah.
+
+00:19:05:11 - 00:20:08:05
+Speaker 2
+There's something every person that will like take a program like this when they are in need that may make them doubt and it's whether to spend or not the money when you are in a difficult situation. So it was just a matter of making the decision to start working on this, since it should not be seen as like, a waste of time with money, but to a spend money like, like any version on our own capacity, on our own knowledge, our own skills to talk to other people, to start working with another, to apply to jobs.
+
+00:20:08:08 - 00:20:41:10
+Speaker 2
+To be able to show all your capabilities at the time to when talking to other person. It doesn't matter if this is a a human resources or this is some talk with someone that is more technical. It's kind of spent money to liberate this and be a.
+
+00:20:41:12 - 00:20:46:00
+Speaker 2
+Be sure that you are doing it for your own good.
+
+00:20:46:03 - 00:20:47:21
+Speaker 1
+Like an investment. Yeah.
+
+00:20:47:26 - 00:20:50:17
+Speaker 2
+Like an investment that. Correct.
+
+00:20:50:20 - 00:21:05:03
+Speaker 1
+And what did you felt was different about our approach, for example, in comparison to other options that maybe you have seen on the market?
+
+00:21:05:05 - 00:21:53:29
+Speaker 2
+Well, I have seen other approaches in the market. Well, when they just there's a very clear difference. They tell you. Okay, we will help you applying for jobs and but you have to give me the account of your first payment after we get you a job. But it doesn't matter how many interviews or applications you are sending, if you are not giving some, if you are not getting some kind of training or, kind of mentoring.
+
+00:21:54:02 - 00:22:10:21
+Speaker 2
+To know exactly what to do when to a we get to the point where we are having an interview. It's easy to apply to lots of jobs, but what it's not easy is
+
+00:22:10:27 - 00:22:18:21
+Speaker 2
+to know what they are actually waiting from you. What are their expectations?
+
+00:22:18:23 - 00:22:32:29
+Speaker 2
+Well, to know a little more, to know better. Like the market. And who are we competing with to get opportunities?
+
+00:22:33:02 - 00:22:47:05
+Speaker 1
+I even remember there were even times when you went to interviews that you prepared with Patrick, in which you basically were asked what Patrick told you. Correct. Like 100%. Exactly. What? You been practicing with us? Yeah.
+
+00:22:47:08 - 00:22:52:05
+Speaker 2
+Yeah, I said some.
+
+00:22:52:08 - 00:23:32:14
+Speaker 2
+Sessions with Patrick where we talk about some interviews that I was going to have. We analyzed the situation where analyzed the company and what are the what, like the profile of the people that we're going to interview, that we're going to interview me and what Patrick told me, it's very likely that you are going to be asked these and other questions and do your research and, well do some practice of this interview before you have the actual interview.
+
+00:23:32:16 - 00:23:50:10
+Speaker 2
+That is very valuable because I was able to perform a lot better in this kind of approach in than the we didn't have those seconds.
+
+00:23:50:12 - 00:24:00:21
+Speaker 1
+And what would you say throughout our time working together so far, what has surprised you the most?
+
+00:24:00:23 - 00:24:37:19
+Speaker 2
+What I was very surprised is that I was not aware of all the theory foundations that were actually necessary not only to work in some project, because when you already have a project and you have to work on it, you can even talk to the AI and tell it, okay, do it, whatever. But if something very important to know what?
+
+00:24:37:20 - 00:25:20:00
+Speaker 2
+I was surprised when we're taking the courses and sessions with the guys is to realize how much I had forgotten about lots of things, and will also realize that my own expectation of myself when going to interviews was really, really small. Like only for a developer and not trying to see to see it with other eyes is like what you call it, the helicopter view.
+
+00:25:20:02 - 00:25:26:26
+Speaker 2
+Like seeing everything from a very high.
+
+00:25:26:28 - 00:26:08:00
+Speaker 2
+Point of view. Not on this, but as a lead, as a manager. What the interviews are actually a waiting from us, and it's not necessarily something related to the technical skill because, to be to have technical skills is really easy. But but it's not so easy is to have these skills and to know and understand the foundations of what we are doing in the software engineering.
+
+00:26:08:03 - 00:26:19:04
+Speaker 1
+I get yeah, I do agree. What would you say was the biggest difference between working with us and what you have tried before joining the program?
+
+00:26:19:06 - 00:27:00:28
+Speaker 2
+Okay. Well, thanks. Is that my interest? Me my first name you was was trash. It was not something even maintainable or something. That was I catching. What I tried before was just getting some template for internet and try to put all my experiences there and try to get some jobs with that. And we'll try to have the LinkedIn updated with my recent.
+
+00:27:01:00 - 00:27:46:10
+Speaker 2
+Experiences. But that was actually all that, what I was doing on my own before joining the program and after the program, I can say that my LinkedIn is has been upgraded a lot. It has been enhanced. It looks very professional now. It's one of the reasons that I got more messages from recruiters for different interviews. Talking about the resume, my resume, before just showing the experiences.
+
+00:27:46:12 - 00:28:19:15
+Speaker 2
+Yeah, that was a but now it has structure. It shows the important things that we should be showing to the interviewers or other people to let them know what are where are our skills. Also making the resume to be compatible to ATS.
+
+00:28:19:17 - 00:28:24:20
+Speaker 2
+Systems since nowadays.
+
+00:28:24:22 - 00:28:51:06
+Speaker 2
+The investments and applications do not get to the recruiters at the first time, it goes through a process of filtering by some AI or some other kind of mechanism. And well, this is something that has been enhanced a lot with the program.
+
+00:28:51:09 - 00:29:08:14
+Speaker 1
+And I'm talking about resumes and messages of recruiters since we updated your, for example, your LinkedIn, I remember you had maybe 1 or 2 messages per month of recruiters. How did it change since we updated your LinkedIn?
+
+00:29:08:16 - 00:29:12:17
+Speaker 2
+Yeah, well, there was a time that I oh,
+
+00:29:12:20 - 00:29:25:26
+Speaker 2
+I even had 1 or 2 interviews per day after training. After enhancing everything, I started receiving lots of messages of recruiters,
+
+00:29:25:28 - 00:29:55:16
+Speaker 2
+and for different roles, not only for the roles that I was looking for. It improved in a very big percentage. And on how we were actually doing, like calling the attention of other people that are actually looking for the developers.
+
+00:29:55:17 - 00:30:06:11
+Speaker 1
+What do you say? It is fair to say that your responses are recruiters reaching out to you, for example, double or triple of what you had previously in the past before joining the program?
+
+00:30:06:14 - 00:30:08:10
+Speaker 2
+Yeah, even more than that.
+
+00:30:08:12 - 00:30:30:16
+Speaker 1
+Great, great. And how helpful would you say it was instead of just giving you advice that we started doing things together, how helpful was it that you did a lot of things together with you, instead of just giving you this advice of what to do?
+
+00:30:30:18 - 00:30:34:03
+Speaker 2
+Okay.
+
+00:30:34:05 - 00:30:38:17
+Speaker 2
+So.
+
+00:30:38:19 - 00:30:42:26
+Speaker 2
+Can you?
+
+00:30:42:28 - 00:30:58:14
+Speaker 1
+Yeah. What we did with the goal, which was basically doing things together. What would you say that this part help you to do things probably that you could have not done alone?
+
+00:30:58:16 - 00:31:42:22
+Speaker 2
+Yeah. We'll start doing things together. Made me feel that I was not alone anymore in this kind of difficult path into getting something else. It not only as emotional support, but also gave me the confidence to show what I really have to offer to other companies. What I, I really have to show to recruiters. It's like a it will be
+
+00:31:42:24 - 00:31:49:09
+Speaker 2
+I think that it will be very easy for someone just to.
+
+00:31:49:11 - 00:32:09:02
+Speaker 2
+Records on videos and tell the students, okay, you can read this and you will receive more interviews, but the approach that you had with me was more than that.
+
+00:32:09:04 - 00:32:14:23
+Speaker 2
+They made me feel that I was not alone, that you were going through this with
+
+00:32:14:29 - 00:32:41:16
+Speaker 2
+me. I had all these questions with Patrick where we were not only targeting together the job, but start working on so many skills that I even didn't have at that time. But now I'm sure that it's something I can say to the recruiters I am capable of.
+
+00:32:41:18 - 00:32:51:11
+Speaker 2
+Also try to leverage my second career. I, as I told him, I.
+
+00:32:51:14 - 00:32:59:20
+Speaker 2
+I am, I like to hear from the law school, but I if not about that anything.
+
+00:32:59:26 - 00:33:16:24
+Speaker 2
+And now we did an implementation of like a small company for lawyers law firms a to help them work with the AI.
+
+00:33:16:27 - 00:33:30:10
+Speaker 2
+We started the like opening our eyes to more things that were in front of us, but we weren't able to see maybe for these sessions.
+
+00:33:30:12 - 00:33:58:02
+Speaker 1
+Great. You talk previously about those models that we have inside of school, and I remember that particularly for your case, for example, everything regarding automations was also something that helped you. Did you think, for example, that it helped you, for example, create more opportunities or stay more consistent, or for example, reduce what was like manually work in terms of, for example, applying or even because, as you already mentioned, you're also starting your own company.
+
+00:33:58:02 - 00:34:13:10
+Speaker 1
+Yeah. So you're trying to create something for lawyers since you have this bachelor's in it. And also as a lawyer. So would you say that this was those automations and everything regarding to AI that we have over there? Was that helpful for you?
+
+00:34:13:12 - 00:34:30:00
+Speaker 2
+Yeah, really helpful. And it's very important in our days, since the companies are turning into an AI first.
+
+00:34:30:03 - 00:35:09:22
+Speaker 2
+Engineering. So of course, there's always this concept of human in the loop. We cannot leave everything to the AI, and the companies are looking for someone to orchestrate this. They are not looking anymore. For someone that knows this specific language, random language, or these specific, because that was the vision before. If you knew some technologies, then you are capable to this work.
+
+00:35:09:24 - 00:35:54:12
+Speaker 2
+But nowadays it's not that important to know the tool, but to know how to do it and how to orchestrate it and how to manage it. And we are not anymore measures on how many lines of code we deliver by day, but we are measured on how we can give more value to the business. So taking these courses and also with these automations, learning a lot of the AI with the guys helped me a lot.
+
+00:35:54:15 - 00:36:07:20
+Speaker 1
+That's great. What would you say was the biggest breakthrough with your experience while working with us?
+
+00:36:07:22 - 00:36:10:09
+Speaker 2
+How? Breakthrough. Refresh.
+
+00:36:10:11 - 00:36:35:05
+Speaker 1
+Yeah. For example. Do you remember specific moment when things started to click for you or what was like a moment in which you like with breakthrough, I mean, for example, that you just realized, well, like, this is really helping me. This is something that it's really getting me more interviews. I am starting my own company. This is like what I mean with breakthrough.
+
+00:36:35:06 - 00:36:56:05
+Speaker 1
+Like, what was this moment in which you said, okay, all of this makes sense. I am actually it is not as bad because as you remember at the beginning when you started joining the program, we had like all these doubts about maybe AI is will take over all of our jobs and I will be not able to be programmer anymore.
+
+00:36:56:05 - 00:37:04:08
+Speaker 1
+So what was this moment when you were working with us in which you said, okay, it makes sense?
+
+00:37:04:10 - 00:37:41:08
+Speaker 2
+Okay. Well, first I want to look at in the past years, I had a lot, lots and lots and lots of interviews. I don't remember all of them, but I do remember what was it like, my experience when having these interviews and it was always like the same. The do you know this was what your is? What what's your opinion on some kind of technology or whatever?
+
+00:37:41:10 - 00:38:12:18
+Speaker 2
+But when I started to know that this was actually really helping me was that I was able to a answer questions not only with the answer, but answer as a real senior developer to know what to say. It's not.
+
+00:38:12:21 - 00:38:17:21
+Speaker 2
+It's not very important if you can.
+
+00:38:17:23 - 00:39:01:06
+Speaker 2
+Say something when you are talking to someone else. But it's much important how you say it to show you, show your skills and show what the level of of engineer that you are. Besides that, when I started to, like, see how we can improve basically anything with the AI and automations. Those were things that I didn't I wasn't working with at all.
+
+00:39:01:06 - 00:39:33:16
+Speaker 2
+I had just said, but not working like hands on with this kind of stuff. So when I realized that it's something that can be, I don't want to say that because it has its complexity, but that it's possible, not something impossible.
+
+00:39:33:18 - 00:39:49:02
+Speaker 1
+What would you say it is your biggest piece of advice or change that you had the biggest impact?
+
+00:39:49:04 - 00:40:00:29
+Speaker 1
+Yeah. What was the single piece of advice, strategy or change that had the biggest impact, like in your situation that that we gave the.
+
+00:40:01:02 - 00:40:08:15
+Speaker 2
+Okay, so
+
+00:40:08:17 - 00:40:25:23
+Speaker 2
+Situation well, talking about the situation, it was a very stressful situation about situation. I, I'm currently given up trying to recover from that. But.
+
+00:40:25:26 - 00:41:05:26
+Speaker 2
+The advice, advice that was very important from you guys is not a not to think that I am less than I actually am regarding all this experience that I have done through the years and in different roles on stop thinking that something is not for me, that I am not good enough to start trying to do.
+
+00:41:05:28 - 00:41:12:03
+Speaker 1
+What do you think that this was also like the biggest mind change that you have or mindset change that you have?
+
+00:41:12:05 - 00:41:14:11
+Speaker 2
+Yeah of course.
+
+00:41:14:14 - 00:41:33:24
+Speaker 1
+Okay, great. So let's talk a little bit more about the results so far that we have achieved together. What specific specific result did you want that when you joined the the program that we have so far achieved together?
+
+00:41:33:27 - 00:42:11:12
+Speaker 2
+With basically getting a job, I think that this will have been very hard work harder for me to achieve with other program. The other thing is the learning about lots of stuff like memorization techniques, Nemo technique. Since I am currently able to memorize much more things that I was able to before and will, I can prepare better to any other challenge that comes to me.
+
+00:42:11:14 - 00:42:24:05
+Speaker 2
+Not necessarily talking about interviews, but any other aspect in the professional career.
+
+00:42:24:08 - 00:42:28:06
+Speaker 2
+Yeah, I think that's it.
+
+00:42:28:09 - 00:42:45:17
+Speaker 1
+Okay. And particularly for this part of the job, how how long did it take us to help you find a new job, like, since we really started to work together, how long since let's say we change your LinkedIn, your CV, how long did it take you to land a job?
+
+00:42:45:20 - 00:42:59:15
+Speaker 2
+Yeah. Well, there was some. It was three months. I don't really remember how much time we were working on this, but.
+
+00:42:59:17 - 00:43:05:05
+Speaker 2
+They change. Starting a.
+
+00:43:05:08 - 00:43:28:04
+Speaker 2
+To make, like an effect. After the first couple of weeks, things started changing and I started getting more messages. I started changing my mindset. I started being a.
+
+00:43:28:06 - 00:43:49:26
+Speaker 2
+Dike, structuring my answers to the recruiters, the thinking really different of what I was thinking before in each interview that I said before starting with the program with you.
+
+00:43:49:28 - 00:44:09:22
+Speaker 1
+Okay. Yeah. And I mean, you are working as a consultant. Correct. And you're on a contract basis. How has your view of consulting has changed since we started to work together?
+
+00:44:09:24 - 00:44:52:15
+Speaker 2
+Well. The way I was seeing before was just be an employee to enter class tickets, to start working on stories, and to deliver code. That was a my vision before. But now I think of myself better as an engineer like that, and someone that can actually do more, not only being a developer, but also managing people, managing project in the future.
+
+00:44:52:17 - 00:44:56:09
+Speaker 2
+Be able to.
+
+00:44:56:11 - 00:45:01:28
+Speaker 2
+To work with product and not only with the code.
+
+00:45:02:00 - 00:45:13:05
+Speaker 1
+Okay. And for example, in the past, if, for example, getting contracts felt like difficult or something intermediate intimidating.
+
+00:45:13:08 - 00:45:27:02
+Speaker 2
+Yeah, yeah yeah yeah. It's something it's kind of intimidating intimidating getting contracts and well.
+
+00:45:27:04 - 00:45:40:24
+Speaker 2
+It's kind of more difficult nowadays because how things are changing. But.
+
+00:45:40:27 - 00:45:46:18
+Speaker 2
+It's easier for me now to.
+
+00:45:46:21 - 00:45:51:26
+Speaker 2
+Do these things and get better results.
+
+00:45:51:28 - 00:46:15:05
+Speaker 1
+I understand, I believe even for example, I know that we've you found a contract to work for a company and on the job that you basically have. But for example, when it comes, for example, building something from your own that we were talking about this other project that you are doing hand by hand with your degree. We even had, for example, this consultation with this potential client that is proven.
+
+00:46:15:06 - 00:46:33:05
+Speaker 1
+You remember that we had this small consultation, for example, having this consultation with him, for example, did it change your experience of that? It is not as difficult, maybe that it is something achievable, even like having something like this on your own?
+
+00:46:33:08 - 00:47:11:02
+Speaker 2
+Yeah, of course, when we start this talk with that person that is a lawyer and we sort of just like asking, okay, what do you do day to day in your job? What do you think that will help you? What are the things that you could potentially automate? The automation will make it easier. And those are things that never I will never have tried on my own.
+
+00:47:11:04 - 00:47:20:24
+Speaker 2
+Other thing is like trying to lose these.
+
+00:47:20:27 - 00:48:00:05
+Speaker 2
+Like, not not to be scared to talk to other people. I'm still working on that, talking about their recommendations, but at least I was able to get some recommendations already. We'll be able to show more of my work in my profiles and well, these kind of things I have been helping me is, is these are things that I will not be able to do them on my own before, but now I, I know I can.
+
+00:48:00:08 - 00:48:07:18
+Speaker 1
+And did it change your belief about, for example, how difficult it is, for example, to get potential clients?
+
+00:48:07:21 - 00:48:41:14
+Speaker 2
+I yeah, I thought it was something very difficult and it was something that some experts in that area should so but well, in life, if you don't sell things, if you don't sell yourself as a professional, you want a go forward with your career. And yeah, it has games. Definitely. How I see these things.
+
+00:48:41:16 - 00:48:50:28
+Speaker 1
+Besides getting this contract. What do you think this transformation or joining the program has given you?
+
+00:48:51:00 - 00:49:27:26
+Speaker 2
+Changing my mindset. It's like you told me, like in the beginning, this is not something magical that you start working with us and you will land a job. It's with a lot of effort and work, but, well, it's something that has helped me personally to achieve more goals, not only getting more opportunities, but as a person and starts changing how I see things not only for work but for life.
+
+00:49:27:28 - 00:49:33:22
+Speaker 1
+And how do you feel today compared to when you started?
+
+00:49:33:24 - 00:49:36:08
+Speaker 2
+Much more like an engineer.
+
+00:49:36:10 - 00:49:40:00
+Speaker 1
+Would you say that your confidence has changed as well?
+
+00:49:40:03 - 00:49:42:00
+Speaker 2
+Yeah, a lot.
+
+00:49:42:03 - 00:49:48:08
+Speaker 1
+And for example, in your personal life, would you say that it has also helped you?
+
+00:49:48:10 - 00:50:14:03
+Speaker 2
+Yeah, because I start seeing things the everything, like I said, not only for job, not only for engineering, not as a not only as professional, but I start seeing every single daily thing that I have with my family, friends, children in a different way.
+
+00:50:14:05 - 00:50:19:24
+Speaker 1
+And would you say you feel more in control of your future now?
+
+00:50:19:27 - 00:50:37:05
+Speaker 2
+I think so, at least I think that I am able to do more things that I will do, but I was able to do before. So basically I am more pro of everything.
+
+00:50:37:08 - 00:50:52:18
+Speaker 1
+Okay? And now talking more about what we expect or what do you expect from yourself in the future? What are your goals now? Let's say for for the next 3 to 6 months?
+
+00:50:52:21 - 00:51:31:04
+Speaker 2
+Well, it depends on how things go. But what I am expecting from me is to continue working on that project. I started with the guys, be able to leverage that with potential clients to get to reach more people. I they want to learn more about foundations. That is very important.
+
+00:51:31:06 - 00:51:52:06
+Speaker 2
+And well, if I am still working in this project that I am now 3 or 6 months, I am aiming to get more responsibility. Not only the support, but try to.
+
+00:51:52:09 - 00:51:57:26
+Speaker 2
+Make like to be in a level of decision making.
+
+00:51:57:28 - 00:52:04:24
+Speaker 1
+Before working with us. Those those goals feel realistic.
+
+00:52:04:27 - 00:52:05:14
+Speaker 2
+Now because
+
+00:52:05:15 - 00:52:10:02
+Speaker 2
+I just wanted to have a job and earn money and that was
+
+00:52:10:04 - 00:52:11:05
+Speaker 2
+all.
+
+00:52:11:08 - 00:52:14:16
+Speaker 1
+And do they feel realistic right now?
+
+00:52:14:18 - 00:52:16:14
+Speaker 2
+Yeah, definitely.
+
+00:52:16:16 - 00:52:25:00
+Speaker 1
+And what would you say is the thing that excites you the most like in the upcoming future?
+
+00:52:25:03 - 00:52:33:28
+Speaker 2
+Like I can do a very big things. Of course I can work as an employee in some project or whatever,
+
+00:52:34:05 - 00:52:52:17
+Speaker 2
+but I know that I could, that I have this enough skills that to those something big on my own. And to start a not depending on some project, some company,
+
+00:52:52:20 - 00:52:55:28
+Speaker 2
+some hiring process
+
+00:52:56:00 - 00:53:05:23
+Speaker 2
+is stuff like depending only on the having some interviews, but
+
+00:53:05:26 - 00:53:09:18
+Speaker 2
+trying to do big things on my own.
+
+00:53:09:21 - 00:53:22:05
+Speaker 1
+Okay. What would you say to someone who is currently thinking whether to join or not? The problem of of Rockstar programmer. What what would you say your your honest recommendation?
+
+00:53:22:08 - 00:54:03:28
+Speaker 2
+Yeah, well, it's very difficult if you are going through about or things are getting rock for you since. Well of course the same thing that I have that in the at the beginning to to to take this investment and will have faith that this will going to help you. What I will say to someone that is in my in this situation, I was, was just to go on with a good investment on ourselves.
+
+00:54:04:00 - 00:54:16:28
+Speaker 2
+The growth is like guaranteed and something that is.
+
+00:54:17:00 - 00:54:23:00
+Speaker 2
+We cannot put a price on is our personal personal growth.
+
+00:54:23:03 - 00:54:35:15
+Speaker 1
+And what do you say now talking about like the investment, I mean, setting aside the money, would you say that we deliver what we promised to you?
+
+00:54:35:17 - 00:54:41:18
+Speaker 2
+Yeah, definitely. And more than that, actually.
+
+00:54:41:21 - 00:54:55:22
+Speaker 2
+The help I have to say for you guys was very big, very thorough and went further of what you actually told me that this program was going to be at the beginning.
+
+00:54:55:29 - 00:55:00:05
+Speaker 1
+And if we would go back in time with you, make the same decision again.
+
+00:55:00:08 - 00:55:02:20
+Speaker 2
+Yeah, of course I will.
+
+00:55:02:22 - 00:55:24:20
+Speaker 1
+Okay. And my last question would be if someone would took away, like, let's say the contract that you landed or the results that you have today, but you kept the knowledge, skills and system, everything that we taught you and all the experience that you gain, obviously. Do you think you could create the results again by yourself if you already have all this knowledge?
+
+00:55:24:22 - 00:55:30:23
+Speaker 2
+Yeah, of course this is something that can be repeated any number of times.
+
+00:55:30:27 - 00:56:00:24
+Speaker 1
+As you could see, Gabriel went from losing sleep and doubting his 12 year career to landing his first freelance contract and starting his own AI consulting firm. The biggest takeaway here if you are a normal developer who was only focused on writing code, you're gonna struggle more and more. But if you will add a little bit of business knowledge, you will know how to position yourself, how to get clients, how to find painful problems, and how to solve them.
+
+00:56:00:28 - 00:56:25:26
+Speaker 1
+You're going to be completely unstoppable, and this AI revolution will only help you to achieve your dreams. If you are tired of sending your resume into void, doubting your skills and the future of software engineering, and instead of talking to people who treat you like a resource and instead of sending CVS, you would prefer sending offers to to get deals with people who really need you and appreciate your help.
+
+00:56:26:00 - 00:56:38:14
+Speaker 1
+Just click the link in the description. We will take a look at your specific situation, and we will show you exactly how to become 1% engineer that companies are desperate to hire. Let's do it together.
+
