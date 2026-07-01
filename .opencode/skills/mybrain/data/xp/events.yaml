@@ -143,3 +143,51 @@ events:
     total: 10
     skill_tree: marketing
     date: 2026-07-01
+  - id: 7882577a-cf74-44d3-97a1-8380e3c3cd59
+    source: todo_complete
+    source_title: "Testimonial: Go to hairdresser"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-07-01
+  - id: 50f41c64-b254-4b55-bd16-5d08cb0ec1cb
+    source: todo_complete
+    source_title: "Testimonial: Record intro talking about Miguel"
+    xp_awarded: 10
+    multiplier: 1
+    total: 10
+    skill_tree: general
+    date: 2026-07-01
+  - id: 2dd12070-a226-4c86-a952-2f11cd1f809a
+    source: todo_complete
+    source_title: "Testimonial: Write intro script with Google AI Studio"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-07-01
+  - id: 68fbde88-1ab8-4520-8496-e57c6fb1b749
+    source: todo_complete
+    source_title: "Testimonial: Add music at beginning and end"
+    xp_awarded: 5
+    multiplier: 1
+    total: 5
+    skill_tree: general
+    date: 2026-07-01
+  - id: eede8a20-7099-4037-bb4d-869d83db404d
+    source: todo_complete
+    source_title: "Testimonial: Write video description"
+    xp_awarded: 3
+    multiplier: 1
+    total: 3
+    skill_tree: general
+    date: 2026-07-01
+  - id: 557338b5-6145-4c05-a8b8-4db744815563
+    source: todo_complete
+    source_title: "Testimonial: Create description hashtags and add link"
+    xp_awarded: 3
+    multiplier: 1
+    total: 3
+    skill_tree: general
+    date: 2026-07-01

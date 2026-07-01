@@ -1,11 +1,11 @@
 ---
 type: database
 name: todos
-updated: '2026-06-25T22:50:00.000Z'
+updated: '2026-07-01T21:37:23.791Z'
 total: 27
-pending: 25
-completed: 2
-total_xp_earned: 40
+pending: 19
+completed: 8
+total_xp_earned: 71
 todos:
   - id: a1b2c3d4-thumb-4000-8000-000000000001
     title: 'Testimonial: Create video thumbnail'
@@ -27,7 +27,7 @@ todos:
     title: 'Testimonial: Go to hairdresser'
     description: Get ready before recording the intro
     priority: high
-    status: pending
+    status: completed
     xp_value: 5
     tags:
       - video
@@ -36,12 +36,12 @@ todos:
     area: ''
     parent_id: a1b2c3d4-0001-4000-8000-000000000001
     created: 2026-06-25T09:00:00.000Z
-    completed: null
+    completed: '2026-07-01T21:37:12.361Z'
   - id: a1b2c3d4-0001-4000-8000-000000000103
     title: 'Testimonial: Record intro talking about Miguel'
     description: Record the talking head intro after hairdresser
     priority: high
-    status: pending
+    status: completed
     xp_value: 10
     tags:
       - video
@@ -50,7 +50,7 @@ todos:
     area: ''
     parent_id: a1b2c3d4-0001-4000-8000-000000000001
     created: 2026-06-25T09:00:00.000Z
-    completed: null
+    completed: '2026-07-01T21:37:17.470Z'
   - id: a1b2c3d4-0001-4000-8000-000000000001
     title: Finish testimonial video (Gabriel/Miguel case study)AAA
     description: >-
@@ -71,7 +71,7 @@ todos:
     title: 'Testimonial: Write intro script with Google AI Studio'
     description: Use AI Studio to craft the intro script about Miguel
     priority: high
-    status: pending
+    status: completed
     xp_value: 5
     tags:
       - video
@@ -81,7 +81,7 @@ todos:
     area: ''
     parent_id: a1b2c3d4-0001-4000-8000-000000000001
     created: 2026-06-25T09:00:00.000Z
-    completed: null
+    completed: '2026-07-01T21:37:18.135Z'
   - id: e2e2d4e1-948b-4c57-885f-a00ca0d576db
     title: swinia
     description: ''
@@ -93,6 +93,65 @@ todos:
     parent_id: a1b2c3d4-thumb-4000-8000-000000000001
     created: '2026-06-25T22:43:48.414Z'
     completed: '2026-06-25T22:44:48.261Z'
+  - id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    title: Clean drives
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 20
+    tags: []
+    area: general
+    parent_id: null
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
+  - id: 22be67e5-5241-4785-9f7d-0b05291d651a
+    title: Google Drive
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 5
+    tags:
+      - subtask
+    area: general
+    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
+  - id: bee123cd-b6e7-4f47-b8cc-2d4f88eaa869
+    title: Physical
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 5
+    tags:
+      - subtask
+    area: general
+    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
+  - id: 21439ef6-b3b2-40f3-adbe-89c335af6428
+    title: Create Hermes and Matias transcripts
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 5
+    tags:
+      - subtask
+    area: general
+    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
+  - id: 5ff6d5f0-6ea1-41fe-abf8-f85aca77245e
+    title: Take results to tables
+    description: ''
+    priority: high
+    status: pending
+    xp_value: 5
+    tags:
+      - subtask
+    area: general
+    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
+    created: 2026-06-25T22:50:00.000Z
+    completed: null
   - id: a1b2c3d4-0004-4000-8000-000000000004
     title: 'The Automation Polish: Instagram automations'
     description: 'Polish Instagram automations (carousels, DMs, follows)'
@@ -170,7 +229,7 @@ todos:
     title: 'Testimonial: Add music at beginning and end'
     description: Background music for intro and outro
     priority: medium
-    status: pending
+    status: completed
     xp_value: 5
     tags:
       - video
@@ -179,12 +238,12 @@ todos:
     area: ''
     parent_id: a1b2c3d4-0001-4000-8000-000000000001
     created: 2026-06-25T09:00:00.000Z
-    completed: null
+    completed: '2026-07-01T21:37:19.165Z'
   - id: a1b2c3d4-0001-4000-8000-000000000105
     title: 'Testimonial: Write video description'
     description: Write the description text for the video
     priority: medium
-    status: pending
+    status: completed
     xp_value: 3
     tags:
       - video
@@ -193,12 +252,12 @@ todos:
     area: ''
     parent_id: a1b2c3d4-0001-4000-8000-000000000001
     created: 2026-06-25T09:00:00.000Z
-    completed: null
+    completed: '2026-07-01T21:37:19.929Z'
   - id: a1b2c3d4-0001-4000-8000-000000000106
     title: 'Testimonial: Create description hashtags and add link'
     description: 'Finalize description with hashtags, link to Miguel''s page, publish'
     priority: medium
-    status: pending
+    status: completed
     xp_value: 3
     tags:
       - video
@@ -207,7 +266,7 @@ todos:
     area: ''
     parent_id: a1b2c3d4-0001-4000-8000-000000000001
     created: 2026-06-25T09:00:00.000Z
-    completed: null
+    completed: '2026-07-01T21:37:23.791Z'
   - id: a1b2c3d4-0007-4000-8000-000000000007
     title: 'The Alliance: One conflict-free week with Regina'
     description: Achieve one full week without conflict with Regina
@@ -316,84 +375,22 @@ todos:
     parent_id: null
     created: 2026-06-25T09:00:00.000Z
     completed: null
-  - id: 5be40c7d-8f55-48ab-a243-051ee51610f1
-    title: Clean drives
-    description: ''
-    priority: high
-    status: pending
-    xp_value: 20
-    tags: []
-    area: general
-    parent_id: null
-    created: 2026-06-25T22:50:00.000Z
-    completed: null
-  - id: 22be67e5-5241-4785-9f7d-0b05291d651a
-    title: Google Drive
-    description: ''
-    priority: high
-    status: pending
-    xp_value: 5
-    tags:
-      - subtask
-    area: general
-    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
-    created: 2026-06-25T22:50:00.000Z
-    completed: null
-  - id: bee123cd-b6e7-4f47-b8cc-2d4f88eaa869
-    title: Physical
-    description: ''
-    priority: high
-    status: pending
-    xp_value: 5
-    tags:
-      - subtask
-    area: general
-    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
-    created: 2026-06-25T22:50:00.000Z
-    completed: null
-  - id: 21439ef6-b3b2-40f3-adbe-89c335af6428
-    title: Create Hermes and Matias transcripts
-    description: ''
-    priority: high
-    status: pending
-    xp_value: 5
-    tags:
-      - subtask
-    area: general
-    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
-    created: 2026-06-25T22:50:00.000Z
-    completed: null
-  - id: 5ff6d5f0-6ea1-41fe-abf8-f85aca77245e
-    title: Take results to tables
-    description: ''
-    priority: high
-    status: pending
-    xp_value: 5
-    tags:
-      - subtask
-    area: general
-    parent_id: 5be40c7d-8f55-48ab-a243-051ee51610f1
-    created: 2026-06-25T22:50:00.000Z
-    completed: null
 ---
-
 # Tasks Database
 
-> Last updated: 2026-06-25
+> Last updated: 2026-07-01
 
-**Stats:** 2/27 done · 40 XP earned
+**Stats:** 8/27 done · 71 XP earned
+
 ### 🔴 High Priority
 | Status | Task | XP | Tags |
 |--------|------|----|------|
-| ⬜ | Testimonial: Go to hairdresser *(subtask)* | 5 | video, testimonial, subtask |
-| ⬜ | Testimonial: Record intro talking about Miguel *(subtask)* | 10 | video, testimonial, subtask |
 | ⬜ | Finish testimonial video (Gabriel/Miguel case study)AAA | 20 | video, marketing, client-work |
-| ⬜ | Testimonial: Write intro script with Google AI Studio *(subtask)* | 5 | video, testimonial, subtask, ai |
-| ⬜ | Clean drives | 20 | |
-| ⬜ | └ Google Drive *(subtask)* | 5 | |
-| ⬜ | └ Physical *(subtask)* | 5 | |
-| ⬜ | └ Create Hermes and Matias transcripts *(subtask)* | 5 | |
-| ⬜ | └ Take results to tables *(subtask)* | 5 | |
+| ⬜ | Clean drives | 20 |  |
+| ⬜ | Google Drive *(subtask)* | 5 | subtask |
+| ⬜ | Physical *(subtask)* | 5 | subtask |
+| ⬜ | Create Hermes and Matias transcripts *(subtask)* | 5 | subtask |
+| ⬜ | Take results to tables *(subtask)* | 5 | subtask |
 
 ### 🟡 Medium Priority
 | Status | Task | XP | Tags |
@@ -403,9 +400,6 @@ todos:
 | ⬜ | Find a mentor | 50 | business, mentor, growth |
 | ⬜ | The Funnel Eye: Finish monitoring software | 75 | cybernetics, funnel, software |
 | ⬜ | The Signal: 5 LinkedIn posts | 30 | marketing, linkedin, content |
-| ⬜ | Testimonial: Add music at beginning and end *(subtask)* | 5 | video, testimonial, subtask |
-| ⬜ | Testimonial: Write video description *(subtask)* | 3 | video, testimonial, subtask |
-| ⬜ | Testimonial: Create description hashtags and add link *(subtask)* | 3 | video, testimonial, subtask |
 
 ### 🔵 Low Priority
 | Status | Task | XP | Tags |
@@ -423,4 +417,10 @@ todos:
 | Task | XP | Done |
 |------|----|------|
 | ✅ Testimonial: Create video thumbnail | 20 | 2026-06-25 |
+| ✅ Testimonial: Go to hairdresser | 5 | 2026-07-01 |
+| ✅ Testimonial: Record intro talking about Miguel | 10 | 2026-07-01 |
+| ✅ Testimonial: Write intro script with Google AI Studio | 5 | 2026-07-01 |
 | ✅ swinia | 20 | 2026-06-25 |
+| ✅ Testimonial: Add music at beginning and end | 5 | 2026-07-01 |
+| ✅ Testimonial: Write video description | 3 | 2026-07-01 |
+| ✅ Testimonial: Create description hashtags and add link | 3 | 2026-07-01 |

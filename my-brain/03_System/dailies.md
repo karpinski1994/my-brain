@@ -1,11 +1,11 @@
 ---
 type: database
 name: dailies
-updated: '2026-07-01T17:14:30.534Z'
+updated: '2026-07-01T21:37:23.773Z'
 current_streak: 1
 longest_streak: 1
 last_activity_date: '2026-07-01'
-total_xp: 235
+total_xp: 266
 daily_calorie_goal: 2000
 routines:
   - id: a1b2c3d4-r001-4000-8000-000000000001
