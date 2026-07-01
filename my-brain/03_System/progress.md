@@ -31,6 +31,28 @@ items:
         note: ''
     created: '2026-06-25T12:00:00.000Z'
     updated: '2026-06-25T22:24:39.238Z'
+  - id: progress-freediving-001
+    title: Freediving (Breath Hold)
+    description: Static apnea breath hold time
+    category: fitness
+    unit: seconds
+    total: 180
+    current: 120
+    status: in_progress
+    entries: []
+    created: '2026-06-30T00:00:00.000Z'
+    updated: '2026-06-30T00:00:00.000Z'
+  - id: progress-pullups-001
+    title: Pull-ups
+    description: Consecutive pull-ups
+    category: fitness
+    unit: reps
+    total: 15
+    current: 8
+    status: in_progress
+    entries: []
+    created: '2026-06-30T00:00:00.000Z'
+    updated: '2026-06-30T00:00:00.000Z'
 ---
 # Progression Database
 

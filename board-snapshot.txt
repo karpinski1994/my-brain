@@ -1,0 +1,97 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - generic [ref=e4]:
+        - heading "MyBrain" [level=1] [ref=e5]
+        - paragraph [ref=e6]: Gamified Productivity
+      - navigation [ref=e7]:
+        - link "◆ Board" [ref=e8] [cursor=pointer]:
+          - /url: /board
+          - generic [ref=e9]: ◆
+          - text: Board
+        - link "☐ Tasks" [ref=e10] [cursor=pointer]:
+          - /url: /tasks
+          - generic [ref=e11]: ☐
+          - text: Tasks
+        - link "↻ Dailies" [ref=e12] [cursor=pointer]:
+          - /url: /dailies
+          - generic [ref=e13]: ↻
+          - text: Dailies
+        - link "★ Rewards" [ref=e14] [cursor=pointer]:
+          - /url: /rewards
+          - generic [ref=e15]: ★
+          - text: Rewards
+        - link "📈 Progression" [ref=e16] [cursor=pointer]:
+          - /url: /progress
+          - generic [ref=e17]: 📈
+          - text: Progression
+      - generic [ref=e18]: Project Freedom
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - text: 🔥
+          - strong [ref=e22]: 1d
+          - text: streak
+        - generic [ref=e23]: ×1 XP
+        - generic [ref=e24]: 6d to ×1.25
+        - generic [ref=e26]: "Best: 1d"
+        - generic [ref=e27]: · 235 XP
+      - main [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e33]:
+            - heading "Board" [level=2] [ref=e34]
+            - generic [ref=e35]:
+              - generic [ref=e36]: 🔥 1d streak
+              - generic [ref=e37]: Lv.2
+              - generic [ref=e38]: 235 XP
+          - generic [ref=e39]:
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - generic [ref=e42]: 📝
+                - generic [ref=e43]: Posts
+              - generic [ref=e44]: 1/7
+              - generic [ref=e48]: this week
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - generic [ref=e59]: 💰
+                - generic [ref=e60]: Revenue
+              - generic [ref=e61]: $3.5K
+              - generic [ref=e65]: of $6K goal
+            - generic [ref=e66]:
+              - generic [ref=e67]:
+                - generic [ref=e68]: 🏋️
+                - generic [ref=e69]: Freediving (Breath Hold)
+              - generic [ref=e70]: 2:00
+              - generic [ref=e74]: of 3:00
+          - generic [ref=e75]:
+            - heading "📝 Document, Don't Create" [level=3] [ref=e76]
+            - paragraph [ref=e77]: One thing I noticed or learned today
+            - textbox "Today I noticed that..." [ref=e78]
+            - generic [ref=e79]:
+              - generic [ref=e80]: ⌘+Enter to post
+              - button "Post →" [disabled] [ref=e81]
+          - generic [ref=e82]:
+            - heading "📋 Recent Journal" [level=3] [ref=e83]
+            - generic [ref=e85]:
+              - button "✓" [ref=e86]
+              - generic [ref=e87]: 2026-07-01
+              - generic [ref=e88]: Today I noticed that writing a quick thought removes the friction of posting
+          - generic [ref=e89]:
+            - heading "⚡ Recent XP" [level=3] [ref=e90]
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - generic [ref=e93]: ↻ 1 micro-post (LinkedIn/Facebook)
+                - generic [ref=e94]: +10 XP
+              - generic [ref=e95]:
+                - generic [ref=e96]: "☐ Testimonial: Create video thumbnail"
+                - generic [ref=e97]: +20 XP
+              - generic [ref=e98]:
+                - generic [ref=e99]: ☐ swinia
+                - generic [ref=e100]: +20 XP
+              - generic [ref=e101]:
+                - generic [ref=e102]: ☐ swinia
+                - generic [ref=e103]: +20 XP
+              - generic [ref=e104]:
+                - generic [ref=e105]: "☐ Testimonial: Create video thumbnail"
+                - generic [ref=e106]: +20 XP
+  - alert [ref=e31]

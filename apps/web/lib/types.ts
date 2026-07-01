@@ -81,3 +81,37 @@ export interface XPEvent {
   skill_tree: string
   date: string
 }
+
+export interface JournalEntry {
+  date: string
+  text: string
+  posted: boolean
+}
+
+export interface BoardData {
+  revenue_this_month: number
+  revenue_goal: number
+  revenue_month: string
+  revenue_last_updated: string
+  posts_routine_id: string
+  freediving_item_id: string | null
+  pullups_item_id: string | null
+  journal: JournalEntry[]
+}
+
+export interface BoardResponse {
+  revenue_this_month: number
+  revenue_goal: number
+  posts_this_week: number
+  posts_this_week_max: number
+  freediving: { title: string; current: number; total: number; unit: string } | null
+  pullups: { title: string; current: number; total: number; unit: string } | null
+  journal: JournalEntry[]
+  recent_events: XPEvent[]
+  stats: {
+    level: number
+    total_xp: number
+    current_streak: number
+    longest_streak: number
+  }
+}

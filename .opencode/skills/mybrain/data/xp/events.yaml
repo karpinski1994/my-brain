@@ -135,3 +135,11 @@ events:
     total: 20
     skill_tree: marketing
     date: 2026-06-25
+  - id: 9fedcb1f-82f8-43f1-b836-298b8cdf77a9
+    source: daily_complete
+    source_title: 1 micro-post (LinkedIn/Facebook)
+    xp_awarded: 10
+    multiplier: 1
+    total: 10
+    skill_tree: marketing
+    date: 2026-07-01

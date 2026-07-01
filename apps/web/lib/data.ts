@@ -2,7 +2,7 @@ import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
 import { parse, stringify } from "yaml"
-import type { Todo, Routine, Stats, XPEvent, ProgressItem, ProgressEntry } from "./types"
+import type { Todo, Routine, Stats, XPEvent, ProgressItem, ProgressEntry, BoardData, JournalEntry } from "./types"
 
 const VAULT_DIR = path.resolve(process.cwd(), "../../my-brain/03_System")
 const DATA_DIR = path.resolve(process.cwd(), "../../.opencode/skills/mybrain/data")
@@ -449,4 +449,108 @@ export function completeRoutine(
   })
 
   return { xpEarned, streak, totalXp: stats.total_xp }
+}
+
+// ---------------------------------------------------------------------------
+// BOARD (dashboard wall with metrics + journal)
+// ---------------------------------------------------------------------------
+
+const BOARD_FILE = path.join(VAULT_DIR, "board.md")
+
+export function readBoard(): BoardData {
+  if (!fs.existsSync(BOARD_FILE)) {
+    const defaults: BoardData = {
+      revenue_this_month: 0,
+      revenue_goal: 6000,
+      revenue_month: new Date().toISOString().slice(0, 7),
+      revenue_last_updated: new Date().toISOString().slice(0, 10),
+      posts_routine_id: "a1b2c3d4-r006-4000-8000-000000000006",
+      freediving_item_id: null,
+      pullups_item_id: null,
+      journal: [],
+    }
+    writeBoard(defaults)
+    return defaults
+  }
+  const raw = fs.readFileSync(BOARD_FILE, "utf-8")
+  const { data } = matter(raw)
+  return {
+    revenue_this_month: data.revenue_this_month ?? 0,
+    revenue_goal: data.revenue_goal ?? 6000,
+    revenue_month: data.revenue_month ?? new Date().toISOString().slice(0, 7),
+    revenue_last_updated: data.revenue_last_updated ?? new Date().toISOString().slice(0, 10),
+    posts_routine_id: data.posts_routine_id ?? "a1b2c3d4-r006-4000-8000-000000000006",
+    freediving_item_id: data.freediving_item_id ?? null,
+    pullups_item_id: data.pullups_item_id ?? null,
+    journal: (data.journal || []) as JournalEntry[],
+  }
+}
+
+export function writeBoard(board: BoardData): void {
+  const frontmatter = {
+    type: "database",
+    name: "board",
+    updated: new Date().toISOString(),
+    revenue_this_month: board.revenue_this_month,
+    revenue_goal: board.revenue_goal,
+    revenue_month: board.revenue_month,
+    revenue_last_updated: board.revenue_last_updated,
+    posts_routine_id: board.posts_routine_id,
+    freediving_item_id: board.freediving_item_id,
+    pullups_item_id: board.pullups_item_id,
+    journal: board.journal,
+  }
+
+  let body = "# Board Dashboard\n\n"
+  body += `> Last updated: ${new Date().toISOString().slice(0, 10)}\n\n`
+  if (board.journal.length > 0) {
+    body += "## Journal\n\n| Date | Note | Posted |\n|------|------|--------|\n"
+    for (const j of [...board.journal].reverse().slice(0, 20)) {
+      body += `| ${j.date} | ${j.text.replace(/\|/g, "\\|").slice(0, 60)} | ${j.posted ? "✅" : "⬜"} |\n`
+    }
+  }
+
+  fs.writeFileSync(BOARD_FILE, matter.stringify(body, frontmatter))
+}
+
+export function addJournalEntry(text: string): JournalEntry {
+  const board = readBoard()
+  const entry: JournalEntry = {
+    date: new Date().toISOString().slice(0, 10),
+    text,
+    posted: false,
+  }
+  board.journal.push(entry)
+  writeBoard(board)
+  return entry
+}
+
+export function updateJournalPosted(index: number): void {
+  const board = readBoard()
+  if (board.journal[index]) {
+    board.journal[index].posted = true
+    writeBoard(board)
+  }
+}
+
+export function updateRevenue(amount: number): void {
+  const board = readBoard()
+  const now = new Date()
+  board.revenue_this_month = amount
+  board.revenue_month = now.toISOString().slice(0, 7)
+  board.revenue_last_updated = now.toISOString().slice(0, 10)
+  writeBoard(board)
+}
+
+export function getPostCountThisWeek(): number {
+  const routines = readRoutines()
+  const board = readBoard()
+  const postRoutine = routines.find((r) => r.id === board.posts_routine_id)
+  if (!postRoutine) return 0
+
+  const weekStart = new Date()
+  weekStart.setDate(weekStart.getDate() - weekStart.getDay())
+  const weekStartStr = weekStart.toISOString().slice(0, 10)
+
+  return postRoutine.history.filter((h) => h >= weekStartStr).length
 }

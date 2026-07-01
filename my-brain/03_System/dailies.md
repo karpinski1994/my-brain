@@ -1,11 +1,11 @@
 ---
 type: database
 name: dailies
-updated: '2026-06-25T22:45:38.030Z'
+updated: '2026-07-01T17:14:30.534Z'
 current_streak: 1
 longest_streak: 1
-last_activity_date: '2026-06-25'
-total_xp: 225
+last_activity_date: '2026-07-01'
+total_xp: 235
 daily_calorie_goal: 2000
 routines:
   - id: a1b2c3d4-r001-4000-8000-000000000001
@@ -59,7 +59,8 @@ routines:
     frequency: daily
     xp_value: 10
     area: marketing
-    history: []
+    history:
+      - '2026-07-01'
     linked_progress_id: null
     progress_amount: 1
   - id: a1b2c3d4-r007-4000-8000-000000000007
@@ -119,9 +120,9 @@ routines:
 ---
 # Dailies Database
 
-> Last updated: 2026-06-25
+> Last updated: 2026-07-01
 
-**Streak:** 1d · **Best:** 1d · **Daily:** 0/10 · **Weekly:** 0/2
+**Streak:** 1d · **Best:** 1d · **Daily:** 1/10 · **Weekly:** 0/2
 
 ## Daily Routines
 | Status | Task | XP | Area |
@@ -131,7 +132,7 @@ routines:
 | ⬜ | US Market Prep (30 min) | 10 | business |
 | ⬜ | Evidence Log (3 things) | 5 | psychology |
 | ⬜ | Morning meditation (10 min) | 5 | psychology |
-| ⬜ | 1 micro-post (LinkedIn/Facebook) | 10 | marketing |
+| ✅ | 1 micro-post (LinkedIn/Facebook) | 10 | marketing |
 | ⬜ | Funnel check (10 min) | 5 | business |
 | ⬜ | Fridge sticky note | 5 | cybernetics |
 | ⬜ | Plan tomorrow (5 min) | 5 | cybernetics |
