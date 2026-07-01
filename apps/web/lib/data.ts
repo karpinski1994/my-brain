@@ -465,8 +465,7 @@ export function readBoard(): BoardData {
       revenue_month: new Date().toISOString().slice(0, 7),
       revenue_last_updated: new Date().toISOString().slice(0, 10),
       posts_routine_id: "a1b2c3d4-r006-4000-8000-000000000006",
-      freediving_item_id: null,
-      pullups_item_id: null,
+      exercise_routine_id: "a1b2c3d4-r002-4000-8000-000000000002",
       journal: [],
     }
     writeBoard(defaults)
@@ -480,8 +479,7 @@ export function readBoard(): BoardData {
     revenue_month: data.revenue_month ?? new Date().toISOString().slice(0, 7),
     revenue_last_updated: data.revenue_last_updated ?? new Date().toISOString().slice(0, 10),
     posts_routine_id: data.posts_routine_id ?? "a1b2c3d4-r006-4000-8000-000000000006",
-    freediving_item_id: data.freediving_item_id ?? null,
-    pullups_item_id: data.pullups_item_id ?? null,
+    exercise_routine_id: data.exercise_routine_id ?? "a1b2c3d4-r002-4000-8000-000000000002",
     journal: (data.journal || []) as JournalEntry[],
   }
 }
@@ -496,8 +494,7 @@ export function writeBoard(board: BoardData): void {
     revenue_month: board.revenue_month,
     revenue_last_updated: board.revenue_last_updated,
     posts_routine_id: board.posts_routine_id,
-    freediving_item_id: board.freediving_item_id,
-    pullups_item_id: board.pullups_item_id,
+    exercise_routine_id: board.exercise_routine_id,
     journal: board.journal,
   }
 
@@ -542,15 +539,22 @@ export function updateRevenue(amount: number): void {
   writeBoard(board)
 }
 
-export function getPostCountThisWeek(): number {
+export function getRoutineCountThisWeek(routineId: string): number {
   const routines = readRoutines()
-  const board = readBoard()
-  const postRoutine = routines.find((r) => r.id === board.posts_routine_id)
-  if (!postRoutine) return 0
+  const routine = routines.find((r) => r.id === routineId)
+  if (!routine) return 0
 
   const weekStart = new Date()
   weekStart.setDate(weekStart.getDate() - weekStart.getDay())
   const weekStartStr = weekStart.toISOString().slice(0, 10)
 
-  return postRoutine.history.filter((h) => h >= weekStartStr).length
+  return routine.history.filter((h) => h >= weekStartStr).length
+}
+
+export function getDailyCompletionCount(): { done: number; total: number } {
+  const routines = readRoutines()
+  const today = new Date().toISOString().slice(0, 10)
+  const dailies = routines.filter((r) => r.frequency === "daily")
+  const done = dailies.filter((r) => r.history.includes(today)).length
+  return { done, total: dailies.length }
 }

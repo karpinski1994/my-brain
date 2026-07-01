@@ -94,8 +94,7 @@ export interface BoardData {
   revenue_month: string
   revenue_last_updated: string
   posts_routine_id: string
-  freediving_item_id: string | null
-  pullups_item_id: string | null
+  exercise_routine_id: string
   journal: JournalEntry[]
 }
 
@@ -104,8 +103,10 @@ export interface BoardResponse {
   revenue_goal: number
   posts_this_week: number
   posts_this_week_max: number
-  freediving: { title: string; current: number; total: number; unit: string } | null
-  pullups: { title: string; current: number; total: number; unit: string } | null
+  exercise_this_week: number
+  exercise_this_week_max: number
+  dailies_done_today: number
+  dailies_total_today: number
   journal: JournalEntry[]
   recent_events: XPEvent[]
   stats: {

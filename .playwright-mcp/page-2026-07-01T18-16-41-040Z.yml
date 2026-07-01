@@ -1,0 +1,41 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - complementary [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - heading "MyBrain" [level=1] [ref=f1e5]
+        - paragraph [ref=f1e6]: Gamified Productivity
+      - navigation [ref=f1e7]:
+        - link "◆ Board" [ref=f1e8] [cursor=pointer]:
+          - /url: /board
+          - generic [ref=f1e9]: ◆
+          - text: Board
+        - link "☐ Tasks" [ref=f1e10] [cursor=pointer]:
+          - /url: /tasks
+          - generic [ref=f1e11]: ☐
+          - text: Tasks
+        - link "↻ Dailies" [ref=f1e12] [cursor=pointer]:
+          - /url: /dailies
+          - generic [ref=f1e13]: ↻
+          - text: Dailies
+        - link "★ Rewards" [ref=f1e14] [cursor=pointer]:
+          - /url: /rewards
+          - generic [ref=f1e15]: ★
+          - text: Rewards
+        - link "📈 Progression" [ref=f1e16] [cursor=pointer]:
+          - /url: /progress
+          - generic [ref=f1e17]: 📈
+          - text: Progression
+      - generic [ref=f1e18]: Project Freedom
+    - generic [ref=f1e19]:
+      - generic [ref=f1e20]:
+        - generic [ref=f1e21]:
+          - text: 🔥
+          - strong [ref=f1e22]: 0d
+          - text: streak
+        - generic [ref=f1e23]: ×1 XP
+        - generic [ref=f1e24]: 7d to ×1.25
+        - generic [ref=f1e26]: "Best: 0d"
+        - generic [ref=f1e27]: · 0 XP
+      - main [ref=f1e28]:
+        - paragraph [ref=f1e30]: Loading board...
+  - alert [ref=f1e31]

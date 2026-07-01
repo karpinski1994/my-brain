@@ -2,7 +2,6 @@ import { NextResponse } from "next/server"
 import {
   readBoard,
   readRoutines,
-  readProgress,
   readStats,
   readXPEvents,
   calculateLevel,
@@ -10,7 +9,8 @@ import {
   addJournalEntry,
   updateRevenue,
   updateJournalPosted,
-  getPostCountThisWeek,
+  getRoutineCountThisWeek,
+  getDailyCompletionCount,
 } from "@/lib/data"
 
 export async function GET() {
@@ -18,28 +18,20 @@ export async function GET() {
   const stats = readStats()
   const { level } = calculateLevel(stats.total_xp)
   const events = readXPEvents()
-  const progress = readProgress()
 
-  const postsThisWeek = getPostCountThisWeek()
-
-  const freediving = board.freediving_item_id
-    ? progress.find((p) => p.id === board.freediving_item_id) ?? null
-    : null
-  const pullups = board.pullups_item_id
-    ? progress.find((p) => p.id === board.pullups_item_id) ?? null
-    : null
+  const postsThisWeek = getRoutineCountThisWeek(board.posts_routine_id)
+  const exerciseThisWeek = getRoutineCountThisWeek(board.exercise_routine_id)
+  const { done: dailiesDone, total: dailiesTotal } = getDailyCompletionCount()
 
   return NextResponse.json({
     revenue_this_month: board.revenue_this_month,
     revenue_goal: board.revenue_goal,
     posts_this_week: postsThisWeek,
     posts_this_week_max: 7,
-    freediving: freediving
-      ? { title: freediving.title, current: freediving.current, total: freediving.total, unit: freediving.unit }
-      : null,
-    pullups: pullups
-      ? { title: pullups.title, current: pullups.current, total: pullups.total, unit: pullups.unit }
-      : null,
+    exercise_this_week: exerciseThisWeek,
+    exercise_this_week_max: 7,
+    dailies_done_today: dailiesDone,
+    dailies_total_today: dailiesTotal,
     journal: board.journal,
     recent_events: events.slice(-10).reverse(),
     stats: {

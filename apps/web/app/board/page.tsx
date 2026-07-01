@@ -7,8 +7,10 @@ interface BoardData {
   revenue_goal: number
   posts_this_week: number
   posts_this_week_max: number
-  freediving: { title: string; current: number; total: number; unit: string } | null
-  pullups: { title: string; current: number; total: number; unit: string } | null
+  exercise_this_week: number
+  exercise_this_week_max: number
+  dailies_done_today: number
+  dailies_total_today: number
   journal: { date: string; text: string; posted: boolean }[]
   recent_events: { source_title: string; total: number; date: string; source: string }[]
   stats: { level: number; total_xp: number; current_streak: number; longest_streak: number }
@@ -90,14 +92,12 @@ export default function BoardPage() {
   const revenuePct = data.revenue_goal > 0
     ? Math.round((data.revenue_this_month / data.revenue_goal) * 100)
     : 0
-  const freedivingPct = data.freediving && data.freediving.total > 0
-    ? Math.round((data.freediving.current / data.freediving.total) * 100)
-    : null
-  const pullupsPct = data.pullups && data.pullups.total > 0
-    ? Math.round((data.pullups.current / data.pullups.total) * 100)
-    : null
+  const exercisePct = data.exercise_this_week_max > 0
+    ? Math.round((data.exercise_this_week / data.exercise_this_week_max) * 100)
+    : 0
 
   const weeksDone = Array.from({ length: data.posts_this_week_max }, (_, i) => i < data.posts_this_week)
+  const exerciseDots = Array.from({ length: data.exercise_this_week_max }, (_, i) => i < data.exercise_this_week)
 
   return (
     <div className="max-w-3xl mx-auto">
@@ -150,12 +150,39 @@ export default function BoardPage() {
         />
         <MetricCard
           icon="🏋️"
-          label={data.freediving?.title ?? "Fitness"}
-          value={data.freediving != null ? formatTime(data.freediving.current) : "—"}
-          sublabel={data.freediving != null ? `of ${formatTime(data.freediving.total)}` : "set up in Progression"}
-          pct={freedivingPct ?? 0}
+          label="Exercise"
+          value={`${data.exercise_this_week}/${data.exercise_this_week_max}`}
+          sublabel="sessions this week"
+          pct={exercisePct}
           color="var(--gold)"
+          dots={exerciseDots}
         />
+      </div>
+
+      <div
+        className="flex items-center gap-3 mb-6 px-4 py-2.5 rounded-xl"
+        style={{ background: "var(--card)", border: "1px solid var(--border)" }}
+      >
+        <span className="text-sm">🗓️</span>
+        <span className="text-sm font-medium">
+          Today: <span style={{ color: "var(--green)" }}>{data.dailies_done_today}/{data.dailies_total_today}</span> dailies done
+        </span>
+        <div className="flex-1 h-1.5 rounded-full overflow-hidden" style={{ background: "var(--bg)" }}>
+          <div
+            className="h-full rounded-full transition-all"
+            style={{
+              width: `${data.dailies_total_today > 0 ? Math.round((data.dailies_done_today / data.dailies_total_today) * 100) : 0}%`,
+              background: "var(--accent)",
+            }}
+          />
+        </div>
+        <a
+          href="/dailies"
+          className="text-xs px-2.5 py-1 rounded transition"
+          style={{ background: "var(--bg)", color: "var(--text-dim)" }}
+        >
+          View all →
+        </a>
       </div>
 
       <div
@@ -324,8 +351,4 @@ function MetricCard({
   )
 }
 
-function formatTime(seconds: number): string {
-  const m = Math.floor(seconds / 60)
-  const s = seconds % 60
-  return `${m}:${s.toString().padStart(2, "0")}`
-}
+
