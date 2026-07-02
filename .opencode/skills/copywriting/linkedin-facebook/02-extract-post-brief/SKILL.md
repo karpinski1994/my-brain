@@ -29,7 +29,10 @@ description: From the mined MCP data, extract only what's relevant for THIS spec
 
 8. **Platform Notes:**
    - **LinkedIn:** Professional tone, truncated after 2 lines, logical ROI focus. Post must stop scroll in first 2 lines.
+   - **LinkedIn 2026+:** Algorithm rewards expert-led content and topic consistency. Consider "diagnostic" framing over "educational" framing. Plan pin comment CTA strategy from this step (post educates, pinned comment sells).
    - **Facebook Groups:** Conversational, community-driven, raw emotion, longer-form storytelling works.
+
+9. **Content Pillar Alignment:** Which of the 3-5 content pillars does this post reinforce? (LinkedIn rewards topic consistency — every post should signal expertise in one core area.)
 
 ## Data Sources (Mandatory)
 

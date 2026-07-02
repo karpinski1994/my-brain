@@ -36,6 +36,13 @@ Every step MUST reference these knowledge base files:
 - `01_Raw/data/rockstar-programmer-business/content-creation/written/hooks-headlines/most-important-pillars-for-hooks.md` — 5 hook pillars
 - `01_Raw/data/rockstar-programmer-business/content-creation/written/hooks-headlines/example-headlines.md` — 100+ proven headline formulas
 
+**Wiki Knowledge (Ingested LinkedIn Strategy):**
+- `02_Wiki/LinkedIn-Content-Strategy-And-Writing.md` — Content pillars, SLay framework, hook rules, 80/20 split, mobile formatting
+- `02_Wiki/AI-Content-Workflow.md` — 6-tool AI content stack (optional speed drafting)
+- `02_Wiki/Expert-Positioning-And-Personal-Branding.md` — Micro-niche strategy, expert-led content positioning
+- `02_Wiki/LinkedIn-Video-Strategy.md` — 5 video hook styles, Brand Link monetization, video caption strategy
+- `02_Wiki/LinkedIn-Lead-Generation.md` — DM scripts, pin comment CTAs, lead magnet strategies
+
 ## 📁 Output Conventions
 
 All generated posts must be saved using TWO methods:
@@ -47,6 +54,12 @@ All generated posts must be saved using TWO methods:
 Before starting, determine the mode:
 1. **New Post (Forward):** Start from Step 1 with a topic or goal.
 2. **Revise Existing Post (Reverse):** Start at Step 6 to review and improve a draft, then work backward if needed.
+
+## Format Selection
+
+Also determine the format:
+1. **Text Post** — Use standard text hook frameworks (Step 3) and formatting rules (Step 5).
+2. **Video Post** — Use video hook frameworks (Step 3) and include caption strategy (Step 5).
 
 ## 🛠 The Workflow (The Copy-Cycle)
 
@@ -72,6 +85,7 @@ Before starting, determine the mode:
 - **Step 5: Create Draft**
   - *Context:* Write the full post by stitching hook, narrative, and CTA together.
   - *Skill:* `../05-create-draft/SKILL.md`
+  - *Speed tool:* The AI Content Workflow (`AI-Content-Workflow.md`) can be used for ideation and first drafts in this phase.
 
 - **Step 6: Review & Polish**
   - *Context:* Fact-check claims, verify platform fit, refine for maximum impact.

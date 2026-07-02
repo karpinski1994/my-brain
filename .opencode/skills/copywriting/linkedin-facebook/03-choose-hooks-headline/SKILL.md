@@ -27,6 +27,19 @@ description: Select the hook framework and write a scroll-stopping headline and 
 
 4. **Alternative Hooks:** Provide 2-3 alternative hooks using different frameworks for A/B testing.
 
+5. **Video Hook Frameworks (LinkedIn Video Only):** If the format is video, choose ONE from these 5 high-retention styles:
+
+   - **Paradox** — Contradicts common wisdom ("I regret improving myself")
+   - **Bold How-To** — Clear actionable promise ("Here's how to never waste time networking again")
+   - **Counter-Intuitive Claim** — Challenges a deeply held belief ("Cold showers are ruining your mornings")
+   - **Emotional Bait** — Opens with raw emotion or transformation ("I was broke last year, but today I'm here")
+   - **Number** — Specific time/volume frame ("In 14 days, this changed everything")
+
+6. **LinkedIn-Specific Hook Rules (All Formats):**
+   - Sentence one: **8 words max**, must contain 2+ keywords (topic clarity + novelty/curiosity/phomo)
+   - Sentence two: **Rehook** — challenges or deepens the first statement (don't explain, escalate)
+   - The hook + first body line must work under LinkedIn's "see more" truncation (~200 characters)
+
 ## Data Sources (Mandatory)
 
 - `01_Raw/data/rockstar-programmer-business/icp/components/COMPONENTS 0 HOOKS.md` — 100 pre-validated hooks across 5 frameworks, 5 AI models. Study the patterns. Adapt, don't copy.

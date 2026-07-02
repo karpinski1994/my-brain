@@ -48,6 +48,9 @@ Write the full post following this proven structure:
 - **Bold key phrases** if it aids scanning (but don't overdo it)
 - **Emojis:** Only if appropriate for the platform and tone. Facebook = more, LinkedIn = less
 - **No hashtags in the body** (put 1-2 at the very end if needed)
+- **Pin comment CTA (LinkedIn):** The post educates; the pinned comment sells. Keep the CTA in a pinned comment to maintain post readability and increase engagement.
+- **Mobile-first formatting:** 8-10 words max per line, spaced lines. Optimize for one-handed thumb scrolling.
+- **Visual rhythm:** Alternate short and slightly longer lines to create a visual beat that pulls the reader down the page.
 - **LinkedIn:** Ensure the hook + first body line works under the "see more" truncation
 
 ## Data Sources (Mandatory)
@@ -57,6 +60,7 @@ Write the full post following this proven structure:
 - `01_Raw/data/rockstar-programmer-business/icp/components/COMPONENTS 1 PAIN POINTS PART.md` — Study the rhythm and emotional language
 - `01_Raw/data/rockstar-programmer-business/content-creation/written/copywriting/anatomy-of-copywriting.md` — Body writing principles, CTA structure
 - `01_Raw/data/rockstar-programmer-business/content-creation/written/copywriting/COPYWRITING-notes.md` — FtB table, feature-to-benefit translation
+- `02_Wiki/AI-Content-Workflow.md` — 6-tool AI content stack for accelerated drafting (optional speed tool)
 - Post brief extracted VOC phrases from Step 2
 
 ## Quality Checklist
@@ -66,7 +70,9 @@ Write the full post following this proven structure:
 - [ ] Is at least one exact VOC phrase from the ICP data included?
 - [ ] Is the tone consistent throughout?
 - [ ] Is the CTA clear, single-action, and low-friction?
+- [ ] Is the CTA placed in a pinned comment (LinkedIn) or in the post body (Facebook)?
 - [ ] Are paragraphs short enough for mobile scrolling?
+- [ ] Is the formatting optimized for mobile (8-10 words/line, visual rhythm)?
 - [ ] Does the post pass the "so what?" test for every claim?
 
 ## Common Pitfalls

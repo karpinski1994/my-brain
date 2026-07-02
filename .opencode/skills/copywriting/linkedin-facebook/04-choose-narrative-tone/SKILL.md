@@ -23,6 +23,7 @@ description: Select the narrative framework, copywriting template, and tone of v
    - **Hero's Journey (Simplified):** Best for personal founder stories. Problem → Struggle → Epiphany → Result.
    - **4Ps (Picture-Promise-Prove-Push):** Best for direct offers with social proof.
    - **Fichtean Curve:** Best for dramatic, crisis-first storytelling.
+   - **SLay (Story → Lesson → Action → You):** Best for LinkedIn educational posts with a personal angle. Story builds relatability → Lesson establishes authority → Action delivers value → "You" invites engagement.
 
 2. **Copywriting Template:** Map the chosen narrative to a post structure:
 
@@ -46,9 +47,11 @@ description: Select the narrative framework, copywriting template, and tone of v
    - **Direct Disruptor:** "Here's the truth nobody tells you." — Best for cold traffic, pattern interrupts.
    - **Peer Storyteller:** "Let me tell you what happened with Miguel." — Best for case studies, relatable content.
    - **Authority Analytical:** "The data shows X. Here's why." — Best for skeptical, logic-driven seniors.
+   - **Expert-Led:** "Here's what 10 years of doing this taught me." — Best for the 2026 LinkedIn algorithm that rewards domain authority over content creation skill.
 
 4. **Platform Adaptation:**
    - **LinkedIn:** Professional but conversational. ROI language. Logical proof points. Shorter paragraphs.
+   - **LinkedIn 2026+:** Algorithm now prioritizes **expert-led** content over perfectly formatted templates. Posts should position the author as a domain authority, not a content creator. Consider framing content as **diagnostic** (reframing how the reader sees their problem) rather than purely educational.
    - **Facebook Groups:** Raw, emotional, conversational. Longer form. Community-oriented ("Who else…?"). Less polished, more real.
 
 ## Data Sources (Mandatory)

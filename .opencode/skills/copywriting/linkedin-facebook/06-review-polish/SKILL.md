@@ -32,6 +32,9 @@ description: Fact-check the draft against ICP data, verify platform fit, and ref
 - [ ] Are paragraphs short (1-3 sentences, 2-3 lines max)?
 - [ ] Is the tone consistent from first line to last?
 - [ ] Does every claim pass the "so what?" test?
+- [ ] **Expertise check:** Does this post position the author as a domain expert (not just a content creator)?
+- [ ] **Repetition check:** Does this post reinforce the core topic consistently? (Baader-Meinhof frequency bias — repetition builds authority)
+- [ ] **AI detection check:** Does it sound like a real person when read aloud, not an AI?
 
 **CTA:**
 - [ ] Is there ONE clear call to action?
@@ -46,6 +49,7 @@ description: Fact-check the draft against ICP data, verify platform fit, and ref
 - Tighten any sentence longer than 25 words.
 - Replace any passive voice with active voice.
 - Remove any jargon that doesn't serve the ICP.
+- Remove any AI-sounding transitions or generic phrasings ("delve", "navigate", "landscape").
 - Add line breaks where reading feels dense.
 - Read aloud — does it sound like a real person talking?
 
