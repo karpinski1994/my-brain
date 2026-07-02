@@ -5,6 +5,7 @@ updated: 2026-06-28
 type: plan
 sources:
   - path: my-brain/01_Raw/data/rockstar-programmer-business/content-creation/30-days-content-plan/overall-30-days-content-strategy.md
+  - path: my-brain/01_Raw/data/rockstar-programmer-business/content-creation/transcripts/gabriel case study interview video transcript.txt
 ---
 
 # 30-Day Content Strategy

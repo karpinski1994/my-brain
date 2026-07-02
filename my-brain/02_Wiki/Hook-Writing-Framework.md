@@ -6,6 +6,10 @@ type: concept
 sources:
   - path: my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/hooks-headlines/most-important-pillars-for-hooks.md
   - path: my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/hooks-headlines/example-headlines.md
+  - path: my-brain/01_Raw/I spent $30,000 to learn the 7 laws of linkedin.md
+  - path: my-brain/01_Raw/365 Days Of LinkedIn Strategy In 20 Minutes.md
+  - path: my-brain/01_Raw/This Latest LinkedIn Update Will Change Everything.md
+  - path: my-brain/01_Raw/Watch Me Use AI to Create 30 Days of Viral LinkedIn Posts.md
 ---
 
 # Hook Writing Framework
@@ -105,8 +109,36 @@ From the greatest headlines in history — adapt for the rockstar programmer ICP
 - "Can you spot the [mistake/opportunity]?"
 - **ICP adaptation:** "What would you rather do — spend 4 hours on Leetcode or 4 hours with your family?"
 
+## LinkedIn-Specific Hook Styles
+
+### The 5 High-Retention Video Hook Styles
+1. **Paradox** — "I regret improving myself"
+2. **Bold How-To** — "Here's how to never waste time networking again"
+3. **Counter-Intuitive Claim** — "Cold showers are ruining your mornings"
+4. **Emotional Bait** — "I was broke last year, but today I'm here"
+5. **Number** — "In 14 days, this changed everything"
+
+### The Hook + Rehook Structure (Text Posts)
+- **Sentence 1**: 8 words max, 2+ keywords (novelty, curiosity, phomo), clear outcome
+- **Sentence 2**: A rehook that challenges the first statement ("but here's the catch", "most people get this wrong")
+- **Sentence 3**: Direct solution or value delivery
+
+Example: "I spent $30K learning LinkedIn growth. (hook) But the 7 laws I discovered were simpler than I expected. (rehook) Here they are. (value)"
+
+### Viral Educational Hook Template
+"After [doing X] for [timeframe], here's how to [desired outcome]."
+Example: "After writing 500+ viral posts, here's how to write one that actually gets leads."
+
+### LinkedIn Hook Framework
+- Keyword-rich (2+ keywords that signal topic clarity)
+- Outcome-obvious (reader knows immediately what they'll get)
+- Short enough to read in one glance (<8 words)
+- Must work on mobile (first 1-2 lines before "see more")
+
 ## Related Pages
 
 - [[ICP-Content-Hooks]]
 - [[ICP-Voice-Of-Customer]]
 - [[Rockstar-Programmer-ICP]]
+- [[LinkedIn-Content-Strategy-And-Writing]]
+- [[Content-Frameworks-And-Narratives]]

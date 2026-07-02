@@ -1,8 +1,8 @@
 ---
 type: log
 name: wiki-log
-updated: 2026-06-28
-entries: 24
+updated: 2026-07-01
+entries: 25
 ---
 
 # Wiki Change Log
@@ -33,3 +33,5 @@ entries: 24
 | 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/hooks-headlines/ (2 files) | Hook-Writing-Framework |
 | 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/icp/components/ (4 files) | ICP-Hook-Frameworks, ICP-Copy-Scripts, ICP-CTA-Bank |
 | 2026-06-28 | ingest | my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/patterns-scripts-narratives/ (3 files) | Content-Frameworks-And-Narratives |
+| 2026-07-01 | ingest | 20 LinkedIn strategy files from 01_Raw/ (root) | LinkedIn-Profile-Optimization, LinkedIn-Growth-And-Algorithm, LinkedIn-Lead-Generation, LinkedIn-Content-Strategy-And-Writing, AI-Content-Workflow, Expert-Positioning-And-Personal-Branding, LinkedIn-Video-Strategy, Hook-Writing-Framework (updated), Content-Frameworks-And-Narratives (updated) |
+| 2026-07-01 | ingest | 01_Raw/data/rockstar-programmer-business/content-creation/transcripts/gabriel case study interview video transcript.txt | 30-Day-Content-Strategy (updated) |

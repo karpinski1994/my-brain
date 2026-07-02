@@ -7,6 +7,10 @@ sources:
   - path: my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/patterns-scripts-narratives/best narratives for linkedin posts to promote my business.md
   - path: my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/patterns-scripts-narratives/narratives.md
   - path: my-brain/01_Raw/data/rockstar-programmer-business/content-creation/written/patterns-scripts-narratives/SCRIPT - COPYWRITING PATTERNS AND FRAMEWORKS.md
+  - path: my-brain/01_Raw/7 LinkedIn Hacks That Are SO Good They Feel Illegal.md
+  - path: my-brain/01_Raw/How to Get Clients on LinkedIn (Proven 7 Steps).md
+  - path: my-brain/01_Raw/How Personal Branding Helped Me Hit $100,000⧸mo (at 26).md
+  - path: my-brain/01_Raw/365 Days Of LinkedIn Strategy In 20 Minutes.md
 ---
 
 # Content Frameworks & Narratives
@@ -50,6 +54,14 @@ Copywriting frameworks and narrative structures for LinkedIn and Facebook conten
 - **Plan:** Simple 3-step process
 - **Success/Failure:** Victory vs. what's at stake
 - **ICP example:** "You're a senior dev who wants international work (Character). The problem isn't your skills — it's that you're invisible to the right companies (Problem). I help devs like you get seen by US founders (Guide). Here's the 3-step system (Plan)."
+
+### SLay (Story-Lesson-Action-You) — Best for LinkedIn storytelling
+- **Story** — Open with a personal story (relatable, specific, emotional)
+- **Lesson** — Extract the key learning or insight
+- **Action/Advice** — Give actionable advice the reader can apply
+- **You** — End with a "you" element (question, CTA, or making them feel seen)
+- **Why it works**: Provides all 3 content types in one post — inspiration (story), education (lesson), entertainment (throughout)
+- **Example**: "I had 0 followers and no experience. (Story) I learned that consistency beats perfection. (Lesson) Start with 3 posts a week, no excuses. (Action) What's your biggest blocker? (You)"
 
 ### PASTOR — Most comprehensive (for high-ticket)
 - **Person/Problem**
@@ -118,6 +130,7 @@ Fill-in-the-blank template for quick storyboarding:
 | Thought leadership | SCQA | LinkedIn articles |
 | Long-form story | Hero's Journey | "About me" posts |
 | Quick template | Pixar Spine | Any narrative |
+| LinkedIn storytelling | SLay | Educational + personal posts |
 
 ## Related Pages
 
